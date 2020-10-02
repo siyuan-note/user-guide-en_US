@@ -8,5 +8,5 @@ All changes to documents and resource files (such as creating, editing, renaming
 * Select History from the right-click drop-down menu of the file tree
 {: id="20201002163713-xldjz7p"}
 
-At present, SiYuan only supports browsing history. If you need more support for Git operations (such as rollback), please use the Git client to operate. Note, please restart SiYuan after using external tools.
+At present, SiYuan only supports browsing history. If you need more support for Git operations (such as rollback), please use the Git tool to operate. Note, please restart SiYuan after using external tools.
 {: id="20201002163713-byzjxb6"}
