@@ -1,8 +1,12 @@
 SiYuan uses [Git](https://git-scm.com/) to implement version management. After opening the local folder (not WebDAV), the folder will be automatically initialized as a Git repository (the .git folder is generated to store Git metadata).
 {: id="20201002092116-mlwbfkv"}
 
-All changes to documents and resource files (such as creating, editing, renaming, and deleting) will be included in the version management, so that you can browse and roll back historical operations in the future. At present, SiYuan only supports browsing document editing history. If you need more support for Git operations, you can use any Git client to operate, but please note that after using external tools, please restart SiYuan.
-{: id="20201002092116-8lie1eu"}
+All changes to documents and resource files (such as creating, editing, renaming, and deleting) will be included in the version management, so that you can browse for historical operations in the future:
+{: id="20201002163713-dqfe40t"}
 
-If you don't need version management, you can turn it off in "Settings-Repository". #TODO#
-{: id="20201002092116-l3ihwp4"}
+* Select History from the right-click drop-down menu of the editor tab
+* Select History from the right-click drop-down menu of the file tree
+{: id="20201002163713-xldjz7p"}
+
+At present, Siyuan Note only supports browsing history. If you need more support for Git operations (such as rollback), please use the Git client to operate. Please note, please restart Siyuan Note after using external tools.
+{: id="20201002163713-byzjxb6"}
