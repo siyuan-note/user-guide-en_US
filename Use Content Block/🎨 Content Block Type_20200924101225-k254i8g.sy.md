@@ -161,7 +161,7 @@ The content block is logically divided into a leaf block and a container block. 
 There are several types of container blocks:
 {: id="20200925103337-ll6kj8m"}
 
-* List block: can only contain list item blocks (SiYuan does not support list item blocks for the time being, that is, it cannot link a single list item), list item blocks can contain any other non-document blocks
+* List block: can only contain list item blocks (does not support list item blocks for the time being, that is, it cannot link a single list item), list item blocks can contain any other non-document blocks
 * Block reference block: can contain any non-document block
 * Super block #TODO#: can contain any non-document block
 * Document block: can contain any non-document content block
