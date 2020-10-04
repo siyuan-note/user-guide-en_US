@@ -12,7 +12,7 @@ Of course, if it is only used locally on 127.0.0.1, it does not make much sense.
 * Build your own SiYuan server (self-built preferred)
 {: id="20201004194036-q233s6r"}
 
-Before embarking on these two solutions, please start with understanding ((20201004190517-2se299k "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web of our server. #TODO#
+Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web of our server. #TODO#
 {: id="20201004194036-g9i0s7j"}
 
 ### Content block URL #TODO#
