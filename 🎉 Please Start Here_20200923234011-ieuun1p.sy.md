@@ -38,5 +38,5 @@ For feedback or suggestions, please go to:
 ## 🗺️ Roadmap
 {: id="20200923234102-n0yhqw8"}
 
-Please refer to [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please refer to [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
+Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
 {: id="20200923234102-h8ldkvb"}
