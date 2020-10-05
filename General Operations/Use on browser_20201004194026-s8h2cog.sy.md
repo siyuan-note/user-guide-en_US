@@ -5,12 +5,12 @@ SiYuan Desktop is an standalone application packaged based on [Electron](https:/
 * `http://127.0.0.1:6806/assets/build/mobile/`: Mobile web version, specially designed for mobile-end user experience
 {: id="20201004194036-h7htqpe"}
 
-Of course, if it is only used locally on 127.0.0.1, it does not make much sense. Here are two self-service solutions for full-end use of SiYuan:
-{: id="20201004194036-s5q32lg"}
+If you need to use it in a local area network, just replace `127.0.0.1` with the local area network IP address. In addition to local LAN use, here are two self-service solutions for public network use:
+{: id="20201005211128-2774wje"}
 
-* Publish the local SiYuan kernel service on the public network through the "intranet penetration" technology (more troublesome and unstable, not recommended)
-* Build your own SiYuan server (self-built preferred)
-{: id="20201004194036-q233s6r"}
+* Publish local kernel services on the public network through the "intranet penetration" technology (more troublesome and unstable, not recommended)
+* Build your own SiYuanServer (recommended)
+{: id="20201005211128-lvy1cdh"}
 
 Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web of our server. #TODO#
 {: id="20201004194036-g9i0s7j"}
