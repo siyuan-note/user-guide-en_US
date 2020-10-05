@@ -97,7 +97,7 @@ Rendering result:
 | Paragraph | Text | And more |
 {: id="20200924093226-fktsia6"}
 
-### Table content layout
+### Table content typeset
 {: id="20200924093226-t20l6gd"}
 
 The content in the table can also be typeset, such as bolding, emphasizing text, inserting hyperlinks, etc. However, it is limited to the use of "span-level elements" for typesetting, and "block-level elements" cannot be used, such as headings, block quotes, lists, dividers, etc.
