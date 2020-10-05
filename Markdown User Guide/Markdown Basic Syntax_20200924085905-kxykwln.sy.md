@@ -253,7 +253,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The heading is a leaf block element
-> {: id="20200925105404-qupomot"}
+> {: id="20201005213715-aoj21dg"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -540,7 +540,7 @@ os@b3log.org
 ```
 {: id="20200924092215-po08iwz"}
 
-### Hyperlink format layout
+### Hyperlink format typeset
 {: id="20200924092215-0all5ae"}
 
 Hyperlinks can be used together with element structures such as bold emphasis, code, etc.
@@ -751,6 +751,8 @@ Rendering result:
 {: id="20200924092215-pee2hpb"}
 
 <p>**Bold** will not take effect. </p>
+
+{: id="20201005215411-f2fv4nx"}
 
 ## Summary
 {: id="20200924092211-ouqz7eb"}
