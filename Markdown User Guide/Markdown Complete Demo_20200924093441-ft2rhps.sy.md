@@ -32,15 +32,10 @@ This is an example of how to correctly use **Markdown** typesetting. It is neces
 ### General content
 {: id="20200924094024-ac7p9zy"}
 
-This content shows some layout formats in the content, such as:
+This content shows some typeset formats in the content, such as:
 {: id="20200924094024-7pllcxl"}
 
--**Bold**-`**Bold**`
--*Tilt*-`*Tilt*`
--~~Strikethrough~~-`~~Strikethrough~~`
--`Code tag`-`` `Code tag` ``
--[Hyperlink](https://ld246.com)-`[Hyperlink](https://ld246.com)`
--[username@gmail.com](mailto:username@gmail.com)-`[username@gmail.com](mailto:username@gmail.com)`
+-**Bold**-`**Bold**`-*Tilt*-`*Tilt*`-~~Strikethrough~~-`~~Strikethrough~~`-`Code tag`-`` `Code tag` ``-[Hyperlink](https://ld246.com)-`[Hyperlink](https://ld246.com)`-[username@gmail.com](mailto:username@gmail.com)-`[username@gmail.com](mailto:username@gmail.com)`
 {: id="20200924094024-q16ihi5"}
 
 ### Emoji Emoji
