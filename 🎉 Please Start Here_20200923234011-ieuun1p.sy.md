@@ -4,7 +4,7 @@ Welcome here, please allow me to make a brief introduction to SiYuan 😅
 ## 🧱 Content block
 {: id="20200923234102-fota8wn"}
 
-In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content Block")). We can use **natural** ((20200924085905-kxykwln "Markdown Syntax")) to define content blocks, organize thoughts and knowledge in the granularity of content blocks, and also facilitate long text layout output.
+In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content Block")). We can use **natural** ((20200924085905-kxykwln "Markdown Syntax")) to define content blocks, organize thoughts and knowledge in the granularity of content blocks, and also facilitate long text typeset output.
 {: id="20200923234102-ghdyu1m"}
 
 ## 🔮 Quick start
