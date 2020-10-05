@@ -98,7 +98,7 @@ If you need to wrap the text `<br>`, you can add two or more spaces at the end o
 ### Best Practices for Breaking Lines
 {: id="20200924091042-2mftqpg"}
 
-At present, most Markdown engines will automatically convert the newline character `\n` to `<br>`, that is, soft line feed to hard line feed. So although it is safe to write two or more spaces at the end, it may also cause some minor problems: the trailing space is not visible in some editors; accidentally or habitually pressing it will cause wrong layout. Because of these minor problems, it may be the safest way to use `<br>` to wrap lines, but it is not very elegant. In addition, in the CommonMark specification, you can use a backslash `\` at the end of the text to break lines, but I don't recommend this way of writing.
+At present, most Markdown engines will automatically convert the newline character `\n` to `<br>`, that is, soft line feed to hard line feed. So although it is safe to write two or more spaces at the end, it may also cause some minor problems: the trailing space is not visible in some editors; accidentally or habitually pressing it will cause wrong typeset. Because of these minor problems, it may be the safest way to use `<br>` to wrap lines, but it is not very elegant. In addition, in the CommonMark specification, you can use a backslash `\` at the end of the text to break lines, but I don't recommend this way of writing.
 {: id="20200924091042-991yjkx"}
 
 In summary, my suggestion is to **do not use trailing spaces, `\` or `<br>`**, because almost all Markdown engines now basically support soft line breaks to hard line breaks.
