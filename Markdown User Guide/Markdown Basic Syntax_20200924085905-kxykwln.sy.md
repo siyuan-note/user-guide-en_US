@@ -81,7 +81,7 @@ Use blank lines to separate text.
    {: id="20200924090224-wsyuuyh"}
 {: id="20200924090334-2falxhs"}
 
-2. In traditional Chinese typesetting, there is a habit of "blank two spaces" at the beginning of a paragraph. You can use full-width spaces `　` or HTML entities `&emsp;`. It is recommended not to leave two spaces in the layout of articles in the field of science and technology.
+2. In traditional Chinese typesetting, there is a habit of "blank two spaces" at the beginning of a paragraph. You can use full-width spaces `　` or HTML entities `&emsp;`. It is recommended not to leave two spaces in the typeset of articles in the field of science and technology.
 {: id="20200924090224-4olt2y3"}
 
 ## Break
