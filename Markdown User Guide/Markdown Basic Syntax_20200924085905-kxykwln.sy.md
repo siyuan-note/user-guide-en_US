@@ -572,7 +572,7 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 {: id="20200924092215-aglg7p1"}
 
 ```markdown
-[Link text][Link Label]
+[Link Text][Link Label]
 
 [Link Label]: https://b3log.org
 ```
@@ -581,7 +581,7 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 Rendering result:
 {: id="20200924092215-q56zoj0"}
 
-[Link text][Label]
+[Link Text][Link Label]
 {: id="20200924092215-ia7z62o"}
 
 The link reference can also consist of only a set of square brackets, in which case the link identifier will be used for the link text.
