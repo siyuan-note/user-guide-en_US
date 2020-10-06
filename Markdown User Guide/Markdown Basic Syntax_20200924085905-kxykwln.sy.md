@@ -253,7 +253,7 @@ Rendering result:
 {: id="20200924091042-63tio8z"}
 
 > ### The heading is a leaf block element
-> {: id="20201005213715-aoj21dg"}
+> {: id="20201006225035-nf52jkc"}
 >
 > * List item one is a container block element
 > * List item two is also a container block element
@@ -581,23 +581,23 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 Rendering result:
 {: id="20200924092215-q56zoj0"}
 
-[Link text][link logo][https://b3log.org](https://b3log.org)
+[Link text][Label]
 {: id="20200924092215-ia7z62o"}
 
 The link reference can also consist of only a set of square brackets, in which case the link identifier will be used for the link text.
 {: id="20200924092215-ssudlcp"}
 
 ```markdown
-[Link ID]
+[Link Label]
 
-[Link ID]: https://b3log.org
+[Link Label]: https://b3log.org
 ```
 {: id="20200924092215-qy2d38y"}
 
 Rendering result:
 {: id="20200924092215-zcs67e7"}
 
-[Link ID][https://b3log.org](https://b3log.org)
+[Link Label]
 {: id="20200924092215-ume7gag"}
 
 #### Link definition
@@ -770,4 +770,4 @@ With the improvement of the CommonMark/GFM specification and gradually becoming 
 * [CommonMark Spec](https://spec.commonmark.org)
 {: id="20200924092215-w8nzlj4"}
 
-[Link ID]: https://b3log.org
+[Link Label]: https://b3log.org
