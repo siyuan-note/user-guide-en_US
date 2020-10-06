@@ -572,9 +572,9 @@ A link reference is used where a hyperlink needs to be inserted. It consists of 
 {: id="20200924092215-aglg7p1"}
 
 ```markdown
-[Link text][Label]
+[Link text][Link Label]
 
-[Label]: https://b3log.org
+[Link Label]: https://b3log.org
 ```
 {: id="20200924092215-2iay1tm"}
 
