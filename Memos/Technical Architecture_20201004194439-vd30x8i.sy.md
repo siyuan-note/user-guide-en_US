@@ -21,7 +21,7 @@ The backend is a resident HTTP server, which implements core business logic and 
 {: id="20201004194451-d0bwxmy"}
 
 * `6806`: HTTP/WebSocket
-* `6807`: HTTP/WebDAV
+* `6807`: HTTP/WebDAV, traffic in this port will be reverse proxied to 6806 automatically
 {: id="20201004194451-dpaasbr"}
 
 ### Publish package
