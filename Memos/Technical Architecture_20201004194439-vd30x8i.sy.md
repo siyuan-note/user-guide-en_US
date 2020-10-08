@@ -20,9 +20,9 @@ The frontend can be extended to any client based on HTTP communication in the fu
 The backend is a resident HTTP server, which implements core business logic and state persistence. Listening port:
 {: id="20201004194451-d0bwxmy"}
 
-* `6806`: HTTP/WebSocket
-* `6807`: HTTP/WebDAV, traffic on this port will be reverse proxied to port 6806 automatically
-{: id="20201004194451-dpaasbr"}
+* `6806`: HTTP/WebSocket, listen to this port on all network cards (`0.0.0.0`), traffic under the path of `/siyuan/` will be automatically forwarded to the local port `127.0.0.1:6807`
+* `6807`: HTTP/WebDAV, listen on this port at `127.0.0.1`
+{: id="20201008111858-dyhp3l0"}
 
 ### Publish package
 {: id="20201004194451-n9hb82w"}
