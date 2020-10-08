@@ -11,7 +11,7 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 {: id="20200923234102-kw69o8c"}
 
 1. Open a local folder or connect to WebDAV
-2. Use `((` to trigger the ((20200924101312-jj4e0v3 "Content Block Reference"))
+2. Use `((` to trigger the ((20200924101312-jj4e0v3 "Content block Reference"))
 3. ((20200924101200-gss5vee "Navigate in the content block"))
 4. ((20200924100906-0u4zfq3 "Window and tab"))
 {: id="20200923234102-8qqu3yn"}
