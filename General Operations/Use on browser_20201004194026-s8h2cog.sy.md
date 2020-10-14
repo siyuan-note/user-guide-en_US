@@ -12,7 +12,7 @@ If you need to use it in a local area network, just replace `127.0.0.1` with the
 * Build your own SiYuanServer (recommended)
 {: id="20201005211128-lvy1cdh"}
 
-Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web of our server. #TODO#
+Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web [https://ld246.com/xanadu/](https://ld246.com/xanadu/) of our server.
 {: id="20201004194036-g9i0s7j"}
 
 ### Content block URL #TODO#
