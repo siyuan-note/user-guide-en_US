@@ -15,7 +15,7 @@ The forward link is included in the content of the current block, which we can s
 ### Content block reference
 {: id="20200924101312-jj4e0v3"}
 
-Entering `((` will trigger the content block quotation search, continue to enter as the search keyword, use the up and down keys to select in the search results and press Enter to complete the content block quotation.
+Entering `((` will trigger the content block quotation search, continue to enter as the search keyword, use the up and down keys to select in the search results and press Enter to complete the content block quotation. Please note that cross-notebook references are not supported.
 {: id="20200924101312-0nexjwy"}
 
 The complete syntax of the content block quote is: `((id "text"))`, where the `id` is like: `202008250000-a1b2c3d`, consisting of time and 7 random characters, the content block id is when the content block is created It will be automatically generated; the following `text` is the custom anchor text for the content block in the quote. After the content block quote is established, hover the mouse over the anchor text and a preview floating layer will pop up to show the quoted content block.
