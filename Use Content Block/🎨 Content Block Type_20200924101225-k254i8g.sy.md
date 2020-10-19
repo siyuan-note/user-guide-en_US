@@ -33,7 +33,7 @@ Press Enter directly after a paragraph to form a new paragraph.
 
 The above is the heading block, which supports level one to six.
 
-When using ((20200924101312-jj4e0v3 "Content block reference")) or ((20200924101312-385dey5 "embedding")), related content blocks under the title block will be automatically aggregated according to the heading level.
+When using ((20200924101312-jj4e0v3 "Content block reference")) or ((20200924101312-385dey5 "Content block embedding")), related content blocks under the title block will be automatically aggregated according to the heading level.
 
 ### Mathematical formula block
 

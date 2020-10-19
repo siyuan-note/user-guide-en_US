@@ -56,7 +56,6 @@ Use blank lines to separate text.
    | ✅ Safe                                                                    | ❌ Unsafe                                                 |
    | --------------------------------------------------------------------------- | ---------------------------------------------------------- |
    | Do not indent the beginning.<br><br>Just keep the left alignment like this. | The beginning indentation may be rendered as a code block. |
-
 2. In traditional Chinese typesetting, there is a habit of "blank two spaces" at the beginning of a paragraph. You can use full-width spaces `　` or HTML entities `&emsp;`. It is recommended not to leave two spaces in the typeset of articles in the field of science and technology.
 
 ## Break
@@ -556,7 +555,6 @@ Also, don’t embed Markdown in HTML, it won’t work:
 Rendering result:
 
 <p>**Bold** will not take effect. </p>
-
 
 ## Summary
 
