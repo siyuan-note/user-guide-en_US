@@ -2,13 +2,10 @@
 {: id="20200924101004-lcuaajy"}
 
 The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor). Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
-{: id="20201028173129-ixbofw8"}
 
 ## Application shortcuts
-{: id="20201028173129-hjqfeik"}
 
 ### General
-{: id="20201028173129-ihn1j5g"}
 
 | Name | Shortcut key |
 | - | - |
@@ -25,13 +22,10 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Actual Size | <kbd>Alt 0</kbd> / <kbd>⌘ 0</kbd> |
 | Zoom In | <kbd>Alt =</kbd> / <kbd>⌘ =</kbd> |
 | Zoom Out | <kbd>Alt -</kbd> / <kbd>⌘ -</kbd> |
-{: id="20201028173129-duk6c7o"}
 
 ## Editor shortcuts
-{: id="20201028173129-t46fzgn"}
 
 ### General
-{: id="20201028173129-3sym36h"}
 
 | Name | Shortcut key | Remarks |
 | - | - | - |
@@ -61,10 +55,8 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Remove current element | <kbd>Ctrl Shift X</kbd> / <kbd>⌘ ⇧ X</kbd> | wysiwyg mode |
 | Save | <kbd>Ctrl S</kbd> / <kbd>⌘ S</kbd> |   |
 | Wrong input | <kbd>Backspace</kbd> |   |
-{: id="20201028173129-14f89xf"}
 
 ### Content block reference <kbd>((</kbd> / <kbd>[[</kbd> 
-{: id="20201028173129-1xw5pl2"}
 
 | Name | Shortcut key | Remarks |
 | - | - | - |
@@ -74,10 +66,8 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Copy content block ID | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ X</kbd> |   |
 | Paste content block reference | <kbd>Ctrl V</kbd> / <kbd>⌘ v</kbd> | Only available when the content block ID is copied in the clipboard |
 | Past content block embed | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ v</kbd> | Only available when the content block ID is copied in the clipboard |
-{: id="20201028173129-98ghso6"}
 
 ### Heading <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>
-{: id="20201028173129-rauglcf"}
 
 | Name | Shortcut key |
 | - | - |
@@ -85,19 +75,15 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Get smaller | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd> |
 | H1-H6 | <kbd>Ctrl Alt 1/2/3/4/5/6</kbd> / <kbd>⌘ ⌥ 1/2/3/4/5/6</kbd> |
 | Pop-up menu | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd> |
-{: id="20201028173129-4xb9002"}
 
 ### Link <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>
-{: id="20201028173129-qxu03h5"}
 
 | Name | Shortcut key |
 | - | - |
 | Switch between input box and element | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
 | Switch between input boxes | <kbd>Tab</kbd> |
-{: id="20201028173129-opv7o6o"}
 
 ### List <kbd>Ctrl L/O/J</kbd> / <kbd>⌘ L/O/J</kbd>
-{: id="20201028173129-qpoc6xm"}
 
 | Name | Shortcut key | Remarks |
 | - | - | - |
@@ -107,10 +93,8 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Reverse indent 2 | <kbd>Enter</kbd> | Empty list item |
 | Reverse indent 3 | <kbd>Ctrl Shift O</kbd> / <kbd>⌘ ⇧ O</kbd> |   |
 | Switch between Done and To Do | <kbd>Ctrl Shift J</kbd> / <kbd>⌘ ⇧ J</kbd> | Task List |
-{: id="20201028173129-67crtxi"}
 
 ### Quote <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>
-{: id="20201028173129-7twbxw5"}
 
 | Name | Shortcut key | Remarks |
 | - | - | - |
@@ -119,20 +103,16 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Insert block element 1 | <kbd>></kbd> | Insert reference in inline element |
 | Insert block element 2 | <kbd>Ctrl Shift :</kbd> / <kbd>⌘ ⇧ :</kbd> | Block element becomes reference wysiwyg mode |
 | Switch between quotes and block elements | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd> |   |
-{: id="20201028173129-wpb2k8d"}
 
 ### Code block <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>
-{: id="20201028173129-d6qlddi"}
 
 | Name | Shortcut key |
 | - | - |
 | Switch between input box and code block | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
 | Hide editing interface | <kbd>Escape</kbd> |
 | Select all codes | <kbd>Ctrl A</kbd> / <kbd>⌘ A</kbd> |
-{: id="20201028173129-cp0av8v"}
 
 ### Table <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>
-{: id="20201028173129-sn7iapy"}
 
 | Name | Shortcut key |
 | - | - |
@@ -147,4 +127,3 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Switch between input boxes | <kbd>Tab</kbd> |
 | Move the cursor to the previous element | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd><br /><kbd>Backspace</kbd> |
 | Move the cursor to the next element | <kbd>Tab</kbd> |
-{: id="20201028173129-ji19fon"}
