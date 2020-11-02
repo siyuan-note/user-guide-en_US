@@ -19,9 +19,9 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Linkage Backlink Tab            | <kbd>Alt 7</kbd> / <kbd>⌘ 7</kbd>  |
 | Linkage Diagram Tab             | <kbd>Alt 8</kbd> / <kbd>⌘ 8</kbd>  |
 | Global Relationship Diagram Tab | <kbd>Alt 9</kbd> / <kbd>⌘ 9</kbd>  |
-| Actual Size                     | <kbd>Alt 0</kbd> / <kbd>⌘ 0</kbd>  |
-| Zoom In                         | <kbd>Alt =</kbd> / <kbd>⌘ =</kbd>  |
-| Zoom Out                        | <kbd>Alt -</kbd> / <kbd>⌘ -</kbd>  |
+| Actual Size                     | <kbd>Ctrl 0</kbd> / <kbd>⌘ 0</kbd>  |
+| Zoom In                         | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>  |
+| Zoom Out                        | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>  |
 
 ## Editor shortcuts
 
