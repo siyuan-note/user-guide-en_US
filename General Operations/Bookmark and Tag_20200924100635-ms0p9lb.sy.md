@@ -2,7 +2,7 @@
 
 If you need to "favorite" a content block, you can move the mouse to the block identifier on the left side of the content block in the editor and click to display a drop-down menu. After selecting a bookmark, the block can be added to the favorite. Collection of document blocks is not supported. If there is a need to collect document blocks, you can write the title of the document in the document and achieve this by collecting the title block.
 
-Currently, only the built-in bookmark marker (✨💡️⏳) is supported to name bookmarks, and custom bookmark markers will be supported in the future. #TODO#
+The built-in bookmark label are ✨💡️⏳, you can create other text as the bookmark label.
 
 All favorite content blocks will be listed in the bookmark tab (<kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd>). If you want to cancel the collection, select Delete in the drop-down menu of the content block ID.
 
