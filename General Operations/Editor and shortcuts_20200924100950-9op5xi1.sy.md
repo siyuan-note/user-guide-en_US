@@ -19,9 +19,9 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Linkage Backlink Tab            | <kbd>Alt 7</kbd> / <kbd>⌘ 7</kbd>  |
 | Linkage Diagram Tab             | <kbd>Alt 8</kbd> / <kbd>⌘ 8</kbd>  |
 | Global Relationship Diagram Tab | <kbd>Alt 9</kbd> / <kbd>⌘ 9</kbd>  |
-| Actual Size                     | <kbd>Ctrl 0</kbd> / <kbd>⌘ 0</kbd>  |
-| Zoom In                         | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>  |
-| Zoom Out                        | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>  |
+| Actual Size                     | <kbd>Ctrl 0</kbd> / <kbd>⌘ 0</kbd> |
+| Zoom In                         | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd> |
+| Zoom Out                        | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd> |
 
 ## Editor shortcuts
 
@@ -30,40 +30,40 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Name                                     | Shortcut key                                                  | Remarks      |
 | ---------------------------------------- | ------------------------------------------------------------- | ------------ |
 | Content block quote                      | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>((</kbd> / <kbd>[[</kbd> | see below    |
-| Emoticons                                | <kbd>:</kbd> / <kbd>Alt E</kbd> / <kbd>⌥ E</kbd>            |              |
+| Emoticons                                | <kbd>:</kbd> / <kbd>Alt E</kbd> / <kbd>⌥ E</kbd>            |               |
 | Title                                    | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                          | see below    |
-| Bold                                     | <kbd>Ctrl B</kbd> / <kbd>⌘ B</kbd>                          |              |
-| Italic                                   | <kbd>Ctrl I</kbd> / <kbd>⌘ I</kbd>                          |              |
-| Strikethrough                            | <kbd>Ctrl D</kbd> / <kbd>⌘ D</kbd>                          |              |
+| Bold                                     | <kbd>Ctrl B</kbd> / <kbd>⌘ B</kbd>                          |               |
+| Italic                                   | <kbd>Ctrl I</kbd> / <kbd>⌘ I</kbd>                          |               |
+| Strikethrough                            | <kbd>Ctrl D</kbd> / <kbd>⌘ D</kbd>                          |               |
 | Link                                     | <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>                          | see below    |
 | Unordered List                           | <kbd>Ctrl L</kbd> / <kbd>⌘ L</kbd>                          | see below    |
 | Ordered list                             | <kbd>Ctrl O</kbd> / <kbd>⌘ O</kbd>                          | see below    |
 | Task list                                | <kbd>Ctrl J</kbd> / <kbd>⌘ J</kbd>                          | see below    |
 | Quote                                    | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                          | see below    |
-| Dividing line                            | <kbd>Ctrl Shift H </kbd> / <kbd>⌘ ⇧ H</kbd>               |              |
+| Dividing line                            | <kbd>Ctrl Shift H </kbd> / <kbd>⌘ ⇧ H</kbd>               |               |
 | Code block                               | <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>                          | see below    |
-| Code                                     | <kbd>Ctrl G</kbd> / <kbd>⌘ G</kbd>                          |              |
-| Insert an empty block before the element | <kbd>Ctrl Shift B</kbd> / <kbd>⌘ ⇧ B</kbd>                |              |
-| Insert an empty block after the element  | <kbd>Ctrl Shift E</kbd> / <kbd>⌘ ⇧ E</kbd>                |              |
+| Code                                     | <kbd>Ctrl G</kbd> / <kbd>⌘ G</kbd>                          |               |
+| Insert an empty block before the element | <kbd>Ctrl Shift B</kbd> / <kbd>⌘ ⇧ B</kbd>                |               |
+| Insert an empty block after the element  | <kbd>Ctrl Shift E</kbd> / <kbd>⌘ ⇧ E</kbd>                |               |
 | Form                                     | <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>                          | see below    |
-| Undo                                     | <kbd>Ctrl Z</kbd> / <kbd>⌘ Z</kbd>                          |              |
-| Redo                                     | <kbd>Ctrl Y</kbd> / <kbd>⌘ Y</kbd>                          |              |
-| Preview                                  | <kbd>Ctrl E</kbd> / <kbd>⌘ E</kbd>                          |              |
-| Full screen                              | <kbd>Ctrl'</kbd> / <kbd>⌘'</kbd>                            |              |
+| Undo                                     | <kbd>Ctrl Z</kbd> / <kbd>⌘ Z</kbd>                          |               |
+| Redo                                     | <kbd>Ctrl Y</kbd> / <kbd>⌘ Y</kbd>                          |               |
+| Preview                                  | <kbd>Ctrl E</kbd> / <kbd>⌘ E</kbd>                          |               |
+| Full screen                              | <kbd>Ctrl'</kbd> / <kbd>⌘'</kbd>                            |               |
 | Move block element up                    | <kbd>Ctrl Shift U</kbd> / <kbd>⌘ ⇧ U</kbd>                | wysiwyg mode |
 | Move block element down                  | <kbd>Ctrl Shift D</kbd> / <kbd>⌘ ⇧ D</kbd>                | wysiwyg mode |
 | Remove current element                   | <kbd>Ctrl Shift X</kbd> / <kbd>⌘ ⇧ X</kbd>                | wysiwyg mode |
-| Save                                     | <kbd>Ctrl S</kbd> / <kbd>⌘ S</kbd>                          |              |
-| Wrong input                              | <kbd>Backspace</kbd>                                          |              |
+| Save                                     | <kbd>Ctrl S</kbd> / <kbd>⌘ S</kbd>                          |               |
+| Wrong input                              | <kbd>Backspace</kbd>                                          |               |
 
 ### Content block reference <kbd>((</kbd> / <kbd>[[</kbd>
 
 | Name                            | Shortcut key                                   | Remarks                                                             |
 | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
-| Select                          | <kbd>↑</kbd> / <kbd>↓</kbd>                |                                                                     |
-| Completion                      | <kbd>Enter</kbd>                               |                                                                     |
+| Select                          | <kbd>↑</kbd> / <kbd>↓</kbd>                |                                                                      |
+| Completion                      | <kbd>Enter</kbd>                               |                                                                      |
 | Jump out of content block quote | <kbd>Tab</kbd>                                 | Only useful in text content                                         |
-| Copy content block ID           | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ X</kbd> |                                                                     |
+| Copy content block ID           | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ X</kbd> |                                                                      |
 | Paste content block reference   | <kbd>Ctrl V</kbd> / <kbd>⌘ v</kbd>           | Only available when the content block ID is copied in the clipboard |
 | Past content block embed        | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ v</kbd> | Only available when the content block ID is copied in the clipboard |
 
@@ -88,10 +88,10 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Name                          | Shortcut key                                   | Remarks                             |
 | ----------------------------- | ---------------------------------------------- | ----------------------------------- |
 | Indent 1                      | <kbd>Tab</kbd>                                 | The cursor must be at the beginning |
-| Indent 2                      | <kbd>Ctrl Shift I</kbd> / <kbd>⌘ ⇧ I</kbd> |                                     |
+| Indent 2                      | <kbd>Ctrl Shift I</kbd> / <kbd>⌘ ⇧ I</kbd> |                                      |
 | Reverse Indent 1              | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd>      | The cursor must be at the beginning |
 | Reverse indent 2              | <kbd>Enter</kbd>                               | Empty list item                     |
-| Reverse indent 3              | <kbd>Ctrl Shift O</kbd> / <kbd>⌘ ⇧ O</kbd> |                                     |
+| Reverse indent 3              | <kbd>Ctrl Shift O</kbd> / <kbd>⌘ ⇧ O</kbd> |                                      |
 | Switch between Done and To Do | <kbd>Ctrl Shift J</kbd> / <kbd>⌘ ⇧ J</kbd> | Task List                           |
 
 ### Quote <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>
@@ -102,7 +102,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Insert an empty block after the top-level quote  | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd>          | wysiwyg mode                                 |
 | Insert block element 1                           | <kbd>></kbd>                                         | Insert reference in inline element           |
 | Insert block element 2                           | <kbd>Ctrl Shift :</kbd> / <kbd>⌘ ⇧ :</kbd>       | Block element becomes reference wysiwyg mode |
-| Switch between quotes and block elements         | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                 |                                              |
+| Switch between quotes and block elements         | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                 |                                               |
 
 ### Code block <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>
 
