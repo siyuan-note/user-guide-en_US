@@ -2,8 +2,8 @@
 
 SiYuan Desktop is an standalone application packaged based on [Electron](https://www.electronjs.org), but this is not the only way to use it. As long as the kernel of SiYuan is started, it can be used directly on the browser, supporting mobile browsers.
 
-* `http://127.0.0.1:6806/assets/build/desktop/`: Desktop web version, the experience is almost the same as the Electron standalone application
-* `http://127.0.0.1:6806/assets/build/mobile/`: Mobile web version, specially designed for mobile-end user experience
+* `http://127.0.0.1:6806/stage/build/desktop/`: Desktop web version, the experience is almost the same as the Electron standalone application
+* `http://127.0.0.1:6806/stage/build/mobile/`: Mobile web version, specially designed for mobile-end user experience
 
 You can also directly visit `http://127.0.0.1:6806/`, the program will automatically switch between desktop or mobile according to the browser version.
 
