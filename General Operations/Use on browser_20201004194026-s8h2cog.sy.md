@@ -2,8 +2,8 @@
 
 SiYuan Desktop is an standalone application packaged based on [Electron](https://www.electronjs.org), but this is not the only way to use it. As long as the kernel of SiYuan is started, it can be used directly on the browser, supporting mobile browsers.
 
-* Desktop web version: the experience is almost the same as the Electron standalone application
-* Mobile web version: specially designed for mobile-end user experience
+* Desktop Web version: the experience is almost the same as the Electron standalone application
+* Mobile Web version: specially designed for mobile-end user experience
 
 After visiting `http://127.0.0.1:6806/`, the desktop or mobile version will be automatically switched according to the browser version.
 
@@ -12,7 +12,7 @@ If you need to use it in a local area network, just replace `127.0.0.1` with the
 * Publish local kernel services on the public network through the "intranet penetration" technology (more troublesome and unstable, not recommended)
 * Build your own SiYuanServer (recommended)
 
-Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the web [SiYuan Online Workspace](https://ld246.com/xanadu/) of our server.
+Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the Web [SiYuan Online Workspace](https://ld246.com/xanadu/) of our server.
 
 ### Access authentication
 
