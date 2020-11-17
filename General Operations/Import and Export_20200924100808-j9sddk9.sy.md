@@ -10,4 +10,4 @@ When importing, SiYuan will automatically process the `[[link|text]]` in the ori
 
 Copy (Ctrl C) in the editor is ((20200924100600-knx7ub0 "formatted Markdown text")). If you need to export standard Markdown files, you can right-click on the file tree document and select "Export". If you need to export automatically during editing, please check "Auto Export" in `Settings - Export`.
 
-Later we will provide batch export functions, such as packaging Markdown and its associated resource files through the TextBundle specification, which can provide better Markdown migration.
+The right-click export on the file tree also supports packaging Markdown and its associated resource files through [TextBundle](http://textbundle.org), which can provide better Markdown migration.
