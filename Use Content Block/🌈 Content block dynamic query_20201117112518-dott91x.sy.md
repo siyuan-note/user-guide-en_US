@@ -25,3 +25,13 @@ It needs to be used on its own line. The script syntax used is SQL. For details,
   ```sql
   !{{ SELECT * FROM blocks WHERE (content LIKE '%content block%' AND content LIKE '%embed%') AND type ='NodeHeading' ORDER BY block_id DESC LIMIT 4 }}
   ```
+
+Let's actually run it to see the effect.
+
+The query contains paragraph blocks of both `In SiYuan` and `core concept` text, and excludes the current document (otherwise the paragraph block will also be included in the result set, because the current paragraph also contains these two texts. The following case is similar):
+
+!{{SELECT * FROM blocks WHERE (content LIKE '%In SiYuan%' AND content LIKE '%core concept%') AND path NOT LIKE '%Content block dynamic query%'}}
+
+Query paragraph blocks that contain both `#Content block/Embed#` tags and `#Content block/Reference#`:
+
+!{{SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Content block dynamic query%'}}
