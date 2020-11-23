@@ -324,6 +324,19 @@ digraph finite_state_machine {
 }
 ```
 
+### Flowchart
+
+```flowchart
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
 ## Shortcuts
 
 Our editor supports many shortcut keys, please refer to ((20200924100950-9op5xi1 "Editor and shortcuts")) for details.
