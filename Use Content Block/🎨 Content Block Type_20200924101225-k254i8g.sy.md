@@ -2,20 +2,20 @@
 
 Hover the mouse over the content block and the corresponding icon will appear on the left side of the content block. For format usage, please refer to ((20200924093441-ft2rhps "Markdown Complete Demo")).
 
-| Icon | Type | ((20200925102736-x94e40g "Meta Type")) |
-| - | - | - |
-| ![paragraph](assets/paragraph.svg) | Paragraph block | Leaf block |
-| ![heading](assets/heading.svg) | Heading block | Leaf block |
-| ![math-block](assets/math-block.svg) | Math Formula block | Leaf block |
-| ![code-block](assets/code-block.svg) | Code block | Leaf block |
-| ![table](assets/table.svg) | Table block | Leaf block |
-| ![unordered-list](assets/unordered-list.svg) | Unordered List block | Container block |
-| ![ordered-list](assets/ordered-list.svg) | Ordered List block | Container block |
-| ![task-list](assets/task-list.svg) | To-do list block | Container block |
-| ![list-item](assets/list-item.svg) | List Item block | Container block |
-| ![blockquote](assets/blockquote.svg) | Blockquote block | Container block |
-| #TODO# | Super block | Container block |
-| ![doc](assets/doc.svg) | Document block | Container block |
+| Icon                                         | Type                 | ((20200925102736-x94e40g "Meta Type")) |
+| -------------------------------------------- | -------------------- | -------------------------------------- |
+| ![paragraph](assets/paragraph.svg)           | Paragraph block      | Leaf block                             |
+| ![heading](assets/heading.svg)               | Heading block        | Leaf block                             |
+| ![math-block](assets/math-block.svg)         | Math Formula block   | Leaf block                             |
+| ![code-block](assets/code-block.svg)         | Code block           | Leaf block                             |
+| ![table](assets/table.svg)                   | Table block          | Leaf block                             |
+| ![unordered-list](assets/unordered-list.svg) | Unordered List block | Container block                        |
+| ![ordered-list](assets/ordered-list.svg)     | Ordered List block   | Container block                        |
+| ![task-list](assets/task-list.svg)           | To-do list block     | Container block                        |
+| ![list-item](assets/list-item.svg)           | List Item block      | Container block                        |
+| ![blockquote](assets/blockquote.svg)         | Blockquote block     | Container block                        |
+| #TODO#                                       | Super block          | Container block                        |
+| ![doc](assets/doc.svg)                       | Document block       | Container block                        |
 
 ## Details of content block types
 
@@ -60,8 +60,8 @@ function hello() {}
 ![table](assets/table.svg)
 {: id="20201118224558-kjqbl10"}
 
-| Column 1 | Column 2 |
-| - | - |
+| Column 1           | Column 2           |
+| ------------------ | ------------------ |
 | Row One Column One | Row One Column Two |
 | Row Two Column One | Row Two Column Two |
 
