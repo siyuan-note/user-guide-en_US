@@ -112,7 +112,30 @@ The block reference block is a type ((20200925102736-x94e40g "container block"))
 
 ### Super block
 
-The super block is a type ((20200925102736-x94e40g "container block")).
+The super block is a type ((20200925102736-x94e40g "container block")). It can be used to combine continuous content blocks in a document, using a single line of `{{{` as the start marker and `}}}` as the end marker.
+
+```markdown
+{{{
+
+Paragraph block
+
+* List block
+
+> Blockquote block
+
+# Heading block
+
+{{{
+
+Nested super block
+...
+
+}}}
+
+...
+
+}}}
+```
 
 ### Documentation block
 
@@ -123,9 +146,7 @@ The entire document is a block, and the document block is a type ((2020092510273
 ## Content Block meta type
 {: id="20200925102736-x94e40g"}
 
-The content block is logically divided into a leaf block and a container block. The leaf block cannot contain other blocks, and the container block can contain other blocks, following the CommonMark/GFM specification.
-
-There are several types of container blocks:
+The content block is logically divided into a leaf block and a container block. The leaf block cannot contain other blocks, and the container block can contain other blocks:
 
 * List block: can only contain list item blocks
 * List item block: can contain any other non-document blocks
