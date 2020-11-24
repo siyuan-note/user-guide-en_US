@@ -74,7 +74,7 @@ If you need to use `|` in the form, please use `\` to escape, that is, you need 
 * List item one
 * List item two
 
-The unordered list block is a type ((20200925102736-x94e40g "block container")).
+The unordered list block is a type ((20200925102736-x94e40g "container block")).
 
 If you need to wrap a line in a list item, use <kbd>Shift Enter</kbd>.
 
@@ -85,7 +85,7 @@ If you need to wrap a line in a list item, use <kbd>Shift Enter</kbd>.
 1. List item one
 2. List item two
 
-An ordered list block is a type ((20200925102736-x94e40g "block container")).
+An ordered list block is a type ((20200925102736-x94e40g "container block")).
 
 ### To do list block
 
@@ -94,13 +94,13 @@ An ordered list block is a type ((20200925102736-x94e40g "block container")).
 - [X] To do one
 - [ ] To do two
 
-The to-do list block is a type ((20200925102736-x94e40g "block container")).
+The to-do list block is a type ((20200925102736-x94e40g "container block")).
 
 ### List item block
 
 ![list-item](assets/list-item.svg)
 
-The basic usage of outline notes can be realized through the list item block. The list item block is a type ((20200925095848-aon4lem "block container")).
+The basic usage of outline notes can be realized through the list item block. The list item block is a type ((20200925102736-x94e40g "container block")).
 
 ### Blockquote Block
 
@@ -108,17 +108,17 @@ The basic usage of outline notes can be realized through the list item block. Th
 
 > Note that it is not a content block quote, but a block quote (Blockquote).
 
-The block reference block is a type ((20200925102736-x94e40g "block container")).
+The block reference block is a type ((20200925102736-x94e40g "container block")).
 
 ### Super block
 
-#TODO#
+The super block is a type ((20200925102736-x94e40g "container block")).
 
 ### Documentation block
 
 ![doc](assets/doc.svg)
 
-The entire document is a block, and the document block is a type ((20200925102736-x94e40g "block container")).
+The entire document is a block, and the document block is a type ((20200925102736-x94e40g "container block")).
 
 ## Content Block meta type
 {: id="20200925102736-x94e40g"}
