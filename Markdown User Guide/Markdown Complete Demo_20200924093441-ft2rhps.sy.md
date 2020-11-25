@@ -4,20 +4,7 @@ This is an example of how to correctly use **Markdown** typesetting. It is neces
 
 > Quoted text: Markdown is a text formatting syntax inspired
 
-## Grammar guide
-
-### Content block reference
-
-`((20200924101312-jj4e0v3 "Content block reference"))`
-
-((20200924101312-jj4e0v3 "Content block reference"))
-
-### Content block embedding
-{: id="20200924094024-s0oyhvp"}
-
-`!((20200924101312-385dey5 "Content block embedding"))​`
-
-!((20200924101312-385dey5 "Content block embedding"))
+## Syntax guide
 
 ### General content
 
@@ -335,6 +322,31 @@ e=>end
 st->op->cond
 cond(yes)->e
 cond(no)->op
+```
+
+### Content block
+
+The syntax of the content block is an extension of Markdown by SiYuan.
+
+### Content block reference
+
+`((20200924101312-jj4e0v3 "Content block reference"))`
+
+((20200924101312-jj4e0v3 "Content block reference"))
+
+### Content block embedding
+
+`!((20200924101312-385dey5 "Content block embedding"))`
+
+!((20200924101312-385dey5 "Content block embedding"))
+
+#### Super block
+
+```markdown
+{{{
+content blocks
+...
+}}}
 ```
 
 ## Shortcuts

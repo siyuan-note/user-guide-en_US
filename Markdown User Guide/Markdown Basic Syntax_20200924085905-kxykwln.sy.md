@@ -1,5 +1,5 @@
 > This article mainly introduces the basic syntax of Markdown, please refer to ((20200924092619-pw51c0y "Markdown Extended Syntax")).
-> The concise version of the grammar can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
+> The concise version of the syntax can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
 
 ## Overview
 
@@ -22,10 +22,10 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 
 In addition to using ATX headings, we can also use Setext headings: in the next line of the text, use one or more equal signs `=` to indicate the first-level heading, and one or more dashes `-` to indicate the second-level heading.
 
-| Markdown                        | HTML                           | Rendering results                |
-| ------------------------------- | ------------------------------ | -------------------------------- |
-| First-level heading<br>======   | `<h1>First-level heading</h1>` | hhh <h1>First-level heading</h1> |
-| Secondary Title<br>------------ | `<h2>Secondary Title</h2>`     | hhh <h2>Secondary Title</h2>     |
+| Markdown                        | HTML                           | Rendering results            |
+| ------------------------------- | ------------------------------ | ---------------------------- |
+| First-level heading<br>======   | `<h1>First-level heading</h1>` | <h1>First-level heading</h1> |
+| Secondary Title<br>------------ | `<h2>Secondary Title</h2>`     | <h2>Secondary Title</h2>     |
 
 ### Heading Best Practices
 
@@ -39,7 +39,7 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
    | ✅ Safe              | ❌ Unsafe            |
    | --------------------- | --------------------- |
    | # First-level heading | # First-level heading |
-3. Try not to use Setext grammar to write headings, because Setext grammar can only write to secondary headings
+3. Try not to use Setext syntax to write headings, because Setext syntax can only write to secondary headings
 
 ## Paragraph
 

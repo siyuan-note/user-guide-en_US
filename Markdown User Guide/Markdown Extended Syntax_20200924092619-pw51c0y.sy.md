@@ -1,19 +1,19 @@
 > This article mainly introduces the extended syntax of Markdown, please refer to ((20200924085905-kxykwln "Markdown Basic Syntax")).
-> The concise version of the grammar can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
+> The concise version of the syntax can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
 
 ## Overview
 
-In [Basic Grammar](https://ld246.com/article/1583129520165), we introduced the most commonly used typesetting usage of Markdown, but sometimes the basic grammar is not enough to meet the more complex typesetting needs, then you need to use the extended grammar Up.
+In [Basic Syntax](https://ld246.com/article/1583129520165), we introduced the most commonly used typesetting usage of Markdown, but sometimes the basic syntax is not enough to meet the more complex typesetting needs, then you need to use the extended syntax up.
 
-Some individuals and organizations have extended the basic grammar, such as the introduction of tables, fenced code blocks, code highlighting, automatic links, footnotes and directories, etc. These extended grammars require specific Markdown engines to support.
+Some individuals and organizations have extended the basic syntax, such as the introduction of tables, fenced code blocks, code highlighting, automatic links, footnotes and directories, etc. These extended syntax require specific Markdown engines to support.
 
 ## Availability
 
 Not all Markdown engines support the extended syntax, so before using the extended syntax, you may need to confirm the specific Markdown engine support, and browse their usage documents to understand which elements can be supported.
 
-### Mainstream Markdown grammar specifications
+### Mainstream Markdown syntax specifications
 
-Markdown grammar specifications have not yet formed a standard. The following grammar specifications are more mainstream.
+Markdown syntax specifications have not yet formed a standard. The following syntax specifications are more mainstream.
 
 * [CommonMark](https://commonmark.org)
 * [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm)
