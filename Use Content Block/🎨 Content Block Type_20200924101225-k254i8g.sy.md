@@ -112,6 +112,8 @@ The block reference block is a type ((20200925102736-x94e40g "container block"))
 
 ### Super block
 
+![super-block](assets/super-block.svg)
+
 The super block is a type ((20200925102736-x94e40g "container block")). It can be used to combine continuous content blocks in a document, using a single line of `{{{` as the start marker and `}}}` as the end marker.
 
 ```markdown
