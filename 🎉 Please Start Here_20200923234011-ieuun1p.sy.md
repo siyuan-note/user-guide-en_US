@@ -25,6 +25,7 @@ For feedback or suggestions, please go to:
 * [SiYuan Issues](https://github.com/siyuan-note/siyuan/issues)
 * [SiYuan Discussion Area](https://ld246.com/tag/siyuan)
 * [SiYuan QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
+* [SiYuan Customer Service Email](mailto:support@b3log.org)
 {: id="20200923234102-ysbri6o"}
 
 ## 🗺️ Roadmap
