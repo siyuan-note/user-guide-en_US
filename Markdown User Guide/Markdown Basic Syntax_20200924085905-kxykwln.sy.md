@@ -80,8 +80,8 @@ Bold corresponds to bold, and emphasis corresponds to italics.
 
 To bold text, you can use two asterisks `**` or two underscores `__` to wrap the text to be bolded.
 
-| Markdown                         | HTML                                       | Rendering results                         |
-| -------------------------------- | ------------------------------------------ | ----------------------------------------- |
+| Markdown                     | HTML                                       | Rendering results                         |
+| ---------------------------- | ------------------------------------------ | ----------------------------------------- |
 | Bold the text\*\*Bold\*\*A click | `Bold the text <strong>Bold</strong> once` | Make the text<strong>Bold</strong> once   |
 | Make the text\_\_ bold\_\_ once  | `Make the text <strong>bold</strong> once` | Make the text<strong> bold </strong> once |
 
@@ -97,8 +97,8 @@ The difference between using asterisks for bold and underscores is that spaces c
 
 To emphasize text, you can use an asterisk `*` or an underscore `_` to wrap the text to be emphasized.
 
-| Markdown                        | HTML                               | Rendering results                |
-| ------------------------------- | ---------------------------------- | -------------------------------- |
+| Markdown                      | HTML                               | Rendering results                |
+| ----------------------------- | ---------------------------------- | -------------------------------- |
 | Put the text\*emphasized\* once | `<em>emphasize the text</em> once` | <em>emphasize the text</em> once |
 | Put the text\_emphasized\_ once | `<em>emphasize the text</em> once` | <em>emphasize</em> the text once |
 
@@ -299,16 +299,16 @@ Rendering result:
 
 The code can be wrapped with backticks span</code>.
 
-| Markdown                           | HTML                                     | Rendering results                        |
-| ---------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Markdown                         | HTML                                     | Rendering results                        |
+| -------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | The command to list files is\`ls\` | The command to list files isspan</code>` | The command to list files is span</code> |
 
 ### Escaping backticks
 
 If you need to display the backquote, you can use the escape character `\` to escape the backquote.
 
-| Markdown          | HTML        | Rendering results |
-| ----------------- | ----------- | ----------------- |
+| Markdown         | HTML        | Rendering results |
+| ---------------- | ----------- | ----------------- |
 | Type a backtick\` | span</code> | Type a backtick ` |
 
 ### Code block
