@@ -14,6 +14,6 @@ Therefore, there are many content blocks ((20200924101225-k254i8g "types")), and
 
 ## Combined content blocks
 
-A document is a combination of some content blocks, and the content block is the basic unit. This is like Lego bricks, which can be combined using different basic modules. It is worth noting that the document itself is also a kind of content block. More precisely, the three content blocks of document block, list block, and block reference block are container blocks, and they can contain any other types of content blocks. #Content block/Combine#
+A document is a combination of some content blocks, and the content block is the basic unit. This is like Lego bricks, which can be combined using different basic modules. #Note#: the document itself is also a kind of content block. More precisely, the three content blocks of document block, list block, and block reference block are container blocks, and they can contain any other types of content blocks. #Content block/Combine#
 
 At this point, we have been able to use content blocks to describe all content, so that we can use uniform usage to ((20200924101256-f8b1sbi "link content block")) . Logically, there is no page concept, which reduces unnecessary burdens in use and allows users to focus on the content block.

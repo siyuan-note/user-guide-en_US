@@ -11,7 +11,7 @@ The forward link is included in the content of the current block, which we can s
 ### Content block reference
 {: id="20200924101312-jj4e0v3"}
 
-Entering `((` will trigger the content block quotation search, continue to enter as the search keyword, use the up and down keys to select in the search results and press Enter to complete the content block quotation. Please note that cross-notebook references are not supported.
+Entering `((` will trigger the content block quotation search, continue to enter as the search keyword, use the up and down keys to select in the search results and press Enter to complete the content block quotation. #Note#: that cross-notebook references are not supported.
 
 The complete syntax of the content block quote is: `((id "text"))`, where the `id` is like: `202008250000-a1b2c3d`, consisting of time and 7 random characters, the content block id is when the content block is created It will be automatically generated; the following `text` is the custom ((20201123093328-4q4cws1 "anchor text")) for the content block in the quote. After the content block quote is established, hover the mouse over the anchor text and a preview floating layer will pop up to show the quoted content block. #Content block/Reference#
 
@@ -20,7 +20,7 @@ The complete syntax of the content block quote is: `((id "text"))`, where the `i
 
 Enter `!((` at the beginning of a new line and it will trigger the content block embedded search. Just like the content block reference, you can complete the embedding by selecting the content block you need in the search results. It also supports custom `text` ((20201123093328-4q4cws1 "anchor text")) After the embedding operation is completed, the embedded content block will be displayed directly below. #Content block/Embed#
 
-It is worth noting that the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line. The following is an example of content block embedding:
+#Note#: the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line. The following is an example of content block embedding:
 
 !((20200923234102-fota8wn "content block embed demo"))
 
