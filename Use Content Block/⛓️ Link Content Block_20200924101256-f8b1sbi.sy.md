@@ -27,7 +27,7 @@ Enter `!((` at the beginning of a new line and it will trigger the content block
 ### Anchor text
 {: id="20201123093328-4q4cws1"}
 
-The content block reference and embedding syntax described above support setting anchor text. In addition to setting the anchor text as a fixed content, it also supports the use of template variables so that it can dynamically follow the changes of the definition block. #TODO#The anchor text template variables currently supported are as follows:
+The content block reference and embedding syntax described above support setting anchor text. In addition to setting the anchor text as a fixed content, it also supports the use of template variables so that it can dynamically follow the changes of the definition block. The anchor text template variables currently supported are as follows:
 
 * `{{.title}}`: Use definition block title to fill. If the definition block itself is a document block or title block, use the document name or title text to fill the variable; if it is another content block, use the upper heading of the block to fill, if there is no upper heading, use the document name to fill
-* `{{.text}}`: Use definition block text to fill. Use definition block content text (excluding typesetting syntax) to fill
+* `{{.text}}`: Use definition block content text to fill
