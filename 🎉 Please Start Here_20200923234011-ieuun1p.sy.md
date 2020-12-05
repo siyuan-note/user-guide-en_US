@@ -28,6 +28,8 @@ For feedback or suggestions, please go to:
 * [SiYuan Customer Service Email](mailto:support@b3log.org)
 {: id="20200923234102-ysbri6o"}
 
+Please attach the log file (operating system user's home directory/.siyuan/siyuan.log for usage issues, which can be quickly opened in Settings - About - Open Config Dir; the config dir on Windows is generally located at C:\\Users\\YourName\ \.siyuan).
+
 ## 🗺️ Roadmap
 
 Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
