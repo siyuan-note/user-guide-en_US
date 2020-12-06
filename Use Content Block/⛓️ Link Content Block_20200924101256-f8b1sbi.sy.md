@@ -22,7 +22,7 @@ Enter `!((` at the beginning of a new line and it will trigger the content block
 
 #Note#: the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line. The following is an example of content block embedding:
 
-!((20200923234102-fota8wn "content block embed demo"))
+!((20200923234102-fota8wn "Content block embed example"))
 
 ### Anchor text
 {: id="20201123093328-4q4cws1"}
