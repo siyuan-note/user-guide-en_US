@@ -17,3 +17,17 @@ There is a detail about the date and time formatting. #Note#: The formatting of 
 ## Invoke template
 
 At the cursor caret position, inputting `{{` will trigger a template search, continue to input to filter by the template document name, find the template to be inserted and press Enter. #Note#: It does not support the call template of the broken notebook.
+
+## An example
+
+```plaintext
+{{$before := (div (now.Sub (toDate "2006-01-02" "2020-02-19")).Hours 24)}}
+
+{{$after := (div ((toDate "2006-01-02" "2048-02-19").Sub now).Hours 24)}}
+Today is `{{now | date "2006-01-02"}}`.
+
+* `{{$before}}` days have passed since `2020-02-19`
+* There are `{{$after}}` days left from `2048-02-19`
+```
+
+`$before` and `$after` define two variables to record the number of days from the current date to 2020 and 2048, respectively.
