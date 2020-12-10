@@ -20,7 +20,7 @@ It needs to be used on its own line. The script syntax used is SQL. For details,
   ```sql
     !{{ SELECT * FROM blocks WHERE content LIKE'%content block%' AND content LIKE'%reference%' }}
   ```
-* The query content contains title blocks of both `content block` and `embed`, and the first 2 items are selected in descending order of time:
+* The query content contains heading blocks of both `content block` and `embed`, and the first 2 items are selected in descending order of time:
 
   ```sql
   !{{ SELECT * FROM blocks WHERE (content LIKE '%content block%' AND content LIKE '%embed%') AND type ='NodeHeading' ORDER BY block_id DESC LIMIT 4 }}
