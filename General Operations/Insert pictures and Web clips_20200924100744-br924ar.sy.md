@@ -1,8 +1,11 @@
 ## Insert picture
+{: id="20201210194734-v2rmiaq"}
 
 In the editor, you can directly paste the copied picture from the system clipboard, and the picture file will be copied to the assets folder at the same level as the current document. You can also insert pictures by dragging and dropping picture files into the editor.
 
-If you need to specify the image title, you can use the standard Markdown syntax: `![alt](assets/image "title")`, when the image exists independently in a content block (that is, there is no content before and after the image, the image has an exclusive section), The picture will be automatically centered, and `title` will be rendered below the picture as the picture title.
+If you need to specify the image title, you can use the standard Markdown syntax: `![alt](assets/image "title")`, when the image exists independently in a content block (that is, there is no content before and after the image, the image has an exclusive section), The picture will be automatically centered, and `title` will be rendered below the picture as the picture title, and the title part supports span-level typesetting, such as bold, italic, formula, etc.
+
+![SiYuan.png](assets/SiYuan.png "*When one drinks water, one must not forget where it comes from*")
 
 ## Clips
 
