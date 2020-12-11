@@ -26,8 +26,8 @@ The shared publishing space can be accessed without logging in. Visitors browse 
 
 ### Content block URL
 
-Open it in the editor tab by visiting `/blocks/{id}`.
+Open it in the editor tab by visiting `/blocks/{id}`, the URL can be provided to other software for content block positioning, or used for local area network sharing.
 
 The document block id is fixed on the file name, so as long as the file name is not modified externally, the id of the document block is persistent. Right-click the document in the file tree and then select "Copy URL" to get the URL of the document, which can be opened on the browser.
 
-For other types of content block ids, you can see "Copy URL" after clicking the content block identifier in the editor. #Note#: The id of the non-document block is not persistent by default. When the SiYuan kernel is closed, the unreferenced content block id will be automatically cleaned up, and the id will be regenerated at the next startup, which will cause the previously copied content block The URL is invalid. If you need to persist all content block ids, please turn on the option to keep content block ids in Settings - Editor.
+For other types of content block ids, you can see "Copy URL" after clicking the content block identifier in the editor. #Note#: The id of the non-document block may be not persistent. When the SiYuan kernel is closed, the unreferenced content block id will be automatically cleaned up, and the id will be regenerated at the next startup, which will cause the previously copied content block The URL is invalid. If you need to persist all content block ids, please turn on the option to keep content block ids in Settings - Editor.
