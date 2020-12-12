@@ -33,3 +33,11 @@ Please attach the log file (operating system user's home directory/.siyuan/siyua
 ## 🗺️ Roadmap
 
 Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
+
+## 💌 Participate in contribution
+
+At present, some components of SiYuan are open source, and contributions are welcome.
+
+* [User Guide](https://github.com/siyuan-note/user-guide-en_US)
+* [Appearance and language](https://github.com/siyuan-note/appearance)
+* [Markdown Engine](https://github.com/88250/lute)
