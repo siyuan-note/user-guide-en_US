@@ -23,8 +23,7 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 For feedback or suggestions, please go to:
 
 * [SiYuan Issues](https://github.com/siyuan-note/siyuan/issues)
-* [SiYuan Discussion Area](https://ld246.com/tag/siyuan)
-* [SiYuan QQ Group](https://jq.qq.com/?_wv=1027&k=brIyNm7y)
+* [SiYuan Discussions](https://github.com/siyuan-note/siyuan/discussions)
 * [SiYuan Customer Service Email](mailto:support@b3log.org)
 {: id="20200923234102-ysbri6o"}
 
