@@ -58,7 +58,6 @@ function hello() {}
 ### Table block
 
 ![table](assets/table.svg)
-{: id="20201118224558-kjqbl10"}
 
 | Column 1           | Column 2           |
 | ------------------ | ------------------ |

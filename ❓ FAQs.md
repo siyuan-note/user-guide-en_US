@@ -1,3 +1,14 @@
+## Why are there many things like `{: id="20201024020406"}` inserted into my Markdown?
+
+These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.title}}")) . In the editor settings, the "Keep the block ID when exiting" is checked by default. After closing this option, the unreferenced ID will be automatically cleaned up when you exit SiYuan.
+
+#Note#: Turning off this option will have side effects:
+
+* Cause the content block URL to become invalid
+* Causes frequent content conflicts during synchronization
+
+In addition, ((20201214230103-vwt7v43 "here")) are some of our thoughts on Markdown, welcome to browse.
+
 ## Is there any #Note# for deleting files/folders?
 
 For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management. If you need to restore accidentally deleted data, you can perform operations through the Git client.
@@ -12,7 +23,7 @@ You can use Markdown link syntax `[anchor text](media resource path)` to insert 
 
 ## How to adjust table rows and columns?
 
-First position the cursor to the cell that needs to be adjusted, and then click the ((20201118224558-kjqbl10 "table block icon")) to see the editing operation of the table.
+First position the cursor on the cell that needs to be adjusted, and then right-click to see the table adjustment menu.
 
 ## Where are the configuration files stored?
 
@@ -23,6 +34,8 @@ If you need to share the configuration on multiple devices, you can synchronize 
 ## Do you plan to support plugins?
 
 SiYuan supports ((20201004194026-s8h2cog "Use on browser")), the functions can be extended through browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan.
+
+In the later stage, we plan to introduce "View" to structure and render data in various formats. #TODO#
 
 ## Do I need to pay for it?
 
