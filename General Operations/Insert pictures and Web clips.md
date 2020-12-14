@@ -12,9 +12,9 @@ When the picture exists independently in a content block (that is, there is no c
 
 ## Clips
 
-Through the "Clip" function, we can paste other rich text content (such as Web pages, Word, Excel, etc.) into the editor, and Siyuan Note will automatically convert it into standard Markdown text.
+Through the "Clip" function, we can paste other rich text content (such as Web pages, Word, Excel, etc.) into the editor, and SiYuan will automatically convert it into standard Markdown text.
 
-The specific usage is to manually select the content of the webpage, for example, select the text part of the webpage article to copy, and then paste it in Siyuan. Do not select all pages to copy, otherwise you may not be able to paste any content.
+The specific usage is to manually select the content of the webpage, for example, select the text part of the webpage article to copy, and then paste it in SiYuan. Do not select all pages to copy, otherwise you may not be able to paste any content.
 
 If you check Settings - Assets - Auto fetch remote image to local, the clip will download the picture files on the Web page to assets folder and replace the picture address in the content with the local assets path.
 
