@@ -1,10 +1,12 @@
 ## Import
 
-When we open the local folder or connect to WebDAV, SiYuan will convert the Markdown file (`.md`) in the path into a `.sy.md` file to complete the import.
+When you use SiYuan to open a local folder or connect to WebDAV, SiYuan will convert the Markdown files (`.md` and `.markdown`) in the path:
 
-When importing, SiYuan will automatically process the `[[link|text]]` in the original Markdown text and convert them into content block quotes. After the import is complete, SiYuan will not write the original Markdown file, and all new editing operations will be saved in the `.sy.md` file.
+* Documents that do not contain `{: id="" type="doc"}` in in the existing Markdown content will be regarded as files to be imported
+* Automatically convert `[[link|text]]` in the file to be imported into content block reference (only handle `link` as full path or relative path)
+* Automatically convert `#tag` to `#tag#`
 
-`.sy.md` is an extended syntax of Markdown. For details, please see ((20200924095851-u5jmzr3 "Storage format")).
+The converted Markdown file uses kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "Storage format")).
 
 ## Export
 
