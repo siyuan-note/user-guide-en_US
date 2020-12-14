@@ -7,6 +7,8 @@ These contents are used to store the content block identification and follow the
 * Cause the content block URL to become invalid
 * Causes frequent content conflicts during synchronization
 
+From the perspective of stability, it is recommended not to turn off this option. If you just use SiYuan as a local Markdown editor (not using two-way links, bookmarks, etc.), you can consider turning it off, but in this case we recommend you to use other software, such as [Typora](https://typora .io).
+
 In addition, ((20201214230103-vwt7v43 "here")) are some of our thoughts on Markdown, welcome to browse.
 
 ## Is there any #Note# for deleting files/folders?
