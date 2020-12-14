@@ -10,9 +10,15 @@ The converted Markdown file uses kramdown syntax. For details, please see ((2020
 
 ## Export
 
-Copy (Ctrl C) in the editor is ((20200924100600-knx7ub0 "formatted Markdown text")). If you need to export standard Markdown files, you can right-click on the file tree document and select "Export". If you need to export automatically during editing, please check "Auto Export" in `Settings - Export`.
+Copy (Ctrl C) in the editor is ((20200924100600-knx7ub0 "formatted Markdown text")). If you need to export automatically during editing, please check "Auto Export" in `Settings - Export`.
 
-The right-click export on the file tree also supports packaging Markdown and its associated resource files through [TextBundle](http://textbundle.org), which can provide better Markdown migration.
+Right-click and select "Export" after selecting the document in the file tree:
+
+* Markdown: Markdown files complying with GFM/CommonMark standards
+* [TextBundle](http://textbundle.org): Package Markdown and its associated resource files to provide better Markdown migration
+* PDF
+
+If you need to export more formats, please complete via [Pandoc](https://pandoc.org).
 
 
 {: id="20200924100808-j9sddk9" type="doc"}
