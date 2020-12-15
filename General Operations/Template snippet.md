@@ -14,6 +14,10 @@ It doesn't matter if you don't know too much, because using variables directly i
 
 There is a detail about the date and time formatting. #Note#: The formatting of the Go programming language is more "alternative". Instead of using `yyyy-MM-dd HH:mm:ss`, use `2006-01-02 15:04: 05` This fixed time format ([related discussions on Stack Overflow](https://stackoverflow.com/questions/20530327/origin-of-mon-jan-2-150405-mst-2006-in-golang)).
 
+In addition to the built-in variables and functions of Sprig, the following variables are also supported:
+
+* `title`: Use this variable to quickly insert the current document name. For example, if the template content is `# {{.title}}`, it will be inserted into the current document content with the first-level heading syntax after invoking
+
 ## Invoke template
 
 At the cursor caret position, inputting `{{` will trigger a template search, continue to input to filter by the template document name, find the template to be inserted and press Enter. #Note#: It does not support the call template of the broken notebook.
