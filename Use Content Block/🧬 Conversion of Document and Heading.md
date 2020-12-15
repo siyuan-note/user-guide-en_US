@@ -24,7 +24,7 @@ After the document block is converted to a heading block:
 
 ## Convert Heading block to Document block
 
-In the editor tab, select the heading block to be converted, press and hold the heading block icon, and then drag it to the folder to be placed in the file tree.
+In the editor tab, select the heading block to be converted, press and hold the heading block icon, and then drag it to the folder to be placed in the file tree. If you need to place it on the notebook root folder, drag the heading block icon to the top notebook icon row.
 
 After the heading block is converted to a document block:
 
