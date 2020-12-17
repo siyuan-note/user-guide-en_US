@@ -6,8 +6,8 @@ The synchronization function is the [Advanced Features](https://github.com/siyua
 
 We chose to use Git for version management not only because of the power and stability of Git, but also because it is open. So using our server cloud repository is not the only option. You can add other remote repositories (such as GitHub repositories) through the `git remote add` command, and then you can synchronize with these remote repositories via git. Please refer to the operation details :
 
-* ((20201213120253-hhtskws "{{.title}}"))
-* ((20201213120253-ulbi3zh "{{.title}}"))
+* ((20201213120253-hhtskws "{{.text}}"))
+* ((20201213120253-ulbi3zh "{{.text}}"))
 
 ## Cloud Repository
 

@@ -1,6 +1,6 @@
 ## Why are there many things like `{: id="20201024020406"}` inserted into my Markdown?
 
-These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.title}}")) . In the editor settings, the "Keep the block ID when exiting" is checked by default. After closing this option, the unreferenced ID will be automatically cleaned up when you exit SiYuan.
+These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.text}}")) . In the editor settings, the "Keep the block ID when exiting" is checked by default. After closing this option, the unreferenced ID will be automatically cleaned up when you exit SiYuan.
 
 #Note#: Turning off this option will have side effects:
 
@@ -17,7 +17,7 @@ For local notebooks (not WebDAV), all operations will be managed through ((20201
 
 ## How to insert a picture?
 
-You can insert a picture through the Markdown picture syntax `![optional picture description text](picture file path)`. You can also directly drag the image file into the editor to insert it, and the image file will be automatically copied to the assets folder at the same level of the document. For more details, please refer to ((20201210194734-v2rmiaq "{{.title}}")).
+You can insert a picture through the Markdown picture syntax `![optional picture description text](picture file path)`. You can also directly drag the image file into the editor to insert it, and the image file will be automatically copied to the assets folder at the same level of the document. For more details, please refer to ((20201210194734-v2rmiaq "{{.text}}")).
 
 ## How to insert video and audio?
 
