@@ -29,7 +29,7 @@ First position the cursor on the cell that needs to be adjusted, and then right-
 
 ## Where are the configuration files stored?
 
-The default configuration files are saved in the user's home folder `~/.siyuan/`, you can specify the path of the configuration file storage folder through ((20200924100717-yzwzn64 "startup parameter")).
+The default configuration folder is located in the user's home directory `~/.siyuan/`. If there is a configuration folder in the installation directory, the installation directory will be used first. You can also specify the configuration folder path by ((20200924100717-yzwzn64 "startup parameter")).
 
 If you need to share the configuration on multiple devices, you can synchronize the configuration folder through a third-party network disk service.
 
