@@ -35,7 +35,8 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Title                                    | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                          | see below    |
 | Bold                                     | <kbd>Ctrl B</kbd> / <kbd>⌘ B</kbd>                          |              |
 | Italic                                   | <kbd>Ctrl I</kbd> / <kbd>⌘ I</kbd>                          |              |
-| Mark                                     | <kbd>Ctl M</kbd> / <kbd>⌘ M</kbd>                           |              |
+| Mark                                     | <kbd>Ctrl Shift M</kbd> / <kbd>⌘ ⇧ M</kbd>                |              |
+| Tag                                      | <kbd>Ctrl Shift T</kbd> / <kbd>⌘ ⇧ T</kbd>                |              |
 | Strikethrough                            | <kbd>Ctrl D</kbd> / <kbd>⌘ D</kbd>                          |              |
 | Link                                     | <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>                          | see below    |
 | Unordered List                           | <kbd>Ctrl L</kbd> / <kbd>⌘ L</kbd>                          | see below    |
@@ -47,7 +48,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Code                                     | <kbd>Ctrl G</kbd> / <kbd>⌘ G</kbd>                          |              |
 | Insert an empty block before the element | <kbd>Ctrl Shift B</kbd> / <kbd>⌘ ⇧ B</kbd>                |              |
 | Insert an empty block after the element  | <kbd>Ctrl Shift E</kbd> / <kbd>⌘ ⇧ E</kbd>                |              |
-| Form                                     | <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>                          | see below    |
+| Table                                    | <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>                          | see below    |
 | Undo                                     | <kbd>Ctrl Z</kbd> / <kbd>⌘ Z</kbd>                          |              |
 | Redo                                     | <kbd>Ctrl Y</kbd> / <kbd>⌘ Y</kbd>                          |              |
 | Preview                                  | <kbd>Ctrl E</kbd> / <kbd>⌘ E</kbd>                          |              |
