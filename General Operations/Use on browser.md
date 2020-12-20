@@ -20,9 +20,11 @@ In Settings - About, you can configure the browser access authentication passwor
 
 ## Sharing and Publishing
 
-In addition to using SiYuan Online Workspace, paid users can also use [SiYuan Online Sharing and Publishing](https://ld246.com/udanax/). After sharing the published notebook in Settings - Sync - Cloud Notebook, you can browse through "View my shared publishing space".
+In addition to using SiYuan Online Workspace, paid users can also use the sharing and publishing function. After sharing and publishing the notebook in Settings - Sync - Cloud Notebook, you can click "Share and Publish" to open the browser and browse.
 
-The shared publishing space can be accessed without logging in. Visitors browse in read-only mode and support most features, such as browsing relationship diagrams, searching, browsing tags, bookmarks, and multi-window tabs.
+The shared publishing space can be accessed without logging in. Visitors browse in read-only mode and support most features, such as browsing relationship graphs, searching, browsing tags, bookmarks, and multi-window tabs.
+
+#Note#: If you want to share the link with others, please use your share and publish entry link (`https://ld246.com/udanax/youruid`), do not use the link after entering the main interface (ie do not use the `/stage/` link).
 
 ### Content block URL
 
