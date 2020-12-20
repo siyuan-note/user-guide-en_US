@@ -37,5 +37,13 @@ This is the Git design. At least one file is required under the folder (the file
 3. Pull from remote via `git pull gitee master --allow-unrelated-histories`
 4. Push remote *master* branch through `git push gitee master`
 
+## How to delete unnecessary commit history to reduce space usage and improve performance?
+
+1. Please confirm that the cloud data has been completely pulled locally, and that complete data is already stored locally
+2. Delete the cloud repository in Settings - Sync
+3. Delete the .git metadata folder on the file system
+4. Restart SiYuan (it will automatically generate a .git metadata folder based on existing data)
+5. Click Sync to synchronize the data to the cloud repository
+
 
 {: id="20201210002859-thjj328" type="doc"}
