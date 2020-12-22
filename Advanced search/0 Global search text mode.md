@@ -2,7 +2,7 @@
 
 Support operators `AND`, `OR` and `NOT` (note that capitalization is required). For example, `foo AND bar OR baz` means both foo and bar or baz; `foo NOT bar` means foo but not bar .
 
-* `OR` can be omitted, for example, `foo OR bar` can be abbreviated as `foo bar`
+* `AND` can be omitted, for example, `foo AND bar` can be abbreviated as `foo bar`
 * `OR` can be replaced by `||`, `AND` can be replaced by `&&`, such as `foo && bar || baz`
 * `NOT` can be abbreviated as prefix `!` or `-`, for example, `foo NOT bar` can be abbreviated as `foo !bar` or `foo -bar`
 
