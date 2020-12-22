@@ -1,15 +1,6 @@
 ## Why are there many things like `{: id="20201024020406"}` inserted into my Markdown?
 
-These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.text}}")) . In the editor settings, the "Keep the block ID when exiting" is checked by default. After closing this option, the unreferenced ID will be automatically cleaned up when you exit SiYuan.
-
-#Note#: Turning off this option will have side effects:
-
-* Cause the content block URL to become invalid
-* Causes frequent content conflicts during synchronization
-
-From the perspective of stability, it is recommended not to turn off this option. If you just use SiYuan as a local Markdown editor (not using two-way links, bookmarks, etc.), you can consider turning it off, but in this case we recommend you to use other software, such as [Typora](https://typora .io).
-
-In addition, ((20201214230103-vwt7v43 "here")) are some of our thoughts on Markdown, welcome to browse.
+These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.text}}")).
 
 ## Is there any #Note# for deleting files/folders?
 
