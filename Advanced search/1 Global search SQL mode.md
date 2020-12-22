@@ -4,7 +4,7 @@
 This table is used to store content block data.
 
 |    Field | Type | Description                                             |
-| ---------: | :----: | --------------------------------------------------------- |
+| -------: | :--: | ------------------------------------------------------- |
 |       id | text | Self-incrementing primary key                           |
 | block_id | text | Content block ID                                        |
 |      box | text | Notebook name                                           |
