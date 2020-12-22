@@ -6,6 +6,7 @@ If the search keyword starts with the following characters, type filtering is en
 * `i` List item block
 * `c` Code block
 * `m` Mathematical formula block
+* `t` Table block
 * `b` Blockquote block
 * `s` Super block
 * `p` Paragraph block
