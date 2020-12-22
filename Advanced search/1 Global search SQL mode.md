@@ -2,9 +2,10 @@
 {: id="20201117103851-gx21lz6"}
 
 This table is used to store content block data.
+{: id="20201222212031-ypi15p9"}
 
 |    Field | Type | Description                                             |
-| -------: | :--: | ------------------------------------------------------- |
+| ---------: | :----: | --------------------------------------------------------- |
 |       id | text | Self-incrementing primary key                           |
 | block_id | text | Content block ID                                        |
 |      box | text | Notebook name                                           |
@@ -12,30 +13,25 @@ This table is used to store content block data.
 |  tree_id | text | Abstract Syntax Tree ID, as the same as root node ID    |
 |  content | text | Content block Markdown                                  |
 |     type | text | Content block type                                      |
+{: id="20201222212031-wzd8v2b"}
 
 Example:
+{: id="20201222212031-v5d0rau"}
 
 ```sql
 SELECT * FROM blocks WHERE content LIKE '%content block%'
 ```
+{: id="20201222212031-ce7gkuz"}
 
-List of `type` content block type values:
-
-* `NodeDocument` Document block
-* `NodeHeading` Heading block
-* `NodeParagraph` Paragraph block
-* `NodeList` List block
-* `NodeListItem` List item block
-* `NodeMathBlock` Mathematical formula block
-* `NodeCodeBlock` Code block
-* `NodeBlockquote` Blockquote block
-* `NodeTable` Table block
-* `NodeSuperBlock` Super block
+List of `type` content block type please refer to ((20201222212031-zerifk5 "here")).
+{: id="20201222212031-nbnw5z5"}
 
 ## Default query conditions
+{: id="20201222212031-oprjmx6"}
 
-* If you do not specify the `type` column, the default will add `type = NodeParagraph`, that is, only query paragraph blocks
-* If `LIMIT` is not specified, only the first 32 results will be returned at most
+* {: id="20201222212031-vn4686r"}If you do not specify the `type` column, the default will add `type = p`, that is, only query paragraph blocks
+* {: id="20201222212031-xblb7nt"}If `LIMIT` is not specified, only the first 32 results will be returned at most
+{: id="20201222212031-ub749l7"}
 
 
 {: id="20201222100339-i5hzcph" type="doc"}
