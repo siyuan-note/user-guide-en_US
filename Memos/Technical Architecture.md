@@ -1,3 +1,5 @@
+## B/S Style
+
 On the whole, SiYuan adopts the technical architecture of separation of front and back ends, and realizes front and back end communication through HTTP.
 
 ### Frontend
@@ -16,7 +18,15 @@ The backend is a resident HTTP server, which implements core business logic and 
 * `6806`: HTTP/WebSocket, listen to this port on all network cards (`0.0.0.0`), traffic under the path of `/siyuan/` will be automatically forwarded to the local port `127.0.0.1:6807`
 * `6807`: HTTP/WebDAV, listen on this port at `127.0.0.1`
 
-### Publish package
+## Data state
+
+* Persistent data is realized based on the file system of the operating system and stored in files and folders
+* Document tree resident kernel process memory #TODO#: optimize memory usage
+* Read-only data is stored in SQLite database
+  * Edit changes will be automatically synchronized to the database
+  * The database is created temporarily and only exists when the kernel is running
+
+### Release delivery
 
 * Desktop application: Based on Electron packaging, the main process starts the kernel process after it is started. Static resources related to the kernel HTTP server interface, the Electron main window loads the interface through `loadURL`
 * Server application: Only package resources such as the kernel, appearance, and documentation, and distribute them through the Docker image `b3log/siyuan`
