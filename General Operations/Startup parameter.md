@@ -34,9 +34,5 @@ After specifying with `--readonly=true`, the kernel will run in read-only mode a
 
 After using `--auth=true`, the user data in conf.json will be used for authentication. This parameter is mainly used for the authentication of SiYuan online workspace. Please do not specify it during self-hosting.
 
-### `linkBaseURL`
-
-This parameter is used to specify the link and picture address prefix, and will only be added when using a relative path.
-
 
 {: id="20200924100717-yzwzn64" type="doc"}
