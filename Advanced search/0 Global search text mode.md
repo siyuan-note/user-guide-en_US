@@ -38,7 +38,7 @@ Supports specifying priority through `()`, for example, `foo AND (bar OR baz)` m
 {: id="20201224120448-jojjs8o"}
 
 * {: id="20201224120448-5n2lr4o"}`path`: supports specifying the document path through `path:foo`, for example, `path:!foo` means searching in documents that do not contain the path foo; `path:(foo OR bar)` means the path is foo Or search in the documentation of bar
-* {: id="20201224120448-5a519a3"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `path:(h)` means searching in the title; `type:(m OR c)` means searching in a mathematical formula block or code block
+* {: id="20201224120448-5a519a3"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `type:h` means searching in the heading; `type:(m OR c)` means searching in a mathematical formula block or code block
 {: id="20201224120448-48l2e0q"}
 
 ## Specify time range
