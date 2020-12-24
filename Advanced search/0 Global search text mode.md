@@ -18,9 +18,15 @@ Support for specifying exact matching through `""`, for example, `"foo"` means t
 ## Fuzzy match
 {: id="20201222215050-hkjgu0g"}
 
-* {: id="20201222215050-wd5tl4b"}Supports specifying a single character through `?`, for example, `f?o` can be fuzzy matching fo, fao, fbo.
-* {: id="20201222215050-8ehu17j"}Support specifying multiple characters through `*`, for example, `f*o` can be fuzzy matching fo, fao, fabco.
+* {: id="20201222215050-wd5tl4b"}Supports specifying a single character through `?`, for example, `f?o` can be fuzzy matching fo, fao, fbo
+* {: id="20201222215050-8ehu17j"}Support specifying multiple characters through `*`, for example, `f*o` can be fuzzy matching fo, fao, fabco
 {: id="20201222215050-dwhhe00"}
+
+## Regular match
+{: id="20201224084724-glby5t9"}
+
+Supports specifying regular expressions through `/foo/`. For example, `/f[a-z]{2}/` can match up to the beginning of f followed by two a-z letters.
+{: id="20201224084724-zw19v08"}
 
 ## Group
 {: id="20201222215050-1xcw8q8"}
@@ -32,7 +38,7 @@ Supports specifying priority through `()`, for example, `foo AND (bar OR baz)` m
 {: id="20201222215050-hktn5gr"}
 
 * {: id="20201222215050-jr9gbsc"}`path`: supports specifying the document path through `path:foo`, for example, `path:!foo` means searching in documents that do not contain the path foo; `path:(foo OR bar)` means the path is foo Or search in the documentation of bar
-* {: id="20201222215050-k83yd33"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `path:(h)` means searching in the title; type:(m OR c)` means searching in a mathematical formula block or code block
+* {: id="20201222215050-k83yd33"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `path:(h)` means searching in the title; `type:(m OR c)` means searching in a mathematical formula block or code block
 {: id="20201222215050-7jymwyb"}
 
 ## Specify time range
