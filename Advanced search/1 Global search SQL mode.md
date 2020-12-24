@@ -29,7 +29,6 @@ List of `type` content block type please refer to ((20201224092621-haejkkh "here
 ## Default query conditions
 {: id="20201224120448-dd94dgz"}
 
-* {: id="20201224120448-0m4qg3p"}If you do not specify the `type` column, the default will add `type = p`, that is, only query paragraph blocks
 * {: id="20201224120448-f5yv48x"}If `LIMIT` is not specified, only the first 32 results will be returned at most
 {: id="20201224120448-ox8c45i"}
 
