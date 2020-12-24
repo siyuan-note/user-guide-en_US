@@ -23,7 +23,7 @@ SELECT * FROM blocks WHERE content LIKE '%content block%'
 ```
 {: id="20201222212031-ce7gkuz"}
 
-List of `type` content block type please refer to ((20201224091608-i1dc24h "here")).
+List of `type` content block type please refer to ((20201224092621-haejkkh "here")).
 {: id="20201222212031-nbnw5z5"}
 
 ## Default query conditions
