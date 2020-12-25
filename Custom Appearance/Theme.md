@@ -1,11 +1,21 @@
 ## Installation
 {: id="20201225174048-t626xpi"}
 
-1. {: id="20201225174048-ojae0rn"}Get the theme and unzip
-2. {: id="20201225174048-pw7h495"}In SiYuan, click Settings - Appearance - Theme - Open theme folder
-3. {: id="20201225174048-b505cz4"}Copy the theme to this directory
-4. {: id="20201225174048-wcls1ma"}After restarting SiYuan, select the installed theme in Settings - Appearance - Theme
-{: id="20201225174048-ur54two"}
+### Manual
+{: id="20201225221416-aotw0re"}
+
+1. {: id="20201225221416-n3vvygb"}Get the theme from somewhere and unzip it
+2. {: id="20201225221416-o84sp4q"}In Settings - Appearance - Theme - Open the theme folder
+3. {: id="20201225221416-oefusle"}Copy the theme to this folder
+4. {: id="20201225221416-i8ic233"}Restart, select the desired theme in Settings - Appearance - Theme
+{: id="20201225221416-5jel77s"}
+
+### Community Bazaar
+{: id="20201225221416-enetgqg"}
+
+* {: id="20201225221416-fwq6l32"}In Settings - Appearance - Theme - Bazaar, browse online themes contributed by community developers
+* {: id="20201225221416-6qqqwni"}Choose the required theme to install or update online
+{: id="20201225221416-chyd31p"}
 
 ## Development
 {: id="20201225174048-i781zxp"}
@@ -31,7 +41,7 @@
    ```
    {: id="20201225174048-d4ms7ra"}
 
-   `modes` is the appearance mode, divided into `dark` and `light`
+   `modes` is the appearance mode, divided into `dark` and `light`. Please modify the other fields as needed.
    {: id="20201225174048-crkpdob"}
 4. {: id="20201225174048-e4e9234"}Open the `theme.css` file to start your coding journey
    {: id="20201225174048-2937fh2"}
