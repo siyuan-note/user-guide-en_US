@@ -55,7 +55,7 @@ After using `--auth=true`, the user data in conf.json will be used for authentic
 ### `--ssl`
 {: id="20201225172550-cmwure7"}
 
-使用 `--ssl=true` 后将使用 https 和 wss 协议进行伺服。
+After using `--ssl=true`, https and wss protocols will be used for serving.
 {: id="20201225172550-zxiz2vb"}
 
 
