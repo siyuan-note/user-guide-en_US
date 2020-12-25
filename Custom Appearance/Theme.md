@@ -64,7 +64,7 @@
 ### Push to community bazaar
 {: id="20201225222754-u4sica8"}
 
-Please send a Pull Request to the [Community Bazaar](https://github.com/siyuan-note/bazaar) warehouse and modify the themes.json file in it. This file is the index file of all community theme repositories, the format is:
+Please [create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to the [Community Bazaar](https://github.com/siyuan-note/bazaar) repository and modify the themes.json file in it. This file is the index file of all community theme repositories, the format is:
 {: id="20201225222754-swy5dnu"}
 
 ```json
@@ -76,6 +76,9 @@ Please send a Pull Request to the [Community Bazaar](https://github.com/siyuan-n
 ```
 {: id="20201225222754-zffy1v0"}
 
+Among them, `commithash`, please fill in the git commit hash of the latest release version.
+{: id="20201225225305-ow7lt63"}
+
 #### Update
 {: id="20201225222754-vp8gpwl"}
 
@@ -83,7 +86,7 @@ If the theme you developed has an updated version, please remember:
 {: id="20201225222754-wl778nt"}
 
 * {: id="20201225222754-ktaqtbm"}Update the version field in your theme.json
-* {: id="20201225222754-llxlasf"}Send a Pull Request to the community bazaar
+* {: id="20201225222754-llxlasf"}Create a Pull Request to the community bazaar
 {: id="20201225222754-o3nz94w"}
 
 
