@@ -39,6 +39,8 @@ Supports specifying priority through `()`, for example, `foo AND (bar OR baz)` m
 
 * {: id="20201224120448-5n2lr4o"}`path`: supports specifying the document path through `path:foo`, for example, `path:!foo` means searching in documents that do not contain the path foo; `path:(foo OR bar)` means the path is foo Or search in the documentation of bar
 * {: id="20201224120448-5a519a3"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `type:h` means searching in the heading; `type:(m OR c)` means searching in a mathematical formula block or code block
+  * {: id="20201225171153-5uu0mrq"}The `AND` logical conjunction of keywords and types supports abbreviation. For example, `foo type:h` can be abbreviated as `h:foo`; `(foo OR bar) type:l` can be abbreviated as `l:(foo OR bar) `. But `foo type:(l OR h)` cannot be abbreviated as `(l OR h):foo`, which means that the specified field must be a specific one
+  {: id="20201225171154-ujt8hoc"}
 {: id="20201224120448-48l2e0q"}
 
 ## Specify time range
