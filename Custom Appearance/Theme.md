@@ -59,8 +59,32 @@
 * {: id="20201225174048-9mhz3ye"}Copy and paste the modified content into `theme.css` and save
 * {: id="20201225174048-k5l65hd"}Check the `Disable cache` in `Network` and run `window.location.reload()` to see the final result
   ![image.png](assets/image-9b9y2ky.png)
-* {: id="20201225174048-wxq2ri1"}Released on the shelf (contact QQ: 84588990)
 {: id="20201225174048-g8oxi84"}
+
+### Push to community bazaar
+{: id="20201225222754-u4sica8"}
+
+Please send a Pull Request to the [Community Bazaar](https://github.com/siyuan-note/bazaar) warehouse and modify the themes.json file in it. This file is the index file of all community theme repositories, the format is:
+{: id="20201225222754-swy5dnu"}
+
+```json
+{
+   "repos": [
+     "username/reponame@commithash"
+   ]
+}
+```
+{: id="20201225222754-zffy1v0"}
+
+#### Update
+{: id="20201225222754-vp8gpwl"}
+
+If the theme you developed has an updated version, please remember:
+{: id="20201225222754-wl778nt"}
+
+* {: id="20201225222754-ktaqtbm"}Update the version field in your theme.json
+* {: id="20201225222754-llxlasf"}Send a Pull Request to the community bazaar
+{: id="20201225222754-o3nz94w"}
 
 
 {: id="20200924095938-a9p5450" type="doc"}
