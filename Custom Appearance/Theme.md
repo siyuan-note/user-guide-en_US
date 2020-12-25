@@ -64,7 +64,7 @@
 ### Push to community bazaar
 {: id="20201225222754-u4sica8"}
 
-Please make sure that the root path of your theme repository contains at least these three files before listing:
+Please make sure that the root path of your theme repository contains at least these three files before listing ([repo example](https://github.com/88250/Comfortably-Numb)):
 {: id="20201225231001-q8d13v2"}
 
 * {: id="20201225231001-kb3qapf"}theme.css
