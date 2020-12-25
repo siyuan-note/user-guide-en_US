@@ -51,5 +51,11 @@ Support to specify the content block creation time through `time: [20200219 TO 2
 * {: id="20201224120448-np8fi3u"}You can mix `[` and `{`, such as `time: [20200219 TO 20200825}`
 {: id="20201224120448-brfxvtb"}
 
+## Escape character
+{: id="20201225090933-mcc6ctz"}
+
+If you need to search for special characters that appear in the expression syntax, you need to use `\` to escape them. These special characters include: `+-&|!()"?*[]{}:/`. For example, `\(foo \[bar \-baz` will search for (foo [bar -baz.
+{: id="20201225090933-h1qx9jb"}
+
 
 {: id="20201222100328-kzqg0mz" type="doc"}
