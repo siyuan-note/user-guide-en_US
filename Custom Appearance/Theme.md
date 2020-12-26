@@ -68,8 +68,8 @@ Please make sure that the root path of your theme repository contains at least t
 {: id="20201225231001-q8d13v2"}
 
 * {: id="20201225231001-kb3qapf"}theme.css
-* {: id="20201225231001-dqhnejn"}theme.json (please note the correctness of the JSON format)
-* {: id="20201225231001-0f33u4j"}preview.png
+* {: id="20201225231001-dqhnejn"}theme.json (correctness of the JSON format)
+* {: id="20201225231001-0f33u4j"}preview.png (less than 100 KB in size)
 {: id="20201225231001-86jam55"}
 
 After confirmation, please [create a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to the [Community Bazaar](https://github.com/siyuan-note/bazaar) repository and modify the themes.json file in it. This file is the index file of all community theme repositories, the format is:
