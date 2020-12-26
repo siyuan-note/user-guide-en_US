@@ -33,7 +33,7 @@
 
    ```json
    {
-     "name": "Midnight",
+     "name": "midnight",
      "author": "Vanessa",
      "version": "1.0.0",
      "modes": ["dark"]
