@@ -84,7 +84,7 @@ After confirmation, please [create a pull request](https://docs.github.com/en/fr
 ```
 {: id="20201225222754-zffy1v0"}
 
-Among them, `commithash`, please fill in the git commit hash of the latest released version on your theme repository.
+Among them, `commithash`, please fill in the Git commit hash of the latest released version on your theme repository, please use the full hash value instead of the 7-digit short value.
 {: id="20201225225305-ow7lt63"}
 
 #### Update
