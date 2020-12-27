@@ -1,8 +1,8 @@
 If the search keyword starts with the following characters, type filtering is enabled.
 {: id="20201224120448-hggh9p6"}
 
-* {: id="20201224120448-mpmfni9"}`d` Document block
-* {: id="20201224120448-x5dqp91"}`h` Heading block
+* {: id="20201224120448-mpmfni9"}`d` Document block (Only search on the document name, will not search for the document containing content blocks)
+* {: id="20201224120448-x5dqp91"}`h` Heading block (Search only on the heading name, not the content blocks below the heading block)
 * {: id="20201224120448-gl1j8m7"}`l` List block (including ordered list block, unordered list block and task list block)
 * {: id="20201224120448-82e30qt"}`i` List item block
 * {: id="20201224120448-2eln6e1"}`c` Code block
