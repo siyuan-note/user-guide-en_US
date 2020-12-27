@@ -2,13 +2,16 @@
 {: id="20200924101004-lcuaajy"}
 
 The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor). Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
+{: id="20201227133532-ii71fui"}
 
 ## Application shortcuts
+{: id="20201227133532-44ubczo"}
 
 ### General
+{: id="20201227133532-waqktxs"}
 
 | Name                                  | Shortcut key                                   |
-| ------------------------------------- | ---------------------------------------------- |
+| --------------------------------------- | ------------------------------------------------ |
 | New document                          | <kbd>Ctrl N</kbd> / <kbd>⌘ N</kbd>           |
 | Search                                | <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd>           |
 | Close the current tab                 | <kbd>Ctrl W</kbd> / <kbd>⌘ W</kbd>           |
@@ -23,13 +26,17 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Zoom In                               | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>           |
 | Zoom Out                              | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>           |
 | Paste block embed/Paste as plain text | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ V</kbd> |
+| Hide/Show Window                      | <kbd>Ctrl Shift Y</kbd> / <kbd>⌘ ⇧ Y</kbd> |
+{: id="20201227133532-nqay56n"}
 
 ## Editor shortcuts
+{: id="20201227133532-o0cij1z"}
 
 ### General
+{: id="20201227133532-140floj"}
 
 | Name                                     | Shortcut key                                                  | Remarks      |
-| ---------------------------------------- | ------------------------------------------------------------- | ------------ |
+| ------------------------------------------ | --------------------------------------------------------------- | -------------- |
 | Content block quote                      | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>((</kbd> / <kbd>[[</kbd> | see below    |
 | Emoticons                                | <kbd>:</kbd> / <kbd>Alt E</kbd> / <kbd>⌥ E</kbd>            |              |
 | Title                                    | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                          | see below    |
@@ -58,67 +65,81 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Remove current element                   | <kbd>Ctrl Shift X</kbd> / <kbd>⌘ ⇧ X</kbd>                | wysiwyg mode |
 | Save                                     | <kbd>Ctrl S</kbd> / <kbd>⌘ S</kbd>                          |              |
 | Wrong input                              | <kbd>Backspace</kbd>                                          |              |
+{: id="20201227133532-8tiygrd"}
 
 ### Content block reference <kbd>((</kbd> / <kbd>[[</kbd>
+{: id="20201227133532-to2767a"}
 
 | Name                            | Shortcut key                                   | Remarks                                                             |
-| ------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
+| --------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
 | Select                          | <kbd>↑</kbd> / <kbd>↓</kbd>                |                                                                     |
 | Completion                      | <kbd>Enter</kbd>                               |                                                                     |
 | Jump out of content block quote | <kbd>Tab</kbd>                                 | Only useful in text content                                         |
 | Copy content block ID           | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ X</kbd> |                                                                     |
 | Paste content block reference   | <kbd>Ctrl V</kbd> / <kbd>⌘ v</kbd>           | Only available when the content block ID is copied in the clipboard |
 | Past content block embed        | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ v</kbd> | Only available when the content block ID is copied in the clipboard |
+{: id="20201227133532-k4r3hz5"}
 
 ### Heading <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>
+{: id="20201227133532-ap3s98k"}
 
 | Name        | Shortcut key                                                     |
-| ----------- | ---------------------------------------------------------------- |
+| ------------- | ------------------------------------------------------------------ |
 | Get bigger  | <kbd>Ctrl +</kbd> / <kbd>⌘ +</kbd>                             |
 | Get smaller | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>                             |
 | H1-H6       | <kbd>Ctrl Alt 1/2/3/4/5/6</kbd> / <kbd>⌘ ⌥ 1/2/3/4/5/6</kbd> |
 | Pop-up menu | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                             |
+{: id="20201227133532-pznwmrp"}
 
 ### Link <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>
+{: id="20201227133532-wqg7n52"}
 
 | Name                                 | Shortcut key                                |
-| ------------------------------------ | ------------------------------------------- |
+| -------------------------------------- | --------------------------------------------- |
 | Switch between input box and element | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
 | Switch between input boxes           | <kbd>Tab</kbd>                              |
+{: id="20201227133532-wsj3igm"}
 
 ### List <kbd>Ctrl L/O/J</kbd> / <kbd>⌘ L/O/J</kbd>
+{: id="20201227133532-0ktd1gp"}
 
 | Name                          | Shortcut key                                   | Remarks                             |
-| ----------------------------- | ---------------------------------------------- | ----------------------------------- |
+| ------------------------------- | ------------------------------------------------ | ------------------------------------- |
 | Indent 1                      | <kbd>Tab</kbd>                                 | The cursor must be at the beginning |
 | Indent 2                      | <kbd>Ctrl Shift I</kbd> / <kbd>⌘ ⇧ I</kbd> |                                     |
 | Reverse Indent 1              | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd>      | The cursor must be at the beginning |
 | Reverse indent 2              | <kbd>Enter</kbd>                               | Empty list item                     |
 | Reverse indent 3              | <kbd>Ctrl Shift O</kbd> / <kbd>⌘ ⇧ O</kbd> |                                     |
 | Switch between Done and To Do | <kbd>Ctrl Shift J</kbd> / <kbd>⌘ ⇧ J</kbd> | Task List                           |
+{: id="20201227133532-z2717mf"}
 
 ### Quote <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>
+{: id="20201227133532-lua7bkd"}
 
 | Name                                             | Shortcut key                                         | Remarks                                      |
-| ------------------------------------------------ | ---------------------------------------------------- | -------------------------------------------- |
+| -------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
 | Insert an empty block before the top-level quote | <kbd>Ctrl Alt Enter</kbd> / <kbd>⌘ ⌥ Enter</kbd> | wysiwyg mode                                 |
 | Insert an empty block after the top-level quote  | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd>          | wysiwyg mode                                 |
 | Insert block element 1                           | <kbd>></kbd>                                         | Insert reference in inline element           |
 | Insert block element 2                           | <kbd>Ctrl Shift :</kbd> / <kbd>⌘ ⇧ :</kbd>       | Block element becomes reference wysiwyg mode |
 | Switch between quotes and block elements         | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                 |                                              |
+{: id="20201227133532-3scfmzb"}
 
 ### Code block <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>
+{: id="20201227133532-w5rw1xb"}
 
 | Name                                    | Shortcut key                                |
-| --------------------------------------- | ------------------------------------------- |
+| ----------------------------------------- | --------------------------------------------- |
 | Switch between input box and code block | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
 | Hide editing interface                  | <kbd>Escape</kbd>                           |
 | Select all codes                        | <kbd>Ctrl A</kbd> / <kbd>⌘ A</kbd>        |
+{: id="20201227133532-l5tsxgz"}
 
 ### Table <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>
+{: id="20201227133532-etke7gh"}
 
 | Name                                         | Shortcut key                                                        |
-| -------------------------------------------- | ------------------------------------------------------------------- |
+| ---------------------------------------------- | --------------------------------------------------------------------- |
 | Insert a new line under the current line     | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>                                |
 | Delete line                                  | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>                                |
 | Insert a new column after the current column | <kbd>Ctrl Shift +</kbd> / <kbd>⌘ ⇧ +</kbd>                      |
@@ -130,6 +151,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Switch between input boxes                   | <kbd>Tab</kbd>                                                      |
 | Move the cursor to the previous element      | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd><br /><kbd>Backspace</kbd> |
 | Move the cursor to the next element          | <kbd>Tab</kbd>                                                      |
+{: id="20201227133532-0pk8efo"}
 
 
 {: id="20200924100950-9op5xi1" type="doc"}
