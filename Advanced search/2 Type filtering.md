@@ -1,4 +1,4 @@
-If the search keyword starts with the following characters, type filtering is enabled.
+The search condition supports expressions, you can use the `type:x` syntax to enable type filtering, where the value of `x` is as follows:
 {: id="20201224120448-hggh9p6"}
 
 * {: id="20201224120448-mpmfni9"}`d` Document block (Only search on the document name, will not search for the document containing content blocks)
@@ -13,7 +13,7 @@ If the search keyword starts with the following characters, type filtering is en
 * {: id="20201224120448-p3d5s2n"}`p` Paragraph block
 {: id="20201224092621-haejkkh"}
 
-For example, if you want to search for all heading blocks that contain `Markdown`, you can use `hMarkdown` as the search criteria. If the beginning character of the keyword to be searched is in the above list, you need to use `\` to escape. For example, if you want to search for the keyword `doc`, `d` will hit the document block filter, so that the keyword actually searched is `oc`, which needs to be escaped by `\doc`.
+For example, if you want to search all title blocks that contain `Markdown`, you can use `Markdown type:h`, abbreviated as `h:Markdown`.
 {: id="20201224120448-iaarh39"}
 
 
