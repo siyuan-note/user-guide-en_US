@@ -40,11 +40,17 @@ If you need to share the configuration on multiple devices, you can synchronize 
 ## Do you plan to support plugins?
 {: id="20201224120448-yq5ziln"}
 
-SiYuan supports ((20201004194026-s8h2cog "Use on browser")), the functions can be extended through browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan.
+Siyuan Note supports ((20201004194026-s8h2cog "Use on browser")),  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of ((20201227201751-gv0fpx2 "Kernel API")) , we will introduce a plug-in mechanism in the future.
 {: id="20201224120448-hn7uqj1"}
 
-In the later stage, we plan to introduce "View" to structure and render data in various formats. #TODO#
-{: id="20201224120448-06hah8n"}
+## Why is pit.exe reported as a Trojan virus?
+{: id="20201228141919-1rv31v8"}
+
+The pit.exe located in the resources folder of the installation directory is the SiYuan update program, which is responsible for pulling the update package from and decompressing the update.
+{: id="20201228141919-vgwyjy9"}
+
+As for why the Trojan horse virus was reported, we don't know. We have opened [pit source](https://github.com/siyuan-note/pit). Developers are welcome to contribute, thank you.
+{: id="20201228141919-c8sel2o"}
 
 ## Do I need to pay for it?
 {: id="20201224120448-0rqote3"}

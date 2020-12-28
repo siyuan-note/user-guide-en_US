@@ -52,6 +52,7 @@ At present, some components of SiYuan are open source, and contributions are wel
 
 * {: id="20201225220954-59u55ja"}[User Guide](https://github.com/siyuan-note/user-guide-en_US)
 * {: id="20201225220954-8jzn1fr"}[Appearance and language](https://github.com/siyuan-note/appearance)
+* {: id="20201228142101-1djq2o1"}[Update program](https://github.com/siyuan-note/pit)
 * {: id="20201225220954-4tk3ciz"}[Markdown Engine](https://github.com/88250/lute)
 {: id="20201225220954-jg9vutj"}
 
