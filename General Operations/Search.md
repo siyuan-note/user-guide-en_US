@@ -14,6 +14,26 @@ Trigger the search box via <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd>, support two mod
 Content block reference/embedded search, in the editor document by typing `((keyword` to trigger, support ((20201222100222-q47d64s "Type filtering")).
 {: id="20201230105105-ccbssgd"}
 
+#Note#: Global search and block ref search only return the direct sub-blocks at the root level of the document when no type filter is specified. For example, the document structure is as follows:
+{: id="20201230111223-blg0opd"}
+
+```markdown
+## Heading
+
+Paragraph 1.
+
+* List
+  * Child List
+   
+    Child Paragraph.
+
+Paragraph 2.
+```
+{: id="20201230111252-1vpgd4n"}
+
+When using `gra` as the search condition, only `Paragraph 1` (type `p`), `List` (type `l`) and `Paragraph 2` (type `p`) are returned. If you need to return a sub-block of a non-root container block, you need to use the type filter `i:gra`, then return two list item blocks `List` (type `i`) and `Child List` (type `i`).
+{: id="20201230111314-e0rdu8y"}
+
 ## Relation graph search
 {: id="20201230105105-fqu6x6v"}
 
