@@ -34,9 +34,6 @@ First position the cursor on the cell that needs to be adjusted, and then right-
 The default configuration folder is located in the user's home directory `~/.siyuan/`. If there is a configuration folder in the installation directory, the installation directory will be used first. You can also specify the configuration folder path by ((20200924100717-yzwzn64 "startup parameter")).
 {: id="20201224120448-hexn2qn"}
 
-If you need to share the configuration on multiple devices, you can synchronize the configuration folder through a third-party network disk service.
-{: id="20201224120448-lwcga57"}
-
 ## Do you plan to support plugins?
 {: id="20201224120448-yq5ziln"}
 
@@ -46,11 +43,14 @@ Siyuan Note supports ((20201004194026-s8h2cog "Use on browser")),  which can be 
 ## Why is pit.exe reported as a Trojan virus?
 {: id="20201228141919-1rv31v8"}
 
-The pit.exe located in the resources folder of the installation directory is the SiYuan update program, which is responsible for pulling the update package from and decompressing the update.
+The pit.exe located in the resources folder of the installation directory is the SiYuan update program, which is responsible for pulling the update package from and decompressing the update. As for why the Trojan horse virus was reported, we don't know. We have opened [pit source](https://github.com/siyuan-note/pit). Developers are welcome to contribute, thank you.
 {: id="20201228141919-vgwyjy9"}
 
-As for why the Trojan horse virus was reported, we don't know. We have opened [pit source](https://github.com/siyuan-note/pit). Developers are welcome to contribute, thank you.
-{: id="20201228141919-c8sel2o"}
+## Why does WebDAV report error 503 after connecting?
+{: id="20201231103013-nxyusb6"}
+
+This error is returned by the WebDAV provider interface. Generally, it is because SiYuan calls the interface too frequently, which causes the provider to limit the interface service. When connecting to WebDAV, please specify the specific folder path in the service address column, such as: `https://dav.jianguoyun.com/dav/My Notes Folder/`, please do not use `https://dav.jianguoyun.com/dav/` directly.
+{: id="20201231103013-qoubp11"}
 
 ## Do I need to pay for it?
 {: id="20201224120448-0rqote3"}
