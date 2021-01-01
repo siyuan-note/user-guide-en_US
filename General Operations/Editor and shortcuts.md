@@ -15,6 +15,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | New document                          | <kbd>Ctrl N</kbd> / <kbd>⌘ N</kbd>           |
 | Search                                | <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd>           |
 | Close the current tab                 | <kbd>Ctrl W</kbd> / <kbd>⌘ W</kbd>           |
+| Clear Font Style                      | <kbd>Ctrl T</kbd> / <kbd>⌘ T</kbd>           |
 | File Tree Tab                         | <kbd>Alt 1</kbd> / <kbd>⌘ 1</kbd>            |
 | Linkage outline tab                   | <kbd>Alt 2</kbd> / <kbd>⌘ 2</kbd>            |
 | Bookmark tab                          | <kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd>            |
