@@ -1,4 +1,4 @@
-For ((20200924101106-19z4kaa "content block")), the most valuable way to use it is to link them through ((20200924101312-jj4e0v3 "Content block reference")) and ((20200924094024-s0oyhvp "Content block embedding")). A good link is directional:
+For ((20200924101106-19z4kaa "content block")), the most valuable way to use it is to link them through ((20200924101312-jj4e0v3 "Content block reference")) and ((20200924101312-385dey5 "Content block embedding")). A good link is directional:
 {: id="20210104091542-v1yca4p"}
 
 * {: id="20210104091542-ctguz9s"}Forwardlink, that is, which other content blocks are used in the current content block
