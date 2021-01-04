@@ -1,55 +1,80 @@
 ## Tutorial
+{: id="20210104091509-p9osn32"}
 
 This is an example of how to correctly use **Markdown** typesetting. It is necessary to learn this to make your article better and clearer.
+{: id="20210104091509-kcv33qk"}
 
 > Quoted text: Markdown is a text formatting syntax inspired
+> {: id="20210104091509-qnj7r6k"}
+{: id="20210104091509-mqesdiy"}
 
 ## Syntax guide
+{: id="20210104091509-e9ripro"}
 
 ### General content
+{: id="20210104091509-sg4pt12"}
 
 This content shows some typeset formats in the content, such as:
+{: id="20210104091509-2g40nhk"}
 
 -**Bold**-`**Bold**`-*Tilt*-`*Tilt*`-~~Strikethrough~~-`~~Strikethrough~~`-`Code tag`-`` `Code tag` ``-[Hyperlink](https://ld246.com)-`[Hyperlink](https://ld246.com)`-[username@gmail.com](mailto:username@gmail.com)-`[username@gmail.com](mailto:username@gmail.com)`
+{: id="20210104091509-8csaq4j"}
 
 ### Emoji Emoji
+{: id="20210104091509-hdc3l4b"}
 
 Support most standard emoticons, you can use the input method to input directly or manually input the character format. Trigger auto completion by entering `:`.
+{: id="20210104091509-o778oe1"}
 
 #### Some emoticons examples
+{: id="20210104091509-nr161zw"}
 
 :smile: :laughing: :dizzy_face: :sob: :cold_sweat: :sweat_smile: :cry: :triumph: :heart_eyes: :relieved::+1: :-1: :100: :clap: :bell: :gift: :question: :bomb: :heart: :coffee: :cyclone: :bow: :kiss: :pray: :anger:
+{: id="20210104091509-s9tt7p4"}
 
 ### Heading
+{: id="20210104091509-23f3041"}
 
 Use one `#` for the first-level heading, two `##` for the second-level heading, and so on, up to six-level headings are supported.
+{: id="20210104091509-cboa9lo"}
 
 > NOTE: Don't forget # needs to have a space after it!
+> {: id="20210104091509-01p1e41"}
+{: id="20210104091509-q8kvnk3"}
 
 ### Pictures
+{: id="20210104091509-xzmngg2"}
 
 ```
 ![alt text](http://image-path.png)
 ![alt text](http://image-path.png "Image Title Value")
 ```
+{: id="20210104091509-9nctgxg"}
 
 Support direct copy and paste.
+{: id="20210104091509-dpejxes"}
 
 ### Code block
+{: id="20210104091509-606oli4"}
 
 #### Ordinary
+{: id="20210104091509-xmjh8gb"}
 
 ```
 *emphasize* **strong**
 _emphasize_ __strong__
 var a = 1
 ```
+{: id="20210104091509-pgq8nyo"}
 
 #### Syntax highlighting support
+{: id="20210104091509-5wdau5k"}
 
 If the language name is followed by ```, it can have the effect of syntax highlighting, for example:
+{: id="20210104091509-wae7knn"}
 
 ##### Demonstrate Go code highlighting
+{: id="20210104091509-v2agp4t"}
 
 ```go
 package main
@@ -60,8 +85,10 @@ func main() {
 fmt.Println("Hello, World")
 }
 ```
+{: id="20210104091509-7jdx2zj"}
 
 ##### Demo Java highlighting
+{: id="20210104091509-yzs0dlz"}
 
 ```java
 public class HelloWorld {
@@ -72,78 +99,108 @@ public class HelloWorld {
 
 }
 ```
+{: id="20210104091509-686b9xi"}
 
 > Tip: Language names support the following: `ruby`, `python`, `js`, `html`, `erb`, `css`, `coffee`, `bash`, `json`, `yml`, ` xml` ...
+> {: id="20210104091509-ozjt2fc"}
+{: id="20210104091509-3a5p9xt"}
 
 ### Ordered, unordered, task list
+{: id="20210104091509-6uxwbx1"}
 
 #### Unordered List
+{: id="20210104091509-dyshnes"}
 
 -Java
+{: id="20210104091509-4361ij9"}
 
 -Spring
 -IoC
 -AOP
 -Go
+{: id="20210104091509-lpyprpg"}
 
 -gofmt
 -Wide
 -Node.js
+{: id="20210104091509-qowv53y"}
 
 -Koa
 -Express
+{: id="20210104091509-atai4lp"}
 
 #### Ordered List
+{: id="20210104091509-6vdzi1s"}
 
-1. Node.js
+1. {: id="20210104091509-uoj0v4u"}Node.js
+   {: id="20210104091509-466uqpv"}
 
-   1. Express
-   2. Koa
-   3. Sails
-2. Go
+   1. {: id="20210104091509-7f27hw2"}Express
+   2. {: id="20210104091509-9nn3xgv"}Koa
+   3. {: id="20210104091509-ththxjo"}Sails
+   {: id="20210104091509-tz6b667"}
+2. {: id="20210104091509-q2i8lew"}Go
+   {: id="20210104091509-a4qoj4e"}
 
-   1. gofmt
-   2. Wide
-3. Java
+   1. {: id="20210104091509-9nnoi3q"}gofmt
+   2. {: id="20210104091509-isoqrw3"}Wide
+   {: id="20210104091509-bwtgbgh"}
+3. {: id="20210104091509-46ksbxh"}Java
+   {: id="20210104091509-ys7x4p9"}
 
-   1. Latke
-   2. IDEA
+   1. {: id="20210104091509-hwzgjv7"}Latke
+   2. {: id="20210104091509-x6gh9pt"}IDEA
+   {: id="20210104091509-epzcxbq"}
+{: id="20210104091509-14bo3es"}
 
 #### task list
+{: id="20210104091509-lgi6kq5"}
 
 -[X] Publish Sym
 -[X] Release Solo
 -[] Book a dentist
+{: id="20210104091509-uossxkc"}
 
 ### Form
+{: id="20210104091509-qr9enpx"}
 
 If you need to display data or something, you can choose to use a table.
+{: id="20210104091509-ni6g1rn"}
 
 | header 1 | header 2 |
-| -------- | -------- |
+| ---------- | ---------- |
 | cell 1   | cell 2   |
 | cell 3   | cell 4   |
 | cell 5   | cell 6   |
+{: id="20210104091509-kjhoeyo"}
 
 ### Paragraph
+{: id="20210104091509-vcbuim6"}
 
 Blank lines can divide the content into sections for easy reading. (This is the first paragraph)
+{: id="20210104091509-ljoi275"}
 
 Using blank lines is very important in Markdown typesetting. (This is the second paragraph)
+{: id="20210104091509-j9suugh"}
 
 ### Link reference
+{: id="20210104091509-6a6yqod"}
 
 [Link text][Link label]
+{: id="20210104091509-2d1xbap"}
 
 ```
 [Link text][link label]
 
 [Link label]: https://b3log.org
 ```
+{: id="20210104091509-9dupsx7"}
 
 ### Mathematical formula
+{: id="20210104091509-5te4mca"}
 
 Multi-line formula block:
+{: id="20210104091509-wvfqjwl"}
 
 $$
 \frac{1}{
@@ -154,12 +211,16 @@ $$
   }
 }
 $$
+{: id="20210104091509-oizpd0y"}
 
 In-line formula:
+{: id="20210104091509-a5y3bhl"}
 
 The formula $a^2 + b^2 = \color{red}c^2$ is inline.
+{: id="20210104091509-hit6ffz"}
 
 ### Mind Map
+{: id="20210104091509-v1x69oc"}
 
 ```mindmap
 - Tutorial
@@ -198,8 +259,10 @@ The formula $a^2 + b^2 = \color{red}c^2$ is inline.
   - Footnote
   - Shortcuts
 ```
+{: id="20210104091509-ilh76fd"}
 
 ### Flow chart
+{: id="20210104091509-oihpzcz"}
 
 ```mermaid
 graph TB
@@ -214,8 +277,10 @@ graph TB
     c1-->c2
     end
 ```
+{: id="20210104091509-viqif92"}
 
 ### Timing diagram
+{: id="20210104091509-fim1ztl"}
 
 ```mermaid
 sequenceDiagram
@@ -224,8 +289,10 @@ sequenceDiagram
         John-->>Alice: Great!
     end
 ```
+{: id="20210104091509-mwfs4sw"}
 
 ### Gantt chart
+{: id="20210104091509-gjag91d"}
 
 ```mermaid
 gantt
@@ -238,8 +305,10 @@ gantt
     Task in sec :2019-01-12, 12d
     another task: 24d
 ```
+{: id="20210104091509-ki9cxs7"}
 
 ### Chart
+{: id="20210104091509-hlh01sn"}
 
 ```echarts
 {
@@ -270,8 +339,10 @@ gantt
   ]
 }
 ```
+{: id="20210104091509-2kh9v50"}
 
 ### Staff
+{: id="20210104091509-j6xq9xm"}
 
 ```abc
 X: 24
@@ -290,8 +361,10 @@ K: Em
 "G"g2ab3|"Em"gfeg2e|"D"fedB2A|"Em"e2e gfe|\
 "G"g2ab3|"Em"gfe"D"f2d|"Em"e3-e3:|
 ```
+{: id="20210104091509-d5oimqr"}
 
 ### Graphviz
+{: id="20210104091509-p75cyqy"}
 
 ```graphviz
 digraph finite_state_machine {
@@ -310,8 +383,10 @@ digraph finite_state_machine {
      q2 -> q2 [label = "b" ];
 }
 ```
+{: id="20210104091509-5oabbxe"}
 
 ### Flowchart
+{: id="20210104091509-3e348ea"}
 
 ```flowchart
 st=>start: Start
@@ -323,24 +398,34 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+{: id="20210104091509-u0vtq1c"}
 
 ### Content block
+{: id="20210104091509-alp29j5"}
 
 The syntax of the content block is an extension of Markdown by SiYuan.
+{: id="20210104091509-cahkz6m"}
 
 ### Content block reference
+{: id="20210104091509-60dpmax"}
 
 `((20200924101312-jj4e0v3 "Content block reference"))`
+{: id="20210104091509-jral852"}
 
 ((20200924101312-jj4e0v3 "Content block reference"))
+{: id="20210104091509-33x9nv5"}
 
 ### Content block embedding
+{: id="20210104091509-z5exdte"}
 
 `!((20200924101312-385dey5 "Content block embedding"))`
+{: id="20210104091509-smzo1ig"}
 
 !((20200924101312-385dey5 "Content block embedding"))
+{: id="20210104091509-wncua57"}
 
 #### Super block
+{: id="20210104091509-doo27sv"}
 
 ```markdown
 {{{
@@ -348,10 +433,13 @@ content blocks
 ...
 }}}
 ```
+{: id="20210104091509-80lo43a"}
 
 ## Shortcuts
+{: id="20210104091509-lwkktkk"}
 
 Our editor supports many shortcut keys, please refer to ((20200924100950-9op5xi1 "Editor and shortcuts")) for details.
+{: id="20210104091509-cgpdghn"}
 
 
 {: id="20200924093441-ft2rhps" type="doc"}
