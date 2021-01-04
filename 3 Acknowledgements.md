@@ -23,6 +23,7 @@ SiYuan is made possible by the [Vditor](https://github.com/Vanessa219/vditor) an
 * {: id="20210104091623-3q986vi"}[https://github.com/jackpal/gateway](https://github.com/jackpal/gateway) `BSD-3-Clause License`
 * {: id="20210104091623-r97lcfx"}[https://github.com/mitchellh/go-ps](https://github.com/mitchellh/go-ps) `MIT License`
 * {: id="20210104091623-qlhawj6"}[https://github.com/mssola/user_agent](https://github.com/mssola/user_agent) `MIT License`
+* {: id="20210104111919-0nrhvp5"}[https://github.com/panjf2000/ants](https://github.com/panjf2000/ants) `MIT License`
 * {: id="20210104091623-nkdzq8e"}[https://github.com/parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) `MIT License`
 * {: id="20210104091623-8pulwlx"}[https://github.com/golang/crypto](https://github.com/golang/crypto) `BSD-3-Clause License`
 * {: id="20210104091623-c9igaeg"}[https://github.com/golang/net](https://github.com/golang/net) `BSD-3-Clause License`
