@@ -53,10 +53,10 @@ The query contains paragraph blocks of both `In SiYuan` and `core concept` text,
 #### Case 2
 {: id="20201224120448-gx2xvjh"}
 
-Query paragraph blocks that contain both tags `Content block/Embed` and `Content block/Reference`:
+Query paragraph blocks that contain both tags `#Content block/Embed#` and `#Content block/Reference#`:
 {: id="20201224120448-e0ohbtq"}
 
-!{{SELECT * FROM blocks WHERE (content LIKE '%Content block/Embed%' OR content LIKE '%Content block/Reference%') AND path NOT LIKE '%Content block dynamic query%'}}
+!{{SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Content block dynamic query%'}}
 {: id="20201224120448-ww21jau"}
 
 #### Case 3
