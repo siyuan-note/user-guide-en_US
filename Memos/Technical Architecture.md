@@ -31,7 +31,6 @@ The backend is a resident HTTP server, which implements core business logic and 
 {: id="20210104091528-8v3v84k"}
 
 * {: id="20210104091528-v3ltm5q"}Persistent data is realized based on the file system of the operating system and stored in files and folders
-* {: id="20210104091528-7a26zuo"}Document tree resident kernel process memory #TODO#: optimize memory usage
 * {: id="20210104091528-e1v8ppd"}Read-only data is stored in SQLite database
   * {: id="20210104091528-bahjy9y"}Edit changes will be automatically synchronized to the database
   * {: id="20210104091528-a59dhnd"}The database is created temporarily and only exists when the kernel is running
