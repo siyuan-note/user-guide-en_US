@@ -10,6 +10,12 @@ These contents are used to store the content block identification and follow the
 For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management. If you need to restore accidentally deleted data, you can perform operations through the Git client.
 {: id="20201224120448-1wyj9f7"}
 
+## How can I just wrap and not start a new paragraph?
+{: id="20210106192438-on2fb5k"}
+
+Use <kbd>Shift+Enter</kbd>.
+{: id="20210106192504-pgryxb1"}
+
 ## How to insert a picture?
 {: id="20201224120448-z2gba1k"}
 
