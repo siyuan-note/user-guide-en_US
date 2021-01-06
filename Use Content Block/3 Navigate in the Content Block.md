@@ -23,7 +23,10 @@ We can open the corresponding document by double-clicking the node on the graph.
 ## Backlinks
 {: id="20200924101210-3qfiiat"}
 
-The backlink list is document-level, showing where the content block in the current corresponding document is referenced.
+Backlinks are document-level, listing the blocks in the current document where content blocks are quoted and mentioned.
+{: id="20210106204930-m073dyq"}
+
+### Links
 {: id="20210104091546-2gmpeq4"}
 
 * {: id="20210104091546-iqnkfsh"}Clicking on the reference block in the backlink list will highlight the definition block in the current document
@@ -31,6 +34,12 @@ The backlink list is document-level, showing where the content block in the curr
 * {: id="20210104091546-oah50lx"}Hover the mouse over the icon in front of the reference block in the backlink list to preview the content
 * {: id="20210104091546-prvlmgb"}Double-click the reference block in the backlink list to jump
 {: id="20210104091546-owkqsmk"}
+
+### Mentions
+{: id="20210106204950-gjw62fp"}
+
+It is mentioned that the name of the content block in the current document is used as a keyword to search, and the search result is a content block containing these keywords. You can use the link button to convert the mention into a link: the mention will be replaced with `((id "content block name"))`.
+{: id="20210106204954-rpwfh3i"}
 
 
 {: id="20200924101200-gss5vee" type="doc"}
