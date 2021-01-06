@@ -24,7 +24,7 @@ Currently only supports browsing the latest 32 commits history.
 ## Rollback version
 {: id="20210104091559-kgrtuyh"}
 
-At present, SiYuan only supports browsing history. If you need to rollback or support more Git operations, please use the Git tool. #Note#: After using external tools, you need to restart SiYuan.
+At present, SiYuan only supports browsing history. If you need to rollback or support more Git operations, please use the Git tool. #Note#: After using external tools, you need to restart SiYuan, or click the refresh button on the file tree.
 {: id="20210104091559-ejqvg9b"}
 
 
