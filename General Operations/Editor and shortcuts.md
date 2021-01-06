@@ -4,155 +4,164 @@
 The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor). Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
 {: id="20201227133532-ii71fui"}
 
-## Application shortcuts
+## Shortcuts
 {: id="20201227133532-44ubczo"}
 
 ### General
 {: id="20201227133532-waqktxs"}
 
-| Name                                  | Shortcut key                                   |
-| --------------------------------------- | ------------------------------------------------ |
-| New document                          | <kbd>Ctrl N</kbd> / <kbd>⌘ N</kbd>           |
-| Search                                | <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd>           |
-| Close the current tab                 | <kbd>Ctrl W</kbd> / <kbd>⌘ W</kbd>           |
-| Clear Font Style                      | <kbd>Ctrl T</kbd> / <kbd>⌘ T</kbd>           |
-| File Tree Tab                         | <kbd>Alt 1</kbd> / <kbd>⌘ 1</kbd>            |
-| Linkage outline tab                   | <kbd>Alt 2</kbd> / <kbd>⌘ 2</kbd>            |
-| Bookmark tab                          | <kbd>Alt 3</kbd> / <kbd>⌘ 3</kbd>            |
-| Tag tab                               | <kbd>Alt 4</kbd> / <kbd>⌘ 4</kbd>            |
-| Linkage Backlink Tab                  | <kbd>Alt 7</kbd> / <kbd>⌘ 7</kbd>            |
-| Linkage Diagram Tab                   | <kbd>Alt 8</kbd> / <kbd>⌘ 8</kbd>            |
-| Global Relationship Diagram Tab       | <kbd>Alt 9</kbd> / <kbd>⌘ 9</kbd>            |
-| Actual Size                           | <kbd>Ctrl 0</kbd> / <kbd>⌘ 0</kbd>           |
-| Zoom In                               | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>           |
-| Zoom Out                              | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>           |
-| Paste block embed/Paste as plain text | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ V</kbd> |
-| Hide/Show Window                      | <kbd>Ctrl Shift Y</kbd> / <kbd>⌘ ⇧ Y</kbd> |
-{: id="20201227133532-nqay56n"}
+| Name                       | Shortcuts                           | Memo                                                     |
+| ---------------------------- | ------------------------------------- | ---------------------------------------------------------- |
+| New doc                    | <kbd>Ctrl+N</kbd> / <kbd>⌘N</kbd> |                                                          |
+| Search                     | <kbd>Ctrl+P</kbd> / <kbd>⌘P</kbd> |                                                          |
+| Close tab                  | <kbd>Ctrl+W</kbd> / <kbd>⌘W</kbd> |                                                          |
+| File tree tab              | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>  |                                                          |
+| Linkage outline tab        | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>  |                                                          |
+| Bookmark tab               | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>  |                                                          |
+| Tag tab                    | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>  |                                                          |
+| Linkage backlink tab       | <kbd>Alt+7</kbd> / <kbd>⌥7</kbd>  |                                                          |
+| Linkage graph tab          | <kbd>Alt+8</kbd> / <kbd>⌥8</kbd>  |                                                          |
+| Global graph tab           | <kbd>Alt+9</kbd> / <kbd>⌥9</kbd>  |                                                          |
+| Settings                   | <kbd>Alt+P</kbd> / <kbd>⌥P</kbd>  |                                                          |
+| Cloud data synchronization | <kbd>Alt+S</kbd> / <kbd>⌥S</kbd>  |                                                          |
+| Page reset                 | <kbd>Ctrl+0</kbd> / <kbd>⌘0</kbd> |                                                          |
+| Page zoom in               | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd> |                                                          |
+| Page zoom out              | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd> |                                                          |
+| Hide/show window           | <kbd>Alt+M</kbd> / <kbd>⌥M</kbd>  |                                                          |
+| Select up and down         | <kbd>↑</kbd> / <kbd>↓</kbd>     | When the prompt list appears, you can select up and down |
+| Complete selection         | <kbd>Enter</kbd>                    | Use the highlighted content in the list to complete      |
+{: id="20210106154101-qrojg1b"}
 
-## Editor shortcuts
-{: id="20201227133532-o0cij1z"}
+###  Editor
+{: id="20210106154056-koo4wdj"}
 
-### General
-{: id="20201227133532-140floj"}
+#### General
+{: id="20210106154319-v9tt3e2"}
 
-| Name                                     | Shortcut key                                                  | Remarks      |
-| ------------------------------------------ | --------------------------------------------------------------- | -------------- |
-| Content block quote                      | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>((</kbd> / <kbd>[[</kbd> | see below    |
-| Emoticons                                | <kbd>:</kbd> / <kbd>Alt E</kbd> / <kbd>⌥ E</kbd>            |              |
-| Title                                    | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                          | see below    |
-| Bold                                     | <kbd>Ctrl B</kbd> / <kbd>⌘ B</kbd>                          |              |
-| Italic                                   | <kbd>Ctrl I</kbd> / <kbd>⌘ I</kbd>                          |              |
-| Mark                                     | <kbd>Ctrl Shift M</kbd> / <kbd>⌘ ⇧ M</kbd>                |              |
-| Tag                                      | <kbd>Ctrl Shift T</kbd> / <kbd>⌘ ⇧ T</kbd>                |              |
-| Strikethrough                            | <kbd>Ctrl D</kbd> / <kbd>⌘ D</kbd>                          |              |
-| Link                                     | <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>                          | see below    |
-| Unordered List                           | <kbd>Ctrl L</kbd> / <kbd>⌘ L</kbd>                          | see below    |
-| Ordered list                             | <kbd>Ctrl O</kbd> / <kbd>⌘ O</kbd>                          | see below    |
-| Task list                                | <kbd>Ctrl J</kbd> / <kbd>⌘ J</kbd>                          | see below    |
-| Quote                                    | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                          | see below    |
-| Dividing line                            | <kbd>Ctrl Shift H </kbd> / <kbd>⌘ ⇧ H</kbd>               |              |
-| Code block                               | <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>                          | see below    |
-| Code                                     | <kbd>Ctrl G</kbd> / <kbd>⌘ G</kbd>                          |              |
-| Insert an empty block before the element | <kbd>Ctrl Shift B</kbd> / <kbd>⌘ ⇧ B</kbd>                |              |
-| Insert an empty block after the element  | <kbd>Ctrl Shift E</kbd> / <kbd>⌘ ⇧ E</kbd>                |              |
-| Table                                    | <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>                          | see below    |
-| Undo                                     | <kbd>Ctrl Z</kbd> / <kbd>⌘ Z</kbd>                          |              |
-| Redo                                     | <kbd>Ctrl Y</kbd> / <kbd>⌘ Y</kbd>                          |              |
-| Preview                                  | <kbd>Ctrl E</kbd> / <kbd>⌘ E</kbd>                          |              |
-| Full screen                              | <kbd>Ctrl'</kbd> / <kbd>⌘'</kbd>                            |              |
-| Move block element up                    | <kbd>Ctrl Shift U</kbd> / <kbd>⌘ ⇧ U</kbd>                | wysiwyg mode |
-| Move block element down                  | <kbd>Ctrl Shift D</kbd> / <kbd>⌘ ⇧ D</kbd>                | wysiwyg mode |
-| Remove current element                   | <kbd>Ctrl Shift X</kbd> / <kbd>⌘ ⇧ X</kbd>                | wysiwyg mode |
-| Save                                     | <kbd>Ctrl S</kbd> / <kbd>⌘ S</kbd>                          |              |
-| Wrong input                              | <kbd>Backspace</kbd>                                          |              |
-{: id="20201227133532-8tiygrd"}
+| Name                                                       | Shortcuts                                                             | Memo                                                                                                  |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Search                                                     | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                   |                                                                                                       |
+| Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                   | Cut block content when no content is selected                                                         |
+| Clear font style                                           | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                                    |                                                                                                       |
+| Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                          | Remove content block reference/content block embedding/content block dynamic query/link/picture/block |
+| Copy/copy block content                                    | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                   | Copy block content when no content is selected                                                        |
+| Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                          |                                                                                                       |
+| Paste/paste block reference                                | <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd>                                   | When the clipboard contains a block ID, it is a pasted block reference                                |
+| Paste as plain text / paste block embed                    | <kbd>Ctrl+Shift+V</kbd> / <kbd>⇧⌘V</kbd>                          | When the clipboard contains a block ID, it is a paste block embed                                     |
+| Revoke                                                     | <kbd>Ctrl+Z</kbd> / <kbd>⌘Z</kbd>                                   |                                                                                                       |
+| Redo                                                       | <kbd>Ctrl+Y</kbd> / <kbd>⌘Y</kbd>                                   |                                                                                                       |
+| Save                                                       | <kbd>Ctrl+S</kbd> / <kbd>⌘S</kbd>                                   |                                                                                                       |
+| Rename                                                     | <kbd>F2</kbd> / <kbd>F2</kbd>                                         |                                                                                                       |
+| Rename document with selected content                      | <kbd>Alt+D</kbd> / <kbd>⌥D</kbd>                                    |                                                                                                       |
+| Use the selection as the name of the new document          | <kbd>Alt+Q</kbd> / <kbd>⌥Q</kbd>                                    |                                                                                                       |
+| Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                    |                                                                                                       |
+| Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                    |                                                                                                       |
+| Navigate to the file tree                                  | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd>                                    |                                                                                                       |
+| Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                    |                                                                                                       |
+| Outline                                                    | <kbd>Alt+O</kbd> / <kbd>⌥O</kbd>                                    |                                                                                                       |
+| Backlink                                                   | <kbd>Alt+B</kbd> / <kbd>⌥B</kbd>                                    |                                                                                                       |
+| Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                    |                                                                                                       |
+| History                                                    | <kbd>Alt+H</kbd> / <kbd>⌥H</kbd>                                    |                                                                                                       |
+| Preview                                                    | <kbd>Alt+N</kbd> / <kbd>⌥N</kbd>                                    |                                                                                                       |
+| Full screen                                                | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                    |                                                                                                       |
+| Insert an empty block before the block where the cursor is | <kbd>Ctrl+Shift+B</kbd> / <kbd>⇧⌘B</kbd>                          |                                                                                                       |
+| Insert an empty block after the block where the cursor is  | <kbd>Ctrl+Shift+A</kbd> / <kbd>⇧⌘A</kbd>                          |                                                                                                       |
+| Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                       | The cursor moves out of the anchor text, see below for more                                           |
+| Wrong input                                                | <kbd>Backspace</kbd>                                                  |                                                                                                       |
+| Content block reference                                    | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>（（</kbd> / <kbd>【【</kbd> |                                                                                                       |
+| Content block embedding                                    | <kbd>!((</kbd>                                                        |                                                                                                       |
+| Content block dynamic query                                | <kbd>!{{</kbd>                                                        |                                                                                                       |
+| Template call                                              | <kbd>{{</kbd>                                                         |                                                                                                       |
+{: id="20210106154319-yozlufs"}
 
-### Content block reference <kbd>((</kbd> / <kbd>[[</kbd>
-{: id="20201227133532-to2767a"}
+#### Insert element
+{: id="20210106154319-d0mxz1p"}
 
-| Name                            | Shortcut key                                   | Remarks                                                             |
-| --------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------- |
-| Select                          | <kbd>↑</kbd> / <kbd>↓</kbd>                |                                                                     |
-| Completion                      | <kbd>Enter</kbd>                               |                                                                     |
-| Jump out of content block quote | <kbd>Tab</kbd>                                 | Only useful in text content                                         |
-| Copy content block ID           | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ X</kbd> |                                                                     |
-| Paste content block reference   | <kbd>Ctrl V</kbd> / <kbd>⌘ v</kbd>           | Only available when the content block ID is copied in the clipboard |
-| Past content block embed        | <kbd>Ctrl Shift V</kbd> / <kbd>⌘ ⇧ v</kbd> | Only available when the content block ID is copied in the clipboard |
-{: id="20201227133532-k4r3hz5"}
+| Name           | Shortcuts                                          | Memo                            |
+| ---------------- | ---------------------------------------------------- | --------------------------------- |
+| Emoji          | <kbd>:</kbd>                                       |                                 |
+| Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
+| Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
+| Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
+| Tag            | <kbd>Ctrl+T</kbd> / <kbd>⌘T</kbd>                |                                 |
+| Strikethrough  | <kbd>Ctrl+D</kbd> / <kbd>⌘D</kbd>                |                                 |
+| Dividing line  | <kbd>Ctrl+\\</kbd> / <kbd>⌘\\</kbd>                |                                 |
+| Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
+| Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
+| Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                | See below for related shortcuts |
+| Heading        | <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>                | See below for related shortcuts |
+| Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
+| Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
+| Task list      | <kbd>Ctrl+J</kbd> / <kbd>⌘J</kbd>                | See below for related shortcuts |
+| Code block     | <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>                | See below for related shortcuts |
+| Table          | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                | See below for related shortcuts |
+{: id="20210106154319-v6ksqnu"}
 
-### Heading <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>
-{: id="20201227133532-ap3s98k"}
+#### Link <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>
+{: id="20210106154319-nkcusf0"}
 
-| Name        | Shortcut key                                                     |
-| ------------- | ------------------------------------------------------------------ |
-| Get bigger  | <kbd>Ctrl +</kbd> / <kbd>⌘ +</kbd>                             |
-| Get smaller | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>                             |
-| H1-H6       | <kbd>Ctrl Alt 1/2/3/4/5/6</kbd> / <kbd>⌘ ⌥ 1/2/3/4/5/6</kbd> |
-| Pop-up menu | <kbd>Ctrl H</kbd> / <kbd>⌘ H</kbd>                             |
-{: id="20201227133532-pznwmrp"}
+| Name                      | Shortcuts                          |
+| --------------------------- | ------------------------------------ |
+| Open in new window        | <kbd>Alt+W</kbd> / <kbd>⌥W</kbd> |
+| Navigate to the file tree | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd> |
+| Open with default program | <kbd>Alt+E</kbd> / <kbd>⌥K</kbd> |
+| Open file location        | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd> |
+{: id="20210106154319-8ovzor1"}
 
-### Link <kbd>Ctrl K</kbd> / <kbd>⌘ K</kbd>
-{: id="20201227133532-wqg7n52"}
+#### Heading <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>
+{: id="20210106154319-6lhdzmm"}
 
-| Name                                 | Shortcut key                                |
-| -------------------------------------- | --------------------------------------------- |
-| Switch between input box and element | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
-| Switch between input boxes           | <kbd>Tab</kbd>                              |
-{: id="20201227133532-wsj3igm"}
+| Name            | Shortcuts                                  |
+| ----------------- | -------------------------------------------- |
+| Get bigger      | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>        |
+| Get smaller     | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>        |
+| Level 1 heading | <kbd>Ctrl+Alt+1</kbd> / <kbd>⌥⌘1</kbd> |
+| Level 2 heading | <kbd>Ctrl+Alt+2</kbd> / <kbd>⌥⌘2</kbd> |
+| Level 3 heading | <kbd>Ctrl+Alt+3</kbd> / <kbd>⌥⌘3</kbd> |
+| Level 4 heading | <kbd>Ctrl+Alt+4</kbd> / <kbd>⌥⌘4</kbd> |
+| Level 5 heading | <kbd>Ctrl+Alt+5</kbd> / <kbd>⌥⌘5</kbd> |
+| Level 6 heading | <kbd>Ctrl+Alt+6</kbd> / <kbd>⌥⌘6</kbd> |
+{: id="20210106154319-kc7vf20"}
 
-### List <kbd>Ctrl L/O/J</kbd> / <kbd>⌘ L/O/J</kbd>
-{: id="20201227133532-0ktd1gp"}
+#### List <kbd>Ctrl+L/O/J</kbd> / <kbd>⌘L/O/J</kbd>
+{: id="20210106154319-ans1gna"}
 
-| Name                          | Shortcut key                                   | Remarks                             |
-| ------------------------------- | ------------------------------------------------ | ------------------------------------- |
-| Indent 1                      | <kbd>Tab</kbd>                                 | The cursor must be at the beginning |
-| Indent 2                      | <kbd>Ctrl Shift I</kbd> / <kbd>⌘ ⇧ I</kbd> |                                     |
-| Reverse Indent 1              | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd>      | The cursor must be at the beginning |
-| Reverse indent 2              | <kbd>Enter</kbd>                               | Empty list item                     |
-| Reverse indent 3              | <kbd>Ctrl Shift O</kbd> / <kbd>⌘ ⇧ O</kbd> |                                     |
-| Switch between Done and To Do | <kbd>Ctrl Shift J</kbd> / <kbd>⌘ ⇧ J</kbd> | Task List                           |
-{: id="20201227133532-z2717mf"}
+| Name                          | Shortcuts                                    | Memo                                |
+| ------------------------------- | ---------------------------------------------- | ------------------------------------- |
+| Indent 1                      | <kbd>Tab</kbd>                               | The cursor must be at the beginning |
+| Indent 2                      | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                                     |
+| Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>     |                                     |
+| Reverse indent 2              | <kbd>Enter</kbd>                             | Empty list item                     |
+| Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list                           |
+{: id="20210106154319-4oe7doq"}
 
-### Quote <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>
-{: id="20201227133532-lua7bkd"}
+#### Code block <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>
+{: id="20210106154319-3mrrib6"}
 
-| Name                                             | Shortcut key                                         | Remarks                                      |
-| -------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
-| Insert an empty block before the top-level quote | <kbd>Ctrl Alt Enter</kbd> / <kbd>⌘ ⌥ Enter</kbd> | wysiwyg mode                                 |
-| Insert an empty block after the top-level quote  | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd>          | wysiwyg mode                                 |
-| Insert block element 1                           | <kbd>></kbd>                                         | Insert reference in inline element           |
-| Insert block element 2                           | <kbd>Ctrl Shift :</kbd> / <kbd>⌘ ⇧ :</kbd>       | Block element becomes reference wysiwyg mode |
-| Switch between quotes and block elements         | <kbd>Ctrl ;</kbd> / <kbd>⌘ ;</kbd>                 |                                              |
-{: id="20201227133532-3scfmzb"}
+| Name                       | Shortcuts                           |
+| ---------------------------- | ------------------------------------- |
+| Language switch to content | <kbd>Enter</kbd> / <kbd>Tab</kbd>   |
+| Hide editing interface     | <kbd>Escape</kbd>                   |
+| Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
+{: id="20210106154319-kg91km7"}
 
-### Code block <kbd>Ctrl U</kbd> / <kbd>⌘ U</kbd>
-{: id="20201227133532-w5rw1xb"}
+#### Table <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>
+{: id="20210106154319-jeh8w1g"}
 
-| Name                                    | Shortcut key                                |
-| ----------------------------------------- | --------------------------------------------- |
-| Switch between input box and code block | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd> |
-| Hide editing interface                  | <kbd>Escape</kbd>                           |
-| Select all codes                        | <kbd>Ctrl A</kbd> / <kbd>⌘ A</kbd>        |
-{: id="20201227133532-l5tsxgz"}
-
-### Table <kbd>Ctrl M</kbd> / <kbd>⌘ M</kbd>
-{: id="20201227133532-etke7gh"}
-
-| Name                                         | Shortcut key                                                        |
-| ---------------------------------------------- | --------------------------------------------------------------------- |
-| Insert a new line under the current line     | <kbd>Ctrl =</kbd> / <kbd>⌘ =</kbd>                                |
-| Delete line                                  | <kbd>Ctrl -</kbd> / <kbd>⌘ -</kbd>                                |
-| Insert a new column after the current column | <kbd>Ctrl Shift +</kbd> / <kbd>⌘ ⇧ +</kbd>                      |
-| Delete column                                | <kbd>Ctrl Shift -</kbd> / <kbd>⌘ ⇧ -</kbd>                      |
-| Left aligned                                 | <kbd>Ctrl Shift L</kbd> / <kbd>⌘ ⇧ L</kbd>                      |
-| Center alignment                             | <kbd>Ctrl Shift C</kbd> / <kbd>⌘ ⇧ C</kbd>                      |
-| Right aligned                                | <kbd>Ctrl Shift R</kbd> / <kbd>⌘ ⇧ R</kbd>                      |
-| Move the cursor to the input box             | <kbd>Alt Enter</kbd> / <kbd>⌥ Enter</kbd>                         |
-| Switch between input boxes                   | <kbd>Tab</kbd>                                                      |
-| Move the cursor to the previous element      | <kbd>Shift Tab</kbd> / <kbd>⇧ Tab</kbd><br /><kbd>Backspace</kbd> |
-| Move the cursor to the next element          | <kbd>Tab</kbd>                                                      |
-{: id="20201227133532-0pk8efo"}
+| Name                                    | Shortcuts                                    |
+| ----------------------------------------- | ---------------------------------------------- |
+| Insert a row above                      | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘T</kbd> |
+| Insert a row below                      | <kbd>Ctrl+=</kbd> / <kbd>⇧⌘D</kbd>       |
+| Insert a column on the left             | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
+| Insert a column on the right            | <kbd>Ctrl+Shift+R</kbd> / <kbd>⇧⌘R</kbd> |
+| Delete row                              | <kbd>Alt+-</kbd> / <kbd>⌥-</kbd>           |
+| Delete column                           | <kbd>Ctrl+Alt+_</kbd> / <kbd>⌥⌘-</kbd>   |
+| Left                                    | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>           |
+| Center                                  | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>           |
+| Right                                   | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>           |
+| Move the cursor to the previous element | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>     |
+| Move the cursor to the next element     | <kbd>Tab</kbd>                               |
+{: id="20210106154319-otreidg"}
 
 
 {: id="20200924100950-9op5xi1" type="doc"}
