@@ -76,6 +76,23 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Template call                                              | <kbd>{{</kbd>                                                         |                                                                                                       |
 {: id="20210106154319-yozlufs"}
 
+#### Mindmap
+{: id="20210111221214-v2ie4le"}
+
+| Name               | 快捷 Shortcuts                              |
+| -------------------- | ---------------------------------------------- |
+| Add sibling node   | <kbd>Enter</kbd>                             |
+| Insert child node  | <kbd>Tab</kbd>                               |
+| Insert parent node | <kbd>Shift+Tab</kbd>/<kbd>⇧Tab</kbd>       |
+| Node down          | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>       |
+| Node up            | <kbd>Alt+↑</kbd> / <kbd>⌥↑</kbd>       |
+| Remove node        | <kbd>Backspace</kbd>                         |
+| Zoom out           | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>          |
+| Zoom in            | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |
+| Reset layout       | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
+| Move               | <kbd>Alt+Drag</kbd> / <kbd>⌥Drag</kbd>     |
+{: id="20210111221313-jhectjb"}
+
 #### Insert element
 {: id="20210106154319-d0mxz1p"}
 
