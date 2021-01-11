@@ -19,6 +19,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Linkage outline tab        | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>  |                                                          |
 | Bookmark tab               | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>  |                                                          |
 | Tag tab                    | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>  |                                                          |
+| Daily notes                | <kbd>Alt+5</kbd> / <kbd>⌥5</kbd>  |                                                          |
 | Linkage backlink tab       | <kbd>Alt+7</kbd> / <kbd>⌥7</kbd>  |                                                          |
 | Linkage graph tab          | <kbd>Alt+8</kbd> / <kbd>⌥8</kbd>  |                                                          |
 | Global graph tab           | <kbd>Alt+9</kbd> / <kbd>⌥9</kbd>  |                                                          |
@@ -32,7 +33,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Complete selection         | <kbd>Enter</kbd>                    | Use the highlighted content in the list to complete      |
 {: id="20210106154101-qrojg1b"}
 
-###  Editor
+### Editor
 {: id="20210106154056-koo4wdj"}
 
 #### General
@@ -57,7 +58,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                    |                                                                                                       |
 | Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                    |                                                                                                       |
 | Navigate to the file tree                                  | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd>                                    |                                                                                                       |
-| Fold/Expand Block                                 | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                    |                                                                                  |
+| Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                    |                                                                                                       |
 | Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                    |                                                                                                       |
 | Outline                                                    | <kbd>Alt+O</kbd> / <kbd>⌥O</kbd>                                    |                                                                                                       |
 | Backlink                                                   | <kbd>Alt+B</kbd> / <kbd>⌥B</kbd>                                    |                                                                                                       |
