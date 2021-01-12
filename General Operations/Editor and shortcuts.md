@@ -64,8 +64,10 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Backlink                                                   | <kbd>Alt+B</kbd> / <kbd>⌥B</kbd>                                    |                                                                                                       |
 | Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                    |                                                                                                       |
 | History                                                    | <kbd>Alt+H</kbd> / <kbd>⌥H</kbd>                                    |                                                                                                       |
-| Preview                                                    | <kbd>Alt+N</kbd> / <kbd>⌥N</kbd>                                    |                                                                                                       |
 | Full screen                                                | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                    |                                                                                                       |
+| Switch to Instant Rendering mode                                                    | <kbd>Ctrl+Alt+7</kbd> / <kbd>⌥⌘7</kbd>                                   |                                                                                                       |
+| Switch to Mind Map mode                                                    | <kbd>Ctrl+Alt+8</kbd> / <kbd>⌥⌘8</kbd>                                   |                                                                                                       |
+| Switch to Preview mode                                                    | <kbd>Ctrl+Alt+9</kbd> / <kbd>⌥⌘9</kbd>                                   |                                                                                                       |
 | Insert an empty block before the block where the cursor is | <kbd>Ctrl+Shift+B</kbd> / <kbd>⇧⌘B</kbd>                          |                                                                                                       |
 | Insert an empty block after the block where the cursor is  | <kbd>Ctrl+Shift+A</kbd> / <kbd>⇧⌘A</kbd>                          |                                                                                                       |
 | Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                       | The cursor moves out of the anchor text, see below for more                                           |
@@ -76,7 +78,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Template call                                              | <kbd>{{</kbd>                                                         |                                                                                                       |
 {: id="20210106154319-yozlufs"}
 
-#### Mindmap
+#### Mind Map
 {: id="20210111221214-v2ie4le"}
 
 | Name               | 快捷 Shortcuts                              |
@@ -108,7 +110,6 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
 | Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
 | Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                | See below for related shortcuts |
-| Heading        | <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>                | See below for related shortcuts |
 | Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
 | Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
 | Task list      | <kbd>Ctrl+J</kbd> / <kbd>⌘J</kbd>                | See below for related shortcuts |
@@ -127,7 +128,7 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Open file location        | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd> |
 {: id="20210106154319-8ovzor1"}
 
-#### Heading <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>
+#### Heading
 {: id="20210106154319-6lhdzmm"}
 
 | Name            | Shortcuts                                  |
