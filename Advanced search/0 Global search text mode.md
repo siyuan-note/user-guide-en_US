@@ -41,6 +41,7 @@ Supports specifying priority through `()`, for example, `foo AND (bar OR baz)` m
 * {: id="20201224120448-5a519a3"}`type`: Supports specifying the content block type through `type:foo`, available types please refer to ((20201222100222-q47d64s "Type filtering")). For example, `type:h` means searching in the heading; `type:(m OR c)` means searching in a mathematical formula block or code block
   * {: id="20201225171153-5uu0mrq"}The `AND` logical conjunction of keywords and types supports abbreviation. For example, `foo type:h` can be abbreviated as `h:foo`; `(foo OR bar) type:l` can be abbreviated as `l:(foo OR bar) `. But `foo type:(l OR h)` cannot be abbreviated as `(l OR h):foo`, which means that the specified field must be a specific one
   {: id="20201225171154-ujt8hoc"}
+* {: id="20210112163745-3n24sso"}`markdown`: the default is to search on plain text. If you need to search the original Markdown text, use `markdown:foo`. For example, you can search the to-do list by `markdown:"[] "AND type:l`
 {: id="20201224120448-48l2e0q"}
 
 ## Specify time range
