@@ -65,9 +65,9 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 | Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                    |                                                                                                       |
 | History                                                    | <kbd>Alt+H</kbd> / <kbd>⌥H</kbd>                                    |                                                                                                       |
 | Full screen                                                | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                    |                                                                                                       |
-| Switch to Instant Rendering mode                                                    | <kbd>Ctrl+Alt+7</kbd> / <kbd>⌥⌘7</kbd>                                   |                                                                                                       |
-| Switch to Mind Map mode                                                    | <kbd>Ctrl+Alt+8</kbd> / <kbd>⌥⌘8</kbd>                                   |                                                                                                       |
-| Switch to Preview mode                                                    | <kbd>Ctrl+Alt+9</kbd> / <kbd>⌥⌘9</kbd>                                   |                                                                                                       |
+| Switch to Instant Rendering mode                           | <kbd>Ctrl+Alt+7</kbd> / <kbd>⌥⌘7</kbd>                            |                                                                                                       |
+| Switch to Mind Map mode                                    | <kbd>Ctrl+Alt+8</kbd> / <kbd>⌥⌘8</kbd>                            |                                                                                                       |
+| Switch to Preview mode                                     | <kbd>Ctrl+Alt+9</kbd> / <kbd>⌥⌘9</kbd>                            |                                                                                                       |
 | Insert an empty block before the block where the cursor is | <kbd>Ctrl+Shift+B</kbd> / <kbd>⇧⌘B</kbd>                          |                                                                                                       |
 | Insert an empty block after the block where the cursor is  | <kbd>Ctrl+Shift+A</kbd> / <kbd>⇧⌘A</kbd>                          |                                                                                                       |
 | Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                       | The cursor moves out of the anchor text, see below for more                                           |
@@ -81,18 +81,24 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 #### Mind Map
 {: id="20210111221214-v2ie4le"}
 
-| Name               | 快捷 Shortcuts                              |
-| -------------------- | ---------------------------------------------- |
-| Add sibling node   | <kbd>Enter</kbd>                             |
-| Insert child node  | <kbd>Tab</kbd>                               |
-| Insert parent node | <kbd>Shift+Tab</kbd>/<kbd>⇧Tab</kbd>       |
-| Node down          | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>       |
-| Node up            | <kbd>Alt+↑</kbd> / <kbd>⌥↑</kbd>       |
-| Remove node        | <kbd>Backspace</kbd>                         |
-| Zoom out           | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>          |
-| Zoom in            | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |
-| Reset layout       | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
-| Move               | <kbd>Alt+Drag</kbd> / <kbd>⌥Drag</kbd>     |
+| Name              | Shortcuts                                    | Memo                                    |
+| ------------------- | ---------------------------------------------- | ----------------------------------------- |
+| Add sibling node  | <kbd>Enter</kbd>                             | Parent node must be document/title/list |
+| Insert child node | <kbd>Tab</kbd>                               | Parent node must be document/title/list |
+| Node down         | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>       |                                         |
+| Node up           | <kbd>Alt+↑</kbd> / <kbd>⌥↑</kbd>       |                                         |
+| Remove node       | <kbd>Backspace</kbd>                         |                                         |
+| Zoom out          | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>          |                                         |
+| Zoom in           | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |                                         |
+| Reset layout      | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |                                         |
+| Move              | <kbd>Alt+Drag</kbd> / <kbd>⌥Drag</kbd>     |                                         |
+| Expand one level | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>           |                                     |
+| Expand tow level | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>           |                                     |
+| Expand three level | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>           |                                     |
+| Expand four level | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>           |                                     |
+| Expand five level | <kbd>Alt+5</kbd> / <kbd>⌥5</kbd>           |                                     |
+| Expand six level | <kbd>Alt+6</kbd> / <kbd>⌥6</kbd>           |                                     |
+| Edit             | Double click                                       |                                     |
 {: id="20210111221313-jhectjb"}
 
 #### Insert element
