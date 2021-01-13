@@ -81,24 +81,24 @@ The editor component of SiYuan is called "Vditor", which is a browser-side Markd
 #### Mind Map
 {: id="20210111221214-v2ie4le"}
 
-| Name              | Shortcuts                                    | Memo                                    |
-| ------------------- | ---------------------------------------------- | ----------------------------------------- |
-| Add sibling node  | <kbd>Enter</kbd>                             | Parent node must be document/title/list |
-| Insert child node | <kbd>Tab</kbd>                               | Parent node must be document/title/list |
-| Node down         | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>       |                                         |
-| Node up           | <kbd>Alt+↑</kbd> / <kbd>⌥↑</kbd>       |                                         |
-| Remove node       | <kbd>Backspace</kbd>                         |                                         |
-| Zoom out          | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>          |                                         |
-| Zoom in           | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |                                         |
-| Reset layout      | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |                                         |
-| Move              | <kbd>Alt+Drag</kbd> / <kbd>⌥Drag</kbd>     |                                         |
-| Expand one level | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>           |                                     |
-| Expand tow level | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>           |                                     |
-| Expand three level | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>           |                                     |
-| Expand four level | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>           |                                     |
-| Expand five level | <kbd>Alt+5</kbd> / <kbd>⌥5</kbd>           |                                     |
-| Expand six level | <kbd>Alt+6</kbd> / <kbd>⌥6</kbd>           |                                     |
-| Edit             | Double click                                       |                                     |
+| Name               | Shortcuts                                    | Memo                                    |
+| -------------------- | ---------------------------------------------- | ----------------------------------------- |
+| Add sibling node   | <kbd>Enter</kbd>                             | Parent node must be document/title/list |
+| Insert child node  | <kbd>Tab</kbd>                               | Parent node must be document/title/list |
+| Node down          | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>       |                                         |
+| Node up            | <kbd>Alt+↑</kbd> / <kbd>⌥↑</kbd>       |                                         |
+| Remove node        | <kbd>Backspace</kbd>                         |                                         |
+| Zoom out           | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>          |                                         |
+| Zoom in            | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |                                         |
+| Reset layout       | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |                                         |
+| Move               | <kbd>Alt+Drag</kbd> / <kbd>⌥Drag</kbd>     |                                         |
+| Expand one level   | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>           |                                         |
+| Expand tow level   | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>           |                                         |
+| Expand three level | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>           |                                         |
+| Expand four level  | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>           |                                         |
+| Expand five level  | <kbd>Alt+5</kbd> / <kbd>⌥5</kbd>           |                                         |
+| Expand six level   | <kbd>Alt+6</kbd> / <kbd>⌥6</kbd>           |                                         |
+| Edit               | Double click                                 | Lists/quotes/documents cannot be edited |
 {: id="20210111221313-jhectjb"}
 
 #### Insert element
