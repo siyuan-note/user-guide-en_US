@@ -5,10 +5,10 @@ SiYuan is made possible by the [Vditor](https://github.com/Vanessa219/vditor) an
 {: id="20210104091623-4hjimh9"}
 
 * {: id="20210104091623-kfdi82v"}[https://github.com/golang/go](https://github.com/golang/go) `BSD-3-Clause License`
-* {: id="20210104091623-maeuggl"}[https://github.com/88250/css](https://github.com/88250/css) `MIT License`
-* {: id="20210104091623-andq2mv"}[https://github.com/88250/gowebdav](https://github.com/88250/gowebdav) `BSD-3-Clause License`
+* {: id="20210104091623-maeuggl"}[https://github.com/vanng822/css](https://github.com/vanng822/css) `MIT License`
+* {: id="20210104091623-andq2mv"}[https://github.com/studio-b12/gowebdav](https://github.com/studio-b12/gowebdav) `BSD-3-Clause License`
 * {: id="20210104091623-bob89oc"}[https://github.com/88250/gulu](https://github.com/88250/gulu) `Mulan PSL v2`
-* {: id="20210104091623-sffjf1a"}[https://github.com/88250/melody](https://github.com/88250/melody) `BSD-2-Clause License`
+* {: id="20210104091623-sffjf1a"}[https://github.com/olahol/melody](https://github.com/olahol/melody) `BSD-2-Clause License`
 * {: id="20210104091623-nr4e9ma"}[https://github.com/Masterminds/sprig](https://github.com/Masterminds/sprig) `MIT License`
 * {: id="20210104091623-boocd1x"}[https://github.com/Xuanwo/go-locale](https://github.com/Xuanwo/go-locale) `Apache-2.0 License`
 * {: id="20210104091623-831ylxe"}[https://github.com/blastrain/vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) `Apache-2.0 License`
