@@ -26,5 +26,21 @@ The specific usage is to manually select the content of the webpage, for example
 If you check Settings - Assets - Auto fetch remote image to local, the clip will download the picture files on the Web page to assets folder and replace the picture address in the content with the local assets path.
 {: id="20210104091430-aihyfq1"}
 
+## Cleanup unreferenced assets
+{: id="20210115224203-q8bj2gd"}
+
+"Reference" refers to linking asset files (files in the assets folder) through Markdown link syntax `[foo](bar)` or image syntax `![foo](bar)`. There are two situations:
+{: id="20210115224203-he7ycn9"}
+
+1. {: id="20210115224203-1g8zvdg"}Reference to a specific asset file, such as a picture or a file
+2. {: id="20210115224203-xb0ycqg"}Reference to a asset folder (a subfolder under the assets folder) must end with `/`, such as `[foo](assets/bar/)`
+{: id="20210115224203-r3mwskz"}
+
+The second case is special: if a asset folder is referenced, all the following asset files will be counted as already referenced regardless of whether they are individually referenced.
+{: id="20210115224203-hb1ykk2"}
+
+In Settings - Assets, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "local repository rollback")).
+{: id="20210115224203-e03wglt"}
+
 
 {: id="20200924100744-br924ar" type="doc"}
