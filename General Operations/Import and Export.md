@@ -29,5 +29,8 @@ Right-click and select "Export" after selecting the document in the file tree:
 If you need to export more formats, please complete via [Pandoc](https://pandoc.org).
 {: id="20201229152405-0kx9qg6"}
 
+Select a folder on the file tree and right-click and select "Export" to export in batches. The export is a standard Markdown file compression package.
+{: id="20210117225333-6erw7lq"}
+
 
 {: id="20200924100808-j9sddk9" type="doc"}

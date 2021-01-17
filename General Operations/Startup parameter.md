@@ -46,6 +46,12 @@ Set it to `true` This is useful when the kernel is used separately (such as thro
 After specifying with `--readonly=true`, the kernel will run in read-only mode and all write operations will be prohibited.
 {: id="20201225172241-2j3s1dc"}
 
+### `--authCode`
+{: id="20210117224305-alzt1xr"}
+
+Used to specify the browser access ((20210104091447-3vmymbk "authentication password")), which will overwrite the authCode in conf.json after setting.
+{: id="20210117224305-vyqi75g"}
+
 ### `--auth`
 {: id="20201225172241-l0qn9q9"}
 
@@ -57,6 +63,10 @@ After using `--auth=true`, the user data in conf.json will be used for authentic
 
 After using `--ssl=true`, https and wss protocols will be used for serving.
 {: id="20201225172550-zxiz2vb"}
+
+{: id="20210117224424-n2uhmcf"}
+
+{: id="20210117224424-2qh6tfb"}
 
 
 {: id="20200924100717-yzwzn64" type="doc"}
