@@ -24,7 +24,7 @@ Before embarking on these two solutions, please start with understanding ((20201
 ### Access authentication
 {: id="20210104091447-dluat0m"}
 
-In Settings - About, you can configure the browser access authentication password. By default, leaving it blank means that authentication is not enabled. This is more useful in open networks (such as office spaces and public networks), and only after authentication can you enter the work space.
+In Settings - About, you can configure the browser access authentication password. Leaving it blank means that authentication is not enabled. This is more useful in open networks (such as office spaces and public networks), and only after authentication can you enter the work space.
 {: id="20210104091447-3vmymbk"}
 
 ## Sharing and Publishing
@@ -47,6 +47,8 @@ Open it in the editor tab by visiting `/blocks/{id}`, the URL can be provided to
 
 Right-click the document in the file tree and then select "Copy URL" to get the URL of the document, which can be opened on the browser. For other types of content block ids, you can see "Copy URL" after clicking the content block identifier in the editor.
 {: id="20210104091447-6r4xriu"}
+
+{: id="20210117211053-tq2km4f"}
 
 
 {: id="20201004194026-s8h2cog" type="doc"}
