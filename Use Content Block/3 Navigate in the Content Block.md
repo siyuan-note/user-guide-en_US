@@ -38,8 +38,9 @@ Backlinks are document-level, listing the blocks in the current document where c
 ### Mentions
 {: id="20210106204950-gjw62fp"}
 
-It is mentioned that the name of the content block in the current document is used as a keyword to search, and the search result is a content block containing these keywords. You can use the link button to convert the mention into a link: the mention will be replaced with `((id "content block name"))`.
+It is mentioned that the name and aliases of the content block in the current document is used as a keyword to search, and the search result is a content block containing these keywords. You can use the link button to convert the mention into a link: the mention will be replaced with `((id "content block name"))`.
 {: id="20210106204954-rpwfh3i"}
+
 
 
 {: id="20200924101200-gss5vee" type="doc"}
