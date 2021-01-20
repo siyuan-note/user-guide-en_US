@@ -1,6 +1,9 @@
 ## Import
 {: id="20201229152405-ivntzua"}
 
+Right-click and select "Import" after selecting a folder on the file tree, and you can choose to import a folder or a single file in the secondary menu.
+{: id="20210120161035-zxkyg0w"}
+
 The import process mainly completes the following conversion processing:
 {: id="20210120155800-zxa7194"}
 
@@ -11,9 +14,6 @@ The import process mainly completes the following conversion processing:
 
 The converted Markdown file uses kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "Storage format")).
 {: id="20210120155800-cbl4zau"}
-
-Right-click and select "Import" after selecting a folder on the file tree, and you can choose to import a folder or a single file in the secondary menu.
-{: id="20210120155800-7h05x9e"}
 
 ## Export
 {: id="20201229152405-vlhitro"}

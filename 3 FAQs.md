@@ -4,6 +4,12 @@
 These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.text}}")). If you need the standard Markdown (GFM/CommonMark) format, please use the ((20201229152405-vlhitro "Export")) function.
 {: id="20201224120448-y0qff0p"}
 
+## Why is it not displayed on the file tree after I put the Markdown file in the notebook folder?
+{: id="20210120161137-0ggx9sa"}
+
+Please use the ((20201229152405-ivntzua "Import")) function.
+{: id="20210120161137-aqdjef7"}
+
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
@@ -13,7 +19,7 @@ For local notebooks (not WebDAV), all operations will be managed through ((20201
 ## How can I just wrap and not start a new paragraph?
 {: id="20210106192438-on2fb5k"}
 
-Use <kbd>Shift+Enter</kbd>.
+Please use <kbd>Shift+Enter</kbd>.
 {: id="20210106192504-pgryxb1"}
 
 ## How to insert a picture?
