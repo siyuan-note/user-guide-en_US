@@ -1,7 +1,7 @@
 ## Repository synchronization
 {: id="20210104091603-1dzjinv"}
 
-The synchronization function is the [Advanced Features](https://github.com/siyuan-note/siyuan/projects/1) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`. If you encounter a data conflict, please use the Git tool to resolve the conflict. We will gradually increase the built-in support for Git operations in subsequent versions #TODO#.
+The synchronization function is the [Advanced Features](https://github.com/siyuan-note/siyuan/projects/1) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`.
 {: id="20210104091603-5xeizyz"}
 
 #Note#: WebDAV notebooks will not be synchronized because the WebDAV server itself is already in the cloud.
@@ -31,6 +31,8 @@ The cloud repository of our server is located at `git@siyuan.b3logfile.com:/siyu
 2. {: id="20210104091603-nl61p20"}On the new device, download the data from the cloud by Settings - Sync - Cloud notebook - Clone to local. Only when you need to clone the data for the first time on the new device, you can directly click the sync button to sync later.
 3. {: id="20210104091603-r3ojkne"}After synchronization, the interface will refresh as a whole and reload the data. If there is a conflict, it will be displayed in the ((20201210002930-7cvn3j6 "Git conflict markers"))
 {: id="20210104091603-trcrdsg"}
+
+{: id="20210121104305-veo7ymf"}
 
 
 {: id="20201002092228-8hmuss5" type="doc"}
