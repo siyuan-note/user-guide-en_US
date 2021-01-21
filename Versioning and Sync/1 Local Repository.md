@@ -24,8 +24,16 @@ Currently only supports browsing the latest 32 commits history.
 ## Rollback version
 {: id="20210104091559-kgrtuyh"}
 
-At present, SiYuan only supports browsing history. If you need to rollback or support more Git operations, please use the Git tool. #Note#: After using external tools, you need to restart SiYuan, or click the refresh button on the file tree.
+In the time list column on the left side of the commit history interface, there is a revert button behind each commit. After clicking it, a confirmation dialog box will pop up. If the revert is confirmed, the commit will be reverted.
 {: id="20210104091559-ejqvg9b"}
+
+After reverting this commit, subsequent commits will still be retained, but the content may conflict and need to be manually edited and resolved.
+{: id="20210121111547-j6brm6n"}
+
+If you need to rollback or support more Git operations, please use the Git tool. #Note#: After using external tools, you need to restart SiYuan.
+{: id="20210121111544-qe48tuf"}
+
+{: id="20210121105905-k775koz"}
 
 
 {: id="20201002092058-85k2cws" type="doc"}

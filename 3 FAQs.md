@@ -13,7 +13,7 @@ Please use the ((20201229152405-ivntzua "Import")) function.
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
-For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management. If you need to restore accidentally deleted data, you can perform operations through the Git client.
+For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management, please refer to ((20210104091559-kgrtuyh "{{.text}}")) to revert the commit.
 {: id="20201224120448-1wyj9f7"}
 
 ## How can I just wrap and not start a new paragraph?
@@ -72,6 +72,8 @@ Before the release of v1.0.0, all functions are completely free for **personal**
 
 If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us (`support@b3log.org`), we will manually create an account and create a PayPal email payment order for you, thank you.
 {: id="20201224120448-8uydzg3"}
+
+{: id="20210121105805-npntm7g"}
 
 
 {: id="20200923234731-h3zkwm2" type="doc"}
