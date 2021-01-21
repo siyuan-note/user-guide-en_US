@@ -29,7 +29,7 @@ The cloud repository of our server is located at `git@siyuan.b3logfile.com:/siyu
 
 1. {: id="20210104091603-10njnef"}Click the sync button on the current device (if there is no repository in the cloud at this time, a cloud repository will be created), the data will be pushed to the cloud through the Git SSH protocol, and the cloud data will also be pulled locally
 2. {: id="20210104091603-nl61p20"}On the new device, download the data from the cloud by Settings - Sync - Cloud notebook - Clone to local. Only when you need to clone the data for the first time on the new device, you can directly click the sync button to sync later.
-3. {: id="20210104091603-r3ojkne"}After synchronization, the interface will refresh as a whole and reload the data. If there is a conflict, it will be displayed in the ((20201210002930-7cvn3j6 "Git conflict markers")) (currently the rendering conflict in the editor is flawed, so it looks strange #TODO#)
+3. {: id="20210104091603-r3ojkne"}After synchronization, the interface will refresh as a whole and reload the data. If there is a conflict, it will be displayed in the ((20201210002930-7cvn3j6 "Git conflict markers"))
 {: id="20210104091603-trcrdsg"}
 
 

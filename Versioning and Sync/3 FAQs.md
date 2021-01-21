@@ -13,7 +13,7 @@ Here is the content pulled from the cloud
 ```
 {: id="20210104091606-4lsb5wm"}
 
-You can edit it manually, or you can use the diff tool to edit it.
+Need to edit manually to resolve conflicts.
 {: id="20210104091606-ycjpo5x"}
 
 ## Why can't I sync empty folders?
