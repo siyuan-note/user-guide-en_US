@@ -22,10 +22,11 @@ It doesn't matter if you don't know too much, because using variables directly i
 There is a detail about the date and time formatting. #Note#: The formatting of the Go programming language is more "alternative". Instead of using `yyyy-MM-dd HH:mm:ss`, use `2006-01-02 15:04: 05` This fixed time format ([related discussions on Stack Overflow](https://stackoverflow.com/questions/20530327/origin-of-mon-jan-2-150405-mst-2006-in-golang)).
 {: id="20210104091444-i618qd8"}
 
-In addition to the built-in variables and functions of Sprig, the following variables are also supported:
+In addition to the built-in variables and functions of Sprig, the following variables and functions are also supported:
 {: id="20210104091444-2wbdokx"}
 
 * {: id="20210104091444-d5hpwdd"}`title`: Use this variable to quickly insert the current document name. For example, if the template content is `# {{.title}}`, it will be inserted into the current document content with the first-level heading syntax after invoking
+* {: id="20210121193829-wfzsf6m"}`sql`: Use this function to query the database, and the parameter is a SQL statement: `{{ sql "SELECT * FROM blocks LIMIT 7 }}"`
 {: id="20210104091444-mwbvc9m"}
 
 ## Invoke template
