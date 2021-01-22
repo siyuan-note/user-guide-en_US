@@ -43,6 +43,7 @@ SiYuan is made possible by the [Vditor](https://github.com/Vanessa219/vditor) an
 * {: id="20210104091623-sqgwr06"}[https://github.com/mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist) `Apache-2.0 License`
 * {: id="20210104091623-mqgpe3y"}[https://github.com/blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) `MIT License`
 * {: id="20210111111553-31ff169"}[https://github.com/fex-team/kityminder-core](https://github.com/fex-team/kityminder-core) `BSD-3-Clause License`
+* {: id="20210122112135-dwx0w5k"}[https://github.com/codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) `MIT License`
 {: id="20210104091623-eqzlf7q"}
 
 
