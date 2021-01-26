@@ -32,7 +32,6 @@ For feedback or suggestions, please go to:
 
 * {: id="20201225220954-d10tcsj"}[SiYuan Issues](https://github.com/siyuan-note/siyuan/issues)
 * {: id="20201225220954-cal6nr7"}[SiYuan Discussions](https://github.com/siyuan-note/siyuan/discussions)
-* {: id="20201225220954-hfkxtp7"}[SiYuan Customer Service Email](mailto:support@b3log.org)
 {: id="20200923234102-ysbri6o"}
 
 Please attach the log file (operating system user's home directory/.siyuan/siyuan.log for usage issues, which can be quickly opened in Settings - About - Open Config Dir; the config dir on Windows is generally located at C:\\Users\\YourName\ \.siyuan).

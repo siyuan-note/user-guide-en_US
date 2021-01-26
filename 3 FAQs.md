@@ -49,7 +49,7 @@ The default configuration folder is located in the user's home directory `~/.siy
 ## Do you plan to support plugins?
 {: id="20201224120448-yq5ziln"}
 
-Siyuan Note supports ((20201004194026-s8h2cog "Use on browser")),  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of ((20201227201751-gv0fpx2 "Kernel API")) , we will introduce a plug-in mechanism in the future.
+SiYuan supports ((20201004194026-s8h2cog "Use on browser")),  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of ((20201227201751-gv0fpx2 "Kernel API")) , we will introduce a plug-in mechanism in the future.
 {: id="20201224120448-hn7uqj1"}
 
 ## Why is pit.exe reported as a Trojan virus?
@@ -73,7 +73,7 @@ Before the release of v1.0.0, all functions are completely free for **personal**
 If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us (`support@b3log.org`), we will manually create an account and create a PayPal email payment order for you, thank you.
 {: id="20201224120448-8uydzg3"}
 
-{: id="20210121105805-npntm7g"}
+{: id="20210127003542-pa7if19"}
 
 
 {: id="20200923234731-h3zkwm2" type="doc"}
