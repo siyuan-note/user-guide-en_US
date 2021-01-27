@@ -12,7 +12,7 @@ We can modify the content of the document through the following three editing mo
 
 * {: id="20210115221624-pe5vf0f"}Mind map mode: It can be accessed by right-clicking the document drop-down menu on the file tree. It only supports basic creation and movement. It is mainly used to organize ideas, quickly create and browse document outlines
 * {: id="20210115221624-ucyrhbm"}Instant rendering mode: This mode is used by default when opening a document, and Markdown syntax can be used for document editing and typesetting
-* {: id="20210115221624-gv1xsc0"}Expert mode: It can be accessed by right-clicking the document drop-down menu on the file tree. Document editing and typesetting in the way of Markdown source code #TODO#
+* {: id="20210115221624-gv1xsc0"}Expert mode: It can be accessed by right-clicking the document drop-down menu on the file tree. Document editing and typesetting in the way of Markdown source code
 {: id="20210115221624-88iolz1"}
 
 ## Shortcuts
