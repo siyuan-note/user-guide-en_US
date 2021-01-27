@@ -15,6 +15,9 @@ The import process mainly completes the following conversion processing:
 The converted Markdown file uses kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "Storage format")).
 {: id="20210120155800-cbl4zau"}
 
+#Note#: Copying standard Markdown files directly to the notebook folder on the system will not be automatically converted, and the import function must be used.
+{: id="20210127230807-5medqfv"}
+
 ## Export
 {: id="20201229152405-vlhitro"}
 
