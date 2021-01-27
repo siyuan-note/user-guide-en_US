@@ -9,5 +9,8 @@ We can modify the content of the document through the following three editing mo
 * {: id="20210115221624-gv1xsc0"}((20210127214431-27pfjd8 "Expert mode"))
 {: id="20210115221624-88iolz1"}
 
+Shortcuts can be found ((20210106154056-koo4wdj "here")).
+{: id="20210127220543-gkucxzl"}
+
 
 {: id="20200924101004-lcuaajy" type="doc"}
