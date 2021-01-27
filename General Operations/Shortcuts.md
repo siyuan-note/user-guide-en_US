@@ -1,25 +1,5 @@
-## Vditor
-{: id="20200924101004-lcuaajy"}
-
-The editor component of SiYuan is called "Vditor", which is a browser-side Markdown editor and an open source project designed and developed by us. It can be found at [here](https://github.com/Vanessa219/vditor). Based on Vditor, we developed the editor mode currently used in SiYuan, and we will continue to improve it in the future to bring you a more modern Markdown editing experience.
-{: id="20201227133532-ii71fui"}
-
-## Edit mode
-{: id="20210115221624-ucvkbux"}
-
-We can modify the content of the document through the following three editing modes, the editing ability is from weak to strong:
-{: id="20210115221624-w7aep6q"}
-
-* {: id="20210115221624-pe5vf0f"}Mind map mode: It can be accessed by right-clicking the document drop-down menu on the file tree. It only supports basic creation and movement. It is mainly used to organize ideas, quickly create and browse document outlines
-* {: id="20210115221624-ucyrhbm"}Instant rendering mode: This mode is used by default when opening a document, and Markdown syntax can be used for document editing and typesetting
-* {: id="20210115221624-gv1xsc0"}Expert mode: It can be accessed by right-clicking the document drop-down menu on the file tree. Document editing and typesetting in the way of Markdown source code
-{: id="20210115221624-88iolz1"}
-
-## Shortcuts
+## General
 {: id="20201227133532-44ubczo"}
-
-### General
-{: id="20201227133532-waqktxs"}
 
 | Name                       | Shortcuts                           | Memo                                                     |
 | ---------------------------- | ------------------------------------- | ---------------------------------------------------------- |
@@ -44,10 +24,10 @@ We can modify the content of the document through the following three editing mo
 | Complete selection         | <kbd>Enter</kbd>                    | Use the highlighted content in the list to complete      |
 {: id="20210106154101-qrojg1b"}
 
-### Editor
+## Editor
 {: id="20210106154056-koo4wdj"}
 
-#### General
+### General
 {: id="20210106154319-v9tt3e2"}
 
 | Name                                                       | Shortcuts                                                             | Memo                                                                                                  |
@@ -94,7 +74,7 @@ We can modify the content of the document through the following three editing mo
 | Template call                                              | <kbd>{{</kbd>                                                         |                                                                                                       |
 {: id="20210106154319-yozlufs"}
 
-#### Mind Map
+### Mind Map
 {: id="20210111221214-v2ie4le"}
 
 | Name               | Shortcuts                                    | Memo                                    |
@@ -117,7 +97,7 @@ We can modify the content of the document through the following three editing mo
 | Edit               | Double click                                 | Lists/quotes/documents cannot be edited |
 {: id="20210111221313-jhectjb"}
 
-#### Insert element
+### Insert element
 {: id="20210106154319-d0mxz1p"}
 
 | Name           | Shortcuts                                          | Memo                            |
@@ -139,7 +119,7 @@ We can modify the content of the document through the following three editing mo
 | Table          | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                | See below for related shortcuts |
 {: id="20210106154319-v6ksqnu"}
 
-#### Link <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>
+### Link <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>
 {: id="20210106154319-nkcusf0"}
 
 | Name                      | Shortcuts                          |
@@ -150,7 +130,7 @@ We can modify the content of the document through the following three editing mo
 | Open file location        | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd> |
 {: id="20210106154319-8ovzor1"}
 
-#### Heading
+### Heading
 {: id="20210106154319-6lhdzmm"}
 
 | Name            | Shortcuts                                  |
@@ -165,7 +145,7 @@ We can modify the content of the document through the following three editing mo
 | Level 6 heading | <kbd>Ctrl+Alt+6</kbd> / <kbd>⌥⌘6</kbd> |
 {: id="20210106154319-kc7vf20"}
 
-#### List <kbd>Ctrl+L/O/J</kbd> / <kbd>⌘L/O/J</kbd>
+### List <kbd>Ctrl+L/O/J</kbd> / <kbd>⌘L/O/J</kbd>
 {: id="20210106154319-ans1gna"}
 
 | Name                          | Shortcuts                                    | Memo                                |
@@ -177,7 +157,7 @@ We can modify the content of the document through the following three editing mo
 | Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list                           |
 {: id="20210106154319-4oe7doq"}
 
-#### Code block <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>
+### Code block <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>
 {: id="20210106154319-3mrrib6"}
 
 | Name                       | Shortcuts                           |
@@ -187,7 +167,7 @@ We can modify the content of the document through the following three editing mo
 | Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
 {: id="20210106154319-kg91km7"}
 
-#### Table <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>
+### Table <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>
 {: id="20210106154319-jeh8w1g"}
 
 | Name                                    | Shortcuts                                    |
