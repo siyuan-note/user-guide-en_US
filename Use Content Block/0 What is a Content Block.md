@@ -35,7 +35,7 @@ At this point, we have been able to use content blocks to describe all content, 
 {: id="20210118104710-tmyyac4"}
 
 We can name each content block, add aliases and memo. Naming and aliases are mainly used for anti-link ((20210106204950-gjw62fp "mention "))search, and memo are used to record some inconvenient information in the content area.
-{: id="20210118104710-sb9ti9s" memo="Generally%20speaking%2C%20the%20memo%20is%20a%20relatively%20short%20sentence%2C%20here%20is%20an%20example."}
+{: id="20210118104710-sb9ti9s" memo="The memo is usually a short sentence."}
 
 After opening the options for displaying bookmarks, naming, and alias identification in the Settings -Editor, the named content block will be displayed with a frame in the editor. If you name and memo the document block, when the mouse is hovering over the file tree document, the relevant naming and memo of the document will appear.
 {: id="20210118104710-2sb91b3"}
