@@ -7,7 +7,7 @@ In the editor, you can directly paste the copied picture from the system clipboa
 If you use the standard Markdown syntax `![alt](assets/image "title")` to specify a title, then `title` will be rendered below the image as a legend, and the title part of the text supports span-level typesetting, such as bold, Italics, formulas, etc.
 {: id="20210104091430-tj5w1co"}
 
-![SiYuan.png](assets/SiYuan.png "*When one drinks water, one must not forget where it comes from*")
+![SiYuan.png](assets/SiYuan.png "*When one drinks water, one must not forget where it comes from*"){: parent-style="display: block; text-align: center;"}
 {: id="20210104091430-yd3zyeu"}
 
 ## Clips
@@ -25,7 +25,7 @@ If you check Settings - Assets - Auto fetch remote image to local, the clip will
 ## Cleanup unreferenced assets
 {: id="20210115224203-q8bj2gd"}
 
-"Reference" refers to linking asset files (files in the assets folder) through Markdown link syntax `[foo](bar)` or image syntax `![foo](bar)`. There are two situations:
+"Reference" refers to the link `[foo](bar)` through Markdown, the image syntax `![foo](bar)` or the attribute `src` of HTML tags (such as `<img>`, `<iframe>`) link the asset files (files under the assets folder). There are two situations:
 {: id="20210115224203-he7ycn9"}
 
 1. {: id="20210115224203-1g8zvdg"}Reference to a specific asset file, such as a picture or a file
@@ -37,6 +37,9 @@ The second case is special: if a asset folder is referenced, all the following a
 
 In Settings - Assets, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "local repository rollback")).
 {: id="20210115224203-e03wglt"}
+
+#Note#: Using absolute paths (local or network paths) will not be included Clean up calculations.
+{: id="20210130103832-93r5ddp"}
 
 
 {: id="20200924100744-br924ar" type="doc"}
