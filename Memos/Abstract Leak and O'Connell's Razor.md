@@ -8,7 +8,7 @@
 > {: id="20210104091520-n1b2j2k"}
 {: id="20210104091520-dv01g65"}
 
-"Abstract Leak" is a term in the field of software development, and it can be extended to many fields.
+"Abstract Leak" is a term in the field of software development, and it can be extended to many fields. It is the best choice to expose the lower-level structure directly and leave the abstract freedom to the user.
 {: id="20210104091520-hbwz1qo"}
 
 ## Occam's razor principle
@@ -18,7 +18,7 @@
 > {: id="20210104091520-h6esl79"}
 {: id="20210104091520-8x4txjt"}
 
-In terms of design, we should try our best to follow this principle.
+In terms of design, we should try our best to follow this principle. So in SiYuan, we build all data based on content blocks, and use a unified reference syntax to minimize the burden on users.
 {: id="20210104091520-r1t0r93"}
 
 
