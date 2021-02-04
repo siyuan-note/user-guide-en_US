@@ -40,6 +40,12 @@ You can use Markdown link syntax `[anchor text](media resource path)` to insert 
 First position the cursor on the cell that needs to be adjusted, and then right-click to see the table adjustment menu.
 {: id="20201224120448-yti3dvr"}
 
+## How to turn pages in a slide show?
+{: id="20210204162757-ei505a6"}
+
+In document typesetting, you need to use `---` to separate the content of each page. For specific usage, please refer to ((20210203182642-odiolr2 "Slides Presentation")).
+{: id="20210204162757-0al9jtb"}
+
 ## Where are the configuration files stored?
 {: id="20201224120448-0f3b9ys"}
 
@@ -73,7 +79,7 @@ Before the release of v1.0.0, all functions are completely free for **personal**
 If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us (`support@b3log.org`), we will manually create an account and create a PayPal email payment order for you, thank you.
 {: id="20201224120448-8uydzg3"}
 
-{: id="20210127003542-pa7if19"}
+{: id="20210204162736-5ta27jc"}
 
 
 {: id="20200923234731-h3zkwm2" type="doc"}
