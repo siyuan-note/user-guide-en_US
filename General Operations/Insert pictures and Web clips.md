@@ -10,6 +10,9 @@ If you use the standard Markdown syntax `![alt](assets/image "title")` to specif
 ![SiYuan.png](assets/SiYuan.png "*When one drinks water, one must not forget where it comes from*"){: parent-style="display: block; text-align: center;"}
 {: id="20210104091430-yd3zyeu"}
 
+If you need to adjust the size and position of the picture, please right-click the picture and select zoom and position from the drop-down menu.
+{: id="20210204172633-q2q1r7i"}
+
 ## Clips
 {: id="20210104091430-bxc6t2h"}
 
@@ -29,7 +32,9 @@ If you check Settings - Assets - Auto fetch remote image to local, the clip will
 {: id="20210115224203-he7ycn9"}
 
 1. {: id="20210115224203-1g8zvdg"}Reference to a specific asset file, such as a picture or a file
+   {: id="20210204172630-7rtyepg"}
 2. {: id="20210115224203-xb0ycqg"}Reference to a asset folder (a subfolder under the assets folder) must end with `/`, such as `[foo](assets/bar/)`
+   {: id="20210204172630-kq680iv"}
 {: id="20210115224203-r3mwskz"}
 
 The second case is special: if a asset folder is referenced, all the following asset files will be counted as already referenced regardless of whether they are individually referenced.
