@@ -2,7 +2,7 @@
 {: id="20201227133532-44ubczo"}
 
 | Name                       | Shortcuts                          | Memo                                                     |
-| ---------------------------- | ------------------------------------ | ---------------------------------------------------------- |
+| -------------------------- | ---------------------------------- | -------------------------------------------------------- |
 | New doc                    | <kbd>Ctrl+N</kbd> / <kbd>⌘N</kbd> |                                                          |
 | Search                     | <kbd>Ctrl+P</kbd> / <kbd>⌘P</kbd> |                                                          |
 | Close tab                  | <kbd>Ctrl+W</kbd> / <kbd>⌘W</kbd> |                                                          |
@@ -31,7 +31,7 @@
 {: id="20210106154319-v9tt3e2"}
 
 | Name                                                       | Shortcuts                                                         | Memo                                                                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | Search within documents                                    | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                |                                                                                                       |
 | Replace within documents                                   | <kbd>Ctrl+R</kbd> / <kbd>⌘R</kbd>                                |                                                                                                       |
 | Global search                                              | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                 |                                                                                                       |
@@ -61,6 +61,9 @@
 | Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                 |                                                                                                       |
 | History                                                    | <kbd>Alt+H</kbd> / <kbd>⌥H</kbd>                                 |                                                                                                       |
 | Full screen                                                | <kbd>Alt+Y</kbd> / <kbd>⌥Y</kbd>                                 |                                                                                                       |
+| Image/Table Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                                                       |
+| Image/Table Center                                         | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>                                 |                                                                                                       |
+| Image/Table Right                                          | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>                                 |                                                                                                       |
 | Switch to Instant Rendering mode                           | <kbd>Ctrl+Alt+7</kbd> / <kbd>⌥⌘7</kbd>                          |                                                                                                       |
 | Switch to Mind Map mode                                    | <kbd>Ctrl+Alt+8</kbd> / <kbd>⌥⌘8</kbd>                          |                                                                                                       |
 | Switch to Preview mode                                     | <kbd>Ctrl+Alt+9</kbd> / <kbd>⌥⌘9</kbd>                          |                                                                                                       |
@@ -78,7 +81,7 @@
 {: id="20210111221214-v2ie4le"}
 
 | Name               | Shortcuts                                  | Memo                                          |
-| -------------------- | -------------------------------------------- | ----------------------------------------------- |
+| ------------------ | ------------------------------------------ | --------------------------------------------- |
 | Add sibling node   | <kbd>Enter</kbd>                           | Parent node must be document / heading / list |
 | Insert child node  | <kbd>Tab</kbd> / <kbd>Insert</kbd>         | Parent node must be document / heading / list |
 | Node down          | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>        |                                               |
@@ -101,7 +104,7 @@
 {: id="20210106154319-d0mxz1p"}
 
 | Name           | Shortcuts                                         | Memo                            |
-| ---------------- | --------------------------------------------------- | --------------------------------- |
+| -------------- | ------------------------------------------------- | ------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
@@ -123,7 +126,7 @@
 {: id="20210106154319-nkcusf0"}
 
 | Name                      | Shortcuts                         |
-| --------------------------- | ----------------------------------- |
+| ------------------------- | --------------------------------- |
 | Open in new window        | <kbd>Alt+W</kbd> / <kbd>⌥W</kbd> |
 | Navigate to the file tree | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd> |
 | Open with default program | <kbd>Alt+E</kbd> / <kbd>⌥K</kbd> |
@@ -134,7 +137,7 @@
 {: id="20210106154319-6lhdzmm"}
 
 | Name            | Shortcuts                                |
-| ----------------- | ------------------------------------------ |
+| --------------- | ---------------------------------------- |
 | Get bigger      | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>       |
 | Get smaller     | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>       |
 | Level 1 heading | <kbd>Ctrl+Alt+1</kbd> / <kbd>⌥⌘1</kbd> |
@@ -149,7 +152,7 @@
 {: id="20210106154319-ans1gna"}
 
 | Name                          | Shortcuts                                  | Memo                                |
-| ------------------------------- | -------------------------------------------- | ------------------------------------- |
+| ----------------------------- | ------------------------------------------ | ----------------------------------- |
 | Indent with sublists          | <kbd>Tab</kbd>                             | The cursor must be at the beginning |
 | Single indent                 | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                                     |
 | Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                                     |
@@ -161,7 +164,7 @@
 {: id="20210106154319-3mrrib6"}
 
 | Name                       | Shortcuts                          |
-| ---------------------------- | ------------------------------------ |
+| -------------------------- | ---------------------------------- |
 | Language switch to content | <kbd>Enter</kbd> / <kbd>Tab</kbd>  |
 | Hide editing interface     | <kbd>Escape</kbd>                  |
 | Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
@@ -171,16 +174,13 @@
 {: id="20210106154319-jeh8w1g"}
 
 | Name                                    | Shortcuts                                  |
-| ----------------------------------------- | -------------------------------------------- |
+| --------------------------------------- | ------------------------------------------ |
 | Insert a row above                      | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘T</kbd> |
 | Insert a row below                      | <kbd>Ctrl+=</kbd> / <kbd>⇧⌘D</kbd>       |
 | Insert a column on the left             | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
 | Insert a column on the right            | <kbd>Ctrl+Shift+R</kbd> / <kbd>⇧⌘R</kbd> |
 | Delete row                              | <kbd>Alt+-</kbd> / <kbd>⌥-</kbd>          |
 | Delete column                           | <kbd>Ctrl+Alt+_</kbd> / <kbd>⌥⌘-</kbd>   |
-| Left                                    | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>          |
-| Center                                  | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>          |
-| Right                                   | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>          |
 | Move the cursor to the previous element | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |
 | Move the cursor to the next element     | <kbd>Tab</kbd>                             |
 {: id="20210106154319-otreidg"}
