@@ -73,7 +73,7 @@ This error is returned by the WebDAV provider interface. Generally, it is becaus
 ## Do I need to pay for it?
 {: id="20201224120448-0rqote3"}
 
-Before the release of v1.0.0, all functions are completely free for **personal** use. After the release of v1.0.0, [Advanced Features](https://github.com/siyuan-note/siyuan/projects/3) requires [annual subscription](https://ld246.com/subscribe/siyuan), price is $64/year。
+Before the release of v1.0.0, all functions are completely free for **personal** use. After the release of v1.0.0, [Advanced Features](https://b3log.org/siyuan/advanced_features.html) requires [annual subscription](https://ld246.com/subscribe/siyuan), price is $64/year。
 {: id="20201224120448-20hmjfc"}
 
 If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us (`support@b3log.org`), we will manually create an account and create a PayPal email payment order for you, thank you.

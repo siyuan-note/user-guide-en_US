@@ -45,7 +45,7 @@ Please attach the log file (operating system user's home directory/.siyuan/siyua
 ## 🗺️ Roadmap
 {: id="20201225220954-uhjsdfw"}
 
-Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects/1). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
+Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
 {: id="20201225220954-57ba5rb"}
 
 

@@ -1,7 +1,7 @@
 ## Repository synchronization
 {: id="20210104091603-1dzjinv"}
 
-The synchronization function is the [Advanced Features](https://github.com/siyuan-note/siyuan/projects/3) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`.
+The synchronization function is the [Advanced Features](https://b3log.org/siyuan/advanced_features.html) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`.
 {: id="20210104091603-5xeizyz"}
 
 #Note#: WebDAV notebooks will not be synchronized because the WebDAV server itself is already in the cloud.
