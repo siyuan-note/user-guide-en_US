@@ -17,7 +17,18 @@ This is an example of how to correctly use **Markdown** typesetting. It is neces
 This content shows some typeset formats in the content, such as:
 {: id="20210104091509-2g40nhk"}
 
--**Bold**-`**Bold**`-*Tilt*-`*Tilt*`-~~Strikethrough~~-`~~Strikethrough~~`-`Code tag`-`` `Code tag` ``-[Hyperlink](https://ld246.com)-`[Hyperlink](https://ld246.com)`-[username@gmail.com](mailto:username@gmail.com)-`[username@gmail.com](mailto:username@gmail.com)`
+* {: id="20210206214931-w9oisat"}**Bold** - `**Bold**`
+  {: id="20210206214931-1sh9b0l"}
+* {: id="20210206215019-e5bni0p"}*Tilt* - `*Tilt*`
+  {: id="20210206215019-gvr3fcc"}
+* {: id="20210206215025-g8xa9oy"}~~Strikethrough~~ - `~~Strikethrough~~`
+  {: id="20210206215025-4eeazmc"}
+* {: id="20210206215033-chf0vtc"}`Code tag` - `` `Code tag` ``
+  {: id="20210206215033-q33tp81"}
+* {: id="20210206215048-zg5vnou"}[Hyperlink](https://ld246.com) - `[Hyperlink](https://ld246.com)`
+  {: id="20210206215048-elufsn1"}
+* {: id="20210206215058-7aprsk1"}[username@gmail.com](mailto:username@gmail.com) - `[username@gmail.com](mailto:username@gmail.com)`
+  {: id="20210206215058-hx2qm5x"}
 {: id="20210104091509-8csaq4j"}
 
 ### Emoji Emoji
