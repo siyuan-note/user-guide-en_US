@@ -2,7 +2,7 @@
 {: id="20201227133532-44ubczo"}
 
 | Name                       | Shortcuts                          | Memo                                                     |
-| -------------------------- | ---------------------------------- | -------------------------------------------------------- |
+| ---------------------------- | ------------------------------------ | ---------------------------------------------------------- |
 | New doc                    | <kbd>Ctrl+N</kbd> / <kbd>⌘N</kbd> |                                                          |
 | Search                     | <kbd>Ctrl+P</kbd> / <kbd>⌘P</kbd> |                                                          |
 | Close tab                  | <kbd>Ctrl+W</kbd> / <kbd>⌘W</kbd> |                                                          |
@@ -31,7 +31,7 @@
 {: id="20210106154319-v9tt3e2"}
 
 | Name                                                       | Shortcuts                                                         | Memo                                                                                                  |
-| ---------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Search within documents                                    | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                |                                                                                                       |
 | Replace within documents                                   | <kbd>Ctrl+R</kbd> / <kbd>⌘R</kbd>                                |                                                                                                       |
 | Global search                                              | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                 |                                                                                                       |
@@ -57,7 +57,7 @@
 | Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                 |                                                                                                       |
 | Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                 |                                                                                                       |
 | Navigate to the file tree                                  | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd>                                 |                                                                                                       |
-| Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                 |                                                                                                       |
+| Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                 | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> Block or Icon                                               |
 | Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                 |                                                                                                       |
 | Outline                                                    | <kbd>Alt+O</kbd> / <kbd>⌥O</kbd>                                 |                                                                                                       |
 | Backlink                                                   | <kbd>Alt+B</kbd> / <kbd>⌥B</kbd>                                 |                                                                                                       |
@@ -84,7 +84,7 @@
 {: id="20210111221214-v2ie4le"}
 
 | Name               | Shortcuts                                  | Memo                                          |
-| ------------------ | ------------------------------------------ | --------------------------------------------- |
+| -------------------- | -------------------------------------------- | ----------------------------------------------- |
 | Add sibling node   | <kbd>Enter</kbd>                           | Parent node must be document / heading / list |
 | Insert child node  | <kbd>Tab</kbd> / <kbd>Insert</kbd>         | Parent node must be document / heading / list |
 | Node down          | <kbd>Alt+↓</kbd> / <kbd>⌥↓</kbd>        |                                               |
@@ -107,7 +107,7 @@
 {: id="20210106154319-d0mxz1p"}
 
 | Name           | Shortcuts                                         | Memo                            |
-| -------------- | ------------------------------------------------- | ------------------------------- |
+| ---------------- | --------------------------------------------------- | --------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
@@ -129,7 +129,7 @@
 {: id="20210106154319-nkcusf0"}
 
 | Name                      | Shortcuts                         |
-| ------------------------- | --------------------------------- |
+| --------------------------- | ----------------------------------- |
 | Open in new window        | <kbd>Alt+W</kbd> / <kbd>⌥W</kbd> |
 | Navigate to the file tree | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd> |
 | Open with default program | <kbd>Alt+E</kbd> / <kbd>⌥K</kbd> |
@@ -140,7 +140,7 @@
 {: id="20210106154319-6lhdzmm"}
 
 | Name            | Shortcuts                                |
-| --------------- | ---------------------------------------- |
+| ----------------- | ------------------------------------------ |
 | Get bigger      | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>       |
 | Get smaller     | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>       |
 | Level 1 heading | <kbd>Ctrl+Alt+1</kbd> / <kbd>⌥⌘1</kbd> |
@@ -155,7 +155,7 @@
 {: id="20210106154319-ans1gna"}
 
 | Name                          | Shortcuts                                  | Memo                                |
-| ----------------------------- | ------------------------------------------ | ----------------------------------- |
+| ------------------------------- | -------------------------------------------- | ------------------------------------- |
 | Indent with sublists          | <kbd>Tab</kbd>                             | The cursor must be at the beginning |
 | Single indent                 | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                                     |
 | Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                                     |
@@ -167,7 +167,7 @@
 {: id="20210106154319-3mrrib6"}
 
 | Name                       | Shortcuts                          |
-| -------------------------- | ---------------------------------- |
+| ---------------------------- | ------------------------------------ |
 | Language switch to content | <kbd>Enter</kbd> / <kbd>Tab</kbd>  |
 | Hide editing interface     | <kbd>Escape</kbd>                  |
 | Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
@@ -177,7 +177,7 @@
 {: id="20210106154319-jeh8w1g"}
 
 | Name                                    | Shortcuts                                  |
-| --------------------------------------- | ------------------------------------------ |
+| ----------------------------------------- | -------------------------------------------- |
 | Insert a row above                      | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘T</kbd> |
 | Insert a row below                      | <kbd>Ctrl+=</kbd> / <kbd>⇧⌘D</kbd>       |
 | Insert a column on the left             | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
