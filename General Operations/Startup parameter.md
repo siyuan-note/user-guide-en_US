@@ -34,10 +34,10 @@ If you need to use `xxx.com/custom/` as a virtual directory or location, please 
 ### `--resident`
 {: id="20201225172241-r2u4sx1"}
 
-After specifying with `--resident=true`, the kernel will be resident in memory and will not automatically exit even if there is no active session. The default is `false`.
+After specifying with `--resident=true`, the kernel will be resident in memory, the default is `true`.
 {: id="20201225172241-1ikfkn1"}
 
-Set it to `true` This is useful when the kernel is used separately (such as through a browser). Even if you are not currently using SiYuan (the browser has not established a session with the kernel), the kernel process will not exit. By default `false`, the kernel process will scan the session every 7 seconds, and exit the process if there is no session.
+After set to `false`, the list of active sessions will be checked every 30 seconds, and the kernel process will be exited if there are no active sessions.
 {: id="20201225172241-gon6cqc"}
 
 ### `--readonly`
@@ -63,10 +63,6 @@ After using `--auth=true`, the user data in conf.json will be used for authentic
 
 After using `--ssl=true`, https and wss protocols will be used for serving.
 {: id="20201225172550-zxiz2vb"}
-
-{: id="20210117224424-n2uhmcf"}
-
-{: id="20210117224424-2qh6tfb"}
 
 
 {: id="20200924100717-yzwzn64" type="doc"}
