@@ -58,12 +58,6 @@ The default configuration folder is located in the user's home directory `~/.siy
 SiYuan supports ((20201004194026-s8h2cog "Use on browser")),  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of ((20201227201751-gv0fpx2 "Kernel API")) , we will introduce a plug-in mechanism in the future.
 {: id="20201224120448-hn7uqj1"}
 
-## Why is pit.exe reported as a Trojan virus?
-{: id="20201228141919-1rv31v8"}
-
-The pit.exe located in the resources folder of the installation directory is the SiYuan update program, which is responsible for pulling the update package from and decompressing the update. As for why the Trojan horse virus was reported, we don't know. We have opened [pit source](https://github.com/siyuan-note/pit). Developers are welcome to contribute, thank you.
-{: id="20201228141919-vgwyjy9"}
-
 ## Why does WebDAV report error 503 after connecting?
 {: id="20201231103013-nxyusb6"}
 
@@ -78,8 +72,6 @@ Before the release of v1.0.0, all functions are completely free for **personal**
 
 If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us (`support@b3log.org`), we will manually create an account and create a PayPal email payment order for you, thank you.
 {: id="20201224120448-8uydzg3"}
-
-{: id="20210204192011-y0i37rw"}
 
 
 {: id="20200923234731-h3zkwm2" type="doc"}
