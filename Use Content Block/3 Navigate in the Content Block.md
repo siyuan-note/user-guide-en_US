@@ -10,9 +10,6 @@ There are two types of links in the document content:
   {: id="20210205173431-dis2g0v"}
 {: id="20210104091546-17fu8qc"}
 
-Both of these links can be opened by <kbd>Ctrl+ Click</kbd> to jump.
-{: id="20210104091546-9x8cd9s"}
-
 ## Graph
 {: id="20200924101210-zwf8ags"}
 
