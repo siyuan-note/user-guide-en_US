@@ -35,8 +35,6 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
   {: id="20210131161940-ucgs2kw"}
 * {: id="20210131163254-58hz1z3"}[Chinese Discussions](https://ld246.com/tag/siyuan)
   {: id="20210131163254-8f7lz5k"}
-* {: id="20201225220954-cal6nr7"}[English Discussions](https://github.com/siyuan-note/siyuan/discussions)
-  {: id="20210131161940-jw298hh"}
 {: id="20200923234102-ysbri6o"}
 
 Please attach the log file (operating system user's home directory/.siyuan/siyuan.log for usage issues, which can be quickly opened in Settings - About - Open Config Dir; the config dir on Windows is generally located at C:\\Users\\Name\ \.siyuan).
