@@ -15,14 +15,14 @@ Almost all Markdown engines support the [Basic Syntax](https://daringfireball.ne
 To create a title, just start with the hash sign `#`, the number of hash signs corresponds to the level of the title. For example, if you want to create a `<h3>`, you can start with three `#`: `### Three-level heading `. The title syntax using hash marks is called "ATX title" in the [CommonMark Specification](https://spec.commonmark.org).
 {: id="20210104091501-d0usvhm"}
 
-| Markdown                   | HTML                           | Rendering results              |
-| ---------------------------- | -------------------------------- | -------------------------------- |
-| `# Level 1 heading `       | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
-| `## Level 2 heading `      | `<h2>Level 2 heading</h2>`     |  <h2>Level 2 heading</h2>     |
-| `### Level 3 heading `     | `<h3>Level 3 heading</h3>`     |  <h3>Level 3 heading</h3>     |
-| `#### Level 4 heading `    | `<h4>Level 4 heading</h4>`     |  <h4>Level 4 heading</h4>     |
-| `###### Level 5 heading `  | `<h5>Level 5 heading</h5>`     |  <h5>Level 5 heading</h5>     |
-| `####### Level 6 heading ` | ` <h6>Level 6 heading</h6>`    |  <h6>Level 6 heading</h6>     |
+| Markdown                   | HTML                           | Rendering results            |
+| ---------------------------- | -------------------------------- | ------------------------------ |
+| `# Level 1 heading `       | `<h1>First-level heading</h1>` | <h1>First-level heading</h1> |
+| `## Level 2 heading `      | `<h2>Level 2 heading</h2>`     | <h2>Level 2 heading</h2>     |
+| `### Level 3 heading `     | `<h3>Level 3 heading</h3>`     | <h3>Level 3 heading</h3>     |
+| `#### Level 4 heading `    | `<h4>Level 4 heading</h4>`     | <h4>Level 4 heading</h4>     |
+| `###### Level 5 heading `  | `<h5>Level 5 heading</h5>`     | <h5>Level 5 heading</h5>     |
+| `####### Level 6 heading ` | ` <h6>Level 6 heading</h6>`    | <h6>Level 6 heading</h6>     |
 {: id="20210104091501-efc5m2y"}
 
 ### Heading optional syntax
@@ -31,10 +31,10 @@ To create a title, just start with the hash sign `#`, the number of hash signs c
 In addition to using ATX headings, we can also use Setext headings: in the next line of the text, use one or more equal signs `=` to indicate the first-level heading, and one or more dashes `-` to indicate the second-level heading.
 {: id="20210104091501-1t6294v"}
 
-| Markdown                        | HTML                           | Rendering results              |
-| --------------------------------- | -------------------------------- | -------------------------------- |
-| First-level heading<br>======   | `<h1>First-level heading</h1>` |  <h1>First-level heading</h1> |
-| Secondary Title<br>------------ | `<h2>Secondary Title</h2>`     |  <h2>Secondary Title</h2>     |
+| Markdown                        | HTML                           | Rendering results            |
+| --------------------------------- | -------------------------------- | ------------------------------ |
+| First-level heading<br>======   | `<h1>First-level heading</h1>` | <h1>First-level heading</h1> |
+| Secondary Title<br>------------ | `<h2>Secondary Title</h2>`     | <h2>Secondary Title</h2>     |
 {: id="20210104091501-i84lhwo"}
 
 ### Heading Best Practices
@@ -43,14 +43,14 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 1. {: id="20210104091501-oxnjqh0"}ATX headings between paragraphs are best separated by blank lines. Because some Markdown engines do not recognize the title syntax that lacks leading and trailing blank lines.
    {: id="20210104091501-l935kik"}
 
-   | ✅ Safe                                                                            | ❌ Unsafe                                                             |
+   | ✅ Safe                                                                             | ❌ Unsafe                                                              |
    | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
    | This is a paragraph.<br /><br /># First level heading<br /><br />Another paragraph. | This is a paragraph.<br /># First level heading<br />Another paragraph |
    {: id="20210104091501-2ugpgmy"}
 2. {: id="20210104091501-wy37912"}**Be sure to add a space after the hash sign of the ATX heading**
    {: id="20210104091501-9ksvi19"}
 
-   | ✅ Safe              | ❌ Unsafe            |
+   | ✅ Safe               | ❌ Unsafe             |
    | ----------------------- | ----------------------- |
    | # First-level heading | # First-level heading |
    {: id="20210104091501-r36you0"}
@@ -64,8 +64,8 @@ In addition to using ATX headings, we can also use Setext headings: in the next 
 Use blank lines to separate text.
 {: id="20210104091501-x4fxor6"}
 
-| Markdown                                                                           | HTML                                                                                        | Rendering results                                                                       |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Markdown                                                                           | HTML                                                                                        | Rendering results                                                                     |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | I love using Markdown.<br /><br />I will use Markdown to typeset all my documents. | `<p>I like to use Markdown. `<br>`<p>I will use Markdown to typeset all my documents. </p>` | <p>I like to use Markdown.</p><p>I will use Markdown to typeset all my documents.</p> |
 {: id="20210104091501-b9v22t8"}
 
@@ -75,7 +75,7 @@ Use blank lines to separate text.
 1. {: id="20210104091501-5w362yt"}Do not use spaces or tabs (`\t` is the Tab key) to indent the beginning of the paragraph, otherwise it may be rendered as a code block.
    {: id="20210104091501-ybuygap"}
 
-   | ✅ Safe                                                                    | ❌ Unsafe                                                 |
+   | ✅ Safe                                                                     | ❌ Unsafe                                                  |
    | ----------------------------------------------------------------------------- | ------------------------------------------------------------ |
    | Do not indent the beginning.<br><br>Just keep the left alignment like this. | The beginning indentation may be rendered as a code block. |
    {: id="20210104091501-vsp9ev4"}
@@ -127,7 +127,7 @@ To bold text, you can use two asterisks `**` or two underscores `__` to wrap the
 The difference between using asterisks for bold and underscores is that spaces can be added before and after the asterisk, but underscores must be added.
 {: id="20210104091501-pi250vy"}
 
-| ✅ Safe                               | ❌ Unsafe                              |
+| ✅ Safe                                | ❌ Unsafe                               |
 | ---------------------------------------- | ----------------------------------------- |
 | `Asterisk **Bold** No spaces required` | `No spaces underscore __Bold__ invalid` |
 {: id="20210104091501-qrcce4s"}
@@ -150,7 +150,7 @@ To emphasize text, you can use an asterisk `*` or an underscore `_` to wrap the 
 Similar to bold, spaces can be used before and after the asterisk, but the underscore must be added.
 {: id="20210104091501-mjr9ymr"}
 
-| ✅ Safe                               | ❌ Unsafe                             |
+| ✅ Safe                                | ❌ Unsafe                              |
 | ---------------------------------------- | ---------------------------------------- |
 | `asterisk *emphasis*no space required` | `no space underscore_emphasis_invalid` |
 {: id="20210104091501-otnuufk"}
@@ -161,16 +161,16 @@ Similar to bold, spaces can be used before and after the asterisk, but the under
 If you need to emphasize the text while bolding it, you can use three asterisks `***` or three underscores `___` to wrap the text to be emphasized.
 {: id="20210104091501-v7z4vvy"}
 
-| Markdown                                                 | HTML                                                                                             | Rendering results                                                                   |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Example of***bolding and emphasizing*** at the same time | `Example of <strong><em>bolding and emphasizing at the same time</em></strong>`                  | At the same time<strong><em>bolding and emphasizing </em></strong> Examples |
-| Example of bolding and emphasizing ___ at the same time  | `Example of <strong><em>bolding and emphasizing at the same time</em></strong> at the same time` | <strong><em>Bolding and emphasizing at the same time</em></strong> example  |
-| At the same time__*Bold and emphasized*__ example        | `At the same time <strong><em>Bold and emphasized</em></strong> example`                         | At the same time<strong><em>Bold and emphasized</em></strong> example       |
-| At the same time**_Bold and emphasized_** example        | `At the same time <strong><em>Bold and emphasized</em></strong> example`                         | At the same time<strong><em>Bold and emphasized</em></strong> Examples      |
-| Asterisk***can be omitted*** plus space                  | `Asterisk<strong><em>can be omitted</em></strong>Add space`                                      | Asterisk<strong><em>can be omitted</em ></strong>Add space                  |
+| Markdown                                             | HTML                                                                                        | Rendering results                                                                |
+| ------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Example of \*\*\*bold and emphasize\*\*\* at the same time | `Example of <strong><em>bold and emphasize</em></strong> at the same time`                  | Example of <strong><em>bold and emphasize</em></strong> at the same time |
+| Example of \_\_\_bold and emphasize\_\_\_ at the same time | `Example of <strong><em>bold and emphasize at the same time</em></strong> at the same time` | Example of <strong><em>bold and emphasize</em></strong> at the same time |
+| At the same time \_\_\*bold and emphasize\*\_\_ example    | `Example of <strong><em>bold and emphasize</em></strong> at the same time`                  | Example of <strong><em>bold and emphasize</em></strong> at the same time |
+| At the same time \*\*\_bold and emphasize\_\*\* example    | `Example of <strong><em>bold and emphasize</em></strong> at the same time`                  | Example of <strong><em>bold and emphasize</em></strong> at the same time |
+| Asterisk***can be omitted***plus space               | `Asterisk<strong><em>can be omitted</em></strong>plus space`                                | Asterisk<strong><em>can be omitted</em ></strong>plus space              |
 {: id="20210104091501-esy36zo"}
 
-## Block Quote
+## Blockquote
 {: id="20210104091501-y113sx6"}
 
 To create a block quote `<blockquote>`, just add a greater than sign `>` before the paragraph.
@@ -192,7 +192,7 @@ Rendering result
 > {: id="20210104091501-u55enn2"}
 {: id="20210104091501-f9avu3c"}
 
-### Segment within block quote
+### Segment within blockquote
 {: id="20210104091501-bwzt7j1"}
 
 If you need to segment, you can add a `>` before the blank line of the segment.
@@ -255,7 +255,9 @@ Rendering result:
 > {: id="20210104091501-t95h7c4"}
 >
 > * {: id="20210104091501-gve1v34"}List item one is a container block element
+>   {: id="20210216134045-jecq2dp"}
 > * {: id="20210104091501-bna0tdv"}List item two is also a container block element
+>   {: id="20210216134045-59ay87p"}
 > {: id="20210104091501-zj8vhx2"}
 >
 > **Bold** and *Emphasis* are row-level elements.
@@ -274,11 +276,11 @@ The list is divided into an ordered list and an unordered list. Lists in Markdow
 An ordered list can be created by using Arabic numerals followed by `.` or `)`, and the numbers do not have to be consecutively incremented.
 {: id="20210104091501-zpa0tyw"}
 
-| Markdown                                 | HTML                                                    |
-| ------------------------------------------ | --------------------------------------------------------- |
-| 1. List item one<br>2. List item two<br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
-| 1. List item one<br>1. List item two<br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
-| 1. List item one<br>3. List item two<br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
+| Markdown | HTML                                                    |
+| ---------- | --------------------------------------------------------- |
+| <br><br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
+| <br><br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
+| <br><br> | `<ol><li>List item one</li><li>List item two</li></ol>` |
 {: id="20210104091501-gm9c7t9"}
 
 ### Unordered List
@@ -287,11 +289,11 @@ An ordered list can be created by using Arabic numerals followed by `.` or `)`, 
 Unordered lists can start with a dash `-`, an asterisk `*`, or a plus sign `+`, followed by a space to separate the text content.
 {: id="20210104091501-qwgzyud"}
 
-| Markdown                               | HTML                                                    |
-| ---------------------------------------- | --------------------------------------------------------- |
-| -List item one<br>- List item two<br>  | `<ul><li>List item one</li><li>List item two</li></ul>` |
-| * List item one<br>* List item two<br> | `<ul><li>List item one</li><li>List item two</li></ul>` |
-| + List item one<br>+ List item two<br> | `<ul><li>List item one</li><li>List item two</li></ul>` |
+| Markdown               | HTML                                                    |
+| ------------------------ | --------------------------------------------------------- |
+| -List item one<br><br> | `<ul><li>List item one</li><li>List item two</li></ul>` |
+| <br><br>               | `<ul><li>List item one</li><li>List item two</li></ul>` |
+| <br><br>               | `<ul><li>List item one</li><li>List item two</li></ul>` |
 {: id="20210104091501-dklh9ct"}
 
 ### List item contains other elements
@@ -342,12 +344,16 @@ Rendering result:
 {: id="20210104091501-sqmwgwm"}
 
 * {: id="20210104091501-2ctsuyv"}List item one
+  {: id="20210216134045-q60t6ge"}
 * {: id="20210104091501-b1oz2mx"}The first paragraph of list item two
+  {: id="20210216134045-wzj7hts"}
+
   > The second paragraph is a block quote
   > {: id="20210104091501-a702uy7"}
   >
   {: id="20210104091501-3d6jagp"}
 * {: id="20210104091501-u5hx1vm"}List item three
+  {: id="20210216134045-fl3pi8u"}
 {: id="20210104091501-m69k5xz"}
 
 #### List item contains code block
@@ -369,13 +375,17 @@ Rendering result:
 {: id="20210104091501-90bevjs"}
 
 * {: id="20210104091501-dyrinem"}List item one
+  {: id="20210216134045-3ztd5ok"}
 * {: id="20210104091501-uytwsxn"}The first paragraph of list item two
+  {: id="20210216134045-7oci9mh"}
+
   ```
   Here is the code block
   echo Hello, world!
   ```
   {: id="20210104091501-76rstv1"}
 * {: id="20210104091501-gc9q5nk"}List item three
+  {: id="20210216134045-m8dnlzf"}
 {: id="20210104091501-uu2at02"}
 
 #### List item contains pictures
@@ -385,7 +395,7 @@ Rendering result:
 * List item one
 * The first paragraph of list item two
   
-  ![B3log](https://static.b3log.org/images/brand/b3log-128.png "B3log Open Source Community")
+  ![B3log](https://b3log.org/images/brand/b3log-128.png "B3log Open Source Community")
 * List item three
 ````
 {: id="20210104091501-dgotc25"}
@@ -398,7 +408,7 @@ Rendering result:
 * {: id="20210104091501-0lhb0mh"}The first paragraph of list item two
   {: id="20210104091501-8ejrp68"}
 
-  ![B3log Logo](https://static.b3log.org/images/brand/b3log-128.png)
+  ![B3log Logo](https://b3log.org/images/brand/b3log-128.png)
   {: id="20210104091501-uuadhve"}
 * {: id="20210104091501-ehys932"}List item three
   {: id="20210104091501-xyoybu3"}
@@ -410,9 +420,9 @@ Rendering result:
 The code can be wrapped with backticks span</code>.
 {: id="20210104091501-0lzv3z8"}
 
-| Markdown                         | HTML                                     | Rendering results                        |
-| ---------------------------------- | ------------------------------------------ | ------------------------------------------ |
-| The command to list files is\`ls\` | The command to list files isspan</code>` | The command to list files is span</code> |
+| Markdown                          | HTML                                           | Rendering results                 |
+| ----------------------------------- | ------------------------------------------------ | ----------------------------------- |
+| The command to list files is \`ls\` | The command to list files is `<code>ls</code>` | The command to list files is `ls` |
 {: id="20210104091501-29xf94h"}
 
 ### Escaping backticks
@@ -421,9 +431,9 @@ The code can be wrapped with backticks span</code>.
 If you need to display the backquote, you can use the escape character `\` to escape the backquote.
 {: id="20210104091501-jxti9h3"}
 
-| Markdown         | HTML        | Rendering results |
-| ------------------ | ------------- | ------------------- |
-| Type a backtick\` | span</code> | Type a backtick ` |
+| Markdown          | HTML              | Rendering results |
+| ------------------- | ------------------- | ------------------- |
+| Type a backtick \` | Type a backtick ` | Type a backtick ` |
 {: id="20210104091501-zstovis"}
 
 ### Code block
@@ -606,8 +616,11 @@ The link definition consists of three parts:
 {: id="20210104091501-d59zjqe"}
 
 1. {: id="20210104091501-y6j7zrb"}Square brackets wrap to define the link identifier, followed by a colon `:`
+   {: id="20210216134045-r8vybfe"}
 2. {: id="20210104091501-97o9nbq"}URL can be written directly or wrapped in angle brackets `<>`
+   {: id="20210216134045-j4gdngy"}
 3. {: id="20210104091501-a2ffeds"}Link title, this part is optional and can be wrapped in double quotes, single quotes or parentheses
+   {: id="20210216134045-tfdtpep"}
 {: id="20210104091501-daxhv5r"}
 
 ```markdown
@@ -662,14 +675,14 @@ Use the exclamation mark `!` followed by a hyperlink to render the image.
 {: id="20210104091501-16uw63o"}
 
 ```markdown
-![B3log Logo](https://static.b3log.org/images/brand/b3log-128.png)
+![B3log Logo](https://b3log.org/images/brand/b3log-128.png)
 ```
 {: id="20210104091501-j0cwfgo"}
 
 Rendering result:
 {: id="20210104091501-b6t3hny"}
 
-![B3log Logo](https://static.b3log.org/images/brand/b3log-128.png)
+![B3log Logo](https://b3log.org/images/brand/b3log-128.png)
 {: id="20210104091501-shaalez"}
 
 ### Hyperlink nested image
@@ -679,14 +692,14 @@ If you need to click on the picture to jump to the hyperlink, you only need to i
 {: id="20210104091501-vxh48yo"}
 
 ```markdown
-[![LianDi](https://static.b3log.org/images/brand/hacpai-128.png)](https://ld246.com)
+[![LianDi](https://b3log.org/images/brand/hacpai-128.png)](https://ld246.com)
 ```
 {: id="20210104091501-lz44osc"}
 
 Rendering result:
 {: id="20210104091501-x9nimrg"}
 
-[![LianDi](https://static.b3log.org/images/brand/hacpai-128.png)](https://ld246.com)
+[![LianDi](https://b3log.org/images/brand/hacpai-128.png)](https://ld246.com)
 {: id="20210104091501-qoo2seo"}
 
 ## Escape character
@@ -698,7 +711,7 @@ You can use the backslash `\` to escape the following characters:
 | Characters  | Chinese name               |
 | ------------- | ---------------------------- |
 | `\`         | Backslash                  |
-| span</code> | backtick                   |
+| `` ` ``     | backtick                   |
 | `*`         | Asterisk                   |
 | `_`         | Underscore                 |
 | `{}`        | curly braces               |
@@ -709,7 +722,7 @@ You can use the backslash `\` to escape the following characters:
 | `-`         | dash (minus sign)          |
 | `.`         | Point                      |
 | `!`         | Exclamation mark           |
-| span</code> | Vertical bar (pipe symbol) |
+| `\|` </code> | Vertical bar (pipe symbol) |
 {: id="20210104091501-9kq13rz"}
 
 Almost all ASCII punctuation marks can be escaped with backslashes.
@@ -766,11 +779,13 @@ With the improvement of the CommonMark/GFM specification and gradually becoming 
 {: id="20210104091501-awhnw82"}
 
 * {: id="20210104091501-q8kha7c"}[Markdown Guide](https://www.markdownguide.org)
+  {: id="20210216134045-rysmmw0"}
 * {: id="20210104091501-amvsrqq"}[CommonMark Spec](https://spec.commonmark.org)
+  {: id="20210216134045-9jzb6ea"}
 {: id="20210104091501-vi9mtye"}
 
 [Link Label]: https://b3log.org
-{: id="20210104091504-ianwizs"}
+{: id="20210216134354-kzt82p7"}
 
 
 {: id="20200924085905-kxykwln" type="doc"}

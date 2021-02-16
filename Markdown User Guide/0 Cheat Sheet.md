@@ -21,7 +21,7 @@ The following element syntax is supported by all Markdown engines and can be use
 | [Code](https://ld246.com/article/1583129520165#%E4%BB%A3%E7%A0%81)                             | `Code`                                                                |
 | [Thematic break](https://ld246.com/article/1583129520165#%E5%88%86%E9%9A%94%E7%BA%BF)          | `---`                                                                 |
 | [Hyperlink](https://ld246.com/article/1583129520165#%E8%B6%85%E9%93%BE%E6%8E%A5)               | `[B3log](https://b3log.org )`                                         |
-| [Picture](https://ld246.com/article/1583129520165#%E5%9B%BE%E7%89%87)                          | `![B3log Logo](https://static.b3log.org/images/ brand/b3log-128.png)` |
+| [Picture](https://ld246.com/article/1583129520165#%E5%9B%BE%E7%89%87)                          | `![B3log Logo](https://b3log.org/images/brand/b3log-128.png)` |
 {: id="20210104091457-hqrmlar"}
 
 ## Extended Syntax
