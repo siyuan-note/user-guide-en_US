@@ -19,7 +19,7 @@ We chose to use Git for version management not only because of the power and sta
 ## Cloud Repository
 {: id="20210104091603-is1ds2d"}
 
-The cloud repository of our server is located at `git@siyuan.b3logfile.com:/siyuan/{uid}/{notebook}.git`, and the automatically generated SSH key pair is used for identity authentication. If you encounter problems with identity authentication when using the synchronization function, please check the public key in "Settings - Synchronization" and confirm whether the public key has been automatically added to the chain drop community individual [Settings - Public Key](https:/ /ld246.com/settings/key), if it is not added, please check the program log to determine whether it is a network problem. If the problem still cannot be solved, please ((20200923234102-ysbri6o "Contact us for feedback")).
+The cloud repository of our server is located at `git@siyuan.b3logfile.com:/siyuan/{uid}/{notebook}.git`, and the automatically generated SSH key pair is used for identity authentication. If you encounter problems with identity authentication when using the synchronization function, please ((20200923234102-ysbri6o "Contact us for feedback")).
 {: id="20210104091603-xkkiv92"}
 
 * {: id="20210104091603-qm7tv9i"}The maximum storage space of all notebooks under the same user is `4G` (including version history)
