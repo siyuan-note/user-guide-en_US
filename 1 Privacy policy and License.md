@@ -8,7 +8,7 @@
 ## User authorization agreement
 {: id="20210104091616-of87fda"}
 
-This license agreement applies and only applies to SiYuan (hereinafter referred to as the "software"), Yunnan LianDi Technology Co., Ltd. has the final right to interpret this license agreement.
+This license agreement applies and only applies to SiYuan (hereinafter referred to as the "software"), Yunnan Liandi Technology Co., Ltd. has the final right to interpret this license agreement.
 {: id="20210104091616-5uc2i6o"}
 
 Once you confirm this agreement and start using the software, you are deemed to fully understand and accept the terms of this agreement. The authorization agreement in electronic text is the same as the agreement signed by both parties in writing, which has full and equivalent legal effect.
