@@ -25,8 +25,10 @@ There is a detail about the date and time formatting. #Note#: The formatting of 
 In addition to the built-in variables and functions of Sprig, the following variables and functions are also supported:
 {: id="20210104091444-2wbdokx"}
 
-* {: id="20210104091444-d5hpwdd"}`title`: Use this variable to quickly insert the current document name. For example, if the template content is `# {{.title}}`, it will be inserted into the current document content with the first-level heading syntax after invoking
+* {: id="20210104091444-d5hpwdd"}`title`: Use this variable to insert the current document name. For example, if the template content is `# {{.title}}`, it will be inserted into the current document content with the first-level heading syntax after invoking
   {: id="20210131162138-93wovlc"}
+* {: id="20210221131637-9xmclwp"}`id`：Use this variable to insert the current document id.
+  {: id="20210221131637-hnlhxny"}
 * {: id="20210121193829-wfzsf6m"}`sql`: Use this function to query the database, and the parameter is a SQL statement: `{{ sql "SELECT * FROM blocks LIMIT 7" }}`
   {: id="20210131162138-7ufhbho"}
 {: id="20210104091444-mwbvc9m"}
