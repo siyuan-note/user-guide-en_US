@@ -18,9 +18,10 @@ This table is used to store content block data.
 |  markdown | Text with complete Markdown markers                                            |
 |      type | Content block type, please refer to ((20210210104024-efd1ar6 "here"))                 |
 |   subtype | Content block subtype, please refer to ((20210210104037-xex9wds "here"))              |
-|      time | Create time                                                                    |
 |       ial | Inline attributes list, like  `{: name="value"}`                               |
 |      sort | For sorting, the smaller the value, the higher the sort                        |
+|   created | Create time                                                                    |
+|   updated | Update time                                                                    |
 {: id="20210111225813-9kys36i"}
 
 ## Default values
