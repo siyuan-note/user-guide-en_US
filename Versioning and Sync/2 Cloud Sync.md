@@ -1,14 +1,14 @@
 ## Repository synchronization
 {: id="20210104091603-1dzjinv"}
 
-The synchronization function is the [Advanced Features](https://b3log.org/siyuan/advanced_features.html) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`.
-{: id="20210104091603-5xeizyz"}
+The synchronization function is the [Advanced Features](https://b3log.org/siyuan/en/advanced_features.html) of SiYuan, and you need to pay to use it. After clicking the sync button on the interface, SiYuan will synchronize data through `git pull` and `git push`.
+{: id="20210104091603-5xeizyz" updated="20210223100858"}
 
 #Note#: WebDAV notebooks will not be synchronized because the WebDAV server itself is already in the cloud.
 {: id="20210104091603-pfg40jy"}
 
-We chose to use Git for version management not only because of the power and stability of Git, but also because it is open. So using our server cloud repository is not the only option. You can add other remote repositories (such as GitHub repositories) through the `git remote add` command, and then you can synchronize with these remote repositories via git. Please refer to the operation details :
-{: id="20210104091603-6fyox44"}
+We chose to use Git for version management not only because of the power and stability of Git, but also because it is open. So using our server cloud repository is not the only option. You can add other remote repositories (such as GitHub repositories) through the `git remote add` command, and then you can synchronize with these remote repositories via Git. Please refer to the operation details :
+{: id="20210104091603-6fyox44" updated="20210223085923"}
 
 * {: id="20210104091603-ate8icx"}((20201213120253-hhtskws "{{.text}}"))
   {: id="20210204192136-kg00w0v"}
