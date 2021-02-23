@@ -4,18 +4,25 @@ SiYuan uses [Git](https://git-scm.com/) to implement version management. After o
 ## Commit changes
 {: id="20210104091559-374fm0g"}
 
-All changes to documents and resource files (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
-{: id="20210104091559-ydyr9y3"}
+All changes to documents (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
+{: id="20210104091559-ydyr9y3" updated="20210223100607"}
 
 * {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic submission, which can be adjusted in the Settings -Editor
+  {: id="20210223100524-7h68uqu"}
 * {: id="20210104091559-tl3mi3v"}The commit operation will also be performed when you click Sync
+  {: id="20210223100524-62vae48"}
 {: id="20210104091559-tzwh8fj"}
+
+One of the automatically created .gitignore by default ignores the assets folder, which means that resource files will not be included in the version management, because if included, the performance will be greatly reduced and will take up a lot of disk space.
+{: id="20210223100527-12ki6gl" updated="20210223100527"}
 
 ## Browse commit history
 {: id="20210104091559-14n7e2m"}
 
 * {: id="20210104091559-52na08q"}Select History from the right-click drop-down menu of the editor tab
+  {: id="20210223100524-mz5sicl"}
 * {: id="20210104091559-3cov491"}Select History from the right-click drop-down menu of the file tree
+  {: id="20210223100524-lxq8gng"}
 {: id="20210104091559-kbfabo4"}
 
 Currently only supports browsing the latest 32 commits history.
