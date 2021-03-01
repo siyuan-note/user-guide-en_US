@@ -20,23 +20,22 @@ The overall program is located under `/opt/siyuan/`, which is basically the stru
 ## Entrypoint
 {: id="20201227201751-5d6snqe"}
 
-The entry point has been set when constructing the Docker image: `ENTRYPOINT ["/opt/siyuan/kernel" ]`, so use `docker run b3log/siyuan` to start it, but this will not work normally, and some parameters need to be set. For details, please refer to ((20201225172241-w8hdt9o "here")).
-{: id="20201227201751-tbpaexo"}
-
-The required parameters are:
-{: id="20201227201751-rov3695"}
+The entry point is set when building the Docker image: `ENTRYPOINT ["/opt/siyuan/kernel" ]`, use `docker run b3log/siyuan` with parameters to start:
+{: id="20201227201751-tbpaexo" updated="20210301202831"}
 
 * {: id="20201227201751-n5o2ot2"}`--conf` specifies the configuration folder path, the configuration folder is mounted to the container via `-v` on the host
   {: id="20210208152449-9gz7jy5"}
+* {: id="20210301202834-kgtx12h"}`--data` specifies the data folder path, the data folder is mounted to the container via `-v` on the host
+  {: id="20210301202834-3itacib" updated="20210301202901"}
 * {: id="20201227201751-cxo94yt"}`--resident` specified as true resident in memory
   {: id="20210208152449-og2hpgc"}
-{: id="20201227201751-gmofu4a"}
+{: id="20201227201751-gmofu4a" updated="20210301202856"}
 
-The following is an example of a startup command:
-{: id="20201227201751-utyuocv"}
+More parameters can refer to ((20201225172241-w8hdt9o "here")). The following is an example of a startup command:
+{: id="20210301202938-prn2v5a" updated="20210301203044"}
 
-`docker run -v conf_dir_host:conf_dir_container -v data_dir_host:data_dir_container -p 6806:6806 b3log/siyuan --resident=true --conf=conf_dir_container`
-{: id="20201227201751-20ez9rs"}
+`docker run -v conf_dir_host:conf_dir_container -v data_dir_host:data_dir_container -p 6806:6806 b3log/siyuan --resident=true --conf=conf_dir_container --data=data_dir_container`
+{: id="20201227201751-20ez9rs" updated="20210301203103"}
 
 * {: id="20201227201751-8l5oixx"}`conf_dir_host`: the configuration folder path on the host
   {: id="20210208152449-7fj2x6h"}
@@ -45,9 +44,7 @@ The following is an example of a startup command:
 * {: id="20201227201751-wn3qqvc"}`data_dir_host`: the path of the host data folder
   {: id="20210208152449-fmxop31"}
 * {: id="20201227201751-3k8gqkf"}`data_dir_container`: the path of the data folder in the container
-  {: id="20210208152449-4bow85v"}
-* {: id="20201227201751-todg0go"}The box path field in the configuration file conf.json needs to be under the `data_dir_container` path
-  {: id="20210208152449-uwr4l82"}
+  {: id="20210208152449-4bow85v" updated="20210301203118"}
 {: id="20201227201751-pt653to"}
 
 To simplify, it is recommended to configure the conf and data folder paths to be consistent on the host and container respectively, such as:
@@ -62,26 +59,8 @@ To simplify, it is recommended to configure the conf and data folder paths to be
 Examples of corresponding startup commands:
 {: id="20201227201751-ii5q18q"}
 
-`docker run -v /siyuan/conf:/siyuan/conf -v /siyuan/data:/siyuan/data -p 6806:6806 b3log/siyuan --resident=true --conf=/siyuan/conf`
-{: id="20201227201751-n5c4xje"}
-
-The corresponding box configuration example in conf.json:
-{: id="20201227201751-7tvzxnw"}
-
-```json
-{
-   "url": "http://127.0.0.1:6806/siyuan/siyuan/SiYuan User Guide/",
-   "name": "SiYuan User Guide",
-   "auth": "",
-   "user": "",
-   "password": "",
-   "path": "/siyuan/data/SiYuan User Guide"
-}
-```
-{: id="20201227201751-8ofeyvu"}
-
-In addition to manually preparing conf.json, you can also open/close folders by calling the kernel API.
-{: id="20201227201751-1bbuo86"}
+`docker run -v /siyuan/conf:/siyuan/conf -v /siyuan/data:/siyuan/data -p 6806:6806 b3log/siyuan --resident=true --conf=/siyuan/conf/ --data=/siyuan/data/`
+{: id="20201227201751-n5c4xje" updated="20210301203147"}
 
 ## Kernel API
 {: id="20201227201751-gv0fpx2"}
