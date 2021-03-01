@@ -69,8 +69,8 @@ This is the Git design. At least one file is required under the folder (the file
    {: id="20210226101133-192g2ca"}
 3. {: id="20210104091606-0nf9jm9"}Delete the .git metadata folder on the file system
    {: id="20210226101133-v7wjgl6"}
-4. {: id="20210104091606-etzwcbz"}Restart SiYuan (it will automatically generate a .git metadata folder based on existing data)
-   {: id="20210226101133-svtw32g"}
+4. {: id="20210104091606-etzwcbz"}Close then re-open this notebook
+   {: id="20210226101133-svtw32g" updated="20210301220348"}
 5. {: id="20210104091606-fuijdda"}Click Sync to synchronize the data to the cloud repository
    {: id="20210226101133-wg8moci"}
 {: id="20210104091606-cy60yx2"}
@@ -78,8 +78,8 @@ This is the Git design. At least one file is required under the folder (the file
 ## How to delete cloud asset files that are no longer needed?
 {: id="20210226101134-hvw08er" updated="20210226101142"}
 
-后续会提供。#TODO#
-{: id="20210226101144-fknnoaz" updated="20210226101229"}
+#TODO#
+{: id="20210226101144-fknnoaz" updated="20210301220415"}
 
 
 {: id="20201210002859-thjj328" type="doc"}
