@@ -4,24 +4,24 @@
 The data synchronization function is the [Advanced Features](https://b3log.org/siyuan/en/advanced_features.html) of SiYuan. Synchronization is divided into Git synchronization and asset files synchronization, which can significantly improve performance and reduce space usage.
 {: id="20210104091603-5xeizyz" updated="20210226100002"}
 
-* {: id="20210226100018-izpvokp"}Git synchronization is only used to synchronize .md files, and automatically ignores the synchronization of the assets folder through .gitignore
+* {: id="20210226100018-izpvokp"}Git synchronization is only used to synchronize .md files, and non-.md files are automatically ignored through .gitignore synchronization
   {: id="20210226100018-lox7l34"}
 * {: id="20210226100018-8nkvlmv"}The asset files referenced in the documents under the assets folder will be synchronized by uploading and downloading
   {: id="20210226100018-08if35l" updated="20210226100039"}
-{: id="20210226100018-5rklteh"}
+{: id="20210226100018-5rklteh" updated="20210301211743"}
 
 #Note#:
 {: id="20210104091603-pfg40jy"}
 
-* {: id="20210226100100-yjiki9u"}Every time synchronizes, it will automatically add the `assets` line in .gitignore, that is, ignore the assets folder commit
-  {: id="20210226100100-jw9m72x" updated="20210226100123"}
-* {: id="20210226100100-fnrc290"}Because assets are not included in Git management, there will be no version history support, please confirm clearly when deleting asset files
-  {: id="20210226100100-t9vutr6" updated="20210226100145"}
-* {: id="20210226100100-gkj7xkr"}If you use other Git repository services, please manually modify .gitignore and then use `git`
-  {: id="20210226100100-jerdcpa" updated="20210226100155"}
-* {: id="20210226100100-87c1p68"}Only the asset files that have been referenced will be synchronized, and folder reference methods are not supported
-  {: id="20210226100100-7q12l7c" updated="20210226100222"}
-{: id="20210226100100-6wt9906"}
+* {: id="20210301211837-ynwu2u0"}Each time you synchronize, .gitignore will be reset and the ignore rules will be written
+  {: id="20210301211837-0uezf5a"}
+* {: id="20210301211837-ndq7kev"}Because assets are not included in Git management, there will be no version history support, please confirm clearly when deleting resource files
+  {: id="20210301211837-yu2mf7g"}
+* {: id="20210301211837-nksud8y"}If you use other Git repository services, please turn off automatic commit in the settings
+  {: id="20210301211837-6k4l71t" updated="20210301211907"}
+* {: id="20210301211837-qku2a3n"}Only the asset files that have been referenced will be synchronized, and the folder reference method is not supported
+  {: id="20210301211837-g8dzo9i" updated="20210301211912"}
+{: id="20210301211837-nsils1w"}
 
 ## Cloud Space size
 {: id="20210104091603-is1ds2d" updated="20210226100300"}
