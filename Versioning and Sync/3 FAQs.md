@@ -41,6 +41,9 @@ This is the Git design. At least one file is required under the folder (the file
    {: id="20210226101133-i9i3tx1"}
 {: id="20210104091606-9r54ew3"}
 
+#Note#: SiYuan official synchronization and using a third-party Git repository can only choose one of the two. If you need to use a third-party Git repository service, please disable automatic commit in Settings - Sync and reinitialize .git.
+{: id="20210302090740-tb6knd5" updated="20210302090805"}
+
 ## How to sync to Gitee repository?
 {: id="20201213120253-ulbi3zh"}
 

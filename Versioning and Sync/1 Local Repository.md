@@ -7,14 +7,14 @@ SiYuan uses [Git](https://git-scm.com/) to implement version management. After o
 All changes to documents (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
 {: id="20210104091559-ydyr9y3" updated="20210223100607"}
 
-* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic submission, which can be adjusted in the Settings -Editor
-  {: id="20210223100524-7h68uqu"}
+* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic submission, which can be adjusted in the Settings - Sync
+  {: id="20210223100524-7h68uqu" updated="20210302090850"}
 * {: id="20210104091559-tl3mi3v"}The commit operation will also be performed when you click Sync
   {: id="20210223100524-62vae48"}
 {: id="20210104091559-tzwh8fj"}
 
-One of the automatically created .gitignore by default ignores the assets folder, which means that resource files will not be included in the version management, because if included, the performance will be greatly reduced and will take up a lot of disk space.
-{: id="20210223100527-12ki6gl" updated="20210223100527"}
+Only .md files are committed in the automatically created .gitignore by default, and other types of files will not be included in the version management.
+{: id="20210223100527-12ki6gl" updated="20210302090443"}
 
 ## Browse commit history
 {: id="20210104091559-14n7e2m"}
