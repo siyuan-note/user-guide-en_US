@@ -1,5 +1,5 @@
 The template snippet is used to quickly insert the previously set text content at the cursor caret position and supports variables.
-{: id="20210104091444-bu1zdhb"}
+{: id="20210104091444-bu1zdhb" updated="20210302223800"}
 
 ## Template folder
 {: id="20210104091444-ts3dff2"}

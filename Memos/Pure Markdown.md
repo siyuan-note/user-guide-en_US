@@ -1,5 +1,5 @@
 ## Markdown specifications and extensions
-{: id="20210104091524-aa7klsh"}
+{: id="20210104091524-aa7klsh" updated="20210302223840"}
 
 Markdown is popular because of its simplicity and versatility. After standardization through the GFM/CommonMark specification, almost all platforms and software that support Markdown have been implemented.
 {: id="20210104091524-doh26q0"}
@@ -26,12 +26,19 @@ For developers, another way is not to choose Markdown text as the storage format
 {: id="20210104091524-cmlb0fp"}
 
 * {: id="20210104091524-df2d0d8"}"I want Markdown standard text so that other software can edit and view"
+  {: id="20210302223838-z2cg8zu"}
 * {: id="20210104091524-333tzzd"}"I want to render and edit in real time, the split screen is too uncomfortable for me"
+  {: id="20210302223838-fkmfhbv"}
 * {: id="20210104091524-jxwr136"}"I want source code editing mode, this is the essence of Markdown, and I can render with the naked eye..."
+  {: id="20210302223838-i977b97"}
 * {: id="20210104091524-cwd47ou"}"I want to add color to the text, I want the horizontal layout, and I want the image zoom"
+  {: id="20210302223838-k3n0o42"}
 * {: id="20210104091524-o419gwt"}"I want to nest tables and merge cells"
+  {: id="20210302223838-jsm9gzl"}
 * {: id="20210104091524-w8gauww"}……
+  {: id="20210302223838-129sgkh"}
 * {: id="20210104091524-6e9q7en"}"What? This won't work, goodbye!"
+  {: id="20210302223838-mpz2jwf"}
 {: id="20210104091524-ciwnvtq"}
 
 > There are only two kinds of languages: the ones people complain about and the ones nobody uses.

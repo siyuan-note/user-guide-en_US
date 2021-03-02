@@ -1,5 +1,5 @@
 ## Logic conjunction
-{: id="20201224120448-sur61q1"}
+{: id="20201224120448-sur61q1" updated="20210302223454"}
 
 Support operators `AND`, `OR` and `NOT` (note that capitalization is required). For example, `foo AND bar OR baz` means both foo and bar or baz; `foo NOT bar` means foo but not bar.
 {: id="20201224120448-yei9n1e"}

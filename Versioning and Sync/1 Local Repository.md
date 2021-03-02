@@ -2,7 +2,7 @@ SiYuan uses [Git](https://git-scm.com/) to implement version management. After o
 {: id="20210104091559-td6jgn8"}
 
 ## Commit changes
-{: id="20210104091559-374fm0g"}
+{: id="20210104091559-374fm0g" updated="20210302223915"}
 
 All changes to documents (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
 {: id="20210104091559-ydyr9y3" updated="20210223100607"}

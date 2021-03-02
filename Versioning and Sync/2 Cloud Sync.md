@@ -1,5 +1,5 @@
 ## Data synchronization
-{: id="20210104091603-1dzjinv" updated="20210226095849"}
+{: id="20210104091603-1dzjinv" updated="20210302223919"}
 
 The data synchronization function is the [Advanced Features](https://b3log.org/siyuan/en/advanced_features.html) of SiYuan. Synchronization is divided into Git synchronization and asset files synchronization, which can significantly improve performance and reduce space usage.
 {: id="20210104091603-5xeizyz" updated="20210226100002"}

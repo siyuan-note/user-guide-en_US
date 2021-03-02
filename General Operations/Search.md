@@ -2,10 +2,12 @@
 {: id="20201230105105-78pxcj3"}
 
 Trigger the search box via <kbd>Ctrl P</kbd> / <kbd>⌘ P</kbd>, support two modes:
-{: id="20201230105105-53h62re"}
+{: id="20201230105105-53h62re" updated="20210302223746"}
 
 * {: id="20201230105105-4ehgu59"}((20201222100328-kzqg0mz "Text mode")): Can cover most query scenarios with concise syntax
+  {: id="20210302223744-6r387x3"}
 * {: id="20201230105105-jgzn24z"}((20201222100339-i5hzcph "SQL mode")): Able to achieve complex query requirements, friendly to programmers
+  {: id="20210302223744-8f8ners"}
 {: id="20201230105105-8fuimro"}
 
 ## Content block reference search

@@ -1,5 +1,5 @@
-## `blocks` table
-{: id="20201117103851-gx21lz6"}
+## Table `blocks`
+{: id="20201117103851-gx21lz6" updated="20210302223506"}
 
 This table is used to store content block data.
 {: id="20201224120448-t51cvuj"}

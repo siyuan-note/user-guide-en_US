@@ -2,7 +2,7 @@
 {: id="20210104091509-p9osn32"}
 
 This is an example of how to correctly use **Markdown** typesetting. It is necessary to learn this to make your article better and clearer.
-{: id="20210104091509-kcv33qk"}
+{: id="20210104091509-kcv33qk" updated="20210302223827"}
 
 > Quoted text: Markdown is a text formatting syntax inspired
 > {: id="20210104091509-qnj7r6k"}

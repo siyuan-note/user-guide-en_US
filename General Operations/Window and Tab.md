@@ -1,5 +1,5 @@
 SiYuan supports multiple windows and multiple tabs, so that you can edit and view documents easily.
-{: id="20210104091452-gnto7hk"}
+{: id="20210104091452-gnto7hk" updated="20210302223809"}
 
 The tabs support up and down and left and right split screens, and all open tabs are synchronized in real time. For example, if you open multiple tabs for the same document, after editing and saving one of the tabs, the other tabs will also automatically synchronize the latest content to avoid dirty data overwriting while enjoying the convenience of multiple openings.
 {: id="20210104091452-z9t1xak"}

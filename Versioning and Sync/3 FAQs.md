@@ -1,5 +1,5 @@
 ### What is "Git conflict markers"?
-{: id="20201210002930-7cvn3j6"}
+{: id="20201210002930-7cvn3j6" updated="20210302223923"}
 
 The conflicting place looks like this in the document text (you can open the document through an external text editor to view):
 {: id="20210104091606-v8sc1mu"}

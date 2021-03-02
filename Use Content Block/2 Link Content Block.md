@@ -1,15 +1,19 @@
 For ((20200924101106-19z4kaa "content block")), the most valuable way to use it is to link them through ((20200924101312-jj4e0v3 "Content block reference")) and ((20200924101312-385dey5 "Content block embedding")). A good link is directional:
-{: id="20210104091542-v1yca4p"}
+{: id="20210104091542-v1yca4p" updated="20210302223858"}
 
 * {: id="20210104091542-ctguz9s"}Forwardlink, that is, which other content blocks are used in the current content block
+  {: id="20210302223856-grgney1"}
 * {: id="20210104091542-7fy85lw"}Backlink, that is, the current content block is used by those other content blocks
+  {: id="20210302223856-qk6hr9b"}
 {: id="20210104091542-9h3i9dh"}
 
 The forward link is included in the content of the current block, which we can see intuitively. Backlinks need to be searched in other documents to know, and it is precisely this information that is more valuable to us. We can use the following two ways to help us better grasp the knowledge points or diverge ideas:
 {: id="20210104091542-hbzfsn5"}
 
 * {: id="20210104091542-1ryw6y3"}((20200924101210-zwf8ags "Graph")): browse forward and backward link relationships between content blocks
+  {: id="20210302223856-ngw7ijw"}
 * {: id="20210104091542-40sj7jl"}((20200924101210-3qfiiat "Backlinks")): Display the backlinks of the current content block as a text list
+  {: id="20210302223856-y92ousb"}
 {: id="20210104091542-rlv1299"}
 
 ### Content block reference
@@ -40,6 +44,7 @@ The content block reference and embedding syntax described above support setting
 {: id="20210104091542-tg4sfec"}
 
 * {: id="20210104091542-dy2vo76"}`{{.text}}`: Use definition block content text to fill. If the definition block is a document block, it is filled with the document name.
+  {: id="20210302223856-wip1qql"}
 {: id="20210104091542-zlskyev"}
 
 

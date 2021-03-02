@@ -2,14 +2,17 @@
 {: id="20201229152405-ivntzua"}
 
 Right-click and select "Import" after selecting a folder on the file tree, and you can choose to import a folder or a single file in the secondary menu.
-{: id="20210120161035-zxkyg0w"}
+{: id="20210120161035-zxkyg0w" updated="20210302223730"}
 
 The import process mainly completes the following conversion processing:
 {: id="20210120155800-zxa7194"}
 
 * {: id="20210120155800-skvb3nx"}Parse and generate content blocks
+  {: id="20210302223727-7qa4h3g"}
 * {: id="20210120155800-lscebcp"}Convert `[[link|text]]` to content block reference
+  {: id="20210302223727-gdmpvir"}
 * {: id="20210120155800-f31147b"}Convert `#tag `to `#tag#`
+  {: id="20210302223727-jt3b8sz"}
 {: id="20210120155800-i46fkz7"}
 
 The converted Markdown file uses kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "Storage format")).
@@ -28,7 +31,9 @@ After selecting the content in the editor, you can see the copy option in the ri
 {: id="20210120155909-ct288u8"}
 
 * {: id="20210120155909-nn8tpwk"}Copy: mainly used inside SiYuan (kramdown)
+  {: id="20210302223727-ty6z9qp"}
 * {: id="20210120155909-zj9dg0j"}Copy as standard Markdown: copy to a place other than SiYuan
+  {: id="20210302223727-knjree5"}
 {: id="20210120155909-ouc1le7"}
 
 ### Full text export
@@ -38,9 +43,13 @@ Right-click and select "Export" after selecting the document in the file tree:
 {: id="20210120155909-08i894p"}
 
 * {: id="20210120155909-48jy3x5"}Markdown: Markdown files complying with GFM/CommonMark standards
+  {: id="20210302223727-xscow91"}
 * {: id="20210120155909-27u47et"}[TextBundle](http://textbundle.org): Package Markdown and its associated resource files to provide better Markdown migration
+  {: id="20210302223727-g2hc973"}
 * {: id="20210120155909-f9oo9lr"}PDF
+  {: id="20210302223727-wscm47q"}
 * {: id="20210120155909-bglztv7"}HTML
+  {: id="20210302223727-wbonhn9"}
 {: id="20210120155909-3j6fzii"}
 
 If you need to export more formats, please complete via [Pandoc](https://pandoc.org).

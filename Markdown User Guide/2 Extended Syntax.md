@@ -1,6 +1,6 @@
 > This article mainly introduces the extended syntax of Markdown, please refer to ((20200924085905-kxykwln "Markdown Basic Syntax")).
 > The concise version of the syntax can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
-> {: id="20210104091506-xm7temh"}
+> {: id="20210104091506-xm7temh" updated="20210302223822"}
 {: id="20210104091506-x1wsday"}
 
 ## Overview
@@ -25,10 +25,15 @@ Markdown syntax specifications have not yet formed a standard. The following syn
 {: id="20210104091506-hslzlxn"}
 
 * {: id="20210104091506-hperija"}[CommonMark](https://commonmark.org)
+  {: id="20210302223821-dx1nawa"}
 * {: id="20210104091506-3k4od60"}[GitHub Flavored Markdown (GFM)](https://github.github.com/gfm)
+  {: id="20210302223821-6z3no78"}
 * {: id="20210104091506-7q0kqfq"}[Markdown Extra](https://michelf.ca/projects/php-markdown/extra)
+  {: id="20210302223821-pgjpmo3"}
 * {: id="20210104091506-b7o111b"}[MultiMarkdown](https://fletcherpenney.net/multimarkdown)
+  {: id="20210302223821-egoglsv"}
 * {: id="20210104091506-po4zxky"}[R Markdown](https://rmarkdown.rstudio.com)
+  {: id="20210302223821-qzbphme"}
 {: id="20210104091506-zbse03w"}
 
 Among them, CommonMark and GFM are currently the most likely to be standardized. GFM is an extension of GitHub based on CommonMark. It is almost a de facto standard. For the interpretation of CommonMark specifications, please refer to [here](https://ld246.com/article/1566893557720).
@@ -328,7 +333,9 @@ Try to use only the extended syntax defined by GFM, so that you can maximize the
 {: id="20210104091506-ae8ngus"}
 
 * {: id="20210104091506-fjyy13g"}[Markdown Guide](https://www.markdownguide.org)
+  {: id="20210302223821-zsmr8qc"}
 * {: id="20210104091506-yxj1mvp"}[CommonMark Spec](https://spec.commonmark.org)
+  {: id="20210302223821-tucrpz1"}
 {: id="20210104091506-ktn57af"}
 
 

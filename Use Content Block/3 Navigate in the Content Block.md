@@ -2,7 +2,7 @@
 {: id="20210104091546-1flsvp0"}
 
 There are two types of links in the document content:
-{: id="20210104091546-cccr56d"}
+{: id="20210104091546-cccr56d" updated="20210302223903"}
 
 * {: id="20210104091546-c3rn1p7"}Hyperlink, which is the form of `[foo](bar)` provided by Markdown standard syntax
   {: id="20210205173431-fmc7ozo"}

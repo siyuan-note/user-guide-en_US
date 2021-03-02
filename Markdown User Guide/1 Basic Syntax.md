@@ -1,6 +1,6 @@
 > This article mainly introduces the basic syntax of Markdown, please refer to ((20200924092619-pw51c0y "Markdown Extended Syntax")).
 > The concise version of the syntax can be browsed ((20200924095356-cips1k6 "Markdown Cheat Sheet")).
-> {: id="20210104091501-jmccakm"}
+> {: id="20210104091501-jmccakm" updated="20210302223818"}
 {: id="20210104091501-9fffph9"}
 
 ## Overview
@@ -785,7 +785,7 @@ With the improvement of the CommonMark/GFM specification and gradually becoming 
 {: id="20210104091501-vi9mtye"}
 
 [Link Label]: https://b3log.org
-{: id="20210216134354-kzt82p7"}
+{: id="20210302223819-uqae5w9"}
 
 
 {: id="20200924085905-kxykwln" type="doc"}

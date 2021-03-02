@@ -1,5 +1,5 @@
 The simplest solution to serve SiYuan on the server is to deploy through Docker. The image name is `b3log/siyuan`. There is currently no version tag, only the latest version.
-{: id="20201227201128-8jq61mc"}
+{: id="20201227201128-8jq61mc" updated="20210302223726"}
 
 ## File structure
 {: id="20201227201751-w3gbqzd"}

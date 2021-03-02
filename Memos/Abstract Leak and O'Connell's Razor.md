@@ -2,7 +2,7 @@
 {: id="20210104091520-69bltdx"}
 
 > All non-trivial abstractions, to some degree, are leaky.
-> {: id="20210104091520-cp6aqxt"}
+> {: id="20210104091520-cp6aqxt" updated="20210302223836"}
 >
 > All major abstraction mechanisms are flawed to some extent.
 > {: id="20210104091520-n1b2j2k"}

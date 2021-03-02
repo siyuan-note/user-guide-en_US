@@ -1,5 +1,5 @@
 ## B/S Style
-{: id="20210104091528-gaw4kc8"}
+{: id="20210104091528-gaw4kc8" updated="20210302223844"}
 
 On the whole, SiYuan adopts the technical architecture of separation of front and back ends, and realizes front and back end communication through HTTP.
 {: id="20210104091528-tucfsql"}

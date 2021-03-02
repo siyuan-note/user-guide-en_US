@@ -2,10 +2,12 @@
 {: id="20201224120448-6jnrawi"}
 
 The content block dynamic query is mainly used to summarize the required content blocks, and the method used is almost the same as that of search, supporting text mode and SQL mode. Use `!{{` and `}}` to wrap text expressions or SQL scripts on a single line:
-{: id="20210111230452-5lclhuo"}
+{: id="20210111230452-5lclhuo" updated="20210302223910"}
 
 * {: id="20210111230452-7zr00k0"}Use text mode: `!{{ Content block }}`
+  {: id="20210302223908-eckoja8"}
 * {: id="20210111230452-ppe5dev"}Use SQL mode: `!{{ SELECT * FROM blocks WHERE content LIKE'%content block%' }}`, for details please refer to ((20201117103851-gx21lz6 "here"))
+  {: id="20210302223908-9jg45et"}
 {: id="20210111230452-806gfrj"}
 
 ## Example

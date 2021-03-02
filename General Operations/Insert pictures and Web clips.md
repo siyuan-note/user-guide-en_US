@@ -2,7 +2,7 @@
 {: id="20201210194734-v2rmiaq"}
 
 In the editor, you can directly paste the copied picture from the system clipboard, and the picture file will be copied to the assets folder at the same level as the current document. You can also insert pictures by dragging and dropping picture files into the editor.
-{: id="20210104091430-uqs502r"}
+{: id="20210104091430-uqs502r" updated="20210302223734"}
 
 If you use the standard Markdown syntax `![alt](assets/image "title")` to specify a title, then `title` will be rendered below the image as a legend, and the title part of the text supports span-level typesetting, such as bold, Italics, formulas, etc.
 {: id="20210104091430-tj5w1co"}

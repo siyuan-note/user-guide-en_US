@@ -1,5 +1,5 @@
 ## Type field `type`
-{: id="20210210104024-efd1ar6"}
+{: id="20210210104024-efd1ar6" updated="20210302223513"}
 
 The search condition supports expressions, you can use the `type:x` syntax to enable type filtering, where the value of `x` is as follows:
 {: id="20201224120448-hggh9p6"}
