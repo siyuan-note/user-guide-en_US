@@ -7,8 +7,8 @@ SiYuan uses [Git](https://git-scm.com/) to implement version management. After o
 All changes to data (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
 {: id="20210104091559-ydyr9y3" updated="20210315223804"}
 
-* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic commit, which can be adjusted in the Settings - Sync
-  {: id="20210223100524-7h68uqu" updated="20210315223917"}
+* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic commit, which can be adjusted in the Settings - Editor
+  {: id="20210223100524-7h68uqu" updated="20210315235016"}
 * {: id="20210104091559-tl3mi3v"}An automatic commit will be made when starting SiYuan or opening the notebook
   {: id="20210223100524-62vae48" updated="20210315223925"}
 {: id="20210104091559-tzwh8fj" updated="20210315223908"}
