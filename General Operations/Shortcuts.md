@@ -154,14 +154,14 @@
 ### List <kbd>Ctrl+L/O/J</kbd> / <kbd>⌘L/O/J</kbd>
 {: id="20210106154319-ans1gna"}
 
-| Name                          | Shortcuts                                  | Memo                                |
-| ------------------------------- | -------------------------------------------- | ------------------------------------- |
-| Indent with sublists          | <kbd>Tab</kbd>                             | The cursor must be at the beginning |
-| Single indent                 | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                                     |
-| Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                                     |
-| Reverse indent 2              | <kbd>Enter</kbd>                           | Empty list item                     |
-| Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list                           |
-{: id="20210106154319-4oe7doq"}
+| Name                          | Shortcuts                                  | Memo            |
+| ------------------------------- | -------------------------------------------- | ----------------- |
+| Indent with sublists          | <kbd>Tab</kbd>                             |                 |
+| Single indent                 | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                 |
+| Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                 |
+| Reverse indent 2              | <kbd>Enter</kbd>                           | Empty list item |
+| Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list       |
+{: id="20210106154319-4oe7doq" updated="20210317084147"}
 
 ### Code block <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>
 {: id="20210106154319-3mrrib6"}
