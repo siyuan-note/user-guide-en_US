@@ -1,11 +1,11 @@
 ## Document
 {: id="20210131161709-j2ksyi2" updated="20210302224003"}
 
-* {: id="20210131160231-vnk80qa"}[Chinese User Guide](https://github.com/siyuan-note/user-guide-zh_CN)
-  {: id="20210131160231-fgee9v3"}
-* {: id="20210131161246-vvdpt72"}[English User Guide](https://github.com/siyuan-note/user-guide-en_US)
-  {: id="20210131161246-8ypw9dy"}
-{: id="20210131161755-hpyi7xq"}
+* {: id="20210317214155-4se7gl4"}[Chinese User Guide](https://github.com/siyuan-note/user-guide-zh_CN)
+  {: id="20210317214155-02ljnx2" updated="20210317214158"}
+* {: id="20210317214158-92uea49"}[English User Guide](https://github.com/siyuan-note/user-guide-en_US)
+  {: id="20210317214158-acl7oxj" updated="20210317214158"}
+{: id="20210131160231-fgee9v3" updated="20210317214156"}
 
 ## Appearance
 {: id="20210131161904-wbtfzja"}
