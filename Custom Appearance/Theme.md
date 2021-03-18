@@ -60,8 +60,8 @@
 
 * {: id="20201225174048-tt2mbf7"}Familiar with [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) basic knowledge
   {: id="20210131162108-saji8q4"}
-* {: id="20201225174048-1ocyqbk"}Modify the color scheme in `:root{...}`
-  {: id="20210131162108-nh3eyq7"}
+* {: id="20201225174048-1ocyqbk"}Modify the color scheme in `:root{...}`. ⚠️ The variable items inherent in the official cannot be deleted
+  {: id="20210131162108-nh3eyq7" updated="20210318104316"}
 * {: id="20201225174048-c3hch71"}Continue to modify according to steps 1-4 in the figure
   ![image.png](assets/image-bozvb00.png)
   {: id="20210131162108-0cl55js"}
@@ -70,7 +70,7 @@
 * {: id="20201225174048-k5l65hd"}Check the `Disable cache` in `Network` and run `window.location.reload()` to see the final result
   ![image.png](assets/image-9b9y2ky.png)
   {: id="20210131162108-ibds25b"}
-{: id="20201225174048-g8oxi84"}
+{: id="20201225174048-g8oxi84" updated="20210318104313"}
 
 ### Push to theme bazaar
 {: id="20201225222754-u4sica8"}
