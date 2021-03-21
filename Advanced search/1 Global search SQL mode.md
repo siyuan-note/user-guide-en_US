@@ -16,13 +16,14 @@ This table is used to store content block data.
 |      memo | Content block memo                                                             |
 |   content | Text with Markdown markers removed                                             |
 |  markdown | Text with complete Markdown markers                                            |
+|    length | Markdown text length                                                           |
 |      type | Content block type, please refer to ((20210210104024-efd1ar6 "here"))                 |
 |   subtype | Content block subtype, please refer to ((20210210104037-xex9wds "here"))              |
 |       ial | Inline attributes list, like  `{: name="value"}`                               |
 |      sort | For sorting, the smaller the value, the higher the sort                        |
 |   created | Create time                                                                    |
 |   updated | Update time                                                                    |
-{: id="20210111225813-9kys36i"}
+{: id="20210111225813-9kys36i" updated="20210321230154"}
 
 ## Default values
 {: id="20201224120448-dd94dgz"}
