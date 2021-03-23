@@ -13,8 +13,11 @@ Please use the ((20201229152405-ivntzua "Import")) function.
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
-For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management, please refer to ((20210104091559-kgrtuyh "{{.text}}")) to revert the commit.
-{: id="20201224120448-1wyj9f7"}
+* {: id="20210323173132-b8ui4bi"}For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Local Repository"))  for version management, please refer to ((20210104091559-kgrtuyh "{{.text}}")) to revert the commit
+  {: id="20210323173132-ob0oz44" updated="20210323173135"}
+* {: id="20210323173138-iouet3u"}The deleted files and folders will be automatically backed up to the notebook `.siyuan/backup/` folder
+  {: id="20210323173138-wlds1wi" updated="20210323173200"}
+{: id="20201224120448-1wyj9f7" updated="20210323173147"}
 
 ## How can I just wrap and not start a new paragraph?
 {: id="20210106192438-on2fb5k"}

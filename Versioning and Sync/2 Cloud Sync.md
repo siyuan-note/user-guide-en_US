@@ -6,8 +6,8 @@ The data synchronization function is the [Advanced Features](https://b3log.org/s
 
 * {: id="20210315224035-jrzp7fe"}When uploading, the cloud data will be overwritten with local data
   {: id="20210315224035-ne26vk7"}
-* {: id="20210315224035-zzwk5bo"}When downloading, the local data will be overwritten with cloud data. When a conflict occurs, the overwritten local data will be automatically backed up to the .siyuan/backup/ folder, and the folder will not be uploaded to the cloud when the upload is executed, which means that the backup only exists on the current local end
-  {: id="20210315224035-xbcd4ua" updated="20210315224107"}
+* {: id="20210315224035-zzwk5bo"}When downloading, the local data will be overwritten with cloud data. When a conflict occurs, the overwritten local data will be automatically backed up to the `.siyuan/backup/` folder of the notebook, and the folder will not be uploaded to the cloud when the upload is executed, which means that the backup only exists on the current local end
+  {: id="20210315224035-xbcd4ua" updated="20210323173304"}
 {: id="20210315224035-m0aonr0"}
 
 ## Cloud Space size
