@@ -31,11 +31,11 @@ Before embarking on these two solutions, please start with understanding ((20201
 In Settings - About, you can configure the browser access authentication password. Leaving it blank means that authentication is not enabled. This is more useful in open networks (such as office spaces and public networks), and only after authentication can you enter the work space.
 {: id="20210104091447-3vmymbk"}
 
-## Sharing and Publishing
-{: id="20210104091447-ugmoq2p"}
+## Publishing
+{: id="20210104091447-ugmoq2p" updated="20210327181713"}
 
-In addition to using SiYuan Online Workspace, paid users can also use the sharing and publishing function. After sharing and publishing the notebook in Settings - Sync - Cloud Notebook, you can click "Share and Publish" to open the browser and browse.
-{: id="20210104091447-lznk69r"}
+In addition to using SiYuan Online Workspace, paid users can also use the publishing function. Right-click on the notebook and select Settings from the drop-down menu, and then turn on the publishing switch. Publishing depends on ((20201002092228-8hmuss5 "Cloud Sync")) , local data needs to be uploaded to the cloud.
+{: id="20210104091447-lznk69r" updated="20210327181812"}
 
 The shared publishing space can be accessed without logging in. Visitors browse in read-only mode and support most features, such as browsing relationship graphs, searching, browsing tags, bookmarks, and multi-window tabs.
 {: id="20210104091447-uo9ydsi"}

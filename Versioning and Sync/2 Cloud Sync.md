@@ -19,19 +19,52 @@ The data synchronization function is the [Advanced Features](https://b3log.org/s
   {: id="20210204192136-4f2lrqu"}
 {: id="20210104091603-x70187x"}
 
-## synchronization use process
-{: id="20210104091603-p14ch6a" updated="20210315224140"}
+## Synchronous use process
+{: id="20210327182207-qyok4z8"}
 
-1. {: id="20210226100333-rd6bfkj"}Select the notebook to be synchronized in the file tree, select settings in the right-click drop-down menu, and open the synchronization option in the settings interface
-   {: id="20210226100333-x88ifnn"}
-2. {: id="20210226100333-k08ocrr"}Click the sync button and choose whether to upload or download
-   {: id="20210226100333-mh4hgkr" updated="20210226100456"}
-3. {: id="20210226100333-d2ocsog"}On the new device, download the data from the cloud by Setting - Sync - Cloud notebook - Clone to local. The cloning operation is only required when data is first acquired on a new device. You can also create a notebook with the same name as the cloud, and then pull the cloud data to the local through synchronization - download
-   {: id="20210226100333-btjrtqo" updated="20210315224319"}
-{: id="20210226100333-yth7w6h" updated="20210315224235"}
+You need to select the notebook to be synchronized in the file tree, select settings in the right-click drop-down menu, and turn on the synchronization option in the settings interface, so that the notebook will be included in the synchronization.
+{: id="20210327182207-rtv8tca"}
 
-#Note#: Please pay attention to confirm the direction (upload or download), because the target side data will be overwritten.
-{: id="20210315224329-l3o6006" updated="20210315224515"}
+Synchronization is divided into two modes, manual synchronization mode (default) and automatic synchronization mode.
+{: id="20210327182207-fqlv61e"}
+
+* {: id="20210327182207-i7dq2mt"}Manual synchronization: click the synchronization button, select upload or download
+  {: id="20210327182207-o4nywq3"}
+* {: id="20210327182207-i42jwtb"}Auto sync: Turn on the Settings - Sync - Auto sync switch. Automatic synchronization scans every 30 seconds
+  {: id="20210327182207-7yoko57" updated="20210327182340"}
+
+  * {: id="20210327182207-4kgt21u"}If new changes are found in the cloud notebook, it will be automatically downloaded
+    {: id="20210327182207-50dq4tw"}
+  * {: id="20210327182207-zkrgex8"}If new changes are found in the local notebook, it will be uploaded automatically
+    {: id="20210327182207-9weuk8c"}
+  {: id="20210327182207-3v2ustd"}
+{: id="20210327182207-hqlqffy"}
+
+### First download on a new device
+{: id="20210327182207-gdtg2a9"}
+
+On the new device, click Settings - Sync - Cloud Notebook - Download from the cloud.
+{: id="20210327182207-teue4qk" updated="20210327182354"}
+
+## Sync #Note# Matters
+{: id="20210327182207-19u1e23" updated="20210327182405"}
+
+* {: id="20210327182207-mj73zi8"}You need to manually install rsync on macOS
+  {: id="20210327182207-0hxs62f"}
+
+  1. {: id="20210327182207-jbcpfba"}Install [Homebrew](https://brew.sh/) first
+     {: id="20210327182207-5n25toa"}
+  2. {: id="20210327182207-kmkibak"}Install rsync through Homebrew `brew install rsync`
+     {: id="20210327182207-0hlaxte"}
+  {: id="20210327182207-azzvhau"}
+
+  Rsync is already built-in on Linux and Windows systems, no additional operations are required.
+  {: id="20210327182207-z6xrnt7"}
+* {: id="20210327182207-x51vql0"}Please pay attention to confirm the direction (upload or download) when using manual synchronization mode, because the target side data will be overwritten
+  {: id="20210327182207-jfakqyo"}
+* {: id="20210327182207-99oai7x"}When using automatic synchronization mode, please ensure that the time of each device is the same
+  {: id="20210327182207-bb9o4w4" updated="20210327182519"}
+{: id="20210327182207-mmagzyf" updated="20210327182457"}
 
 
 {: id="20201002092228-8hmuss5" type="doc"}
