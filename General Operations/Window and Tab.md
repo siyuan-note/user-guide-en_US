@@ -10,8 +10,8 @@ Except that the document is saved synchronously, the associated rendering genera
 In addition to split-screen operation, the tabs also support drag and drop, so that we can arrange the entire interface as we want, record notes and organize knowledge in our most comfortable layout.
 {: id="20210104091452-w1rg9or"}
 
-If the screen of the device you are using is small, you can open multiple SiYuan and use it in multiple windows through the operating system switching process.
-{: id="20210104091452-2iom04i"}
+If the screen of the device you are using is small, you can consider ((20201004194026-s8h2cog "use on browser")), so that you can switch the interface through the browser instance.
+{: id="20210104091452-2iom04i" updated="20210401004432"}
 
 
 {: id="20200924100906-0u4zfq3" type="doc"}
