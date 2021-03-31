@@ -47,24 +47,15 @@ On the new device, click Settings - Sync - Cloud Notebook - Download from the cl
 {: id="20210327182207-teue4qk" updated="20210327182354"}
 
 ## Sync #Note# Matters
-{: id="20210327182207-19u1e23" updated="20210327182405"}
+{: id="20210327182207-19u1e23" updated="20210331084605"}
 
-* {: id="20210327182207-mj73zi8"}You need to manually install rsync on macOS
-  {: id="20210327182207-0hxs62f"}
-
-  1. {: id="20210327182207-jbcpfba"}Install [Homebrew](https://brew.sh/) first
-     {: id="20210327182207-5n25toa"}
-  2. {: id="20210327182207-kmkibak"}Install rsync through Homebrew `brew install rsync`
-     {: id="20210327182207-0hlaxte"}
-  {: id="20210327182207-azzvhau"}
-
-  Rsync is already built-in on Linux and Windows systems, no additional operations are required.
-  {: id="20210327182207-z6xrnt7"}
-* {: id="20210327182207-x51vql0"}Please pay attention to confirm the direction (upload or download) when using manual synchronization mode, because the target side data will be overwritten
-  {: id="20210327182207-jfakqyo"}
-* {: id="20210327182207-99oai7x"}When using automatic synchronization mode, please ensure that the time of each device is the same
-  {: id="20210327182207-bb9o4w4" updated="20210327182519"}
-{: id="20210327182207-mmagzyf" updated="20210327182457"}
+* {: id="20210331084556-3lsfyfa"}Mobile APP sync does not support notebook names containing spaces
+  {: id="20210331084556-7prqm10" updated="20210331084611"}
+* {: id="20210331084559-ezgbr97"}Please pay attention to confirm the direction (upload or download) when using manual synchronization mode, because the target side data will be overwritten
+  {: id="20210331084559-zzbw0lp" updated="20210331084602"}
+* {: id="20210331084602-7borrsq"}When using automatic synchronization mode, please ensure that the time of each device is the same
+  {: id="20210331084602-1ch6fov" updated="20210331084602"}
+{: id="20210327182207-z6xrnt7" updated="20210331084556"}
 
 
 {: id="20201002092228-8hmuss5" type="doc"}
