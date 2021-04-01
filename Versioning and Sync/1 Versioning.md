@@ -1,6 +1,3 @@
-SiYuan uses [Git](https://git-scm.com/) to implement version management. After opening the local folder (not WebDAV), the folder will be automatically initialized as a Git repository (the .git folder is generated to store Git metadata).
-{: id="20210104091559-td6jgn8"}
-
 ## Commit changes
 {: id="20210104091559-374fm0g" updated="20210302223915"}
 

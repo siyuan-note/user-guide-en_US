@@ -29,8 +29,8 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
 ## Cloud synchronization
 {: id="20210117215851-o3132ir"}
 
-* {: id="20210117215851-jog6r3y"}Implement secure network transmission through Git SSH protocol
-  {: id="20210302223933-ezje4tk"}
+* {: id="20210117215851-jog6r3y"}Implement secure network transmission through SSH protocol
+  {: id="20210302223933-ezje4tk" updated="20210402001608"}
 * {: id="20210117215851-hwz4dk1"}The cloud uses the block storage service provided by Alibaba Cloud and the disk snapshot every three days, and theoretically reliability can be guaranteed
   {: id="20210302223933-77a9z22"}
 * {: id="20210117220828-8ejo3gi"}The cloud repository is not encrypted, and the two core developers of the SiYuan team and related operation and maintenance personnel of Alibaba Cloud can see the data
