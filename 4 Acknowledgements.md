@@ -34,8 +34,6 @@ SiYuan is made possible by the [Vditor](https://github.com/Vanessa219/vditor) an
   {: id="20210203202136-6hg69lb"}
 * {: id="20210104091623-iumcr4g"}[https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin) `MIT License`
   {: id="20210203202136-24wom77"}
-* {: id="20210104091623-wka3ric"}[https://github.com/go-git/go-git](https://github.com/go-git/go-git) `Apache-2.0 License`
-  {: id="20210203202136-6knympa"}
 * {: id="20210104091623-3q986vi"}[https://github.com/jackpal/gateway](https://github.com/jackpal/gateway) `BSD-3-Clause License`
   {: id="20210203202136-h84nbtw"}
 * {: id="20210104091623-r97lcfx"}[https://github.com/mitchellh/go-ps](https://github.com/mitchellh/go-ps) `MIT License`
