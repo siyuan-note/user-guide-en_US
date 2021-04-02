@@ -1,13 +1,13 @@
 ## Commit changes
 {: id="20210104091559-374fm0g" updated="20210302223915"}
 
-All changes to data (such as creating, editing, renaming, and deleting) will be included in the version management. The timing of the change commit:
-{: id="20210104091559-ydyr9y3" updated="20210315223804"}
+All data change operations (such as creating, editing, renaming, and deleting) will be included in the version management, and the timing of the change record:
+{: id="20210104091559-ydyr9y3" updated="20210402112027"}
 
-* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic commit, which can be adjusted in the Settings - Editor
-  {: id="20210223100524-7h68uqu" updated="20210315235016"}
-* {: id="20210104091559-tl3mi3v"}An automatic commit will be made when starting SiYuan or opening the notebook
-  {: id="20210223100524-62vae48" updated="20210315223925"}
+* {: id="20210104091559-8hz2c8h"}The default interval is 10 minutes for automatic record, which can be adjusted in the Settings - Editor
+  {: id="20210223100524-7h68uqu" updated="20210402112042"}
+* {: id="20210104091559-tl3mi3v"}An automatic record will be made when starting SiYuan or opening the notebook
+  {: id="20210223100524-62vae48" updated="20210402112052"}
 {: id="20210104091559-tzwh8fj" updated="20210315223908"}
 
 ## Browse commit history
@@ -19,20 +19,14 @@ All changes to data (such as creating, editing, renaming, and deleting) will be 
   {: id="20210223100524-lxq8gng"}
 {: id="20210104091559-kbfabo4"}
 
-Currently only supports browsing the latest 32 commits history.
-{: id="20210104091559-00iidlv"}
+Currently only supports browsing the latest 32 changes history.
+{: id="20210104091559-00iidlv" updated="20210402111950"}
 
 ## Rollback version
 {: id="20210104091559-kgrtuyh"}
 
-In the time list column on the left side of the commit history interface, there is a revert button behind each commit. After clicking it, a confirmation dialog box will pop up. If the revert is confirmed, the commit will be reverted.
-{: id="20210104091559-ejqvg9b"}
-
-After reverting this commit, subsequent commits will still be retained, but the content may conflict and need to be manually edited and resolved.
-{: id="20210121111547-j6brm6n"}
-
-If you need to rollback or support more Git operations, please use the Git tool. #Note#: After using external tools, you need to restart SiYuan.
-{: id="20210121111544-qe48tuf"}
+In the time list column on the left side of the history interface, there is a rollback button behind each history record. After clicking it, a confirmation dialog box will pop up. If the rollback is confirmed, the existing data will be overwritten with the history.
+{: id="20210104091559-ejqvg9b" updated="20210402111920"}
 
 {: id="20210121105905-k775koz"}
 
