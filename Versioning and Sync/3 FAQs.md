@@ -1,5 +1,5 @@
-## How to delete unnecessary commit history to reduce space usage and improve performance?
-{: id="20210226101133-php3e1u" updated="20210315224617"}
+## How to delete unnecessary history records to reduce space usage and improve performance?
+{: id="20210226101133-php3e1u" updated="20210402112548"}
 
 Open the notebook `.siyuan/backup/` folder on the file system and delete unnecessary backup history.
 {: id="20210315224644-d8kjhtk" updated="20210402001829"}

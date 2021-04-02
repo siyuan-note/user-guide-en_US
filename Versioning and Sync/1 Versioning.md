@@ -1,5 +1,5 @@
-## Commit changes
-{: id="20210104091559-374fm0g" updated="20210302223915"}
+## Change records
+{: id="20210104091559-374fm0g" updated="20210402112625"}
 
 All data change operations (such as creating, editing, renaming, and deleting) will be included in the version management, and the timing of the change record:
 {: id="20210104091559-ydyr9y3" updated="20210402112027"}
@@ -10,8 +10,8 @@ All data change operations (such as creating, editing, renaming, and deleting) w
   {: id="20210223100524-62vae48" updated="20210402112052"}
 {: id="20210104091559-tzwh8fj" updated="20210315223908"}
 
-## Browse commit history
-{: id="20210223100527-12ki6gl" updated="20210315223934"}
+## Browse history
+{: id="20210223100527-12ki6gl" updated="20210402112608"}
 
 * {: id="20210104091559-52na08q"}Select History from the right-click drop-down menu of the editor tab
   {: id="20210223100524-mz5sicl"}
