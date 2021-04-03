@@ -13,8 +13,8 @@ Please use the ((20201229152405-ivntzua "Import")) function.
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
-For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Versioning")), support ((20210104091559-kgrtuyh "rollback")).
-{: id="20210323173132-ob0oz44" updated="20210402003216"}
+For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Auto Backup")), support ((20210104091559-kgrtuyh "rollback")).
+{: id="20210323173132-ob0oz44" updated="20210403163024"}
 
 ## How can I just wrap and not start a new paragraph?
 {: id="20210106192438-on2fb5k"}
