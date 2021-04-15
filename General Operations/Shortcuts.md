@@ -40,7 +40,7 @@
 | Clear font style                                           | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                                 |                                                                                                       |
 | Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove content block reference/content block embedding/content block dynamic query/link/picture/block |
 | Copy/copy block content                                    | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                | Copy block content when no content is selected                                                        |
-| Copy notebook block hyperlink                              | <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>                                |                                                                                                       |
+| Copy notebook block hyperlink                              | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                                    |                                                                                                       |
 | Copy as standard Markdown                                  | <kbd>Ctrl+Alt+C</kbd> / <kbd>⌥⌘C</kbd>                          |                                                                                                       |
 | Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                        |                                                                                                       |
 | Paste/paste block reference                                | <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd>                                | When the clipboard contains a block ID, it is a pasted block reference                                |
@@ -117,15 +117,19 @@
 | Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
 | Tag            | <kbd>Ctrl+T</kbd> / <kbd>⌘T</kbd>                |                                 |
 | Strikethrough  | <kbd>Ctrl+D</kbd> / <kbd>⌘D</kbd>                |                                 |
+| Superscript  | <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>                |                                 |
+| Subscript  | <kbd>Ctrl+J</kbd> / <kbd>⌘J</kbd>                |                                 |
+| Underline  | <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>                |                                 |
+| Inline math  | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                |                                 |
 | Dividing line  | <kbd>Ctrl+\\</kbd> / <kbd>⌘\\</kbd>                |                                 |
 | Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
 | Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
 | Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                | See below for related shortcuts |
 | Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
 | Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
-| Task list      | <kbd>Ctrl+J</kbd> / <kbd>⌘J</kbd>                | See below for related shortcuts |
-| Code block     | <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>                | See below for related shortcuts |
-| Table          | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                | See below for related shortcuts |
+| Task list      | <kbd>Ctrl+Shift+J</kbd> / <kbd>⇧⌘J</kbd>                | See below for related shortcuts |
+| Code block     | <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>                | See below for related shortcuts |
+| Table          | <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>                | See below for related shortcuts |
 {: id="20210106154319-v6ksqnu"}
 
 ### Link <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>
@@ -154,7 +158,7 @@
 | Level 6 heading | <kbd>Ctrl+Alt+6</kbd> / <kbd>⌥⌘6</kbd> |
 {: id="20210106154319-kc7vf20"}
 
-### List <kbd>Ctrl+L/O/J</kbd> / <kbd>⌘L/O/J</kbd>
+### List
 {: id="20210106154319-ans1gna"}
 
 | Name                          | Shortcuts                                  | Memo            |
@@ -166,7 +170,7 @@
 | Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list       |
 {: id="20210106154319-4oe7doq" updated="20210318121417"}
 
-### Code block <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>
+### Code block <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>
 {: id="20210106154319-3mrrib6"}
 
 | Name                       | Shortcuts                          |
@@ -176,7 +180,7 @@
 | Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
 {: id="20210106154319-kg91km7"}
 
-### Table <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>
+### Table <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>
 {: id="20210106154319-jeh8w1g"}
 
 | Name                                    | Shortcuts                                  |
