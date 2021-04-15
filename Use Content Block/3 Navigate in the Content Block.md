@@ -4,8 +4,8 @@
 There are two types of links in the document content:
 {: id="20210104091546-cccr56d" updated="20210302223903"}
 
-* {: id="20210104091546-c3rn1p7"}Hyperlink, which is the form of `[foo](bar)` provided by Markdown standard syntax
-  {: id="20210205173431-fmc7ozo"}
+* {: id="20210104091546-c3rn1p7"}Standard URL hyperlink
+  {: id="20210205173431-fmc7ozo" updated="20210415201246"}
 * {: id="20210104091546-l1dqydt"}Content block link established by `((id))`
   {: id="20210205173431-dis2g0v"}
 {: id="20210104091546-17fu8qc"}

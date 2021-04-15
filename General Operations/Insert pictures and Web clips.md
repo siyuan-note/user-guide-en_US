@@ -16,11 +16,8 @@ If you need to adjust the size and position of the picture, please right-click t
 ## Clips
 {: id="20210104091430-bxc6t2h"}
 
-Through the "Clip" function, we can paste other rich text content (such as Web pages, Word, Excel, etc.) into the editor, and SiYuan will automatically convert it into standard Markdown text.
-{: id="20210104091430-ktqjqwj"}
-
-The specific usage is to manually select the content of the webpage, for example, select the text part of the webpage article to copy, and then paste it in SiYuan. Do not select all pages to copy, otherwise you may not be able to paste any content.
-{: id="20210104091430-zr3uc63"}
+Through the "Clip" function, we can paste other rich text content (such as Web pages, Word, Excel, etc.) into the editor. The specific usage is to manually select the content of the webpage, for example, select the text part of the webpage article to copy, and then paste it in SiYuan. Do not select all pages to copy, otherwise you may not be able to paste any content.
+{: id="20210104091430-ktqjqwj" updated="20210415201411"}
 
 If you check Settings - Assets - Auto fetch remote image to local, the clip will download the picture files on the Web page to assets folder and replace the picture address in the content with the local assets path.
 {: id="20210104091430-aihyfq1"}
