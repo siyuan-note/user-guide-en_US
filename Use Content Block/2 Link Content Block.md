@@ -31,11 +31,8 @@ The complete syntax of the content block quote is: `((id "text"))`, where the `i
 Enter `!((` at the beginning of a new line and it will trigger the content block embedded search. Just like the content block reference, you can complete the embedding by selecting the content block you need in the search results. It also supports custom `text` ((20201123093328-4q4cws1 "anchor text")) After the embedding operation is completed, the embedded content block will be displayed directly below. #Content block/Embed#
 {: id="20210104091542-a81lx0q"}
 
-#Note#: the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line. The following is an example of content block embedding:
-{: id="20210104091542-23pgmmz"}
-
-!((20200923234102-fota8wn "Content block embed example"))
-{: id="20210104091542-omsmz6i"}
+#Note#: the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line.
+{: id="20210104091542-23pgmmz" updated="20210415195513"}
 
 ### Anchor text
 {: id="20201123093328-4q4cws1"}

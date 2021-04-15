@@ -1,9 +1,3 @@
-## 🧱 Content block
-{: id="20200923234102-fota8wn" updated="20210302223927"}
-
-In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content Block")). We can use **natural** ((20200924085905-kxykwln "Markdown Syntax")) to define content blocks, organize thoughts and knowledge in the granularity of content blocks, and also facilitate long text typeset output.
-{: id="20201225220954-yxoha67"}
-
 ## 🔮 Quick start
 {: id="20201225220954-keui8uy"}
 

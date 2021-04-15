@@ -1,9 +1,3 @@
-## Why are there many things like `{: id="20201024020406"}` inserted into my Markdown?
-{: id="20201224120448-p7kmg64" updated="20210302223954"}
-
-These contents are used to store the content block identification and follow the kramdown syntax. For details, please see ((20200924095851-u5jmzr3 "{{.text}}")). If you need the standard Markdown (GFM/CommonMark) format, please use the ((20201229152405-vlhitro "Export")) function.
-{: id="20201224120448-y0qff0p"}
-
 ## Why is it not displayed on the file tree after I put the Markdown file in the notebook folder?
 {: id="20210120161137-0ggx9sa"}
 

@@ -1,21 +1,5 @@
-## Tutorial
-{: id="20210104091509-p9osn32"}
-
-This is an example of how to correctly use **Markdown** typesetting. It is necessary to learn this to make your article better and clearer.
-{: id="20210104091509-kcv33qk" updated="20210302223827"}
-
-> Quoted text: Markdown is a text formatting syntax inspired
-> {: id="20210104091509-qnj7r6k"}
-{: id="20210104091509-mqesdiy"}
-
-## Syntax guide
-{: id="20210104091509-e9ripro"}
-
-### General content
-{: id="20210104091509-sg4pt12"}
-
-This content shows some typeset formats in the content, such as:
-{: id="20210104091509-2g40nhk"}
+## Bold, italic, and hyperlink
+{: id="20210104091509-sg4pt12" updated="20210415200841"}
 
 * {: id="20210206214931-w9oisat"}**Bold** - `**Bold**`
   {: id="20210206214931-1sh9b0l"}
@@ -31,20 +15,17 @@ This content shows some typeset formats in the content, such as:
   {: id="20210206215058-hx2qm5x"}
 {: id="20210104091509-8csaq4j"}
 
-### Emoji Emoji
-{: id="20210104091509-hdc3l4b"}
+## Emoji Emoji
+{: id="20210104091509-hdc3l4b" updated="20210415200907"}
 
 Support most standard emoticons, you can use the input method to input directly or manually input the character format. Trigger auto completion by entering `:`.
-{: id="20210104091509-o778oe1"}
-
-#### Some emoticons examples
-{: id="20210104091509-nr161zw"}
+{: id="20210104091509-o778oe1" updated="20210415200910"}
 
 :smile: :laughing: :dizzy_face: :sob: :cold_sweat: :sweat_smile: :cry: :triumph: :heart_eyes: :relieved::+1: :-1: :100: :clap: :bell: :gift: :question: :bomb: :heart: :coffee: :cyclone: :bow: :kiss: :pray: :anger:
 {: id="20210104091509-s9tt7p4"}
 
-### Heading
-{: id="20210104091509-23f3041"}
+## Heading
+{: id="20210104091509-23f3041" updated="20210415200912"}
 
 Use one `#` for the first-level heading, two `##` for the second-level heading, and so on, up to six-level headings are supported.
 {: id="20210104091509-cboa9lo"}
@@ -53,8 +34,8 @@ Use one `#` for the first-level heading, two `##` for the second-level heading, 
 > {: id="20210104091509-01p1e41"}
 {: id="20210104091509-q8kvnk3"}
 
-### Pictures
-{: id="20210104091509-xzmngg2"}
+## Pictures
+{: id="20210104091509-xzmngg2" updated="20210415200914"}
 
 ```
 ![alt text](http://image-path.png)
@@ -65,11 +46,11 @@ Use one `#` for the first-level heading, two `##` for the second-level heading, 
 Support direct copy and paste.
 {: id="20210104091509-dpejxes"}
 
-### Code block
-{: id="20210104091509-606oli4"}
+## Code block
+{: id="20210104091509-606oli4" updated="20210415200916"}
 
-#### Ordinary
-{: id="20210104091509-xmjh8gb"}
+### Ordinary
+{: id="20210104091509-xmjh8gb" updated="20210415200918"}
 
 ```
 *emphasize* **strong**
@@ -78,14 +59,14 @@ var a = 1
 ```
 {: id="20210104091509-pgq8nyo"}
 
-#### Syntax highlighting support
-{: id="20210104091509-5wdau5k"}
+### Syntax highlighting support
+{: id="20210104091509-5wdau5k" updated="20210415200920"}
 
 If the language name is followed by ```, it can have the effect of syntax highlighting, for example:
 {: id="20210104091509-wae7knn"}
 
-##### Demonstrate Go code highlighting
-{: id="20210104091509-v2agp4t"}
+#### Demonstrate Go code highlighting
+{: id="20210104091509-v2agp4t" updated="20210415200922"}
 
 ```go
 package main
@@ -98,8 +79,8 @@ fmt.Println("Hello, World")
 ```
 {: id="20210104091509-7jdx2zj"}
 
-##### Demo Java highlighting
-{: id="20210104091509-yzs0dlz"}
+#### Demo Java highlighting
+{: id="20210104091509-yzs0dlz" updated="20210415200924"}
 
 ```java
 public class HelloWorld {
@@ -116,11 +97,11 @@ public class HelloWorld {
 > {: id="20210104091509-ozjt2fc"}
 {: id="20210104091509-3a5p9xt"}
 
-### Ordered, unordered, task list
-{: id="20210104091509-6uxwbx1"}
+## Ordered, unordered, task list
+{: id="20210104091509-6uxwbx1" updated="20210415200926"}
 
-#### Unordered List
-{: id="20210104091509-dyshnes"}
+### Unordered List
+{: id="20210104091509-dyshnes" updated="20210415200927"}
 
 -Java
 {: id="20210104091509-4361ij9"}
@@ -140,8 +121,8 @@ public class HelloWorld {
 -Express
 {: id="20210104091509-atai4lp"}
 
-#### Ordered List
-{: id="20210104091509-6vdzi1s"}
+### Ordered List
+{: id="20210104091509-6vdzi1s" updated="20210415200930"}
 
 1. {: id="20210104091509-uoj0v4u"}Node.js
    {: id="20210104091509-466uqpv"}
@@ -171,16 +152,16 @@ public class HelloWorld {
    {: id="20210104091509-epzcxbq"}
 {: id="20210104091509-14bo3es"}
 
-#### task list
-{: id="20210104091509-lgi6kq5"}
+### Task list
+{: id="20210104091509-lgi6kq5" updated="20210415200936"}
 
 -[X] Publish Sym
 -[X] Release Solo
 -[] Book a dentist
 {: id="20210104091509-uossxkc"}
 
-### Form
-{: id="20210104091509-qr9enpx"}
+## Table
+{: id="20210104091509-qr9enpx" updated="20210415200941"}
 
 If you need to display data or something, you can choose to use a table.
 {: id="20210104091509-ni6g1rn"}
@@ -192,8 +173,8 @@ If you need to display data or something, you can choose to use a table.
 | cell 5   | cell 6   |
 {: id="20210104091509-kjhoeyo"}
 
-### Paragraph
-{: id="20210104091509-vcbuim6"}
+## Paragraph
+{: id="20210104091509-vcbuim6" updated="20210415200943"}
 
 Blank lines can divide the content into sections for easy reading. (This is the first paragraph)
 {: id="20210104091509-ljoi275"}
@@ -201,8 +182,8 @@ Blank lines can divide the content into sections for easy reading. (This is the 
 Using blank lines is very important in Markdown typesetting. (This is the second paragraph)
 {: id="20210104091509-j9suugh"}
 
-### Link reference
-{: id="20210104091509-6a6yqod"}
+## Link reference
+{: id="20210104091509-6a6yqod" updated="20210415200946"}
 
 [Link text][Link label]
 {: id="20210104091509-2d1xbap"}
@@ -214,8 +195,8 @@ Using blank lines is very important in Markdown typesetting. (This is the second
 ```
 {: id="20210104091509-9dupsx7"}
 
-### Mathematical formula
-{: id="20210104091509-5te4mca"}
+## Mathematical formula
+{: id="20210104091509-5te4mca" updated="20210415200947"}
 
 Multi-line formula block:
 {: id="20210104091509-wvfqjwl"}
@@ -237,8 +218,8 @@ In-line formula:
 The formula $a^2 + b^2 = \color{red}c^2$ is inline.
 {: id="20210104091509-hit6ffz"}
 
-### Mind Map
-{: id="20210104091509-v1x69oc"}
+## Mind Map
+{: id="20210104091509-v1x69oc" updated="20210415200953"}
 
 ```mindmap
 - Tutorial
@@ -279,8 +260,8 @@ The formula $a^2 + b^2 = \color{red}c^2$ is inline.
 ```
 {: id="20210104091509-ilh76fd"}
 
-### Flow chart
-{: id="20210104091509-oihpzcz"}
+## Flow chart
+{: id="20210104091509-oihpzcz" updated="20210415200955"}
 
 ```mermaid
 graph TB
@@ -297,8 +278,8 @@ graph TB
 ```
 {: id="20210104091509-viqif92"}
 
-### Timing diagram
-{: id="20210104091509-fim1ztl"}
+## Timing diagram
+{: id="20210104091509-fim1ztl" updated="20210415200957"}
 
 ```mermaid
 sequenceDiagram
@@ -309,8 +290,8 @@ sequenceDiagram
 ```
 {: id="20210104091509-mwfs4sw"}
 
-### Gantt chart
-{: id="20210104091509-gjag91d"}
+## Gantt chart
+{: id="20210104091509-gjag91d" updated="20210415200959"}
 
 ```mermaid
 gantt
@@ -325,8 +306,8 @@ gantt
 ```
 {: id="20210104091509-ki9cxs7"}
 
-### Chart
-{: id="20210104091509-hlh01sn"}
+## Chart
+{: id="20210104091509-hlh01sn" updated="20210415201002"}
 
 ```echarts
 {
@@ -359,8 +340,8 @@ gantt
 ```
 {: id="20210104091509-2kh9v50"}
 
-### Staff
-{: id="20210104091509-j6xq9xm"}
+## Staff
+{: id="20210104091509-j6xq9xm" updated="20210415201006"}
 
 ```abc
 X: 24
@@ -381,8 +362,8 @@ K: Em
 ```
 {: id="20210104091509-d5oimqr"}
 
-### Graphviz
-{: id="20210104091509-p75cyqy"}
+## Graphviz
+{: id="20210104091509-p75cyqy" updated="20210415201008"}
 
 ```graphviz
 digraph finite_state_machine {
@@ -403,8 +384,8 @@ digraph finite_state_machine {
 ```
 {: id="20210104091509-5oabbxe"}
 
-### Flowchart
-{: id="20210104091509-3e348ea"}
+## Flowchart
+{: id="20210104091509-3e348ea" updated="20210415201010"}
 
 ```flowchart
 st=>start: Start
@@ -418,8 +399,8 @@ cond(no)->op
 ```
 {: id="20210104091509-u0vtq1c"}
 
-### PlantUML
-{: id="20210201203412-n26xya3"}
+## PlantUML
+{: id="20210201203412-n26xya3" updated="20210415201012"}
 
 ```plantuml
 @startuml component
@@ -432,14 +413,14 @@ app -> client
 ```
 {: id="20210201203424-ohqom70"}
 
-### Content block
-{: id="20210104091509-alp29j5"}
+## Content block
+{: id="20210104091509-alp29j5" updated="20210415201014"}
 
 The syntax of the content block is an extension of Markdown by SiYuan.
 {: id="20210104091509-cahkz6m"}
 
-### Content block reference
-{: id="20210104091509-60dpmax"}
+## Content block reference
+{: id="20210104091509-60dpmax" updated="20210415201017"}
 
 `((20200924101312-jj4e0v3 "Content block reference"))`
 {: id="20210104091509-jral852"}
@@ -447,8 +428,8 @@ The syntax of the content block is an extension of Markdown by SiYuan.
 ((20200924101312-jj4e0v3 "Content block reference"))
 {: id="20210104091509-33x9nv5"}
 
-### Content block embedding
-{: id="20210104091509-z5exdte"}
+## Content block embedding
+{: id="20210104091509-z5exdte" updated="20210415201020"}
 
 `!((20200924101312-385dey5 "Content block embedding"))`
 {: id="20210104091509-smzo1ig"}
@@ -456,8 +437,8 @@ The syntax of the content block is an extension of Markdown by SiYuan.
 !((20200924101312-385dey5 "Content block embedding"))
 {: id="20210104091509-wncua57"}
 
-#### Super block
-{: id="20210104091509-doo27sv"}
+### Super block
+{: id="20210104091509-doo27sv" updated="20210415201022"}
 
 ```markdown
 {{{
@@ -466,12 +447,6 @@ content blocks
 }}}
 ```
 {: id="20210104091509-80lo43a"}
-
-## Shortcuts
-{: id="20210104091509-lwkktkk"}
-
-Our editor supports many shortcut keys, please refer to ((20200924100950-9op5xi1 "Editor and shortcuts")) for details.
-{: id="20210104091509-cgpdghn"}
 
 
 {: id="20200924093441-ft2rhps" type="doc"}
