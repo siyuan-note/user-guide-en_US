@@ -14,19 +14,7 @@ For local notebooks (not WebDAV), all operations will be managed through ((20201
 {: id="20210106192438-on2fb5k"}
 
 Please use <kbd>Shift+Enter</kbd>.
-{: id="20210106192504-pgryxb1"}
-
-## How to insert a picture?
-{: id="20201224120448-z2gba1k"}
-
-You can insert a picture through the Markdown picture syntax `![optional picture description text](picture file path)`. You can also directly drag the image file into the editor to insert it, and the image file will be automatically copied to the assets folder at the same level of the document. For more details, please refer to ((20201210194734-v2rmiaq "{{.text}}")).
-{: id="20201224120448-c445h02"}
-
-## How to insert video and audio?
-{: id="20201224120448-amyh0z2"}
-
-You can use Markdown link syntax `[anchor text](media resource path)` to insert video, audio and other files. SiYuan will automatically load the player for rendering according to the file suffix.
-{: id="20201224120448-3cfetom"}
+{: id="20210106192504-pgryxb1" updated="20210417112701"}
 
 ## How to adjust table rows and columns?
 {: id="20201224120448-eoju3re"}
