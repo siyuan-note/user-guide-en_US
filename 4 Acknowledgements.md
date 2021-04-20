@@ -50,10 +50,6 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
   {: id="20210203202136-t76hi9x"}
 * {: id="20210104091623-ad8q23e"}[https://github.com/golang/text](https://github.com/golang/text) `BSD-3-Clause License`
   {: id="20210203202136-98fujnq"}
-* {: id="20210104091623-zta2na8"}[https://github.com/go-gorm/sqlite](https://github.com/go-gorm/sqlite) `MIT License`
-  {: id="20210203202136-ap57qgx"}
-* {: id="20210104091623-l9x0ncv"}[https://github.com/go-gorm/gorm](https://github.com/go-gorm/gorm) `MIT License`
-  {: id="20210203202136-sei9yua"}
 {: id="20210104091623-jo7y9vp"}
 
 ## UI
