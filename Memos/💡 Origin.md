@@ -4,7 +4,7 @@
 After choosing a note-taking app for a long time, I found that there is no note-taking app on the market that can meet these two requirements at the same time:
 {: id="20201231085905-7nbq96v" updated="20210302223832"}
 
-* {: id="20201231085905-5vm3wnh"}Support standard Markdown and instant rendering. The sense of fragmentation brought about by the split-screen preview makes it difficult for me to fully focus on content creation
+* {: id="20201231085905-5vm3wnh"}Support standard Markdown and WYSIWYG. The sense of fragmentation brought about by the split-screen preview makes it difficult for me to fully focus on content creation
   {: id="20210302223830-40xb0zk"}
 * {: id="20201231085905-zieszit"}Support block-level quoting and bidirectional linking. Through the block chain, I can find and organize existing content more efficiently, form a knowledge system and facilitate typesetting output
   {: id="20210302223830-obgk6tb"}

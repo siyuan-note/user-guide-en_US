@@ -27,7 +27,7 @@ For developers, another way is not to choose Markdown text as the storage format
 
 * {: id="20210104091524-df2d0d8"}"I want Markdown standard text so that other software can edit and view"
   {: id="20210302223838-z2cg8zu"}
-* {: id="20210104091524-333tzzd"}"I want to render and edit in real time, the split screen is too uncomfortable for me"
+* {: id="20210104091524-333tzzd"}"I want WYSIWYG editing mode, the split screen is too uncomfortable for me"
   {: id="20210302223838-fkmfhbv"}
 * {: id="20210104091524-jxwr136"}"I want source code editing mode, this is the essence of Markdown, and I can render with the naked eye..."
   {: id="20210302223838-i977b97"}
