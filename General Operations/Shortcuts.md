@@ -52,7 +52,6 @@
 | Redo                                                       | <kbd>Ctrl+Y</kbd> / <kbd>⌘Y</kbd>                                |                                                                                                       |
 | Save                                                       | <kbd>Ctrl+S</kbd> / <kbd>⌘S</kbd>                                |                                                                                                       |
 | Rename                                                     | <kbd>F2</kbd> / <kbd>F2</kbd>                                     |                                                                                                       |
-| Quote selected content                                     | <kbd>Alt+Z</kbd> / <kbd>⌥Z</kbd>                                 |                                                                                                       |
 | Rename document with selected content                      | <kbd>Alt+D</kbd> / <kbd>⌥D</kbd>                                 |                                                                                                       |
 | Use the selection as the name of the new document          | <kbd>Alt+Q</kbd> / <kbd>⌥Q</kbd>                                 |                                                                                                       |
 | Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                 |                                                                                                       |
@@ -112,6 +111,7 @@
 | Name           | Shortcuts                                         | Memo                            |
 | -------------- | ------------------------------------------------- | ------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
+| Quote selected content                                     | <kbd>Ctrl+[</kbd> / <kbd>⌘[</kbd>                                |                                                                                                       |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
 | Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
