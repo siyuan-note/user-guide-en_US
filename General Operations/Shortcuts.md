@@ -39,9 +39,8 @@
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                                                         |
 | Clear font style                                           | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                                 |                                                                                                       |
 | Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove content block reference/content block embedding/content block dynamic query/link/picture/block |
-| Copy/copy block content                                    | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                | Copy block content when no content is selected                                                        |
 | Copy notebook block hyperlink                              | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                                    |                                                                                                       |
-| Copy as standard Markdown                                  | <kbd>Ctrl+Alt+C</kbd> / <kbd>⌥⌘C</kbd>                          |                                                                                                       |
+| Copy as standard Markdown                                  | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                          |                                                                                                       |
 | Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                        |                                                                                                       |
 | Paste/paste block reference                                | <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd>                                | When the clipboard contains a block ID, it is a pasted block reference                                |
 | Paste as plain text / paste block embed                    | <kbd>Ctrl+Shift+V</kbd> / <kbd>⇧⌘V</kbd>                        | When the clipboard contains a block ID, it is a paste block embed                                     |
@@ -163,8 +162,7 @@
 
 | Name                          | Shortcuts                                  | Memo            |
 | ----------------------------- | ------------------------------------------ | --------------- |
-| Single indent                 | <kbd>Tab</kbd>                             |                 |
-| Indent with sublists          | <kbd>Ctrl+Shift+I</kbd> / <kbd>⇧⌘I</kbd> |                 |
+| Indent with sublists          | <kbd>Tab</kbd> |                 |
 | Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                 |
 | Reverse indent 2              | <kbd>Enter</kbd>                           | Empty list item |
 | Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list       |
