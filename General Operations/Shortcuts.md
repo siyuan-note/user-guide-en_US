@@ -118,6 +118,7 @@
 | Strikethrough  | <kbd>Ctrl+D</kbd> / <kbd>⌘D</kbd>                |                                 |
 | Superscript  | <kbd>Ctrl+H</kbd> / <kbd>⌘H</kbd>                |                                 |
 | Subscript  | <kbd>Ctrl+J</kbd> / <kbd>⌘J</kbd>                |                                 |
+| Keyboard  | <kbd>Ctrl+'</kbd> / <kbd>⌘'</kbd>                |                                 |
 | Underline  | <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>                |                                 |
 | Inline math  | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                |                                 |
 | Dividing line  | <kbd>Ctrl+\\</kbd> / <kbd>⌘\\</kbd>                |                                 |
