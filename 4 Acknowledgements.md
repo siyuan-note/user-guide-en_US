@@ -8,8 +8,6 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
   {: id="20210203202136-pl9bbym"}
 * {: id="20210104091623-maeuggl"}[https://github.com/vanng822/css](https://github.com/vanng822/css) `MIT License`
   {: id="20210203202136-yfty3kb"}
-* {: id="20210104091623-andq2mv"}[https://github.com/studio-b12/gowebdav](https://github.com/studio-b12/gowebdav) `BSD-3-Clause License`
-  {: id="20210203202136-4f5mfx1"}
 * {: id="20210104091623-bob89oc"}[https://github.com/88250/gulu](https://github.com/88250/gulu) `Mulan PSL v2`
   {: id="20210203202136-hfrmoim"}
 * {: id="20210104091623-sffjf1a"}[https://github.com/olahol/melody](https://github.com/olahol/melody) `BSD-2-Clause License`

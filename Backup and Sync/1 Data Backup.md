@@ -9,9 +9,6 @@
   {: id="20210403161405-j0yh89n"}
 {: id="20210403161405-qrc025u"}
 
-#Note#: WebDAV notebooks will not be backed up.
-{: id="20210406091233-g7gsxqn" updated="20210406091235"}
-
 ## Browsing History
 {: id="20210403161405-x8jdh65"}
 

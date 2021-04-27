@@ -1,7 +1,7 @@
 ## 🔮 Quick start
 {: id="20201225220954-keui8uy"}
 
-1. {: id="20201225220954-e913snx"}Open a local folder or connect to WebDAV
+1. {: id="20201225220954-e913snx"}Open a local folder
    {: id="20210131161940-kfs31q6"}
 2. {: id="20201225220954-ygz217h"}Use `((` to trigger the ((20200924101312-jj4e0v3 "Content block reference"))
    {: id="20210131161940-eo0riwq"}

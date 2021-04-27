@@ -20,8 +20,6 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
   {: id="20210302223933-aalghw5"}
 * {: id="20210117215851-crybuhe"}The availability of local notebook data depends on the availability of hardware disks and operating systems
   {: id="20210302223933-9zi49ox"}
-* {: id="20210117215851-ocqvi5j"}The availability of WebDAV notebook data depends on the availability of the network and the server
-  {: id="20210302223933-96x4jg1"}
 * {: id="20210117215851-gl6eiyi"}Data integrity and consistency are the same as above. Special note is needed here: if the synchronization network disk is enabled locally, consistency may be reduced (the synchronization disk may produce multiple data copies)
   {: id="20210302223933-srkhpyt"}
 {: id="20210117215851-ldx930v"}

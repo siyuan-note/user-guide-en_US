@@ -22,14 +22,8 @@ The frontend can be extended to any client based on HTTP communication in the fu
 ### Backend
 {: id="20210104091528-w3wp8hv"}
 
-The backend is a resident HTTP server, which implements core business logic and state persistence. Listening port:
+The backend is a resident HTTP server, which implements core business logic and state persistence. listen to port `6806` on all network cards (`0.0.0.0`).
 {: id="20210104091528-324x39i"}
-
-* {: id="20210104091528-4dfx2yf"}`6806`: HTTP/WebSocket, listen to this port on all network cards (`0.0.0.0`), traffic under the path of `/siyuan/` will be automatically forwarded to the local port `127.0.0.1:6807`
-  {: id="20210301203428-hcgij2m"}
-* {: id="20210104091528-n239x1p"}`6807`: HTTP/WebDAV, listen on this port at `127.0.0.1`
-  {: id="20210301203428-gj4nbec"}
-{: id="20210104091528-v17cbhc"}
 
 ## Data state
 {: id="20210104091528-8v3v84k"}

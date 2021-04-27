@@ -7,7 +7,7 @@ Please use the ((20201229152405-ivntzua "Import")) function.
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
-For local notebooks (not WebDAV), all operations will be managed through ((20201002092058-85k2cws "Auto Backup")), support ((20210104091559-kgrtuyh "rollback")).
+For local notebooks, all operations will be managed through ((20201002092058-85k2cws "Auto Backup")), support ((20210104091559-kgrtuyh "rollback")).
 {: id="20210323173132-ob0oz44" updated="20210403163024"}
 
 ## How can I just wrap and not start a new paragraph?
@@ -39,12 +39,6 @@ The default configuration folder is located in the user's home directory `~/.siy
 
 SiYuan supports ((20201004194026-s8h2cog "Use on browser")),  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of ((20201227201751-gv0fpx2 "Kernel API")) , we will introduce a plug-in mechanism in the future.
 {: id="20201224120448-hn7uqj1"}
-
-## Why does WebDAV report error 503 after connecting?
-{: id="20201231103013-nxyusb6"}
-
-This error is returned by the WebDAV provider interface. Generally, it is because SiYuan calls the interface too frequently, which causes the provider to limit the interface service. When connecting to WebDAV, please specify the specific folder path in the service address column, such as: `https://dav.jianguoyun.com/dav/My Notes Folder/`, please do not use `https://dav.jianguoyun.com/dav/` directly.
-{: id="20201231103013-qoubp11"}
 
 ## Do I need to pay for it?
 {: id="20201224120448-0rqote3"}
