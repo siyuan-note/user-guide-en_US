@@ -123,7 +123,7 @@
 | Dividing line  | <kbd>Ctrl+\\</kbd> / <kbd>⌘\\</kbd>                |                                 |
 | Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
 | Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
-| Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                | See below for related shortcuts |
+| Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                |  |
 | Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
 | Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
 | Task list      | <kbd>Ctrl+Shift+J</kbd> / <kbd>⇧⌘J</kbd>                | See below for related shortcuts |
@@ -131,14 +131,6 @@
 | Table          | <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>                | See below for related shortcuts |
 {: id="20210106154319-v6ksqnu"}
 
-### Link <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>
-{: id="20210106154319-nkcusf0"}
-
-| Name                      | Shortcuts                         |
-| ------------------------- | --------------------------------- |
-| Open with default program | <kbd>Alt+E</kbd> / <kbd>⌥K</kbd> |
-| Open file location        | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd> |
-{: id="20210106154319-8ovzor1"}
 
 ### Heading
 {: id="20210106154319-6lhdzmm"}
