@@ -55,7 +55,6 @@
 | Use the selection as the name of the new document          | <kbd>Alt+Q</kbd> / <kbd>⌥Q</kbd>                                 |                                                                                                       |
 | Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                 |                                                                                                       |
 | Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                 |                                                                                                       |
-| Navigate to the file tree                                  | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd>                                 |                                                                                                       |
 | Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                 | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> Block or Icon                                               |
 | Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                 |                                                                                                       |
 | Outline                                                    | <kbd>Alt+O</kbd> / <kbd>⌥O</kbd>                                 |                                                                                                       |
@@ -137,8 +136,6 @@
 
 | Name                      | Shortcuts                         |
 | ------------------------- | --------------------------------- |
-| Open in new window        | <kbd>Alt+W</kbd> / <kbd>⌥W</kbd> |
-| Navigate to the file tree | <kbd>Alt+T</kbd> / <kbd>⌥T</kbd> |
 | Open with default program | <kbd>Alt+E</kbd> / <kbd>⌥K</kbd> |
 | Open file location        | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd> |
 {: id="20210106154319-8ovzor1"}
