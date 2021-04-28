@@ -49,7 +49,7 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
   {: id="20210203202136-mdzqail"}
 * {: id="20210104091623-tynx9gd"}[https://github.com/electron/electron](https://github.com/electron/electron) `MIT License`
   {: id="20210203202136-k77e4ne"}
-* {: id="20210104091623-0uru44s"}[https://github.com/d3/d3](https://github.com/d3/d3) `BSD-3-Clause License`
+* {: id="20210104091623-0uru44s"}[https://github.com/visjs/vis-network](https://github.com/visjs/vis-network) `Apache-2.0 License`
   {: id="20210203202136-06axdmm"}
 * {: id="20210104091623-inqs9h1"}[https://github.com/google/diff-match-patch](https://github.com/google/diff-match-patch) `Apache-2.0 License`
   {: id="20210203202136-sm73e98"}
