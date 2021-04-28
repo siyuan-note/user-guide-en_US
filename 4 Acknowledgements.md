@@ -69,8 +69,6 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
   {: id="20210203202136-s9yd6n2"}
 * {: id="20210111111553-31ff169"}[https://github.com/fex-team/kityminder-core](https://github.com/fex-team/kityminder-core) `BSD-3-Clause License`
   {: id="20210203202136-a8gckef"}
-* {: id="20210122112135-dwx0w5k"}[https://github.com/codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) `MIT License`
-  {: id="20210203202136-vpho516"}
 * {: id="20210203202138-5thtcqv"}[https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) `MIT License`
   {: id="20210203202138-n2m043b"}
 {: id="20210104091623-eqzlf7q"}
