@@ -27,9 +27,7 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
 * {: id="20210104091623-scab09y"}[https://github.com/facette/natsort](https://github.com/facette/natsort) `BSD-3-Clause License`
   {: id="20210203202136-hns15qb"}
 * {: id="20210104091623-z9to4rd"}[https://github.com/fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) `BSD-3-Clause License`
-  {: id="20210203202136-7ii7j7d"}
-* {: id="20210104091623-8q1f3h2"}[https://github.com/gin-contrib/cors](https://github.com/gin-contrib/cors) `MIT License`
-  {: id="20210203202136-6hg69lb"}
+  {: id="20210203202136-7ii7j7d" updated="20210428232654"}
 * {: id="20210104091623-iumcr4g"}[https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin) `MIT License`
   {: id="20210203202136-24wom77"}
 * {: id="20210104091623-3q986vi"}[https://github.com/jackpal/gateway](https://github.com/jackpal/gateway) `BSD-3-Clause License`
@@ -41,13 +39,7 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
 * {: id="20210104111919-0nrhvp5"}[https://github.com/panjf2000/ants](https://github.com/panjf2000/ants) `MIT License`
   {: id="20210203202136-xwxzx46"}
 * {: id="20210104091623-nkdzq8e"}[https://github.com/parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) `MIT License`
-  {: id="20210203202136-lb4zgh9"}
-* {: id="20210104091623-8pulwlx"}[https://github.com/golang/crypto](https://github.com/golang/crypto) `BSD-3-Clause License`
-  {: id="20210203202136-ngpxe2y"}
-* {: id="20210104091623-c9igaeg"}[https://github.com/golang/net](https://github.com/golang/net) `BSD-3-Clause License`
-  {: id="20210203202136-t76hi9x"}
-* {: id="20210104091623-ad8q23e"}[https://github.com/golang/text](https://github.com/golang/text) `BSD-3-Clause License`
-  {: id="20210203202136-98fujnq"}
+  {: id="20210203202136-lb4zgh9" updated="20210428232506"}
 {: id="20210104091623-jo7y9vp"}
 
 ## UI
