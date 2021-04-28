@@ -17,7 +17,7 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
    {: id="20210131161940-269cfua"}
 {: id="20201225220954-dlgzk1o"}
 
-## ❓ FAQ
+## 💡 Suggested reading
 {: id="20201225220954-qtw7nfl"}
 
 * {: id="20201225220954-bbrjxhx"}((20200923234731-h3zkwm2 "FAQs"))
@@ -32,9 +32,11 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 {: id="20201225220954-s2g98gd"}
 
 * {: id="20201225220954-d10tcsj"}[GitHub Issues](https://github.com/siyuan-note/siyuan/issues)
-  {: id="20210131161940-ucgs2kw"}
-* {: id="20210131163254-58hz1z3"}[Chinese Discussions](https://ld246.com/domain/siyuan)
-  {: id="20210131163254-8f7lz5k" updated="20210428222352"}
+  {: id="20210131161940-ucgs2kw" updated="20210428231747"}
+* {: id="20210428231748-qeszm45"}[Discord (English Discussions)](https://discord.gg/bzfCBwMzdP)
+  {: id="20210428231748-t6le710" updated="20210428231824"}
+* {: id="20210131163254-58hz1z3"}[LianDi (Chinese Discussions)](https://ld246.com/domain/siyuan)
+  {: id="20210131163254-8f7lz5k" updated="20210428231836"}
 {: id="20200923234102-ysbri6o"}
 
 Please attach the log file (operating system user's home directory/.siyuan/siyuan.log for usage issues, which can be quickly opened in Settings - About - Open Config Dir; the config dir on Windows is generally located at C:\\Users\\Name\\.siyuan).

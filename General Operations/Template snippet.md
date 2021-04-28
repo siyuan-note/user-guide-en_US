@@ -1,14 +1,17 @@
 ## Overview
 {: id="20210428223009-x6fyksm" updated="20210428223012"}
 
-The template snippet is used to quickly insert the previously set text content at the cursor caret position and supports variables.
-{: id="20210104091444-bu1zdhb" updated="20210428223046"}
+The template snippet is used to quickly insert the previously set text content at the cursor caret position, and it supports variables. Template snippets use `.md` suffix files and are stored in the data/templates folder of the workspace.
+{: id="20210104091444-bu1zdhb" updated="20210428232129"}
+
+At present, please use other text editors to write templates, and Siyuan will support built-in editing in the future. #TODO#
+{: id="20210428230943-cmsts0j"}
 
 ## Writing a template
 {: id="20210104091444-jy56z0p"}
 
-The biggest difference between template snippet and ordinary documents is that variables can be written in the template, and these variables will be filled and rendered when the template is used. The template is implemented using [The Go Programming Language text template](https://golang.org/pkg/text/template/). If you have an understanding of this, you can implement some program logic in it, such as comparison logic , Iterative logic, etc. In addition, to avoid syntax conflicts, template syntax uses `%%action%%` (instead of `{{action}}`).
-{: id="20210104091444-ycq0a40" updated="20210428223151"}
+The template is implemented using [The Go Programming Language text template](https://golang.org/pkg/text/template/). If you have an understanding of this, you can implement some program logic in it, such as comparison logic , Iterative logic, etc. In addition, to avoid syntax conflicts, template syntax uses `%%action%%` (instead of `{{action}}`).
+{: id="20210104091444-ycq0a40" updated="20210428230828"}
 
 We have built-in variables and functions to enrich the template through the open source project [Sprig](https://github.com/Masterminds/sprig). For example, you can use `%%now | date "2006-01-02 15:04:05"%%` to render the current time. For more usage, please refer to [Sprig Function Documentation](http://masterminds.github.io/sprig/).
 {: id="20210104091444-c7gg3ak" updated="20210428223335"}
