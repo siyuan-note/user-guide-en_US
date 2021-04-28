@@ -1,3 +1,23 @@
+## How does SiYuan store data?
+{: id="20210428222532-nfvnq4d" updated="20210428222834"}
+
+The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in `Settings - About`), in the workspace data folder:
+{: id="20210428222603-g1752n7" updated="20210428222615"}
+
+* {: id="20210428222603-gxgx3vi"}`assets` are used to save all inserted resource files
+  {: id="20210428222603-0goch51" updated="20210428222655"}
+* {: id="20210428222603-vtr89xq"}`templates` are used to save ((20201204184532-3qm9l8n "Template snippet"))
+  {: id="20210428222603-criebuv" updated="20210428222658"}
+* {: id="20210428222603-456vgdh"}`widgets` are used to save widgets #TODO#
+  {: id="20210428222603-m3djncm" updated="20210428222701"}
+* {: id="20210428222603-27so3jy"}The rest of the folders are the notebook folders created by the user
+  {: id="20210428222603-pwyr56t"}
+
+  * {: id="20210428222603-zjesktk"}Files with the suffix of `.sy` in the notebook folder are used to save the document data, and the data format is JSON
+    {: id="20210428222603-9gah47n"}
+  {: id="20210428222603-wntbxgj"}
+{: id="20210428222603-moih9fe"}
+
 ## Why is it not displayed on the file tree after I put the Markdown file in the notebook folder?
 {: id="20210120161137-0ggx9sa"}
 
