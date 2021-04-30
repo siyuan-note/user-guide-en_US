@@ -110,7 +110,6 @@
 | Name           | Shortcuts                                         | Memo                            |
 | -------------- | ------------------------------------------------- | ------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
-| Quote selected content                                     | <kbd>Ctrl+[</kbd> / <kbd>⌘[</kbd>                                |                                                                                                       |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
 | Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
