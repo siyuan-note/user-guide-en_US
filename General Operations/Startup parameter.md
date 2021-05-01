@@ -1,20 +1,11 @@
-## SiYuan Electron
-{: id="20201225172241-ifimln0" updated="20210302223756"}
-
-### `--conf`
-{: id="20201225172241-pkqsaon"}
-
-Used to specify the configuration file folder path, the default value when not specified is `~/.siyuan/`, this parameter will be passed to the kernel.
-{: id="20201225172241-p1fcj43"}
-
 ## SiYuan Kernel
 {: id="20201225172241-w8hdt9o"}
 
 ### `--conf`
 {: id="20201225172241-237rz9o"}
 
-The meaning is the same as the parameter with the same name as Electron.
-{: id="20201225172241-546q8dx"}
+Used to specify the configuration file folder path, the default value when not specified is `~/.siyuan/`.
+{: id="20201225172241-p1fcj43" updated="20210501220651"}
 
 ### `--wd`
 {: id="20201225172241-m3ffs88"}
