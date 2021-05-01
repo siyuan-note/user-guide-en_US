@@ -39,11 +39,8 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 * {: id="20210428231748-qeszm45"}[Discord (English Discussions)](https://discord.gg/bzfCBwMzdP)
   {: id="20210428231748-t6le710" updated="20210428231824"}
 * {: id="20210131163254-58hz1z3"}[LianDi (Chinese Discussions)](https://ld246.com/domain/siyuan)
-  {: id="20210131163254-8f7lz5k" updated="20210428231836"}
+  {: id="20210131163254-8f7lz5k" updated="20210501193304"}
 {: id="20200923234102-ysbri6o"}
-
-Please attach the log file (operating system user's home directory/.siyuan/siyuan.log for usage issues, which can be quickly opened in Settings - About - Open Config Dir; the config dir on Windows is generally located at C:\\Users\\Name\\.siyuan).
-{: id="20201225220954-p89gl39" updated="20210428222430"}
 
 ## 🗺️ Roadmap
 {: id="20201225220954-uhjsdfw"}
