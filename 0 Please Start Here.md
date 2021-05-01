@@ -27,8 +27,8 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
   {: id="20210131161940-zu27zlo"}
 * {: id="20201225220954-9xqhn71"}((20200923234602-gy54e67 "Privacy policy"))
   {: id="20210131161940-4z4v1xw"}
-* {: id="20201225220954-bj7c15e"}((20200924095830-rdxxx8n "Origin"))
-  {: id="20210131161940-nksa82l"}
+* {: id="20201225220954-bj7c15e"}[Origin](https://ld246.com/article/1619868273581)
+  {: id="20210131161940-nksa82l" updated="20210501192621"}
 {: id="20201225220954-kjfoqak"}
 
 ## 🏘️ Community
