@@ -1,4 +1,4 @@
-## Workspace
+## Browser usage
 {: id="20210104091447-8iiuxlt"}
 
 SiYuan Desktop is an standalone application packaged based on [Electron](https://www.electronjs.org), but this is not the only way to use it. As long as the kernel of SiYuan is started, it can be used directly on the browser, supporting mobile browsers.
@@ -22,8 +22,8 @@ If you need to use it in a local area network, just replace `127.0.0.1` with the
   {: id="20210302223802-ghpurq7"}
 {: id="20210104091447-6y4386v"}
 
-Before embarking on these two solutions, please start with understanding ((20201004194439-vd30x8i "SiYuan Technical Architecture")). In addition to the above solutions, paying users can directly use the Web [SiYuan Online Workspace](https://ld246.com/xanadu/) of our server.
-{: id="20210104091447-br9zpri"}
+Before embarking on these two solutions, please start with understanding [SiYuan Technical Architecture](https://ld246.com/article/1619868273581#%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84). In addition to the above solutions, paying users can directly use the Web [SiYuan Online Workspace](https://ld246.com/xanadu/) of our server.
+{: id="20210104091447-br9zpri" updated="20210501194902"}
 
 ### Access authentication
 {: id="20210104091447-dluat0m"}
