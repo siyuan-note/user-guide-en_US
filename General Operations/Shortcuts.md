@@ -37,7 +37,6 @@
 | Global search                                              | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                 |                                                                           |
 | New global search                                          | <kbd>Ctrl+Shift+F</kbd> / <kbd>⇧⌘F</kbd>                        |                                                                           |
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                             |
-| Clear font style                                           | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                                 |                                                                           |
 | Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove content block reference/content block embedding/link/picture/block |
 | Copy notebook block hyperlink                              | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                        |                                                                           |
 | Copy as standard Markdown                                  | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                |                                                                           |
@@ -108,6 +107,7 @@
 | Name           | Shortcuts                                         | Memo                            |
 | ---------------- | --------------------------------------------------- | --------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
+| Block Ref           | <kbd>Ctrl+[</kbd> / <kbd>⌘[</kbd>                |                                 |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
 | Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
@@ -122,6 +122,7 @@
 | Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
 | Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
 | Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                |                                 |
+| Font setting                                           | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                                 |                                                                           |
 | Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
 | Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
 | Task list      | <kbd>Ctrl+Shift+J</kbd> / <kbd>⇧⌘J</kbd>        | See below for related shortcuts |
