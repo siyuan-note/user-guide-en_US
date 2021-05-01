@@ -1,8 +1,8 @@
 ## Syntax
 {: id="20201224120448-6jnrawi"}
 
-The content block dynamic query is mainly used to summarize the required content blocks, and the method used is almost the same as that of search, supporting text mode and SQL mode. Use `{{` and `}}` to wrap text expressions or SQL scripts on a single line:
-{: id="20210111230452-5lclhuo" updated="20210501171223"}
+The content block embed is mainly used to summarize the required content blocks, and the method used is almost the same as that of search, supporting text mode and SQL mode. Use `{{` and `}}` to wrap text expressions or SQL scripts on a single line:
+{: id="20210111230452-5lclhuo" updated="20210501173440"}
 
 * {: id="20210111230452-7zr00k0"}Use text mode: `{{ Keyword }}`
   {: id="20210302223908-eckoja8" updated="20210501171232"}
