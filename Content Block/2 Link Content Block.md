@@ -28,8 +28,8 @@ The complete syntax of the content block quote is: `((id "text"))`, where the `i
 ### Content block embedding
 {: id="20200924101312-385dey5"}
 
-Entering `{{` at the beginning of a new line will trigger the content block embedded search. Just like the content block quote, you can complete the embedding by selecting the required content block in the search results. For more details, please refer to ((20201117112518-dott91x "Content block query embed")) . After the embedding operation is completed, the embedded content block will be displayed directly below. #Content block/Embed#
-{: id="20210104091542-a81lx0q" updated="20210501172328"}
+Entering `{{` at the beginning of a new line will trigger the content block embedded search. Just like the content block quote, you can complete the embedding by selecting the required content block in the search results. For more details, please refer to ((20201117112518-dott91x "Content block embed")). After the embedding operation is completed, the embedded content block will be displayed directly below. #Content block/Embed#
+{: id="20210104091542-a81lx0q" updated="20210501173030"}
 
 #Note#: the content block embedding itself is also a kind of content block, which means that we cannot use the content block embedding in the middle of a sentence, and can only embed at the beginning of a new line.
 {: id="20210104091542-23pgmmz" updated="20210423103419"}
