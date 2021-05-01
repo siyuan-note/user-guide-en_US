@@ -60,14 +60,8 @@ Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-no
 * {: id="20210317214155-4se7gl4"}[Chinese User Guide](https://github.com/siyuan-note/user-guide-zh_CN)
   {: id="20210317214155-02ljnx2" updated="20210317214431"}
 * {: id="20210317214158-92uea49"}[English User Guide](https://github.com/siyuan-note/user-guide-en_US)
-  {: id="20210317214158-acl7oxj" updated="20210317214435"}
+  {: id="20210317214158-acl7oxj" updated="20210501193214"}
 {: id="20210317214434-nx9mt0d"}
-
-### Appearance
-{: id="20210131161904-wbtfzja" updated="20210501165216"}
-
-[appearance](https://github.com/siyuan-note/appearance), includes themes, icons and multi-language configuration.
-{: id="20210131161907-atomujx"}
 
 ### Bazaar
 {: id="20210131161927-1i4rnk0" updated="20210501165219"}
@@ -75,17 +69,8 @@ Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-no
 * {: id="20210131162437-tkeqdhq"}((20201225222754-u4sica8 "Push to theme bazaar"))
   {: id="20210131162437-2zmstg2"}
 * {: id="20210131162446-2m6hnzn"}((20210131162806-sk9tg4q "Push to template bazaar"))
-  {: id="20210131162446-g9j0oxc"}
+  {: id="20210131162446-g9j0oxc" updated="20210501193221"}
 {: id="20210131161933-lrnm0d8"}
-
-### Component
-{: id="20210131161755-t4d8c8l" updated="20210501165221"}
-
-* {: id="20210131162012-dlwqhan"}[Update program](https://github.com/siyuan-note/pit)
-  {: id="20210131162012-q670soq"}
-* {: id="20210131162012-005v9pr"}[Editor engine](https://github.com/88250/lute)
-  {: id="20210131162012-p9rsdoy" updated="20210417112903"}
-{: id="20210131162012-eu2pyrz"}
 
 
 {: id="20200923234011-ieuun1p" type="doc"}
