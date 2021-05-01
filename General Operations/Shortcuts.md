@@ -76,7 +76,7 @@
 | Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                   | The cursor moves out of the anchor text, see below for more                                           |
 | Wrong input                                                | <kbd>Backspace</kbd>                                              |                                                                                                       |
 | Content block reference                                    | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>（（</kbd> / <kbd>【【</kbd> |                                                                                                       |
-| Content block dynamic query                                | <kbd>{{</kbd>                                                     |                                                                                                       |
+| Content block embed                                        | <kbd>{{</kbd>                                                     |                                                                                                       |
 {: id="20210106154319-yozlufs"}
 
 ### Mind Map
