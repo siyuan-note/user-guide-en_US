@@ -413,40 +413,5 @@ app -> client
 ```
 {: id="20210201203424-ohqom70"}
 
-## Content block
-{: id="20210104091509-alp29j5" updated="20210415201014"}
-
-The syntax of the content block is an extension of Markdown by SiYuan.
-{: id="20210104091509-cahkz6m"}
-
-## Content block reference
-{: id="20210104091509-60dpmax" updated="20210415201017"}
-
-`((20200924101312-jj4e0v3 "Content block reference"))`
-{: id="20210104091509-jral852"}
-
-((20200924101312-jj4e0v3 "Content block reference"))
-{: id="20210104091509-33x9nv5"}
-
-## Content block embedding
-{: id="20210104091509-z5exdte" updated="20210415201020"}
-
-`!((20200924101312-385dey5 "Content block embedding"))`
-{: id="20210104091509-smzo1ig"}
-
-!((20200924101312-385dey5 "Content block embedding"))
-{: id="20210104091509-wncua57"}
-
-### Super block
-{: id="20210104091509-doo27sv" updated="20210415201022"}
-
-```markdown
-{{{
-content blocks
-...
-}}}
-```
-{: id="20210104091509-80lo43a"}
-
 
 {: id="20200924093441-ft2rhps" type="doc"}
