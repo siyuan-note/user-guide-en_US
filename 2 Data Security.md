@@ -41,8 +41,6 @@ If there is content that needs to be kept secret, please do not use the cloud sy
 ## Suggest
 {: id="20210117215851-1knwkrg"}
 
-* {: id="20210117215851-3lroyeu"}Try not to edit simultaneously through multiple editing software
-  {: id="20210302223933-iuf0h5x"}
 * {: id="20210117215851-9jl3t6i"}Data is regularly backed up to multiple offline devices
   {: id="20210302223933-x3pehyy"}
 * {: id="20210117215851-0p85gl7"}If the data is very important (such as important passwords, keys or core secrets, etc.), do not use any software or services to save it (operating system software, network environment, etc. have security risks)
