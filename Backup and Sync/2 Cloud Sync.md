@@ -33,10 +33,10 @@ Synchronization is divided into two modes, manual synchronization mode (default)
 * {: id="20210327182207-i42jwtb"}Auto sync: Turn on the Settings - Sync - Auto sync switch. Automatic synchronization scans every 30 seconds
   {: id="20210327182207-7yoko57" updated="20210327182340"}
 
-  * {: id="20210327182207-4kgt21u"}If new changes are found in the cloud notebook, it will be automatically downloaded
-    {: id="20210327182207-50dq4tw"}
-  * {: id="20210327182207-zkrgex8"}If new changes are found in the local notebook, it will be uploaded automatically
-    {: id="20210327182207-9weuk8c"}
+  * {: id="20210327182207-4kgt21u"}If new changes are found in the cloud data, it will be automatically downloaded
+    {: id="20210327182207-50dq4tw" updated="20210501163309"}
+  * {: id="20210327182207-zkrgex8"}If new changes are found in the local data, it will be uploaded automatically
+    {: id="20210327182207-9weuk8c" updated="20210501163313"}
   {: id="20210327182207-3v2ustd"}
 {: id="20210327182207-hqlqffy"}
 

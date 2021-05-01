@@ -16,10 +16,10 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
 ## Plaintext storage
 {: id="20210117215851-ix28le8"}
 
-* {: id="20210117215851-p3xgi3t"}The data of SiYuan is stored in plain text in text files, and anyone or software who can access these text files can read the data
-  {: id="20210302223933-aalghw5"}
-* {: id="20210117215851-crybuhe"}The availability of local notebook data depends on the availability of hardware disks and operating systems
-  {: id="20210302223933-9zi49ox"}
+* {: id="20210117215851-p3xgi3t"}The data is stored in plain text in text files, and anyone or software who can access these text files can read the data
+  {: id="20210302223933-aalghw5" updated="20210501163216"}
+* {: id="20210117215851-crybuhe"}The availability of data depends on the availability of hardware disks and operating systems
+  {: id="20210302223933-9zi49ox" updated="20210501163222"}
 * {: id="20210117215851-gl6eiyi"}Data integrity and consistency are the same as above. Special note is needed here: if the synchronization network disk is enabled locally, consistency may be reduced (the synchronization disk may produce multiple data copies)
   {: id="20210302223933-srkhpyt"}
 {: id="20210117215851-ldx930v"}
