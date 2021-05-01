@@ -54,6 +54,18 @@ In document typesetting, you need to use `---` to separate the content of each p
 The default configuration folder is located in the user's home directory `~/.siyuan/`. If there is a configuration folder in the installation directory, the installation directory will be used first. You can also specify the configuration folder path by ((20200924100717-yzwzn64 "startup parameter")).
 {: id="20201224120448-hexn2qn"}
 
+## How to delete unnecessary history records to reduce space usage and improve performance?
+{: id="20210226101133-php3e1u" updated="20210402112548"}
+
+Open the notebook `.siyuan/backup/` folder on the file system and delete unnecessary backup history.
+{: id="20210315224644-d8kjhtk" updated="20210402001829"}
+
+## How to delete cloud asset files that are no longer needed?
+{: id="20210226101134-hvw08er" updated="20210226101142"}
+
+#TODO#
+{: id="20210226101144-fknnoaz" updated="20210301220415"}
+
 ## Do you plan to support plugins?
 {: id="20201224120448-yq5ziln"}
 
