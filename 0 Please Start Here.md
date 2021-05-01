@@ -17,8 +17,8 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
    {: id="20210131161940-269cfua"}
 {: id="20201225220954-dlgzk1o"}
 
-#Note#: Do not modify the user guide, because the data will be reset every time the guide is opened.
-{: id="20210429172810-bd4sobs" updated="20210429172853"}
+#Note#: Do not save data in the user guide, because the user guide will be reset every time you open it.
+{: id="20210429172810-bd4sobs" updated="20210501193556"}
 
 ## 💡 Suggested reading
 {: id="20201225220954-qtw7nfl"}
