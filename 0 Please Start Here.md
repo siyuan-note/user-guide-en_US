@@ -7,14 +7,12 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 ## 🔮 Quick start
 {: id="20201225220954-keui8uy"}
 
-1. {: id="20201225220954-e913snx"}Create a new notebook, create a new document under the notebook
-   {: id="20210131161940-kfs31q6"}
-2. {: id="20201225220954-ygz217h"}Enter `/` in the editor to trigger the function menu
-   {: id="20210131161940-eo0riwq"}
-3. {: id="20201225220954-875yybt"}((20200924101200-gss5vee "Navigate in the content block"))
-   {: id="20210131161940-b5uow2h"}
-4. {: id="20201225220954-mf4vm9c"}((20200924100906-0u4zfq3 "Window and tab"))
-   {: id="20210131161940-269cfua"}
+* {: id="20201225220954-e913snx"}Create a new notebook, create a new document under the notebook
+  {: id="20210131161940-kfs31q6"}
+* {: id="20201225220954-ygz217h"}Enter `/` in the editor to trigger the function menu
+  {: id="20210131161940-eo0riwq"}
+* {: id="20201225220954-875yybt"}((20200924101200-gss5vee "Navigate in the content block")) and ((20200924100906-0u4zfq3 "Window and tab"))
+  {: id="20210131161940-b5uow2h" updated="20210502233931"}
 {: id="20201225220954-dlgzk1o"}
 
 #Note#: Do not save data in the user guide, because the user guide will be reset every time you open it.
@@ -48,8 +46,8 @@ In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content 
 Please visit [SiYuan Development Plan and Progress](https://github.com/siyuan-note/siyuan/projects). For details of version changes, please visit [SiYuan Changelogs](https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md).
 {: id="20201225220954-57ba5rb"}
 
-## 🙏 Participate in contribution
-{: id="20210131161629-mutbkca" updated="20210501165729"}
+## 💌 Participate in contribution
+{: id="20210131161629-mutbkca" updated="20210502234000"}
 
 ### Document
 {: id="20210131161709-j2ksyi2" updated="20210501165210"}
