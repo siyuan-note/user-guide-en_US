@@ -48,12 +48,6 @@ First position the cursor on the cell that needs to be adjusted, and then right-
 In document typesetting, you need to use `---` to separate the content of each page. For specific usage, please refer to ((20210203182642-odiolr2 "Slides Presentation")).
 {: id="20210204162757-0al9jtb"}
 
-## Where are the configuration files stored?
-{: id="20201224120448-0f3b9ys"}
-
-The default configuration folder is located in the user's home directory `~/.siyuan/`. If there is a configuration folder in the installation directory, the installation directory will be used first. You can also specify the configuration folder path by ((20200924100717-yzwzn64 "startup parameter")).
-{: id="20201224120448-hexn2qn"}
-
 ## How to delete unnecessary history records to reduce space usage and improve performance?
 {: id="20210226101133-php3e1u" updated="20210402112548"}
 
