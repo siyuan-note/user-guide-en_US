@@ -10,11 +10,11 @@ At present, please use other text editors to write templates, and Siyuan will su
 ## Writing a template
 {: id="20210104091444-jy56z0p"}
 
-The template is implemented using [The Go Programming Language text template](https://golang.org/pkg/text/template/). If you have an understanding of this, you can implement some program logic in it, such as comparison logic , Iterative logic, etc. In addition, to avoid syntax conflicts, template syntax uses `%%action%%` (instead of `{{action}}`).
-{: id="20210104091444-ycq0a40" updated="20210428230828"}
+The template is implemented using [The Go Programming Language text template](https://golang.org/pkg/text/template/). If you have an understanding of this, you can implement some program logic in it, such as comparison logic , Iterative logic, etc. In addition, to avoid syntax conflicts, template syntax uses `.action{action}` (instead of `{{action}}`).
+{: id="20210104091444-ycq0a40" updated="20210502205109"}
 
-We have built-in variables and functions to enrich the template through the open source project [Sprig](https://github.com/Masterminds/sprig). For example, you can use `%%now | date "2006-01-02 15:04:05"%%` to render the current time. For more usage, please refer to [Sprig Function Documentation](http://masterminds.github.io/sprig/).
-{: id="20210104091444-c7gg3ak" updated="20210428223335"}
+We have built-in variables and functions to enrich the template through the open source project [Sprig](https://github.com/Masterminds/sprig). For example, you can use `.action{now | date "2006-01-02 15:04:05"}` to render the current time. For more usage, please refer to [Sprig Function Documentation](http://masterminds.github.io/sprig/).
+{: id="20210104091444-c7gg3ak" updated="20210502205118"}
 
 There is a detail about the date and time formatting. #Note#: The formatting of the Go programming language is quite special: Instead of using `yyyy-MM-dd HH:mm:ss`, use `2006-01-02 15:04: 05` This fixed time format ([related discussions on Stack Overflow](https://stackoverflow.com/questions/20530327/origin-of-mon-jan-2-150405-mst-2006-in-golang)).
 {: id="20210104091444-i618qd8" updated="20210428223421"}
@@ -22,12 +22,12 @@ There is a detail about the date and time formatting. #Note#: The formatting of 
 In addition to the built-in variables and functions of Sprig, the following variables and functions are also supported:
 {: id="20210104091444-2wbdokx"}
 
-* {: id="20210104091444-d5hpwdd"}`title`: Use this variable to insert the current document name. For example, if the template content is `# %%.title%%`, it will be inserted into the current document content with the first-level heading syntax after invoking
-  {: id="20210131162138-93wovlc" updated="20210428223449"}
+* {: id="20210104091444-d5hpwdd"}`title`: Use this variable to insert the current document name. For example, if the template content is `# .action{.title}`, it will be inserted into the current document content with the first-level heading syntax after invoking
+  {: id="20210131162138-93wovlc" updated="20210502205126"}
 * {: id="20210221131637-9xmclwp"}`id`：Use this variable to insert the current document id
   {: id="20210221131637-hnlhxny" updated="20210428223500"}
-* {: id="20210121193829-wfzsf6m"}`sql`: Use this function to query the database, and the parameter is a SQL statement: `%%sql "SELECT * FROM blocks LIMIT 7"%%`
-  {: id="20210131162138-7ufhbho" updated="20210428223508"}
+* {: id="20210121193829-wfzsf6m"}`sql`: Use this function to query the database, and the parameter is a SQL statement: `.action{sql "SELECT * FROM blocks LIMIT 7"}`
+  {: id="20210131162138-7ufhbho" updated="20210502205137"}
 {: id="20210104091444-mwbvc9m"}
 
 ## Invoke template
@@ -40,13 +40,13 @@ At the cursor caret position, select the template via `/` to trigger the templat
 {: id="20210104091444-xz57sof"}
 
 ```plaintext
-%%$before := (div (now.Sub (toDate "2006-01-02" "2020-02-19")).Hours 24)%%
+.action{$before := (div (now.Sub (toDate "2006-01-02" "2020-02-19")).Hours 24)}
 
-%%$after := (div ((toDate "2006-01-02" "2048-02-19").Sub now).Hours 24)%%
-Today is `%%now | date "2006-01-02"%%`.
+.action{$after := (div ((toDate "2006-01-02" "2048-02-19").Sub now).Hours 24)}
+Today is `.action{now | date "2006-01-02"}`.
 
-* `%%$before%%` days have passed since `2020-02-19`
-* There are `%%$after%%` days left from `2048-02-19`
+* `.action{$before}` days have passed since `2020-02-19`
+* There are `.action{$after}` days left from `2048-02-19`
 ```
 {: id="20210104091444-cclnk66"}
 
