@@ -1,11 +1,11 @@
 ## SiYuan Kernel
 {: id="20201225172241-w8hdt9o"}
 
-### `--conf`
-{: id="20201225172241-237rz9o"}
+### `--workspace`
+{: id="20201225172241-237rz9o" updated="20210502162639"}
 
-Used to specify the configuration file folder path, the default value when not specified is `~/.siyuan/`.
-{: id="20201225172241-p1fcj43" updated="20210501220651"}
+Used to specify the workspace folder path, the default value when not specified is `~/Documents/SiYuan/`.
+{: id="20201225172241-p1fcj43" updated="20210502164218"}
 
 ### `--wd`
 {: id="20201225172241-m3ffs88"}
