@@ -1,5 +1,5 @@
-Mind map mode can be accessed by right-clicking the document drop-down menu on the file tree. It only supports basic creation and movement. It is mainly used to organize ideas, quickly create and browse document outlines.
-{: id="20210127215601-jru3dui" updated="20210302223545"}
+Mind map mode can be accessed by right-clicking the document drop-down menu on the file tree. It only supports basic creation and movement. It is mainly used to organize ideas, quickly create and browse document outlines. #TODO#
+{: id="20210127215601-jru3dui" updated="20210502234122"}
 
 * {: id="20210127215636-c34btdq"}<kbd>Enter</kbd> to create a peer node
   {: id="20210302223527-03yo0mm"}
