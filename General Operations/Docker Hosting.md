@@ -23,44 +23,23 @@ The overall program is located under `/opt/siyuan/`, which is basically the stru
 The entry point is set when building the Docker image: `ENTRYPOINT ["/opt/siyuan/kernel" ]`, use `docker run b3log/siyuan` with parameters to start:
 {: id="20201227201751-tbpaexo" updated="20210301202831"}
 
-* {: id="20201227201751-n5o2ot2"}`--conf` specifies the configuration folder path, the configuration folder is mounted to the container via `-v` on the host
-  {: id="20210208152449-9gz7jy5"}
-* {: id="20210301202834-kgtx12h"}`--data` specifies the data folder path, the data folder is mounted to the container via `-v` on the host
-  {: id="20210301202834-3itacib" updated="20210301202901"}
+* {: id="20201227201751-n5o2ot2"}`--workspace` specifies the workspace folder path, mounted to the container via `-v` on the host
+  {: id="20210208152449-9gz7jy5" updated="20210502171445"}
 * {: id="20201227201751-cxo94yt"}`--resident` specified as true resident in memory
   {: id="20210208152449-og2hpgc"}
 {: id="20201227201751-gmofu4a" updated="20210301202856"}
 
-More parameters can refer to ((20201225172241-w8hdt9o "here")). The following is an example of a startup command:
-{: id="20210301202938-prn2v5a" updated="20210301203044"}
+More parameters can refer to ((20201225172241-w8hdt9o "here")). The following is an example of a startup command: `docker run -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --resident=true --workspace=workspace_dir_container`
+{: id="20210301202938-prn2v5a" updated="20210502171524"}
 
-`docker run -v conf_dir_host:conf_dir_container -v data_dir_host:data_dir_container -p 6806:6806 b3log/siyuan --resident=true --conf=conf_dir_container --data=data_dir_container`
-{: id="20201227201751-20ez9rs" updated="20210301203103"}
-
-* {: id="20201227201751-8l5oixx"}`conf_dir_host`: the configuration folder path on the host
-  {: id="20210208152449-7fj2x6h"}
-* {: id="20201227201751-pw8tdgg"}`conf_dir_container`: The path of the configuration folder in the container, which is the same as specified in `--conf`
-  {: id="20210208152449-y2ogxyt"}
-* {: id="20201227201751-wn3qqvc"}`data_dir_host`: the path of the host data folder
-  {: id="20210208152449-fmxop31"}
-* {: id="20201227201751-3k8gqkf"}`data_dir_container`: the path of the data folder in the container
-  {: id="20210208152449-4bow85v" updated="20210301203118"}
+* {: id="20201227201751-8l5oixx"}`workspace_dir_host`: the workspace folder path on the host
+  {: id="20210208152449-7fj2x6h" updated="20210502171530"}
+* {: id="20201227201751-pw8tdgg"}`workspace_dir_container`: The path of the workspace folder in the container, which is the same as specified in `--workspace`
+  {: id="20210208152449-y2ogxyt" updated="20210502171606"}
 {: id="20201227201751-pt653to"}
 
-To simplify, it is recommended to configure the conf and data folder paths to be consistent on the host and container respectively, such as:
-{: id="20201227201751-yyfayag"}
-
-* {: id="20201227201751-jx3yrvy"}`conf_dir_host` and `conf_dir_container` are configured as /siyuan/conf
-  {: id="20210208152449-1zeadz0"}
-* {: id="20201227201751-xlea56k"}`data_dir_host` and `data_dir_container` are configured as /siyuan/data
-  {: id="20210208152449-5qsmhee"}
-{: id="20201227201751-wr70ypz"}
-
-Examples of corresponding startup commands:
-{: id="20201227201751-ii5q18q"}
-
-`docker run -v /siyuan/conf:/siyuan/conf -v /siyuan/data:/siyuan/data -p 6806:6806 b3log/siyuan --resident=true --conf=/siyuan/conf/ --data=/siyuan/data/`
-{: id="20201227201751-n5c4xje" updated="20210301203147"}
+To simplify, it is recommended to configure the workspace folder path to be consistent on the host and container, such as: `workspace_dir_host` and `workspace_dir_container` are configured as `/siyuan/workspace`, the corresponding startup commands is: `docker run -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 b3log/siyuan --resident=true --workspace=/siyuan/workspace/`
+{: id="20201227201751-yyfayag" updated="20210502171906"}
 
 ## Kernel API
 {: id="20201227201751-gv0fpx2"}
