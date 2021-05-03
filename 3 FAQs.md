@@ -4,8 +4,8 @@
 The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in `Settings - About`), in the workspace data folder:
 {: id="20210428222603-g1752n7" updated="20210428222615"}
 
-* {: id="20210428222603-gxgx3vi"}`assets` are used to save all inserted resource files
-  {: id="20210428222603-0goch51" updated="20210428222655"}
+* {: id="20210428222603-gxgx3vi"}`assets` are used to save all inserted asset files
+  {: id="20210428222603-0goch51" updated="20210503100004"}
 * {: id="20210428222603-vtr89xq"}`templates` are used to save ((20201204184532-3qm9l8n "Template snippet"))
   {: id="20210428222603-criebuv" updated="20210428222658"}
 * {: id="20210428222603-456vgdh"}`widgets` are used to save widgets #TODO#
