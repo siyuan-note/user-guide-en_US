@@ -1,9 +1,6 @@
 ## Type field `type`
 {: id="20210210104024-efd1ar6" updated="20210302223513"}
 
-The search condition supports expressions, you can use the `type:x` syntax to enable type filtering, where the value of `x` is as follows:
-{: id="20201224120448-hggh9p6"}
-
 * {: id="20201224120448-mpmfni9"}`d` Document block (Only search on the document name, will not search for the document containing content blocks)
   {: id="20210210104014-pbdtm4z"}
 * {: id="20201224120448-x5dqp91"}`h` Heading block (Search only on the heading name, not the content blocks below the heading block)
@@ -25,9 +22,6 @@ The search condition supports expressions, you can use the `type:x` syntax to en
 * {: id="20201224120448-p3d5s2n"}`p` Paragraph block
   {: id="20210210104014-c3xubz3"}
 {: id="20201224092621-haejkkh"}
-
-For example, if you want to search all title blocks that contain `Markdown`, you can use `Markdown type:h`, abbreviated as `h:Markdown`.
-{: id="20201224120448-iaarh39"}
 
 ## Subtype field `subtype`
 {: id="20210210104037-xex9wds"}
