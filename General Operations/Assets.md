@@ -13,15 +13,6 @@ If you specify a title for a picture, then the title will be rendered below the 
 If you need to adjust the size and position of the picture, please right-click the picture and select zoom and position from the drop-down menu.
 {: id="20210204172633-q2q1r7i"}
 
-## Clips
-{: id="20210104091430-bxc6t2h"}
-
-Through the "Clip" function, we can paste other rich text content (such as Web pages, Word, Excel, etc.) into the editor. The specific usage is to manually select the content of the webpage, for example, select the text part of the webpage article to copy, and then paste it in SiYuan. Do not select all pages to copy, otherwise you may not be able to paste any content.
-{: id="20210104091430-ktqjqwj" updated="20210415201411"}
-
-If you check Settings - Assets - Auto fetch remote image to local, the clip will download the picture files on the Web page to assets folder and replace the picture address in the content with the local assets path.
-{: id="20210104091430-aihyfq1"}
-
 ## Cleanup unreferenced assets
 {: id="20210115224203-q8bj2gd"}
 
