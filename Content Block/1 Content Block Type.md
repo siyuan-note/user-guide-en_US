@@ -13,7 +13,7 @@ Hover the mouse over the content block and the corresponding icon will appear on
 | ![table](assets/table.svg)                   | Table block          | Leaf block                      |
 | ![unordered-list](assets/unordered-list.svg) | Unordered List block | Container block                 |
 | ![ordered-list](assets/ordered-list.svg)     | Ordered List block   | Container block                 |
-| ![task-list](assets/task-list.svg)           | To-do list block     | Container block                 |
+| ![task-list](assets/task-list.svg)           | Task list block      | Container block                 |
 | ![list-item](assets/list-item.svg)           | List Item block      | Container block                 |
 | ![blockquote](assets/blockquote.svg)         | Blockquote block     | Container block                 |
 | ![super-block](assets/super-block.svg)       | Super block          | Container block                 |
@@ -123,8 +123,8 @@ If you need to wrap a line in a list item, use <kbd>Shift Enter</kbd>.
 An ordered list block is a type ((20200925102736-x94e40g "container block")).
 {: id="20210104091538-1ix6ueu"}
 
-### To do list block
-{: id="20210104091538-uz0na96"}
+### Task list block
+{: id="20210104091538-uz0na96" updated="20210503220211"}
 
 ![task-list](assets/task-list.svg)
 {: id="20210104091538-hy0rb8f"}
@@ -135,8 +135,8 @@ An ordered list block is a type ((20200925102736-x94e40g "container block")).
   {: id="20210302223851-gzah6cx"}
 {: id="20210104091538-d5chiez"}
 
-The to-do list block is a type ((20200925102736-x94e40g "container block")).
-{: id="20210104091538-tw00i00"}
+The task list block is a type ((20200925102736-x94e40g "container block")).
+{: id="20210104091538-tw00i00" updated="20210503220216"}
 
 ### List item block
 {: id="20210104091538-wqiaxdu"}
@@ -166,32 +166,8 @@ The block reference block is a type ((20200925102736-x94e40g "container block"))
 ![super-block](assets/super-block.svg)
 {: id="20210104091538-6cpmf1u"}
 
-The super block is a type ((20200925102736-x94e40g "container block")). It can be used to combine continuous content blocks in a document, using a single line of `{{{` as the start marker and `}}}` as the end marker.
-{: id="20210104091538-hpihzah"}
-
-```markdown
-{{{
-
-Paragraph block
-
-* List block
-
-> Blockquote block
-
-# Heading block
-
-{{{
-
-Nested super block
-...
-
-}}}
-
-...
-
-}}}
-```
-{: id="20210104091538-qz97dbp"}
+The super block is a type ((20200925102736-x94e40g "container block")). It can be used to combine continuous content blocks in a document, and also to support horizontal typesetting.
+{: id="20210104091538-hpihzah" updated="20210503220329"}
 
 ### Documentation block
 {: id="20210104091538-clx67q4"}
