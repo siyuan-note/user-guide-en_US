@@ -37,7 +37,7 @@ After opening the options for displaying bookmarks, naming, and alias identifica
 You can use ((20201117112518-dott91x "Content block embed")) to search and summarize the naming and memo, such as listing the content blocks that contain the keyword `short` in the memo:
 {: id="20210118104710-b71o7og" updated="20210501172939"}
 
-!{{memo:short}}
+!{{SELECT * FROM blocks WHERE memo LIKE '%short%'}}
 {: id="20210118104710-ymm678p"}
 
 {: id="20210127204434-9izt7pe"}
