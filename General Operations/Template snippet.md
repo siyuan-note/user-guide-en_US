@@ -26,8 +26,8 @@ In addition to the built-in variables and functions of Sprig, the following vari
   {: id="20210131162138-93wovlc" updated="20210502205126"}
 * {: id="20210221131637-9xmclwp"}`id`：Use this variable to insert the current document id
   {: id="20210221131637-hnlhxny" updated="20210428223500"}
-* {: id="20210121193829-wfzsf6m"}`sql`: Use this function to query the database, and the parameter is a SQL statement: `.action{sql "SELECT * FROM blocks LIMIT 7"}`
-  {: id="20210131162138-7ufhbho" updated="20210502205137"}
+* {: id="20210121193829-wfzsf6m"}`queryBlocks`: Use this function to query the blocks table, and the parameter is a SQL statement: `.action{sql "SELECT * FROM blocks LIMIT 7"}`
+  {: id="20210131162138-7ufhbho" updated="20210504092810"}
 {: id="20210104091444-mwbvc9m"}
 
 ## Invoke template
