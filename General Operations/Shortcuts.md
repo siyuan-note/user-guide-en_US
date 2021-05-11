@@ -6,7 +6,7 @@
 | New doc                    | <kbd>Ctrl+N</kbd> / <kbd>⌘N</kbd> |                                                          |
 | Search                     | <kbd>Ctrl+P</kbd> / <kbd>⌘P</kbd> |                                                          |
 | Close tab                  | <kbd>Ctrl+W</kbd> / <kbd>⌘W</kbd> |                                                          |
-| File tree tab              | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>  |                                                          |
+| Doc tree tab              | <kbd>Alt+1</kbd> / <kbd>⌥1</kbd>  |                                                          |
 | Linkage outline tab        | <kbd>Alt+2</kbd> / <kbd>⌥2</kbd>  |                                                          |
 | Bookmark tab               | <kbd>Alt+3</kbd> / <kbd>⌥3</kbd>  |                                                          |
 | Tag tab                    | <kbd>Alt+4</kbd> / <kbd>⌥4</kbd>  |                                                          |

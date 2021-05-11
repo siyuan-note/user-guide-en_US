@@ -22,7 +22,7 @@ The data synchronization function is the [Advanced Features](https://b3log.org/s
 ## Synchronous use process
 {: id="20210327182207-qyok4z8"}
 
-You need to select the notebook to be synchronized in the file tree, select settings in the right-click drop-down menu, and turn on the synchronization option in the settings interface, so that the notebook will be included in the synchronization.
+You need to select the notebook to be synchronized in the doc tree, select settings in the right-click drop-down menu, and turn on the synchronization option in the settings interface, so that the notebook will be included in the synchronization.
 {: id="20210327182207-rtv8tca"}
 
 Synchronization is divided into two modes, manual synchronization mode (default) and automatic synchronization mode.

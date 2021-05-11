@@ -49,7 +49,7 @@ The shared publishing space can be accessed without logging in. Visitors browse 
 Open it in the editor tab by visiting `/blocks/{id}`, the URL can be provided to other software for content block positioning, or used for local area network sharing.
 {: id="20210104091447-v4t5zrz"}
 
-Right-click the document in the file tree and then select "Copy URL" to get the URL of the document, which can be opened on the browser. For other types of content block ids, you can see "Copy URL" after clicking the content block identifier in the editor.
+Right-click the document in the doc tree and then select "Copy URL" to get the URL of the document, which can be opened on the browser. For other types of content block ids, you can see "Copy URL" after clicking the content block identifier in the editor.
 {: id="20210104091447-6r4xriu"}
 
 {: id="20210117211053-tq2km4f"}

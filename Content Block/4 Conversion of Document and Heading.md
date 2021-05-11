@@ -16,7 +16,7 @@ So we can convert between the document block and the heading block. In addition,
 ## Convert Document block to Heading block
 {: id="20210104091550-5sh49go"}
 
-In the file tree, select the document that needs to be converted into a heading block, and then drag it to the position to be inserted in the editor tab. There are two situations here:
+In the doc tree, select the document that needs to be converted into a heading block, and then drag it to the position to be inserted in the editor tab. There are two situations here:
 {: id="20210104091550-rbetlgr"}
 
 1. {: id="20210104091550-12grx1a"}Place the document block on the existing heading block, and the document block will be inserted below as the level node of the heading block
@@ -45,7 +45,7 @@ After the document block is converted to a heading block:
 ## Convert Heading block to Document block
 {: id="20210104091550-fualfrs"}
 
-In the editor tab, select the heading block to be converted, press and hold the heading block icon, and then drag it to the folder to be placed in the file tree. If you need to place it on the notebook root folder, drag the heading block icon to the top notebook icon row.
+In the editor tab, select the heading block to be converted, press and hold the heading block icon, and then drag it to the folder to be placed in the doc tree. If you need to place it on the notebook root folder, drag the heading block icon to the top notebook icon row.
 {: id="20210104091550-1pe70bg"}
 
 After the heading block is converted to a document block:

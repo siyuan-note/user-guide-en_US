@@ -18,7 +18,7 @@ The data is saved in the workspace folder (the default is in the user's home dir
   {: id="20210428222603-wntbxgj"}
 {: id="20210428222603-moih9fe"}
 
-## Why is it not displayed on the file tree after I put the Markdown file in the notebook folder?
+## Why is it not displayed on the doc tree after I put the Markdown file in the notebook folder?
 {: id="20210120161137-0ggx9sa"}
 
 Please use the ((20201229152405-ivntzua "Import")) function.

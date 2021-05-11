@@ -1,7 +1,7 @@
 ## Import
 {: id="20201229152405-ivntzua"}
 
-Right-click and select "Import" after selecting a folder on the file tree, and you can choose to import a folder or a single file in the secondary menu.
+Right-click and select "Import" after selecting a folder on the doc tree, and you can choose to import a folder or a single file in the secondary menu.
 {: id="20210120161035-zxkyg0w" updated="20210302223730"}
 
 The import process mainly completes the following conversion processing:
@@ -36,7 +36,7 @@ After selecting the content in the editor, you can see the copy option in the ri
 ### Full text export
 {: id="20210120155909-lx3y6by"}
 
-Right-click and select "Export" after selecting the document in the file tree:
+Right-click and select "Export" after selecting the document in the doc tree:
 {: id="20210120155909-08i894p"}
 
 * {: id="20210120155909-48jy3x5"}Markdown: Markdown files complying with GFM/CommonMark standards
@@ -52,7 +52,7 @@ Right-click and select "Export" after selecting the document in the file tree:
 If you need to export more formats, please complete via [Pandoc](https://pandoc.org).
 {: id="20210120155909-pc5gzx7"}
 
-Select a folder on the file tree and right-click and select "Export" to export in batches. The export is a standard Markdown file compression package.
+Select a folder on the doc tree and right-click and select "Export" to export in batches. The export is a standard Markdown file compression package.
 {: id="20210120155909-5d1u5zc"}
 
 
