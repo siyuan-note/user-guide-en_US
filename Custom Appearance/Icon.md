@@ -3,11 +3,11 @@
 
 1. {: id="20210104091404-9xegv8y"}Get the icon and unzip
    {: id="20210302223515-79ps3is"}
-2. {: id="20210104091404-8gdxzud"}Click Settings - Appearance - Icon - Open Icon Folder in SiYuan
+2. {: id="20210104091404-8gdxzud"}<kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Icon</kbd> - <kbd>Open Icon Folder</kbd>
    {: id="20210302223515-wu4teq3"}
 3. {: id="20210104091404-90wpjja"}Copy the icon to this directory
    {: id="20210302223515-kkr2m9t"}
-4. {: id="20210104091404-gcbhyp5"}After restarting SiYuan, select the installed icon in Settings - Appearance - Icon
+4. {: id="20210104091404-gcbhyp5"}Restart, select the installed icon in <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Icon</kbd>
    {: id="20210302223515-lg2ramr"}
 {: id="20210104091404-5mpe4db"}
 
@@ -19,7 +19,7 @@
 
 1. {: id="20210104091404-qgd4dqd"}Give your icon a nice name, such as `alice`
    {: id="20210104091404-gb7rp9u"}
-2. {: id="20210104091404-d8cdoqz"}Click Settings - Appearance - Icon - Open Icon Folder in SiYuan
+2. {: id="20210104091404-d8cdoqz"}<kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Icon</kbd> - <kbd>Open Icon Folder</kbd>
    {: id="20210104091404-coh56bo"}
 3. {: id="20210104091404-wdwknqi"}Create a new folder `alice` in the opened folder, and create new `icon.js` and `icon.json` files in `alice` The `icon.json` file is as follows:
    {: id="20210104091404-0errb7b"}
@@ -27,14 +27,14 @@
    ```json
    {
      "author": "Vanessa",
-     "url": "https://github.com/Vanessa219"
+     "url": "https://github.com/Vanessa219",
      "version": "1.0.0"
    }
    ```
    {: id="20210104091404-olba0a3"}
 4. {: id="20210104091404-swh87z4"}Open the `icon.js` file and paste the completed icon
    {: id="20210104091404-affafn6"}
-5. {: id="20210104091404-ivd5l04"}After restarting SiYuan, select the installed icon in Settings - Appearance - Icon
+5. {: id="20210104091404-ivd5l04"}Restart, select the installed icon in <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Icon</kbd>
    {: id="20210104091404-9c6o5ow"}
 {: id="20210104091404-07yula4"}
 
@@ -81,7 +81,7 @@
     {: id="20210104091404-ysvipkm"}
   * {: id="20210104091404-jx50ge9"}Refresh `index.html` to see the final result
     {: id="20210104091404-shk25pp"}
-  * {: id="20210104091404-hgd591a"}Open SiYuan and select the developed icon in Settings - Appearance - Icon to view
+  * {: id="20210104091404-hgd591a"}Open SiYuan and select the developed icon in <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Icon</kbd> to view
     {: id="20210104091404-8v71h8q"}
   {: id="20210104091404-pvo2ori"}
 * {: id="20210104091404-9ju8k2d"}Released on the shelf (contact QQ: 84588990)
