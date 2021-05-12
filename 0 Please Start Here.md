@@ -1,8 +1,8 @@
 ## 🧱 Content block
 {: id="20210428222013-0afj8vn" updated="20210428222155"}
 
-In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content block")). The content block can be formed through the typesetting format, and the thoughts and knowledge can be organized in the granularity of the content block, and it can also facilitate the output of long texts.
-{: id="20210428222033-bhbz6yg" updated="20210428222205"}
+In SiYuan, the only important core concept is ((20200924101106-19z4kaa "Content block")). The content block can be formed through the formatting format, so that we can organize our thoughts and knowledge at the block-level granularity, and it is also convenient for reading and outputting long content.
+{: id="20210428222033-bhbz6yg" updated="20210512150301"}
 
 ## 🔮 Quick start
 {: id="20201225220954-keui8uy"}
