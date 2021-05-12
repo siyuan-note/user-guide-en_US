@@ -59,11 +59,11 @@
   * {: id="20210104091404-08zo0iy"}Click on `Import Icons` in the upper right corner to import the pictures made in the previous step
     {: id="20210302223515-3y0helv"}
   * {: id="20210104091404-qvg4wjs"}Select the icon and generate SVG
-    ![image.png](assets/image.png)
-    {: id="20210302223515-mcj3t59"}
+    ![custom-icon1.png](assets/custom-icon1-20210512172156-jaoyrnz.png)
+    {: id="20210302223515-mcj3t59" updated="20210512172156"}
   * {: id="20210104091404-eds5a8k"}Modify the size and download
-    ![image.png](assets/image-krr52x1.png)
-    {: id="20210302223515-gaemr53"}
+    ![custom-icon2.png](assets/custom-icon2-20210512172204-dphc486.png)
+    {: id="20210302223515-gaemr53" updated="20210512172204"}
   * {: id="20210104091404-emihiqw"}Modify the `id` in `<symbol id="icon-markdown" viewBox="0 0 32 32">` to the icon name corresponding to `index.html`
     {: id="20210302223515-o22v67z"}
   * {: id="20210104091404-m0zpn8g"}Replace the content in `<defs>...</defs>` to the corresponding position in `icon.js`
