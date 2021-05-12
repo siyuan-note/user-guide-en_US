@@ -28,8 +28,8 @@ Before embarking on these two solutions, please start with understanding [SiYuan
 ### Access authentication
 {: id="20210104091447-dluat0m"}
 
-In Settings - About, you can configure the browser access authentication password. Leaving it blank means that authentication is not enabled. This is more useful in open networks (such as office spaces and public networks), and only after authentication can you enter the work space.
-{: id="20210104091447-3vmymbk"}
+In <kbd>Settings</kbd> - <kbd>About</kbd>, you can configure the browser access authentication password. Leaving it blank means that authentication is not enabled. This is more useful in open networks (such as office spaces and public networks), and only after authentication can you enter the work space.
+{: id="20210104091447-3vmymbk" updated="20210512160634"}
 
 ## Publishing
 {: id="20210104091447-ugmoq2p" updated="20210327181713"}

@@ -13,8 +13,8 @@ In the editor, you can directly paste the copied picture from the system clipboa
 If you specify a title for a picture, then the title will be rendered below the image as a legend, and the title part of the text supports span-level typesetting, such as bold, Italics, formulas, etc.
 {: id="20210104091430-tj5w1co" updated="20210417113148"}
 
-![SiYuan.png](assets/SiYuan.png "*When one drinks water, one must not forget where it comes from*"){: parent-style="display: block; text-align: center;"}
-{: id="20210104091430-yd3zyeu"}
+![SiYuan.png](assets/SiYuan.png "When one drinks water, one must not forget where it comes from"){: parent-style="display: block; text-align: center; white-space: initial;"}
+{: id="20210104091430-yd3zyeu" updated="20210512160800"}
 
 ## Cleanup unreferenced assets
 {: id="20210115224203-q8bj2gd"}
@@ -31,8 +31,8 @@ If you specify a title for a picture, then the title will be rendered below the 
 The second case is special: if a asset folder is referenced, all the following asset files will be counted as already referenced regardless of whether they are individually referenced.
 {: id="20210115224203-hb1ykk2"}
 
-In Settings - Assets, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "Rollback")).
-{: id="20210115224203-e03wglt" updated="20210503095937"}
+In <kbd>Settings</kbd> - <kbd>Assets</kbd>, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "Rollback")).
+{: id="20210115224203-e03wglt" updated="20210512160530"}
 
 #Note#: Using absolute paths (local or network paths) will not be included Clean up calculations.
 {: id="20210130103832-93r5ddp"}
