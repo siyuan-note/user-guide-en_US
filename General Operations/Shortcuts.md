@@ -15,7 +15,6 @@
 | Linkage graph tab          | <kbd>Alt+8</kbd> / <kbd>⌥8</kbd>  |                                                          |
 | Global graph tab           | <kbd>Alt+9</kbd> / <kbd>⌥9</kbd>  |                                                          |
 | Settings                   | <kbd>Alt+P</kbd> / <kbd>⌥P</kbd>  |                                                          |
-| Cloud data synchronization | <kbd>Alt+S</kbd> / <kbd>⌥S</kbd>  |                                                          |
 | Page reset                 | <kbd>Ctrl+0</kbd> / <kbd>⌘0</kbd> |                                                          |
 | Page zoom in               | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd> |                                                          |
 | Page zoom out              | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd> |                                                          |
@@ -32,9 +31,8 @@
 
 | Name                                                       | Shortcuts                                                         | Memo                                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Search within documents                                    | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                |                                                                           |
-| Replace within documents                                   | <kbd>Ctrl+R</kbd> / <kbd>⌘R</kbd>                                |                                                                           |
-| Global search                                              | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                 |                                                                           |
+| Select All   | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> | In the code block, only select the content of the code block |
+| Global search                                              | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                 |                                                                           |
 | New global search                                          | <kbd>Ctrl+Shift+F</kbd> / <kbd>⇧⌘F</kbd>                        |                                                                           |
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                             |
 | Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove ref content block /embed content block/link/picture/block |
