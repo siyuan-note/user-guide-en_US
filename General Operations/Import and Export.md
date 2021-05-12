@@ -29,8 +29,6 @@ Right-click and select "Export" after selecting the document in the doc tree:
 
 * {: id="20210120155909-48jy3x5"}Markdown: Markdown files complying with GFM/CommonMark standards
   {: id="20210302223727-xscow91"}
-* {: id="20210120155909-27u47et"}[TextBundle](http://textbundle.org): Package Markdown and its associated asset files to provide better Markdown migration
-  {: id="20210302223727-g2hc973" updated="20210503100034"}
 * {: id="20210120155909-f9oo9lr"}PDF
   {: id="20210302223727-wscm47q"}
 * {: id="20210120155909-bglztv7"}HTML
