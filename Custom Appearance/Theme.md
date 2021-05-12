@@ -6,19 +6,19 @@
 
 1. {: id="20201225221416-n3vvygb"}Get the theme from somewhere and unzip it
    {: id="20210131162108-02326cx"}
-2. {: id="20201225221416-o84sp4q"}In Settings - Appearance - Theme - Open the theme folder
-   {: id="20210131162108-k4h81si"}
+2. {: id="20201225221416-o84sp4q"}<kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Theme</kbd> - <kbd>Open the theme folder</kbd>
+   {: id="20210131162108-k4h81si" updated="20210512161438"}
 3. {: id="20201225221416-oefusle"}Copy the theme to this folder
    {: id="20210131162108-v756fef"}
-4. {: id="20201225221416-i8ic233"}Restart, select the desired theme in Settings - Appearance - Theme
-   {: id="20210131162108-133g70d"}
+4. {: id="20201225221416-i8ic233"}Restart, select the desired theme in <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Theme</kbd>
+   {: id="20210131162108-133g70d" updated="20210512161506"}
 {: id="20201225221416-5jel77s"}
 
 ### Community Bazaar
 {: id="20201225221416-enetgqg"}
 
-* {: id="20201225221416-fwq6l32"}In Settings - Appearance - Theme - Bazaar, browse online themes contributed by community developers
-  {: id="20210131162108-dtskbvb"}
+* {: id="20201225221416-fwq6l32"}In <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Theme</kbd> - <kbd>Bazaar</kbd>, browse online themes contributed by community developers
+  {: id="20210131162108-dtskbvb" updated="20210512161531"}
 * {: id="20201225221416-6qqqwni"}Choose the required theme to install or update online
   {: id="20210131162108-2wwmc9r"}
 {: id="20201225221416-chyd31p"}
@@ -31,8 +31,8 @@
 
 1. {: id="20201225174048-axf0aph"}Give your subject a nice name, such as `alice`
    {: id="20201225174048-dw4dke4"}
-2. {: id="20201225174048-zfkshfl"}In SiYuan, click Settings - Appearance - Theme - Open theme folder
-   {: id="20201225174048-1dt9umq"}
+2. {: id="20201225174048-zfkshfl"}<kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Theme</kbd> - <kbd>Open theme folder</kbd>
+   {: id="20201225174048-1dt9umq" updated="20210512161558"}
 3. {: id="20201225174048-92haint"}Create a new folder `alice` in the opened folder, and create new `theme.css` and `theme.json` files in `alice`
    The `theme.json` file is as follows:
    {: id="20201225174048-fh16r64"}
@@ -51,8 +51,8 @@
    {: id="20201225174048-crkpdob"}
 4. {: id="20201225174048-e4e9234"}Open the `theme.css` file to start your coding journey
    {: id="20201225174048-2937fh2"}
-5. {: id="20201225174048-sw6gvxg"}After restarting SiYuan, select the installed theme in Settings - Appearance - Theme
-   {: id="20201225174048-xii3128"}
+5. {: id="20201225174048-sw6gvxg"}Restart, select the installed theme in <kbd>Settings</kbd> - <kbd>Appearance</kbd> - <kbd>Theme</kbd>
+   {: id="20201225174048-xii3128" updated="20210512161645"}
 {: id="20201225174048-zqtzaox"}
 
 ### Encoding
