@@ -63,13 +63,13 @@
 * {: id="20201225174048-1ocyqbk"}Modify the color scheme in `:root{...}`. ⚠️ The variable items inherent in the official cannot be deleted
   {: id="20210131162108-nh3eyq7" updated="20210318104316"}
 * {: id="20201225174048-c3hch71"}Continue to modify according to steps 1-4 in the figure
-  ![image.png](assets/image-bozvb00.png)
-  {: id="20210131162108-0cl55js"}
+  ![custom-theme1.png](assets/custom-theme1-20210512172253-eqdgnkd.png)
+  {: id="20210131162108-0cl55js" updated="20210512172253"}
 * {: id="20201225174048-9mhz3ye"}Copy and paste the modified content into `theme.css` and save
   {: id="20210131162108-pz4fy37"}
 * {: id="20201225174048-k5l65hd"}Check the `Disable cache` in `Network` and run `window.location.reload()` to see the final result
-  ![image.png](assets/image-9b9y2ky.png)
-  {: id="20210131162108-ibds25b"}
+  ![custom-theme2.png](assets/custom-theme2-20210512172321-1qkspzd.png)
+  {: id="20210131162108-ibds25b" updated="20210512172321"}
 {: id="20201225174048-g8oxi84" updated="20210318104313"}
 
 ### Push to theme bazaar
