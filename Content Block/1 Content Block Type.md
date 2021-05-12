@@ -47,9 +47,6 @@ Press Enter directly after a paragraph to form a new paragraph.
 The above is the heading block, which supports level one to six.
 {: id="20210104091538-o0ti5xd"}
 
-When using ((20200924101312-jj4e0v3 "Content block reference")), related content blocks under the heading block will be automatically aggregated according to the heading level.
-{: id="20210104091538-7qvmp8d" updated="20210512153836"}
-
 ### Mathematical formula block
 {: id="20210104091538-u3ku9wo"}
 

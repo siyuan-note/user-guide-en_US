@@ -1,8 +1,8 @@
 ## Syntax
 {: id="20201224120448-6jnrawi"}
 
-The content block embed is mainly used to summarize the required content blocks, use `{{` and `}}` to wrap SQL scripts on a single line: `{{ SELECT * FROM blocks WHERE content LIKE'%Keyword%' }}`, database table please refer to ((20201117103851-gx21lz6 "here")).
-{: id="20210111230452-5lclhuo" updated="20210503151940"}
+The content block embed is mainly used to summarize the required content blocks, use `{{` and `}}` to wrap SQL scripts on a single line: `{{ SELECT * FROM blocks WHERE content LIKE'%Keyword%' }}`, database table please refer to ((20201117103851-gx21lz6 "here")). #Content block/Embed#
+{: id="20210111230452-5lclhuo" updated="20210512154531"}
 
 ## Example
 {: id="20201224120448-8ew9ane"}
