@@ -1,8 +1,8 @@
 ## How does SiYuan store data?
 {: id="20210428222532-nfvnq4d" updated="20210428222834"}
 
-The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in `Settings - About`), in the workspace data folder:
-{: id="20210428222603-g1752n7" updated="20210428222615"}
+The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in <kbd>Settings</kbd> - <kbd>About</kbd>), in the workspace data folder:
+{: id="20210428222603-g1752n7" updated="20210512152404"}
 
 * {: id="20210428222603-gxgx3vi"}`assets` are used to save all inserted asset files
   {: id="20210428222603-0goch51" updated="20210503100004"}
@@ -10,25 +10,15 @@ The data is saved in the workspace folder (the default is in the user's home dir
   {: id="20210428222603-criebuv" updated="20210428222658"}
 * {: id="20210428222603-456vgdh"}`widgets` are used to save widgets #TODO#
   {: id="20210428222603-m3djncm" updated="20210428222701"}
-* {: id="20210428222603-27so3jy"}The rest of the folders are the notebook folders created by the user
-  {: id="20210428222603-pwyr56t"}
-
-  * {: id="20210428222603-zjesktk"}Files with the suffix of `.sy` in the notebook folder are used to save the document data, and the data format is JSON
-    {: id="20210428222603-9gah47n"}
-  {: id="20210428222603-wntbxgj"}
+* {: id="20210428222603-27so3jy"}The rest of the folders are the notebook folders created by the user, files with the suffix of `.sy` in the notebook folder are used to save the document data, and the data format is JSON
+  {: id="20210428222603-pwyr56t" updated="20210512152423"}
 {: id="20210428222603-moih9fe"}
-
-## Why is it not displayed on the doc tree after I put the Markdown file in the notebook folder?
-{: id="20210120161137-0ggx9sa"}
-
-Please use the ((20201229152405-ivntzua "Import")) function.
-{: id="20210120161137-aqdjef7"}
 
 ## Is there any #Note# for deleting files/folders?
 {: id="20201224120448-ygu8bzx"}
 
-For local notebooks, all operations will be managed through ((20201002092058-85k2cws "Auto Backup")), support ((20210104091559-kgrtuyh "rollback")).
-{: id="20210323173132-ob0oz44" updated="20210403163024"}
+After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly, SiYuan will perform the deletion ((20201002092058-85k2cws "Auto Backup")).
+{: id="20210512152557-nbglxya" updated="20210512152731"}
 
 ## How can I just wrap and not start a new paragraph?
 {: id="20210106192438-on2fb5k"}
@@ -39,7 +29,7 @@ Please use <kbd>Shift+Enter</kbd>.
 ## How to adjust table rows and columns?
 {: id="20201224120448-eoju3re"}
 
-First position the cursor on the cell that needs to be adjusted, and then right-click to see the table adjustment menu.
+The <kbd>...</kbd> menu at the upper right corner of the table block has operation entries.
 {: id="20201224120448-yti3dvr"}
 
 ## How to turn pages in a slide show?

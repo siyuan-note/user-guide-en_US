@@ -9,10 +9,8 @@ WYSIWYG is the default editing mode, the main features are as follows:
   {: id="20210419175558-7s6a7wb"}
 * {: id="20210419175558-zqid77i"}Dynamic loading, solving large document jams
   {: id="20210419175558-b3vziix"}
-* {: id="20210419175558-i95hwiv"}Horizontal layout of content blocks
-  {: id="20210419175558-ocap7p2"}
-* {: id="20210419175558-2mlqa16"}Content block drag and drop
-  {: id="20210419175558-m0h74n1" updated="20210419175705"}
+* {: id="20210419175558-i95hwiv"}Horizontal layout by dragging block icon
+  {: id="20210419175558-ocap7p2" updated="20210512153240"}
 {: id="20210419175558-p7doxbn"}
 
 
