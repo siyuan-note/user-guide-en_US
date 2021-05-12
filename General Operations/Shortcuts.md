@@ -32,15 +32,15 @@
 | Name                                                       | Shortcuts                                                         | Memo                                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Select All   | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> | In the code block, only select the content of the code block |
-| Global search                                              | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>                                 |                                                                           |
+| Global search                                              | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>  / <kbd>Click+Tag</kbd>                              |                                                                           |
 | New global search                                          | <kbd>Ctrl+Shift+F</kbd> / <kbd>⇧⌘F</kbd>                        |                                                                           |
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                             |
-| Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove ref content block /embed content block/link/picture/block |
+| Cancel block ref or link                     | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | |
+| Copy                           | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                |       Copy block content when no content is selected                                                                         |
 | Copy block hyperlink                                       | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                        |                                                                           |
-| Copy as standard Markdown                                  | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                |                                                                           |
 | Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                        |                                                                           |
-| Paste/paste block reference                                | <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd>                                | When the clipboard contains a block ID, it is a pasted block reference    |
-| Paste as plain text / paste block embed                    | <kbd>Ctrl+Shift+V</kbd> / <kbd>⇧⌘V</kbd>                        | When the clipboard contains a block ID, it is a paste block embed         |
+| Paste                              | <kbd>Ctrl+V</kbd> / <kbd>⌘V</kbd>                                | The selected content can be used as link text or block ref anchor  |
+| Paste as plain text                    | <kbd>Ctrl+Shift+V</kbd> / <kbd>⇧⌘V</kbd>                        | Available on desktop only       |
 | Block name                                                 | <kbd>Ctrl+Alt+A</kbd> / <kbd>⌥⌘A</kbd>                          |                                                                           |
 | Block alias                                                | <kbd>Ctrl+Alt+B</kbd> / <kbd>⌥⌘B</kbd>                          |                                                                           |
 | Block memo                                                 | <kbd>Ctrl+Alt+E</kbd> / <kbd>⌥⌘E</kbd>                          |                                                                           |
