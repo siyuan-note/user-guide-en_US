@@ -18,7 +18,19 @@ The data is saved in the workspace folder (the default is in the user's home dir
 {: id="20201224120448-ygu8bzx"}
 
 After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly, SiYuan will perform the deletion ((20201002092058-85k2cws "Auto Backup")).
-{: id="20210512152557-nbglxya" updated="20210512152731"}
+{: id="20210512152557-nbglxya" updated="20210513000357"}
+
+## Is there any #Note# for moving or deleting files directly on the file system?
+{: id="20210513000342-nqy87pn" updated="20210513000400"}
+
+Doing so may cause abnormal functions and data. If you must move or delete a file on the file system, please delete it after the operation:
+{: id="20210513000342-nmvnmzr" updated="20210513000432"}
+
+* {: id="20210513000342-3ys73q8"}siyuan.database (can be found in the log file, search for `database` to find the file path). Deleting the file has no side effects, and SiYuan will rebuild it at startup
+  {: id="20210513000342-bsgcus7" updated="20210513000505"}
+* {: id="20210513000342-sucsg31"}`.siyuan/filetree.json` under the notebook. Deleting the file will delete the existing document tree custom sorting
+  {: id="20210513000342-dzacd1n" updated="20210513000509"}
+{: id="20210513000342-27g6qpt"}
 
 ## How can I just wrap and not start a new paragraph?
 {: id="20210106192438-on2fb5k"}
