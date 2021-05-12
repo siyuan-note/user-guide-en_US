@@ -35,7 +35,6 @@
 | Global search                                              | <kbd>Ctrl+F</kbd> / <kbd>⌘F</kbd>  / <kbd>Click+Tag</kbd>                              |                                                                           |
 | New global search                                          | <kbd>Ctrl+Shift+F</kbd> / <kbd>⇧⌘F</kbd>                        |                                                                           |
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                             |
-| Cancel block ref or link                     | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | |
 | Copy                           | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                |       Copy block content when no content is selected                                                                         |
 | Copy block hyperlink                                       | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                        |                                                                           |
 | Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                        |                                                                           |
