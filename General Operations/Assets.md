@@ -31,8 +31,8 @@ If you specify a title for a picture, then the title will be rendered below the 
 The second case is special: if a asset folder is referenced, all the following asset files will be counted as already referenced regardless of whether they are individually referenced.
 {: id="20210115224203-hb1ykk2"}
 
-In Settings - Assets, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "Rollback")).
-{: id="20210115224203-e03wglt" updated="20210503095937"}
+In <kbd>Settings</kbd> - <kbd>Assets</kbd>, you can clean up unreferenced assets by one-click. If you need to retrieve files that have been deleted by mistake, please via ((20210104091559-kgrtuyh "Rollback")).
+{: id="20210115224203-e03wglt" updated="20210512160530"}
 
 #Note#: Using absolute paths (local or network paths) will not be included Clean up calculations.
 {: id="20210130103832-93r5ddp"}
