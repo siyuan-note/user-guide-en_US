@@ -49,8 +49,6 @@
 | Use the selection as the name of the new document          | <kbd>F3</kbd>                                       |                                                                           |
 | Use the selection as the content of the new document          | <kbd>F4</kbd>                                       |                                                                           |
 | Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                 |                                                                           |
-| Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                 | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> Block or Icon                   |
-| Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                 |                                                                           |
 | Outline                                                    | <kbd>Alt+O</kbd> / <kbd>⌥O</kbd>                                 |                                                                           |
 | Backlink                                                   | <kbd>Alt+B</kbd> / <kbd>⌥B</kbd>                                 |                                                                           |
 | Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                 |                                                                           |
@@ -73,7 +71,18 @@
 | Embed content block                                        | <kbd>{{</kbd>                                                     |                                                                           |
 {: id="20210106154319-yozlufs"}
 
-### Mind Map
+
+### Block icon
+
+| Name | Operation |
+| -------------- | ---------------------------------- ---------- |
+| Move | Drag and drop |
+| Open the menu | Right click |
+| Zoom In | <kbd>Ctrl+Click</kbd> / <kbd>⌘Click</kbd> |
+| Collapse/Expand | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> |
+| Naming | <kbd>Double-Click</kbd> |
+
+### Mind Map(TODO)
 {: id="20210111221214-v2ie4le"}
 
 | Name               | Shortcuts                                  | Memo                                          |
