@@ -15,25 +15,13 @@ The import process mainly completes the following conversion processing:
   {: id="20210302223727-jt3b8sz" updated="20210417113309"}
 {: id="20210120155800-i46fkz7"}
 
-#Note#: Copying standard Markdown files directly to the notebook folder on the system will not be automatically converted, and the import function must be used.
-{: id="20210127230807-5medqfv"}
-
 ## Export
 {: id="20201229152405-vlhitro"}
 
 ### Edit content copy
-{: id="20210120155909-y3e52s3"}
+{: id="20210120155909-y3e52s3" updated="20210512160003"}
 
-After selecting the content in the editor, you can see the copy option in the right-click menu:
-{: id="20210120155909-ct288u8"}
-
-* {: id="20210120155909-nn8tpwk"}Copy: mainly used inside SiYuan (kramdown)
-  {: id="20210302223727-ty6z9qp"}
-* {: id="20210120155909-zj9dg0j"}Copy as standard Markdown: copy to a place other than SiYuan
-  {: id="20210302223727-knjree5"}
-{: id="20210120155909-ouc1le7"}
-
-### Full text export
+After selecting the content, use the copy shortcut key <kbd>Ctrl+C</kbd>.### Full text export
 {: id="20210120155909-lx3y6by"}
 
 Right-click and select "Export" after selecting the document in the doc tree:
@@ -52,8 +40,8 @@ Right-click and select "Export" after selecting the document in the doc tree:
 If you need to export more formats, please complete via [Pandoc](https://pandoc.org).
 {: id="20210120155909-pc5gzx7"}
 
-Select a folder on the doc tree and right-click and select "Export" to export in batches. The export is a standard Markdown file compression package.
-{: id="20210120155909-5d1u5zc"}
+Select a folder on the doc tree and right-click and select "Export" to export in batches. The export is a standard Markdown file compression package with asset files.
+{: id="20210120155909-5d1u5zc" updated="20210512160100"}
 
 
 {: id="20200924100808-j9sddk9" type="doc"}
