@@ -37,7 +37,7 @@
 | Global search                                              | <kbd>Alt+F</kbd> / <kbd>⌥F</kbd>                                 |                                                                           |
 | New global search                                          | <kbd>Ctrl+Shift+F</kbd> / <kbd>⇧⌘F</kbd>                        |                                                                           |
 | Cut/cut block content                                      | <kbd>Ctrl+X</kbd> / <kbd>⌘X</kbd>                                | Cut block content when no content is selected                             |
-| Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove content block reference/content block embedding/link/picture/block |
+| Remove the element under the cursor                        | <kbd>Ctrl+Shift+X</kbd> / <kbd>⇧⌘X</kbd>                        | Remove ref content block /embed content block/link/picture/block |
 | Copy block hyperlink                                       | <kbd>Ctrl+Shift+H</kbd> / <kbd>⇧⌘H</kbd>                        |                                                                           |
 | Copy as standard Markdown                                  | <kbd>Ctrl+C</kbd> / <kbd>⌘C</kbd>                                |                                                                           |
 | Copy block reference                                       | <kbd>Ctrl+Shift+C</kbd> / <kbd>⇧⌘C</kbd>                        |                                                                           |
@@ -74,8 +74,8 @@
 | Move down the block where the cursor is                    | <kbd>Ctrl+Shift+↓</kbd> / <kbd>⇧⌘↓</kbd>                      |                                                                           |
 | Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                   | The cursor moves out of the anchor text, see below for more               |
 | Wrong input                                                | <kbd>Backspace</kbd>                                              |                                                                           |
-| Content block reference                                    | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>（（</kbd> / <kbd>【【</kbd> |                                                                           |
-| Content block embed                                        | <kbd>{{</kbd>                                                     |                                                                           |
+| Ref content block                                    | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>（（</kbd> / <kbd>【【</kbd> |                                                                           |
+| Embed content block                                        | <kbd>{{</kbd>                                                     |                                                                           |
 {: id="20210106154319-yozlufs"}
 
 ### Mind Map

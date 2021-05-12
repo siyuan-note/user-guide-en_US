@@ -1,8 +1,8 @@
-## Syntax
-{: id="20201224120448-6jnrawi"}
+## Overview
+{: id="20201224120448-6jnrawi" updated="20210512154707"}
 
-The content block embed is mainly used to summarize the required content blocks, use `{{` and `}}` to wrap SQL scripts on a single line: `{{ SELECT * FROM blocks WHERE content LIKE'%Keyword%' }}`, database table please refer to ((20201117103851-gx21lz6 "here")). #Content block/Embed#
-{: id="20210111230452-5lclhuo" updated="20210512154531"}
+The embed content block is mainly used to summarize the required content blocks, use `{{` and `}}` to wrap SQL scripts on a single line: `{{ SELECT * FROM blocks WHERE content LIKE'%Keyword%' }}`, database table please refer to ((20201117103851-gx21lz6 "here")). #Content block/Embed#
+{: id="20210111230452-5lclhuo" updated="20210512154710"}
 
 ## Example
 {: id="20201224120448-8ew9ane"}
@@ -36,7 +36,7 @@ The content block embed is mainly used to summarize the required content blocks,
 The query contains paragraph blocks of both `In SiYuan` and `core concept` text, and excludes the current document (otherwise the paragraph block will also be included in the result set, because the current paragraph also contains these two texts. The following case is similar):
 {: id="20201224120448-9gbg6ot"}
 
-!{{SELECT * FROM blocks WHERE content LIKE '%In SiYuan%' AND content LIKE '%core concept%' AND path NOT LIKE '%Content block embed%'}}
+!{{SELECT * FROM blocks WHERE content LIKE '%In SiYuan%' AND content LIKE '%core concept%' AND path NOT LIKE '%Embed Content Block%'}}
 {: id="20210111231445-gwfrxnl"}
 
 ### Case 2
@@ -45,7 +45,7 @@ The query contains paragraph blocks of both `In SiYuan` and `core concept` text,
 Query paragraph blocks that contain both tags `#Content block/Embed#` and `#Content block/Reference#`:
 {: id="20201224120448-e0ohbtq"}
 
-!{{SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Content block embed%'}}
+!{{SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Embed Content Block%'}}
 {: id="20201224120448-ww21jau"}
 
 ### Case 3

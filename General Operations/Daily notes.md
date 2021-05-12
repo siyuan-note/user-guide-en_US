@@ -10,7 +10,7 @@ But before using the daily note, you need to select settings in the right-click 
   {: id="20210302223720-no5b8qx"}
 {: id="20210110181041-24ejxr4"}
 
-Tips: Use in the specified template ((20201117112518-dott91x "Content block embed")) to summarize to-do items or content blocks that need to be viewed daily.
+Tips: Use in the specified template ((20201117112518-dott91x "Embed Content Block")) to summarize to-do items or content blocks that need to be viewed daily.
 {: id="20210110181041-vntbiya" updated="20210501173308"}
 
 
