@@ -45,11 +45,9 @@
 | Block memo                                                 | <kbd>Ctrl+Alt+E</kbd> / <kbd>⌥⌘E</kbd>                          |                                                                           |
 | Revoke                                                     | <kbd>Ctrl+Z</kbd> / <kbd>⌘Z</kbd>                                |                                                                           |
 | Redo                                                       | <kbd>Ctrl+Y</kbd> / <kbd>⌘Y</kbd>                                |                                                                           |
-| Save                                                       | <kbd>Ctrl+S</kbd> / <kbd>⌘S</kbd>                                |                                                                           |
-| Rename                                                     | <kbd>F2</kbd> / <kbd>F2</kbd>                                     |                                                                           |
-| Rename document with selected content                      | <kbd>Alt+D</kbd> / <kbd>⌥D</kbd>                                 |                                                                           |
-| Use the selection as the name of the new document          | <kbd>Alt+Q</kbd> / <kbd>⌥Q</kbd>                                 |                                                                           |
-| Use the selection as the name of the new document          | <kbd>Alt+J</kbd> / <kbd>⌥J</kbd>                                 |                                                                           |
+| Rename                                                     | <kbd>F2</kbd>                                   |                                                                           |
+| Use the selection as the name of the new document          | <kbd>F3</kbd>                                       |                                                                           |
+| Use the selection as the content of the new document          | <kbd>F4</kbd>                                       |                                                                           |
 | Open file location                                         | <kbd>Alt+A</kbd> / <kbd>⌥A</kbd>                                 |                                                                           |
 | Fold/Expand Block                                          | <kbd>Alt+V</kbd> / <kbd>⌥V</kbd>                                 | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> Block or Icon                   |
 | Export                                                     | <kbd>Alt+E</kbd> / <kbd>⌥E</kbd>                                 |                                                                           |
@@ -120,10 +118,10 @@
 | Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
 | Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                |                                 |
 | Font setting   | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                 |                                 |
+| Code block     | <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>        |  |
 | Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
 | Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
 | Task list      | <kbd>Ctrl+Shift+J</kbd> / <kbd>⇧⌘J</kbd>        | See below for related shortcuts |
-| Code block     | <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>        | See below for related shortcuts |
 | Table          | <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>        | See below for related shortcuts |
 {: id="20210106154319-v6ksqnu"}
 
@@ -152,16 +150,6 @@
 | Reverse indent 2              | <kbd>Enter</kbd>                           | Empty list item |
 | Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list       |
 {: id="20210106154319-4oe7doq" updated="20210318121417"}
-
-### Code block <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>
-{: id="20210106154319-3mrrib6"}
-
-| Name                       | Shortcuts                          |
-| ---------------------------- | ------------------------------------ |
-| Language switch to content | <kbd>Enter</kbd> / <kbd>Tab</kbd>  |
-| Hide editing interface     | <kbd>Escape</kbd>                  |
-| Select all codes           | <kbd>Ctrl+A</kbd> / <kbd>⌘A</kbd> |
-{: id="20210106154319-kg91km7"}
 
 ### Table <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>
 {: id="20210106154319-jeh8w1g"}
