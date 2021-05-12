@@ -54,11 +54,7 @@
 | Graph                                                      | <kbd>Alt+G</kbd> / <kbd>⌥G</kbd>                                 |                                                                           |
 | History                                                    | <kbd>Alt+H</kbd> / <kbd>⌥H</kbd>                                 |                                                                           |
 | Full screen                                                | <kbd>Alt+Y</kbd> / <kbd>⌥Y</kbd>                                 |                                                                           |
-| Image/Table Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                           |
-| Image/Table Center                                         | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>                                 |                                                                           |
-| Image/Table Right                                          | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>                                 |                                                                           |
 | Switch to Instant Rendering mode                           | <kbd>Ctrl+Alt+7</kbd> / <kbd>⌥⌘7</kbd>                          |                                                                           |
-| Switch to Mind Map mode                                    | <kbd>Ctrl+Alt+8</kbd> / <kbd>⌥⌘8</kbd>                          |                                                                           |
 | Switch to Preview mode                                     | <kbd>Ctrl+Alt+9</kbd> / <kbd>⌥⌘9</kbd>                          |                                                                           |
 | Switch to Slide mode                                       | <kbd>Ctrl+Alt+0</kbd> / <kbd>⌥⌘0</kbd>                          |                                                                           |
 | Insert an empty block before the block where the cursor is | <kbd>Ctrl+Shift+B</kbd> / <kbd>⇧⌘B</kbd>                        |                                                                           |
@@ -173,6 +169,10 @@
 | Delete column                           | <kbd>Ctrl+Alt+_</kbd> / <kbd>⌥⌘-</kbd>   |
 | Move the cursor to the previous element | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |
 | Move the cursor to the next element     | <kbd>Tab</kbd>                             |
+| Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                           |
+| Center                                         | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>                                 |                                                                           |
+| Right                                          | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>                                 |                                                                           |
+
 {: id="20210106154319-otreidg"}
 
 
