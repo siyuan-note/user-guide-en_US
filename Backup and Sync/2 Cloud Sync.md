@@ -19,19 +19,16 @@ The data synchronization function is the [Advanced Features](https://b3log.org/s
   {: id="20210204192136-4f2lrqu"}
 {: id="20210104091603-x70187x"}
 
-## Synchronous use process
-{: id="20210327182207-qyok4z8"}
-
-You need to select the notebook to be synchronized in the doc tree, select settings in the right-click drop-down menu, and turn on the synchronization option in the settings interface, so that the notebook will be included in the synchronization.
-{: id="20210327182207-rtv8tca"}
+## Usages
+{: id="20210327182207-qyok4z8" updated="20210512114837"}
 
 Synchronization is divided into two modes, manual synchronization mode (default) and automatic synchronization mode.
 {: id="20210327182207-fqlv61e"}
 
 * {: id="20210327182207-i7dq2mt"}Manual synchronization: click the synchronization button, select upload or download
   {: id="20210327182207-o4nywq3"}
-* {: id="20210327182207-i42jwtb"}Auto sync: Turn on the Settings - Sync - Auto sync switch. Automatic synchronization scans every 30 seconds
-  {: id="20210327182207-7yoko57" updated="20210327182340"}
+* {: id="20210327182207-i42jwtb"}Auto sync: Turn on the <kbd>Settings</kbd> - <kbd>Sync</kbd> - <kbd>Auto sync switch</kbd>. Automatic synchronization scans every 30 seconds
+  {: id="20210327182207-7yoko57" updated="20210512114915"}
 
   * {: id="20210327182207-4kgt21u"}If new changes are found in the cloud data, it will be automatically downloaded
     {: id="20210327182207-50dq4tw" updated="20210501163309"}
@@ -43,8 +40,8 @@ Synchronization is divided into two modes, manual synchronization mode (default)
 ### First download on a new device
 {: id="20210327182207-gdtg2a9"}
 
-On the new device, click Settings - Sync - Cloud Notebook - Download from the cloud.
-{: id="20210327182207-teue4qk" updated="20210327182354"}
+On the new device, click <kbd>Settings</kbd> - <kbd>Sync</kbd> - <kbd>Cloud Workspace</kbd> - <kbd>Download</kbd> from the cloud.
+{: id="20210327182207-teue4qk" updated="20210512114957"}
 
 ## Sync #Note# Matters
 {: id="20210327182207-19u1e23" updated="20210331084605"}

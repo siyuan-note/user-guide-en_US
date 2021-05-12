@@ -1,10 +1,10 @@
 ## File backup
 {: id="20210403161405-rwobkn6"}
 
-* {: id="20210403161405-ga24lin"}The files updated in these 10 minutes will be automatically backed up every 10 minutes. The interval time can be adjusted through `Settings - Editor - Automatic Backup Interval`
-  {: id="20210403161405-smgi238" updated="20210403161422"}
-* {: id="20210403161405-jfwtda6"}The delete operation is backed up instantly, and the deleted file will be backed up every time it is deleted. This function can be turned on or off through `Settings - Doc Tree - Backup when deleting files`
-  {: id="20210403161405-4nq1ty0" updated="20210403161433"}
+* {: id="20210403161405-ga24lin"}The files updated in these 10 minutes will be automatically backed up every 10 minutes. The interval time can be adjusted through <kbd>Settings</kbd> - <kbd>Editor</kbd> - <kbd>Automatic Backup Interval</kbd>
+  {: id="20210403161405-smgi238" updated="20210512114713"}
+* {: id="20210403161405-jfwtda6"}The delete operation is backed up instantly, and the deleted file will be backed up every time it is deleted. This function can be turned on or off through <kbd>Settings</kbd> - <kbd>Doc Tree</kbd> - <kbd>Backup when deleting files</kbd>
+  {: id="20210403161405-4nq1ty0" updated="20210512114756"}
 * {: id="20210403161405-779d0l1"}All backup data are saved in the notebook `.siyuan/backup/` folder
   {: id="20210403161405-j0yh89n"}
 {: id="20210403161405-qrc025u"}
