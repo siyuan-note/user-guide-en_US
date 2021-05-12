@@ -61,10 +61,9 @@
 | Insert an empty block after the block where the cursor is  | <kbd>Ctrl+Shift+A</kbd> / <kbd>⇧⌘A</kbd>                        |                                                                           |
 | Move up the block where the cursor is                      | <kbd>Ctrl+Shift+↑</kbd> / <kbd>⇧⌘↑</kbd>                      |                                                                           |
 | Move down the block where the cursor is                    | <kbd>Ctrl+Shift+↓</kbd> / <kbd>⇧⌘↓</kbd>                      |                                                                           |
-| Cursor switch                                              | <kbd>Tab</kbd>/<kbd>Enter</kbd>                                   | The cursor moves out of the anchor text, see below for more               |
-| Wrong input                                                | <kbd>Backspace</kbd>                                              |                                                                           |
+| Delete                                           | <kbd>Backspace</kbd>                                              |                                                                           |
 | Ref content block                                    | <kbd>((</kbd> / <kbd>[[</kbd> / <kbd>（（</kbd> / <kbd>【【</kbd> |                                                                           |
-| Embed content block                                        | <kbd>{{</kbd>                                                     |                                                                           |
+| Call up the function menu                                       | <kbd>/</kbd>                                                     |                                                                           |
 {: id="20210106154319-yozlufs"}
 
 
@@ -107,7 +106,7 @@
 | Name           | Shortcuts                                         | Memo                            |
 | ---------------- | --------------------------------------------------- | --------------------------------- |
 | Emoji          | <kbd>:</kbd>                                      |                                 |
-| Block Ref      | <kbd>Ctrl+[</kbd> / <kbd>⌘[</kbd>                |                                 |
+| Block Ref      | <kbd>Ctrl+[</kbd> / <kbd>⌘[</kbd>                |        Must select content                         |
 | Bold           | <kbd>Ctrl+B</kbd> / <kbd>⌘B</kbd>                |                                 |
 | Italic         | <kbd>Ctrl+I</kbd> / <kbd>⌘I</kbd>                |                                 |
 | Mark           | <kbd>Ctrl+E</kbd> / <kbd>⌘E</kbd>                |                                 |
@@ -118,16 +117,16 @@
 | Keyboard       | <kbd>Ctrl+'</kbd> / <kbd>⌘'</kbd>                |                                 |
 | Underline      | <kbd>Ctrl+U</kbd> / <kbd>⌘U</kbd>                |                                 |
 | Inline math    | <kbd>Ctrl+M</kbd> / <kbd>⌘M</kbd>                |                                 |
-| Dividing line  | <kbd>Ctrl+\\</kbd> / <kbd>⌘\\</kbd>                |                                 |
+| Dividing line  | <kbd>---</kbd>                |                                 |
 | Code           | <kbd>Ctrl+G</kbd> / <kbd>⌘G</kbd>                |                                 |
-| Blockquote     | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> |                                 |
+| Blockquote     | <kbd>></kbd> |                                 |
 | Link           | <kbd>Ctrl+K</kbd> / <kbd>⌘K</kbd>                |                                 |
-| Font setting   | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                 |                                 |
-| Code block     | <kbd>Ctrl+Shift+U</kbd> / <kbd>⇧⌘U</kbd>        |  |
-| Unordered list | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>                | See below for related shortcuts |
-| Ordered list   | <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>                | See below for related shortcuts |
-| Task list      | <kbd>Ctrl+Shift+J</kbd> / <kbd>⇧⌘J</kbd>        | See below for related shortcuts |
-| Table          | <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>        | See below for related shortcuts |
+| Font setting   | <kbd>Alt+X</kbd> / <kbd>⌥X</kbd>                 |           Set the selected content to the most recently used font style                      |
+| Code block     | <<kbd>```Enter</kbd>             |  |
+| Unordered list | <kbd>* </kbd>                | See below for related shortcuts |
+| Ordered list   | <kbd>1. </kbd>                | See below for related shortcuts |
+| Task list      | <kbd>Ctrl+L</kbd> / <kbd>⌘L</kbd>      | See below for related shortcuts |
+| Table          |  <kbd>Ctrl+O</kbd> / <kbd>⌘O</kbd>          | See below for related shortcuts |
 {: id="20210106154319-v6ksqnu"}
 
 ### Heading
@@ -135,8 +134,6 @@
 
 | Name            | Shortcuts                                |
 | ----------------- | ------------------------------------------ |
-| Get bigger      | <kbd>Ctrl+=</kbd> / <kbd>⌘=</kbd>       |
-| Get smaller     | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>       |
 | Level 1 heading | <kbd>Ctrl+Alt+1</kbd> / <kbd>⌥⌘1</kbd> |
 | Level 2 heading | <kbd>Ctrl+Alt+2</kbd> / <kbd>⌥⌘2</kbd> |
 | Level 3 heading | <kbd>Ctrl+Alt+3</kbd> / <kbd>⌥⌘3</kbd> |
@@ -153,7 +150,7 @@
 | Indent with sublists          | <kbd>Tab</kbd>                             |                 |
 | Reverse indent 1              | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |                 |
 | Reverse indent 2              | <kbd>Enter</kbd>                           | Empty list item |
-| Switch between Done and To Do | <kbd>Ctrl+Shift+T</kbd> / <kbd>⇧⌘T</kbd> | Task list       |
+| Switch between Done and To Do | <kbd>Ctrl+;</kbd> / <kbd>⌘;</kbd> / <kbd>></kbd> | Task list       |
 {: id="20210106154319-4oe7doq" updated="20210318121417"}
 
 ### Table <kbd>Ctrl+Shift+M</kbd> / <kbd>⇧⌘M</kbd>
@@ -165,13 +162,13 @@
 | Insert a row below                      | <kbd>Ctrl+=</kbd> / <kbd>⇧⌘D</kbd>       |
 | Insert a column on the left             | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
 | Insert a column on the right            | <kbd>Ctrl+Shift+R</kbd> / <kbd>⇧⌘R</kbd> |
-| Delete row                              | <kbd>Alt+-</kbd> / <kbd>⌥-</kbd>          |
-| Delete column                           | <kbd>Ctrl+Alt+_</kbd> / <kbd>⌥⌘-</kbd>   |
+| Delete row                              | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |
+| Delete column                           | <kbd>Ctrl+Shift+_</kbd> / <kbd>⇧⌘-</kbd>   |
 | Move the cursor to the previous element | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |
 | Move the cursor to the next element     | <kbd>Tab</kbd>                             |
-| Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                           |
-| Center                                         | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>                                 |                                                                           |
-| Right                                          | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>                                 |                                                                           |
+| Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                           
+| Center                                         | <kbd>Alt+C</kbd> / <kbd>⌥C</kbd>                                 |                                                                           
+| Right                                          | <kbd>Alt+R</kbd> / <kbd>⌥R</kbd>                                 |                                                                           
 
 {: id="20210106154319-otreidg"}
 
