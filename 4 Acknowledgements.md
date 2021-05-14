@@ -1,9 +1,6 @@
 SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open source project and other open source software.
 {: id="20210104091623-co6woum" updated="20210419175756"}
 
-## Kernel
-{: id="20210104091623-4hjimh9"}
-
 * {: id="20210104091623-kfdi82v"}[https://github.com/golang/go](https://github.com/golang/go) `BSD-3-Clause License`
   {: id="20210203202136-pl9bbym"}
 * {: id="20210104091623-maeuggl"}[https://github.com/vanng822/css](https://github.com/vanng822/css) `MIT License`
@@ -39,31 +36,26 @@ SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open so
 * {: id="20210104111919-0nrhvp5"}[https://github.com/panjf2000/ants](https://github.com/panjf2000/ants) `MIT License`
   {: id="20210203202136-xwxzx46"}
 * {: id="20210104091623-nkdzq8e"}[https://github.com/parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) `MIT License`
-  {: id="20210203202136-lb4zgh9" updated="20210428232506"}
+  {: id="20210203202136-lb4zgh9" updated="20210514224745"}
+* {: id="20210514224745-57k7dsm"}[https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript)`Apache-2.0 License`
+  {: id="20210514224745-fv4s9xd" updated="20210514224748"}
+* {: id="20210514224749-9twj4xz"}[https://github.com/electron/electron](https://github.com/electron/electron)`MIT License`
+  {: id="20210514224749-2k8174v" updated="20210514224752"}
+* {: id="20210514224752-l0or745"}[https://github.com/visjs/vis-network](https://github.com/visjs/vis-network)`Apache-2.0 License`
+  {: id="20210514224752-mg8l5gk" updated="20210514224756"}
+* {: id="20210514224757-h12maom"}[https://github.com/google/diff-match-patch](https://github.com/google/diff-match-patch)`Apache-2.0 License`
+  {: id="20210514224757-nztpw7a" updated="20210514224807"}
+* {: id="20210514224807-724votj"}[https://github.com/rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html)`MIT License`
+  {: id="20210514224807-6u3xwuy" updated="20210514224810"}
+* {: id="20210514224810-ase996h"}[https://github.com/mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist)`Apache-2.0 License`
+  {: id="20210514224810-edm2joj" updated="20210514224816"}
+* {: id="20210514224816-c272r4m"}[https://github.com/blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5)`MIT License`
+  {: id="20210514224816-51k16jk" updated="20210514224820"}
+* {: id="20210514224820-0sf5c28"}[https://github.com/fex-team/kityminder-core](https://github.com/fex-team/kityminder-core)`BSD-3-Clause License`
+  {: id="20210514224820-bimo590" updated="20210514224823"}
+* {: id="20210514224824-tjccgt4"}[https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js)`MIT License`
+  {: id="20210514224824-es709xv" updated="20210514224824"}
 {: id="20210104091623-jo7y9vp"}
-
-## UI
-{: id="20210104091623-gczeoh0"}
-
-* {: id="20210104091623-as6d66h"}[https://github.com/microsoft/TypeScript](https://github.com/microsoft/TypeScript) `Apache-2.0 License`
-  {: id="20210203202136-mdzqail"}
-* {: id="20210104091623-tynx9gd"}[https://github.com/electron/electron](https://github.com/electron/electron) `MIT License`
-  {: id="20210203202136-k77e4ne"}
-* {: id="20210104091623-0uru44s"}[https://github.com/visjs/vis-network](https://github.com/visjs/vis-network) `Apache-2.0 License`
-  {: id="20210203202136-06axdmm"}
-* {: id="20210104091623-inqs9h1"}[https://github.com/google/diff-match-patch](https://github.com/google/diff-match-patch) `Apache-2.0 License`
-  {: id="20210203202136-sm73e98"}
-* {: id="20210104091623-3jgp42q"}[https://github.com/rtfpessoa/diff2html](https://github.com/rtfpessoa/diff2html) `MIT License`
-  {: id="20210203202136-nkb900h"}
-* {: id="20210104091623-sqgwr06"}[https://github.com/mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist) `Apache-2.0 License`
-  {: id="20210203202136-pdftmk1"}
-* {: id="20210104091623-mqgpe3y"}[https://github.com/blueimp/JavaScript-MD5](https://github.com/blueimp/JavaScript-MD5) `MIT License`
-  {: id="20210203202136-s9yd6n2"}
-* {: id="20210111111553-31ff169"}[https://github.com/fex-team/kityminder-core](https://github.com/fex-team/kityminder-core) `BSD-3-Clause License`
-  {: id="20210203202136-a8gckef"}
-* {: id="20210203202138-5thtcqv"}[https://github.com/hakimel/reveal.js](https://github.com/hakimel/reveal.js) `MIT License`
-  {: id="20210203202138-n2m043b"}
-{: id="20210104091623-eqzlf7q"}
 
 
 {: id="20201121224345-rc27qvo" type="doc"}
