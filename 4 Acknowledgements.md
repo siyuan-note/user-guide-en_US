@@ -1,5 +1,5 @@
-SiYuan is made possible by the and [Lute](https://github.com/88250/lute) open source project and other open source software.
-{: id="20210104091623-co6woum" updated="20210419175756"}
+SiYuan is made possible by the [Vditor](https://github.com/Vanessa219/vditor) and [Lute](https://github.com/88250/lute) open source project and other open source software.
+{: id="20210514225414-o1yssd6"}
 
 * {: id="20210104091623-kfdi82v"}[https://github.com/golang/go](https://github.com/golang/go) `BSD-3-Clause License`
   {: id="20210203202136-pl9bbym"}
