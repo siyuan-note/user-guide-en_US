@@ -72,10 +72,10 @@
 | Name | Operation |
 | -------------- | ---------------------------------- ---------- |
 | Move | Drag and drop |
-| Open the menu | Right click |
+| Open the menu | Click |
 | Zoom In | <kbd>Ctrl+Click</kbd> / <kbd>⌘Click</kbd> |
 | Collapse/Expand | <kbd>Alt+Click</kbd> / <kbd>⌥Click</kbd> |
-| Naming | <kbd>Double-Click</kbd> |
+| Naming | <kbd>Shift+Click</kbd> / <kbd>⇧Click</kbd> |
 
 ### Mind Map(TODO)
 {: id="20210111221214-v2ie4le"}
