@@ -1,49 +1,49 @@
+{: id="20210524221103-alpvx6e"}
+
 ## Overview
-{: id="20210117215840-wb362dh" updated="20210302223948"}
+{: id="20210524221104-v1dw8e1"}
 
 Data security is mainly divided into two aspects:
-{: id="20210117215851-96wajhx" updated="20210302223934"}
+{: id="20210524221104-c493sem"}
 
-1. {: id="20210117215851-hfpmff7"}Availability: data is not lost or conflicted, keeping data integrity and consistency
-   {: id="20210302223933-rakcwo6"}
-2. {: id="20210117215851-m7ke2ur"}Confidentiality: data will not be leaked or tampered with
-   {: id="20210302223933-ficb94k"}
-{: id="20210117215851-nc0bird"}
+1. {: id="20210524221104-55p4rbu"}Availability: no data loss, no conflict, keep the data integrity and consistency
+   {: id="20210524221104-o0qiulk"}
+2. {: id="20210524221104-pncmgx4"}Confidentiality: data will not be leaked or tampered with
+   {: id="20210524221104-r5hvq6f"}
+{: id="20210524221104-kxe4z7v"}
 
-SiYuan supports both of these aspects to a certain extent, but due to environmental factors, we can only try our best to do as much as we can. Below we describe some security restrictions and usage recommendations.
-{: id="20210117215851-ddrlqbt"}
+SiYuan supports both of these aspects to a certain extent, but due to environmental factors, we can only do our best to achieve what we can do. Below we describe some security restrictions and usage recommendations.
+{: id="20210524221104-8ka9zj6" updated="20210524221111"}
 
 ## Plaintext storage
-{: id="20210117215851-ix28le8"}
+{: id="20210524221104-8xhfndh"}
 
-* {: id="20210117215851-p3xgi3t"}The data is stored in plain text in text files, and anyone or software who can access these text files can read the data
-  {: id="20210302223933-aalghw5" updated="20210501163216"}
-* {: id="20210117215851-crybuhe"}The availability of data depends on the availability of hardware disks and operating systems
-  {: id="20210302223933-9zi49ox" updated="20210501163222"}
-{: id="20210117215851-ldx930v"}
+* {: id="20210524221104-wd2jz54"}The data is stored in plain text in text files, and anyone or software who can access these text files can read the data
+  {: id="20210524221104-3m1slkc"}
+* {: id="20210524221104-19m97vd"}The availability of data depends on the availability of hardware disks and operating systems
+  {: id="20210524221104-oltwnro"}
+{: id="20210524221104-eqqbjvd"}
 
 ## Cloud backup
-{: id="20210117215851-o3132ir" updated="20210522111435"}
+{: id="20210524221104-wlauarl"}
 
-* {: id="20210117215851-jog6r3y"}Implement secure network transmission through SSH protocol, Rsync implements incremental data transmission
-  {: id="20210302223933-ezje4tk" updated="20210522111441"}
-* {: id="20210117215851-hwz4dk1"}The cloud uses the block storage service provided by Alibaba Cloud and the disk snapshot every three days, and theoretically reliability can be guaranteed
-  {: id="20210302223933-77a9z22"}
-* {: id="20210117220828-8ejo3gi"}The cloud repository is not encrypted, and the two core developers of the SiYuan team and related operation and maintenance personnel of Alibaba Cloud can see the data
-  {: id="20210302223933-w5zbu1r"}
-{: id="20210117215851-amwpvg0"}
-
-If there is content that needs to be kept secret, please do not use the cloud backup function. This is mainly limited by network-related laws and regulations: as a service provider, we need to be able to see the plaintext of the data when necessary. This applies to all Internet services that operate in compliance in Mainland China.
-{: id="20210117215851-jjjbmcj" updated="20210522111906"}
+* {: id="20210524221104-5xoa6dq"}Implement secure network transmission through SSH protocol, and Rsync implements incremental data transmission
+  {: id="20210524221104-wen47n8" updated="20210524221158"}
+* {: id="20210524221104-86tj6m6"}The cloud uses the block storage service provided by Alibaba Cloud and the disk snapshot once every three days, theoretically reliability can be guaranteed
+  {: id="20210524221104-egbptu2"}
+* {: id="20210524221104-1ejjdmr"}End-to-end encryption of backup data (AES GCM)
+  {: id="20210524221104-efcef3d"}
+{: id="20210524221104-oxv9mpv"}
 
 ## Suggest
-{: id="20210117215851-1knwkrg"}
+{: id="20210524221104-umgsrpl"}
 
-* {: id="20210117215851-9jl3t6i"}Data is regularly backed up to multiple offline devices
-  {: id="20210302223933-x3pehyy"}
-* {: id="20210117215851-0p85gl7"}If the data is very important (such as important passwords, keys or core secrets, etc.), do not use any software or services to save it (operating system software, network environment, etc. have security risks)
-  {: id="20210302223933-s4eelga"}
-{: id="20210117215851-2t1bh8i"}
+* {: id="20210524221104-98hi3um"}Data is regularly backed up to multiple offline devices
+  {: id="20210524221104-m5reabu"}
+* {: id="20210524221104-8386owm"}It is recommended to use special software, equipment or offline storage for important passwords, keys or core secrets
+  {: id="20210524221104-5e4dtzy"}
+{: id="20210524221104-osopyev"}
+
 
 
 {: id="20210117215840-jcl17fx" type="doc"}

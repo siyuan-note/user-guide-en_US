@@ -1,6 +1,12 @@
 ## Overview
 {: id="20210403161405-rwobkn6" updated="20210522111607"}
 
+The backup function of SiYuan is divided into notebook editing backup and workspace backup.
+{: id="20210524215528-s30llhw" updated="20210524215533"}
+
+## Notebook editing backup
+{: id="20210524215538-31ulwid" updated="20210524215547"}
+
 * {: id="20210403161405-ga24lin"}The files updated in these 10 minutes will be automatically backed up every 10 minutes. The interval time can be adjusted through <kbd>Settings</kbd> - <kbd>Editor</kbd> - <kbd>Automatic Backup Interval</kbd>
   {: id="20210403161405-smgi238" updated="20210512114713"}
 * {: id="20210403161405-jfwtda6"}The delete operation is backed up instantly, and the deleted file will be backed up every time it is deleted. This function can be turned on or off through <kbd>Settings</kbd> - <kbd>Doc Tree</kbd> - <kbd>Backup when deleting files</kbd>
@@ -27,7 +33,21 @@ Currently only supports browsing the latest 32 backups.
 In the time list column on the left side of the history interface, there is a rollback button behind each history record. After clicking it, a confirmation dialog box will pop up. If the rollback is confirmed, the existing data will be overwritten with the backup.
 {: id="20210104091559-ejqvg9b" updated="20210403161317"}
 
-{: id="20210121105905-k775koz"}
+## Workspace backup
+{: id="20210121105905-k775koz" updated="20210524215605"}
+
+The workspace backup function is the [Advanced Features](https://b3log.org/siyuan/en/advanced_features.html) of SiYuan, you need to pay to use it. You can operate it in <kbd>Settings</kbd>- <kbd>Backup</kbd>.
+{: id="20210524215704-oi8qz0z" updated="20210524220053"}
+
+* {: id="20210524215802-gkorkff"}The backup file is generated through compress encryption (AES GCM) in the data folder and stored in the backup folder of the workspace
+  {: id="20210524215802-a86hs50" updated="20210524220105"}
+* {: id="20210524215802-kpctjde"}Without changing the password, uploading the backup to the cloud or downloading the backup from the cloud is incremental transmission
+  {: id="20210524215802-ycsr38c" updated="20210524215805"}
+* {: id="20210524215806-grdbs01"}The maximum storage space of all notebooks under the same user is `8G`
+  {: id="20210524215806-o2ixkx8" updated="20210524215810"}
+* {: id="20210524215808-v4fiyb8"}After the paid subscription expires, the data will be retained for 1 month. If there is no renewal during this period, the data will be completely deleted after 1 month
+  {: id="20210524215808-s9dewf3" updated="20210524215808"}
+{: id="20210524215802-i0dy76s"}
 
 
 {: id="20201002092058-85k2cws" type="doc"}
