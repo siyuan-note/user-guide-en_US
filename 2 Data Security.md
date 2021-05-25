@@ -24,8 +24,8 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
   {: id="20210524221104-oltwnro"}
 {: id="20210524221104-eqqbjvd"}
 
-## Cloud backup
-{: id="20210524221104-wlauarl"}
+## End-to-end encryption backup
+{: id="20210524221104-wlauarl" updated="20210525120055"}
 
 * {: id="20210524221104-5xoa6dq"}Implement secure network transmission through SSH protocol, and Rsync implements incremental data transmission
   {: id="20210524221104-wen47n8" updated="20210524221158"}
