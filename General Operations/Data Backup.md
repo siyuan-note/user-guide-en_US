@@ -43,6 +43,8 @@ The workspace backup function is the [Advanced Features](https://b3log.org/siyua
   {: id="20210524215802-a86hs50" updated="20210525115534"}
 * {: id="20210524215802-kpctjde"}Without changing the password, uploading the backup to the cloud or downloading the backup from the cloud is incremental transmission
   {: id="20210524215802-ycsr38c" updated="20210524215805"}
+* {: id="20210525213921-je5w8po"}After restoring from the backup, the current workspace data will be overwritten and cannot be restored. Please confirm before using the backup to restore
+  {: id="20210525213921-ztnff3g"}
 * {: id="20210524215806-grdbs01"}The maximum storage space of all notebooks under the same user is `8G`
   {: id="20210524215806-o2ixkx8" updated="20210524215810"}
 * {: id="20210524215808-v4fiyb8"}After the paid subscription expires, the data will be retained for 1 month. If there is no renewal during this period, the data will be completely deleted after 1 month
