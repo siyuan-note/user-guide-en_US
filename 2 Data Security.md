@@ -31,8 +31,8 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
   {: id="20210524221104-wen47n8" updated="20210524221158"}
 * {: id="20210524221104-86tj6m6"}The cloud uses the block storage service provided by Alibaba Cloud and the disk snapshot once every three days, theoretically reliability can be guaranteed
   {: id="20210524221104-egbptu2"}
-* {: id="20210524221104-1ejjdmr"}End-to-end encryption of backup data (AES GCM)
-  {: id="20210524221104-efcef3d"}
+* {: id="20210524221104-1ejjdmr"}The backup data is encrypted end-to-end (AES GCM), unless the password is known, it is almost impossible to decrypt (the developer cannot decrypt it)
+  {: id="20210524221104-efcef3d" updated="20210525115904"}
 {: id="20210524221104-oxv9mpv"}
 
 ## Suggest
@@ -43,7 +43,6 @@ SiYuan supports both of these aspects to a certain extent, but due to environmen
 * {: id="20210524221104-8386owm"}It is recommended to use special software, equipment or offline storage for important passwords, keys or core secrets
   {: id="20210524221104-5e4dtzy"}
 {: id="20210524221104-osopyev"}
-
 
 
 {: id="20210117215840-jcl17fx" type="doc"}
