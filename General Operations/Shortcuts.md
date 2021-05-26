@@ -163,7 +163,7 @@
 | Insert a column on the left             | <kbd>Ctrl+Shift+L</kbd> / <kbd>⇧⌘L</kbd> |
 | Insert a column on the right            | <kbd>Ctrl+Shift+R</kbd> / <kbd>⇧⌘R</kbd> |
 | Delete row                              | <kbd>Ctrl+-</kbd> / <kbd>⌘-</kbd>          |
-| Delete column                           | <kbd>Ctrl+Shift+_</kbd> / <kbd>⇧⌘_</kbd>   |
+| Delete column                           | <kbd>Ctrl+Shift+_</kbd> / <kbd>⇧⌘-</kbd>   |
 | Move the cursor to the previous element | <kbd>Shift+Tab</kbd> / <kbd>⇧Tab</kbd>    |
 | Move the cursor to the next element     | <kbd>Tab</kbd>                             |
 | Left                                           | <kbd>Alt+L</kbd> / <kbd>⌥L</kbd>                                 |                                                                           
