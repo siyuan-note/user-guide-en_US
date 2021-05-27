@@ -51,5 +51,8 @@ The workspace backup function is the [Advanced Features](https://b3log.org/siyua
   {: id="20210524215808-s9dewf3" updated="20210524215808"}
 {: id="20210524215802-i0dy76s"}
 
+On macOS, you need to manually install [Rsync](https://rsync.samba.org) to upload the backup data to the cloud, please refer to [here](https://ld246.com/article/1622084568155) for installation.
+{: id="20210527111203-jyuflef" updated="20210527111204"}
+
 
 {: id="20201002092058-85k2cws" type="doc"}
