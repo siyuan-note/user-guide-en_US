@@ -1,0 +1,941 @@
+{
+	"ID": "20200923234731-h3zkwm2",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20200923234731-h3zkwm2",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210428222532-nfvnq4d",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210428222532-nfvnq4d",
+				"updated": "20210428222834"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How does SiYuan store data?"
+				}
+			]
+		},
+		{
+			"ID": "20210428222603-g1752n7",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210428222603-g1752n7",
+				"updated": "20210512152404"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The data is saved in the workspace folder (the default is in the user's home directory Documents/SiYuan, which can be modified in "
+				},
+				{
+					"Type": "NodeKbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Settings"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " - "
+				},
+				{
+					"Type": "NodeKbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "About"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "), in the workspace data folder:"
+				}
+			]
+		},
+		{
+			"ID": "20210428222603-moih9fe",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210428222603-moih9fe"
+			},
+			"Children": [
+				{
+					"ID": "20210428222603-gxgx3vi",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210428222603-gxgx3vi"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-0goch51",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-0goch51",
+								"updated": "20210503100004"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "assets"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save all inserted asset files"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-vtr89xq",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210428222603-vtr89xq"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-criebuv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-criebuv",
+								"updated": "20210428222658"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "templates"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20201204184532-3qm9l8n"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Template snippet"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-456vgdh",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210428222603-456vgdh"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-m3djncm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-m3djncm",
+								"updated": "20210428222701"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "widgets"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are used to save widgets "
+								},
+								{
+									"Type": "NodeTag",
+									"Children": [
+										{
+											"Type": "NodeTagOpenMarker",
+											"Data": "#"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "TODO"
+										},
+										{
+											"Type": "NodeTagCloseMarker",
+											"Data": "#"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428222603-27so3jy",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210428222603-27so3jy"
+					},
+					"Children": [
+						{
+							"ID": "20210428222603-pwyr56t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428222603-pwyr56t",
+								"updated": "20210512152423"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The rest of the folders are the notebook folders created by the user, files with the suffix of "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": ".sy"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " in the notebook folder are used to save the document data, and the data format is JSON"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-ygu8bzx",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-ygu8bzx"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Is there any "
+				},
+				{
+					"Type": "NodeTag",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker",
+							"Data": "#"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker",
+							"Data": "#"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for deleting files/folders?"
+				}
+			]
+		},
+		{
+			"ID": "20210512152557-nbglxya",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210512152557-nbglxya",
+				"updated": "20210513000357"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly, SiYuan will perform the deletion "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20201002092058-85k2cws"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Auto Backup"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210106192438-on2fb5k",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210106192438-on2fb5k"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How can I just wrap and not start a new paragraph?"
+				}
+			]
+		},
+		{
+			"ID": "20210106192504-pgryxb1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210106192504-pgryxb1",
+				"updated": "20210417112701"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please use "
+				},
+				{
+					"Type": "NodeKbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Shift+Enter"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-eoju3re",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-eoju3re"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How to adjust table rows and columns?"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-yti3dvr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201224120448-yti3dvr"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The "
+				},
+				{
+					"Type": "NodeKbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "..."
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " menu at the upper right corner of the table block has operation entries."
+				}
+			]
+		},
+		{
+			"ID": "20210204162757-ei505a6",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210204162757-ei505a6"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How to turn pages in a slide show?"
+				}
+			]
+		},
+		{
+			"ID": "20210204162757-0al9jtb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210204162757-0al9jtb"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "In document typesetting, you need to use "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "---"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to separate the content of each page. For specific usage, please refer to "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20210203182642-odiolr2"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Slides Presentation"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210226101133-php3e1u",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210226101133-php3e1u",
+				"updated": "20210402112548"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How to delete unnecessary history records to reduce space usage and improve performance?"
+				}
+			]
+		},
+		{
+			"ID": "20210315224644-d8kjhtk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210315224644-d8kjhtk",
+				"updated": "20210402001829"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Open the notebook "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": ".siyuan/backup/"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " folder on the file system and delete unnecessary backup history."
+				}
+			]
+		},
+		{
+			"ID": "20210226101134-hvw08er",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210226101134-hvw08er",
+				"updated": "20210226101142"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "How to delete cloud asset files that are no longer needed?"
+				}
+			]
+		},
+		{
+			"ID": "20210226101144-fknnoaz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210226101144-fknnoaz",
+				"updated": "20210301220415"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker",
+							"Data": "#"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "TODO"
+						},
+						{
+							"Type": "NodeTagCloseMarker",
+							"Data": "#"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-yq5ziln",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-yq5ziln"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Do you plan to support plugins?"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-hn7uqj1",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201224120448-hn7uqj1"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "SiYuan supports "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20201004194026-s8h2cog"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Use on browser"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ",  which can be extended by browser plug-ins. We are looking forward to other developers writing browser plug-ins for SiYuan. With the gradual provision of "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20201227201751-gv0fpx2"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Kernel API"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " , we will introduce a plug-in mechanism in the future."
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-0rqote3",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201224120448-0rqote3"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Do I need to pay for it?"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-20hmjfc",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201224120448-20hmjfc"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Basic functions are completely free to use, "
+				},
+				{
+					"Type": "NodeLink",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "advanced features"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://b3log.org/siyuan/advanced_features.html"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " requires "
+				},
+				{
+					"Type": "NodeLink",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "annual subscription"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://b3log.org/siyuan/pricing.html"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ", price is $64/year。"
+				}
+			]
+		},
+		{
+			"ID": "20201224120448-8uydzg3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201224120448-8uydzg3"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us ("
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"CodeMarkerLen": 1,
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker",
+							"Data": "`"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "845765@qq.com"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker",
+							"Data": "`"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "), we will manually create an account and create a PayPal email payment order for you, thank you."
+				}
+			]
+		}
+	]
+}

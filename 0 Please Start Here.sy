@@ -1,0 +1,1116 @@
+{
+	"ID": "20200923234011-ieuun1p",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20200923234011-ieuun1p",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210428222013-0afj8vn",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210428222013-0afj8vn",
+				"updated": "20210428222155"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "🧱 Content block"
+				}
+			]
+		},
+		{
+			"ID": "20210428222033-bhbz6yg",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210428222033-bhbz6yg",
+				"updated": "20210512150301"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "In SiYuan, the only important core concept is "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20200924101106-19z4kaa"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Content block"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ". The content block can be formed through the formatting format, so that we can organize our thoughts and knowledge at the block-level granularity, and it is also convenient for reading and outputting long content."
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-keui8uy",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201225220954-keui8uy"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "🔮 Quick start"
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-dlgzk1o",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20201225220954-dlgzk1o"
+			},
+			"Children": [
+				{
+					"ID": "20201225220954-e913snx",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-e913snx"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-kfs31q6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-kfs31q6"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Create a new notebook, create a new document under the notebook"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20201225220954-ygz217h",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-ygz217h"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-eo0riwq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-eo0riwq"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Enter "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " in the editor to trigger the function menu"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20201225220954-875yybt",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-875yybt"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-b5uow2h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-b5uow2h",
+								"updated": "20210502233931"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20200924101200-gss5vee"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Navigate in the content block"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " and "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20200924100906-0u4zfq3"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Window and tab"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210429172810-bd4sobs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210429172810-bd4sobs",
+				"updated": "20210501193556"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker",
+							"Data": "#"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker",
+							"Data": "#"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": Do not save data in the user guide, because the user guide will be reset every time you open it."
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-qtw7nfl",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201225220954-qtw7nfl"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "💡 Suggested reading"
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-kjfoqak",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20201225220954-kjfoqak"
+			},
+			"Children": [
+				{
+					"ID": "20201225220954-bbrjxhx",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-bbrjxhx"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-zu27zlo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-zu27zlo"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20200923234731-h3zkwm2"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "FAQs"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20201225220954-9xqhn71",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-9xqhn71"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-4z4v1xw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-4z4v1xw"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20200923234602-gy54e67"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Privacy policy"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20201225220954-bj7c15e",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-bj7c15e"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-nksa82l",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-nksa82l",
+								"updated": "20210501192621"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Origin"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://ld246.com/article/1619868273581"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-s2g98gd",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201225220954-s2g98gd"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "🏘️ Community"
+				}
+			]
+		},
+		{
+			"ID": "20200923234102-ysbri6o",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20200923234102-ysbri6o"
+			},
+			"Children": [
+				{
+					"ID": "20201225220954-d10tcsj",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20201225220954-d10tcsj"
+					},
+					"Children": [
+						{
+							"ID": "20210131161940-ucgs2kw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131161940-ucgs2kw",
+								"updated": "20210428231747"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "GitHub Issues"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/siyuan/issues"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210428231748-qeszm45",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210428231748-qeszm45"
+					},
+					"Children": [
+						{
+							"ID": "20210428231748-t6le710",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210428231748-t6le710",
+								"updated": "20210428231824"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Discord (English Discussions)"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://discord.gg/bzfCBwMzdP"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210131163254-58hz1z3",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210131163254-58hz1z3"
+					},
+					"Children": [
+						{
+							"ID": "20210131163254-8f7lz5k",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131163254-8f7lz5k",
+								"updated": "20210501193304"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "LianDi (Chinese Discussions)"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://ld246.com/domain/siyuan"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-uhjsdfw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20201225220954-uhjsdfw"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "🗺️ Roadmap"
+				}
+			]
+		},
+		{
+			"ID": "20201225220954-57ba5rb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20201225220954-57ba5rb"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please visit "
+				},
+				{
+					"Type": "NodeLink",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "SiYuan Development Plan and Progress"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/siyuan-note/siyuan/projects"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ". For details of version changes, please visit "
+				},
+				{
+					"Type": "NodeLink",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket",
+							"Data": "["
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "SiYuan Changelogs"
+						},
+						{
+							"Type": "NodeCloseBracket",
+							"Data": "]"
+						},
+						{
+							"Type": "NodeOpenParen",
+							"Data": "("
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/siyuan-note/siyuan/blob/master/CHANGE_LOGS.md"
+						},
+						{
+							"Type": "NodeCloseParen",
+							"Data": ")"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210131161629-mutbkca",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210131161629-mutbkca",
+				"updated": "20210502234000"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "💌 Participate in contribution"
+				}
+			]
+		},
+		{
+			"ID": "20210131161709-j2ksyi2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210131161709-j2ksyi2",
+				"updated": "20210501165210"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Document"
+				}
+			]
+		},
+		{
+			"ID": "20210317214434-nx9mt0d",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210317214434-nx9mt0d"
+			},
+			"Children": [
+				{
+					"ID": "20210317214155-4se7gl4",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210317214155-4se7gl4"
+					},
+					"Children": [
+						{
+							"ID": "20210317214155-02ljnx2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210317214155-02ljnx2",
+								"updated": "20210317214431"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Chinese User Guide"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/user-guide-zh_CN"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210317214158-92uea49",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210317214158-92uea49"
+					},
+					"Children": [
+						{
+							"ID": "20210317214158-acl7oxj",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210317214158-acl7oxj",
+								"updated": "20210501193214"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "English User Guide"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/user-guide-en_US"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210131161927-1i4rnk0",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210131161927-1i4rnk0",
+				"updated": "20210501165219"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Bazaar"
+				}
+			]
+		},
+		{
+			"ID": "20210131161933-lrnm0d8",
+			"Type": "NodeList",
+			"ListData": {
+				"Tight": true,
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210131161933-lrnm0d8"
+			},
+			"Children": [
+				{
+					"ID": "20210131162437-tkeqdhq",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210131162437-tkeqdhq"
+					},
+					"Children": [
+						{
+							"ID": "20210131162437-2zmstg2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131162437-2zmstg2"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20201225222754-u4sica8"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Push to theme bazaar"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210131162446-2m6hnzn",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210131162446-2m6hnzn"
+					},
+					"Children": [
+						{
+							"ID": "20210131162446-g9j0oxc",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210131162446-g9j0oxc",
+								"updated": "20210501193221"
+							},
+							"Children": [
+								{
+									"Type": "NodeBlockRef",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210131162806-sk9tg4q"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Push to template bazaar"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

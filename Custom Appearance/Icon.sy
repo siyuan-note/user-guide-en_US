@@ -1,0 +1,1883 @@
+{
+	"ID": "20200924100110-vcg96wy",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20200924100110-vcg96wy",
+		"type": "doc"
+	},
+	"Children": [
+		{
+			"ID": "20210104091404-emngxx4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210104091404-emngxx4",
+				"updated": "20210302223517"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Installation"
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-5mpe4db",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Tight": true,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210104091404-5mpe4db"
+			},
+			"Children": [
+				{
+					"ID": "20210104091404-9xegv8y",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210104091404-9xegv8y"
+					},
+					"Children": [
+						{
+							"ID": "20210302223515-79ps3is",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210302223515-79ps3is"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Get the icon and unzip"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-8gdxzud",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210104091404-8gdxzud"
+					},
+					"Children": [
+						{
+							"ID": "20210302223515-wu4teq3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210302223515-wu4teq3"
+							},
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Appearance"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Icon"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Open Icon Folder"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-90wpjja",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210104091404-90wpjja"
+					},
+					"Children": [
+						{
+							"ID": "20210302223515-kkr2m9t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210302223515-kkr2m9t"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Copy the icon to this directory"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-gcbhyp5",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210104091404-gcbhyp5"
+					},
+					"Children": [
+						{
+							"ID": "20210302223515-lg2ramr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210302223515-lg2ramr"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Restart, select the installed icon in "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Appearance"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Icon"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-c14ff87",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210104091404-c14ff87"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "## "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Development"
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-5ele7ot",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210104091404-5ele7ot"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Step"
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-07yula4",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1,
+				"Start": 1,
+				"Delimiter": 46,
+				"Padding": 3,
+				"Marker": "MQ==",
+				"Num": 1
+			},
+			"Properties": {
+				"id": "20210104091404-07yula4"
+			},
+			"Children": [
+				{
+					"ID": "20210104091404-qgd4dqd",
+					"Type": "NodeListItem",
+					"Data": "1",
+					"ListData": {
+						"Typ": 1,
+						"Start": 1,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "MQ==",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20210104091404-qgd4dqd"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-gb7rp9u",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-gb7rp9u"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Give your icon a nice name, such as "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "alice"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-d8cdoqz",
+					"Type": "NodeListItem",
+					"Data": "2",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 2,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mg==",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20210104091404-d8cdoqz"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-coh56bo",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-coh56bo"
+							},
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Appearance"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Icon"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Open Icon Folder"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-wdwknqi",
+					"Type": "NodeListItem",
+					"Data": "3",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 3,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "Mw==",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20210104091404-wdwknqi"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-0errb7b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-0errb7b"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Create a new folder "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "alice"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " in the opened folder, and create new "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "icon.js"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " and "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "icon.json"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " files in "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "alice"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " The "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "icon.json"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " file is as follows:"
+								}
+							]
+						},
+						{
+							"ID": "20210104091404-olba0a3",
+							"Type": "NodeCodeBlock",
+							"IsFencedCodeBlock": true,
+							"CodeBlockFenceChar": 96,
+							"CodeBlockFenceLen": 3,
+							"CodeBlockOpenFence": "YGBg",
+							"CodeBlockInfo": "anNvbg==",
+							"CodeBlockCloseFence": "YGBg",
+							"Properties": {
+								"id": "20210104091404-olba0a3"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeBlockFenceOpenMarker",
+									"Data": "```",
+									"CodeBlockFenceLen": 3
+								},
+								{
+									"Type": "NodeCodeBlockFenceInfoMarker",
+									"CodeBlockInfo": "anNvbg=="
+								},
+								{
+									"Type": "NodeCodeBlockCode",
+									"Data": "{\n  \"author\": \"Vanessa\",\n  \"url\": \"https://github.com/Vanessa219\",\n  \"version\": \"1.0.0\"\n}\n"
+								},
+								{
+									"Type": "NodeCodeBlockFenceCloseMarker",
+									"Data": "```",
+									"CodeBlockFenceLen": 3
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-swh87z4",
+					"Type": "NodeListItem",
+					"Data": "4",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 4,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NA==",
+						"Num": 4
+					},
+					"Properties": {
+						"id": "20210104091404-swh87z4"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-affafn6",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-affafn6"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Open the "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "icon.js"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " file and paste the completed icon"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-ivd5l04",
+					"Type": "NodeListItem",
+					"Data": "5",
+					"ListData": {
+						"Typ": 1,
+						"Tight": true,
+						"Start": 5,
+						"Delimiter": 46,
+						"Padding": 3,
+						"Marker": "NQ==",
+						"Num": 5
+					},
+					"Properties": {
+						"id": "20210104091404-ivd5l04"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-9c6o5ow",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-9c6o5ow"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Restart, select the installed icon in "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Appearance"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Icon"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-4c1epvw",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210104091404-4c1epvw"
+			},
+			"Children": [
+				{
+					"Type": "NodeHeadingC8hMarker",
+					"Data": "### "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "Icon production"
+				}
+			]
+		},
+		{
+			"ID": "20210104091404-ewdyw7f",
+			"Type": "NodeList",
+			"ListData": {
+				"BulletChar": 42,
+				"Padding": 2,
+				"Marker": "Kg==",
+				"Num": -1
+			},
+			"Properties": {
+				"id": "20210104091404-ewdyw7f"
+			},
+			"Children": [
+				{
+					"ID": "20210104091404-ioq4e81",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210104091404-ioq4e81"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-tt2x38y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-tt2x38y"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Use a browser to open the "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "index.html"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " file in the icon folder"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-k2l5fm9",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210104091404-k2l5fm9"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-yyxvz0t",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-yyxvz0t"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Make similar icons based on the icon name and shape"
+								}
+							]
+						},
+						{
+							"ID": "20210104091404-tv40w1x",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 42,
+								"Padding": 2,
+								"Marker": "Kg==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210104091404-tv40w1x"
+							},
+							"Children": [
+								{
+									"ID": "20210104091404-2i6izha",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-2i6izha"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-tyeicmf",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-tyeicmf"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Go to "
+												},
+												{
+													"Type": "NodeLink",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket",
+															"Data": "["
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "Iconfont"
+														},
+														{
+															"Type": "NodeCloseBracket",
+															"Data": "]"
+														},
+														{
+															"Type": "NodeOpenParen",
+															"Data": "("
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://www.iconfont.cn"
+														},
+														{
+															"Type": "NodeCloseParen",
+															"Data": ")"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to search for your favorite icon and download the SVG format"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-ohj824d",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-ohj824d"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-ejgdtps",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-ejgdtps"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Use vector graphics tools to make your own icons in SVG format"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-4tobq3m",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-4tobq3m"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-l0fwwjj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-l0fwwjj"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Go to "
+												},
+												{
+													"Type": "NodeLink",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket",
+															"Data": "["
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "pngtosvg"
+														},
+														{
+															"Type": "NodeCloseBracket",
+															"Data": "]"
+														},
+														{
+															"Type": "NodeOpenParen",
+															"Data": "("
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://www.pngtosvg.com/"
+														},
+														{
+															"Type": "NodeCloseParen",
+															"Data": ")"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to convert the picture to SVG format"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-dkmivym",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210104091404-dkmivym"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-foonnfg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-foonnfg"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Go to "
+								},
+								{
+									"Type": "NodeLink",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket",
+											"Data": "["
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "IcoMoon App"
+										},
+										{
+											"Type": "NodeCloseBracket",
+											"Data": "]"
+										},
+										{
+											"Type": "NodeOpenParen",
+											"Data": "("
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://icomoon.io/app/#/select"
+										},
+										{
+											"Type": "NodeCloseParen",
+											"Data": ")"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " to make "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"CodeMarkerLen": 1,
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker",
+											"Data": "`"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "icon.js"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker",
+											"Data": "`"
+										}
+									]
+								}
+							]
+						},
+						{
+							"ID": "20210104091404-rfqjpsy",
+							"Type": "NodeList",
+							"ListData": {
+								"Tight": true,
+								"BulletChar": 42,
+								"Padding": 2,
+								"Marker": "Kg==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210104091404-rfqjpsy"
+							},
+							"Children": [
+								{
+									"ID": "20210104091404-08zo0iy",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-08zo0iy"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-3y0helv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-3y0helv"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Click on "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "Import Icons"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " in the upper right corner to import the pictures made in the previous step"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-qvg4wjs",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-qvg4wjs"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-mcj3t59",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-mcj3t59",
+												"updated": "20210512172156"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Select the icon and generate SVG"
+												},
+												{
+													"Type": "NodeSoftBreak",
+													"Data": "\n"
+												},
+												{
+													"Type": "NodeImage",
+													"Children": [
+														{
+															"Type": "NodeBang",
+															"Data": "!"
+														},
+														{
+															"Type": "NodeOpenBracket",
+															"Data": "["
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "custom-icon1.png"
+														},
+														{
+															"Type": "NodeCloseBracket",
+															"Data": "]"
+														},
+														{
+															"Type": "NodeOpenParen",
+															"Data": "("
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "assets/custom-icon1-20210512172156-jaoyrnz.png"
+														},
+														{
+															"Type": "NodeCloseParen",
+															"Data": ")"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-eds5a8k",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-eds5a8k"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-gaemr53",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-gaemr53",
+												"updated": "20210512172204"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Modify the size and download"
+												},
+												{
+													"Type": "NodeSoftBreak",
+													"Data": "\n"
+												},
+												{
+													"Type": "NodeImage",
+													"Children": [
+														{
+															"Type": "NodeBang",
+															"Data": "!"
+														},
+														{
+															"Type": "NodeOpenBracket",
+															"Data": "["
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "custom-icon2.png"
+														},
+														{
+															"Type": "NodeCloseBracket",
+															"Data": "]"
+														},
+														{
+															"Type": "NodeOpenParen",
+															"Data": "("
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "assets/custom-icon2-20210512172204-dphc486.png"
+														},
+														{
+															"Type": "NodeCloseParen",
+															"Data": ")"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-emihiqw",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-emihiqw"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-o22v67z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-o22v67z"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Modify the "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "id"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " in "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "\u003csymbol id=\"icon-markdown\" viewBox=\"0 0 32 32\"\u003e"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to the icon name corresponding to "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "index.html"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-m0zpn8g",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-m0zpn8g"
+									},
+									"Children": [
+										{
+											"ID": "20210302223515-sf1sm6z",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210302223515-sf1sm6z"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Replace the content in "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "\u003cdefs\u003e...\u003c/defs\u003e"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to the corresponding position in "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "icon.js"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-s8l7xu3",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210104091404-s8l7xu3"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-bhbfkps",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-bhbfkps"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Test"
+								}
+							]
+						},
+						{
+							"ID": "20210104091404-pvo2ori",
+							"Type": "NodeList",
+							"ListData": {
+								"BulletChar": 42,
+								"Padding": 2,
+								"Marker": "Kg==",
+								"Num": -1
+							},
+							"Properties": {
+								"id": "20210104091404-pvo2ori"
+							},
+							"Children": [
+								{
+									"ID": "20210104091404-0cijd7s",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-0cijd7s"
+									},
+									"Children": [
+										{
+											"ID": "20210104091404-azquhxu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210104091404-azquhxu"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Replace "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "material"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " in "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "index.html"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " with "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "alice"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												}
+											]
+										},
+										{
+											"ID": "20210104091404-ysvipkm",
+											"Type": "NodeCodeBlock",
+											"IsFencedCodeBlock": true,
+											"CodeBlockFenceChar": 96,
+											"CodeBlockFenceLen": 3,
+											"CodeBlockOpenFence": "YGBg",
+											"CodeBlockInfo": "aHRtbA==",
+											"CodeBlockCloseFence": "YGBg",
+											"Properties": {
+												"id": "20210104091404-ysvipkm"
+											},
+											"Children": [
+												{
+													"Type": "NodeCodeBlockFenceOpenMarker",
+													"Data": "```",
+													"CodeBlockFenceLen": 3
+												},
+												{
+													"Type": "NodeCodeBlockFenceInfoMarker",
+													"CodeBlockInfo": "aHRtbA=="
+												},
+												{
+													"Type": "NodeCodeBlockCode",
+													"Data": "\u003cscript src=\"material/icon.js\"\u003e\u003c/script\u003e\n"
+												},
+												{
+													"Type": "NodeCodeBlockFenceCloseMarker",
+													"Data": "```",
+													"CodeBlockFenceLen": 3
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-jx50ge9",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-jx50ge9"
+									},
+									"Children": [
+										{
+											"ID": "20210104091404-shk25pp",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210104091404-shk25pp"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Refresh "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"CodeMarkerLen": 1,
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker",
+															"Data": "`"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "index.html"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker",
+															"Data": "`"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to see the final result"
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210104091404-hgd591a",
+									"Type": "NodeListItem",
+									"Data": "*",
+									"ListData": {
+										"Tight": true,
+										"BulletChar": 42,
+										"Padding": 2,
+										"Marker": "Kg==",
+										"Num": -1
+									},
+									"Properties": {
+										"id": "20210104091404-hgd591a"
+									},
+									"Children": [
+										{
+											"ID": "20210104091404-8v71h8q",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210104091404-8v71h8q"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Open SiYuan and select the developed icon in "
+												},
+												{
+													"Type": "NodeKbd",
+													"Children": [
+														{
+															"Type": "NodeKbdOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "Settings"
+														},
+														{
+															"Type": "NodeKbdCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " - "
+												},
+												{
+													"Type": "NodeKbd",
+													"Children": [
+														{
+															"Type": "NodeKbdOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "Appearance"
+														},
+														{
+															"Type": "NodeKbdCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " - "
+												},
+												{
+													"Type": "NodeKbd",
+													"Children": [
+														{
+															"Type": "NodeKbdOpenMarker"
+														},
+														{
+															"Type": "NodeText",
+															"Data": "Icon"
+														},
+														{
+															"Type": "NodeKbdCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " to view"
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210104091404-9ju8k2d",
+					"Type": "NodeListItem",
+					"Data": "*",
+					"ListData": {
+						"Tight": true,
+						"BulletChar": 42,
+						"Padding": 2,
+						"Marker": "Kg==",
+						"Num": -1
+					},
+					"Properties": {
+						"id": "20210104091404-9ju8k2d"
+					},
+					"Children": [
+						{
+							"ID": "20210104091404-x35pum5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210104091404-x35pum5"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Released on the shelf (contact QQ: 84588990)"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
