@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100950-9op5xi1",
 		"type": "doc",
-		"updated": "20210601185648"
+		"updated": "20210601203024"
 	},
 	"Children": [
 		{
@@ -1214,7 +1214,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-yozlufs",
-				"updated": "20210601185118"
+				"updated": "20210601203024"
 			},
 			"Children": [
 				{
@@ -4056,6 +4056,74 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td"
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"Data": "tr",
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Call up the block menu"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Ctrl+/"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌘/"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "TODO"
+								}
+							]
 						}
 					]
 				}
