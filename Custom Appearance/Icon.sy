@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100110-vcg96wy",
 		"type": "doc",
-		"updated": "20210531222122"
+		"updated": "20210601103932"
 	},
 	"Children": [
 		{
@@ -826,25 +826,18 @@
 		{
 			"ID": "20210104091404-ewdyw7f",
 			"Type": "NodeList",
-			"ListData": {
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210104091404-ewdyw7f"
+				"id": "20210104091404-ewdyw7f",
+				"updated": "20210104091404"
 			},
 			"Children": [
 				{
 					"ID": "20210104091404-ioq4e81",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210104091404-ioq4e81"
@@ -863,19 +856,20 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
-											"Type": "NodeCodeSpanContent",
+											"Type": "NodeCodeSpanContent"
+										},
+										{
+											"Type": "NodeText",
 											"Data": "index.html"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -890,13 +884,9 @@
 				{
 					"ID": "20210104091404-k2l5fm9",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210104091404-k2l5fm9"
@@ -918,13 +908,7 @@
 						{
 							"ID": "20210104091404-tv40w1x",
 							"Type": "NodeList",
-							"ListData": {
-								"Tight": true,
-								"BulletChar": 42,
-								"Padding": 2,
-								"Marker": "Kg==",
-								"Num": -1
-							},
+							"ListData": {},
 							"Properties": {
 								"id": "20210104091404-tv40w1x"
 							},
@@ -932,13 +916,9 @@
 								{
 									"ID": "20210104091404-2i6izha",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-2i6izha"
@@ -957,30 +937,27 @@
 												},
 												{
 													"Type": "NodeLink",
+													"Data": "span",
 													"Children": [
 														{
-															"Type": "NodeOpenBracket",
-															"Data": "["
+															"Type": "NodeOpenBracket"
 														},
 														{
 															"Type": "NodeLinkText",
 															"Data": "Iconfont"
 														},
 														{
-															"Type": "NodeCloseBracket",
-															"Data": "]"
+															"Type": "NodeCloseBracket"
 														},
 														{
-															"Type": "NodeOpenParen",
-															"Data": "("
+															"Type": "NodeOpenParen"
 														},
 														{
 															"Type": "NodeLinkDest",
 															"Data": "https://www.iconfont.cn"
 														},
 														{
-															"Type": "NodeCloseParen",
-															"Data": ")"
+															"Type": "NodeCloseParen"
 														}
 													]
 												},
@@ -995,13 +972,9 @@
 								{
 									"ID": "20210104091404-ohj824d",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-ohj824d"
@@ -1025,13 +998,9 @@
 								{
 									"ID": "20210104091404-4tobq3m",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-4tobq3m"
@@ -1050,30 +1019,27 @@
 												},
 												{
 													"Type": "NodeLink",
+													"Data": "span",
 													"Children": [
 														{
-															"Type": "NodeOpenBracket",
-															"Data": "["
+															"Type": "NodeOpenBracket"
 														},
 														{
 															"Type": "NodeLinkText",
 															"Data": "pngtosvg"
 														},
 														{
-															"Type": "NodeCloseBracket",
-															"Data": "]"
+															"Type": "NodeCloseBracket"
 														},
 														{
-															"Type": "NodeOpenParen",
-															"Data": "("
+															"Type": "NodeOpenParen"
 														},
 														{
 															"Type": "NodeLinkDest",
 															"Data": "https://www.pngtosvg.com/"
 														},
 														{
-															"Type": "NodeCloseParen",
-															"Data": ")"
+															"Type": "NodeCloseParen"
 														}
 													]
 												},
@@ -1092,13 +1058,9 @@
 				{
 					"ID": "20210104091404-dkmivym",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210104091404-dkmivym"
@@ -1117,30 +1079,27 @@
 								},
 								{
 									"Type": "NodeLink",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeOpenBracket",
-											"Data": "["
+											"Type": "NodeOpenBracket"
 										},
 										{
 											"Type": "NodeLinkText",
 											"Data": "IcoMoon App"
 										},
 										{
-											"Type": "NodeCloseBracket",
-											"Data": "]"
+											"Type": "NodeCloseBracket"
 										},
 										{
-											"Type": "NodeOpenParen",
-											"Data": "("
+											"Type": "NodeOpenParen"
 										},
 										{
 											"Type": "NodeLinkDest",
 											"Data": "https://icomoon.io/app/#/select"
 										},
 										{
-											"Type": "NodeCloseParen",
-											"Data": ")"
+											"Type": "NodeCloseParen"
 										}
 									]
 								},
@@ -1150,19 +1109,20 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
-											"Type": "NodeCodeSpanContent",
+											"Type": "NodeCodeSpanContent"
+										},
+										{
+											"Type": "NodeText",
 											"Data": "icon.js"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								}
@@ -1171,13 +1131,7 @@
 						{
 							"ID": "20210104091404-rfqjpsy",
 							"Type": "NodeList",
-							"ListData": {
-								"Tight": true,
-								"BulletChar": 42,
-								"Padding": 2,
-								"Marker": "Kg==",
-								"Num": -1
-							},
+							"ListData": {},
 							"Properties": {
 								"id": "20210104091404-rfqjpsy"
 							},
@@ -1185,13 +1139,9 @@
 								{
 									"ID": "20210104091404-08zo0iy",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-08zo0iy"
@@ -1210,19 +1160,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "Import Icons"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1237,13 +1188,9 @@
 								{
 									"ID": "20210104091404-qvg4wjs",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-qvg4wjs"
@@ -1259,44 +1206,40 @@
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "Select the icon and generate SVG"
-												},
-												{
-													"Type": "NodeSoftBreak",
-													"Data": "\n"
+													"Data": "Select the icon and generate SVG\n"
 												},
 												{
 													"Type": "NodeImage",
+													"Data": "span",
 													"Children": [
 														{
-															"Type": "NodeBang",
-															"Data": "!"
+															"Type": "NodeBang"
 														},
 														{
-															"Type": "NodeOpenBracket",
-															"Data": "["
+															"Type": "NodeOpenBracket"
 														},
 														{
 															"Type": "NodeLinkText",
 															"Data": "custom-icon1.png"
 														},
 														{
-															"Type": "NodeCloseBracket",
-															"Data": "]"
+															"Type": "NodeCloseBracket"
 														},
 														{
-															"Type": "NodeOpenParen",
-															"Data": "("
+															"Type": "NodeOpenParen"
 														},
 														{
 															"Type": "NodeLinkDest",
 															"Data": "assets/custom-icon1-20210512172156-jaoyrnz.png"
 														},
 														{
-															"Type": "NodeCloseParen",
-															"Data": ")"
+															"Type": "NodeCloseParen"
 														}
 													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
 												}
 											]
 										}
@@ -1305,13 +1248,9 @@
 								{
 									"ID": "20210104091404-eds5a8k",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-eds5a8k"
@@ -1327,44 +1266,40 @@
 											"Children": [
 												{
 													"Type": "NodeText",
-													"Data": "Modify the size and download"
-												},
-												{
-													"Type": "NodeSoftBreak",
-													"Data": "\n"
+													"Data": "Modify the size and download\n"
 												},
 												{
 													"Type": "NodeImage",
+													"Data": "span",
 													"Children": [
 														{
-															"Type": "NodeBang",
-															"Data": "!"
+															"Type": "NodeBang"
 														},
 														{
-															"Type": "NodeOpenBracket",
-															"Data": "["
+															"Type": "NodeOpenBracket"
 														},
 														{
 															"Type": "NodeLinkText",
 															"Data": "custom-icon2.png"
 														},
 														{
-															"Type": "NodeCloseBracket",
-															"Data": "]"
+															"Type": "NodeCloseBracket"
 														},
 														{
-															"Type": "NodeOpenParen",
-															"Data": "("
+															"Type": "NodeOpenParen"
 														},
 														{
 															"Type": "NodeLinkDest",
 															"Data": "assets/custom-icon2-20210512172204-dphc486.png"
 														},
 														{
-															"Type": "NodeCloseParen",
-															"Data": ")"
+															"Type": "NodeCloseParen"
 														}
 													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "\n"
 												}
 											]
 										}
@@ -1373,13 +1308,9 @@
 								{
 									"ID": "20210104091404-emihiqw",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-emihiqw"
@@ -1398,19 +1329,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "id"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1420,19 +1352,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "\u003csymbol id=\"icon-markdown\" viewBox=\"0 0 32 32\"\u003e"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1442,19 +1375,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "index.html"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
@@ -1465,13 +1399,9 @@
 								{
 									"ID": "20210104091404-m0zpn8g",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-m0zpn8g"
@@ -1490,19 +1420,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "\u003cdefs\u003e...\u003c/defs\u003e"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1512,19 +1443,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "icon.js"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
@@ -1539,13 +1471,9 @@
 				{
 					"ID": "20210104091404-s8l7xu3",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210104091404-s8l7xu3"
@@ -1567,12 +1495,7 @@
 						{
 							"ID": "20210104091404-pvo2ori",
 							"Type": "NodeList",
-							"ListData": {
-								"BulletChar": 42,
-								"Padding": 2,
-								"Marker": "Kg==",
-								"Num": -1
-							},
+							"ListData": {},
 							"Properties": {
 								"id": "20210104091404-pvo2ori"
 							},
@@ -1580,12 +1503,9 @@
 								{
 									"ID": "20210104091404-0cijd7s",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-0cijd7s"
@@ -1604,19 +1524,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "material"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1626,19 +1547,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "index.html"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1648,19 +1570,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "alice"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
@@ -1670,19 +1593,13 @@
 											"ID": "20210104091404-ysvipkm",
 											"Type": "NodeCodeBlock",
 											"IsFencedCodeBlock": true,
-											"CodeBlockFenceChar": 96,
-											"CodeBlockFenceLen": 3,
-											"CodeBlockOpenFence": "YGBg",
-											"CodeBlockInfo": "aHRtbA==",
-											"CodeBlockCloseFence": "YGBg",
 											"Properties": {
 												"id": "20210104091404-ysvipkm"
 											},
 											"Children": [
 												{
 													"Type": "NodeCodeBlockFenceOpenMarker",
-													"Data": "```",
-													"CodeBlockFenceLen": 3
+													"Data": "```"
 												},
 												{
 													"Type": "NodeCodeBlockFenceInfoMarker",
@@ -1694,8 +1611,7 @@
 												},
 												{
 													"Type": "NodeCodeBlockFenceCloseMarker",
-													"Data": "```",
-													"CodeBlockFenceLen": 3
+													"Data": "```"
 												}
 											]
 										}
@@ -1704,13 +1620,9 @@
 								{
 									"ID": "20210104091404-jx50ge9",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-jx50ge9"
@@ -1729,19 +1641,20 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent",
+															"Type": "NodeCodeSpanContent"
+														},
+														{
+															"Type": "NodeText",
 															"Data": "index.html"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												},
@@ -1756,13 +1669,9 @@
 								{
 									"ID": "20210104091404-hgd591a",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210104091404-hgd591a"
@@ -1781,6 +1690,7 @@
 												},
 												{
 													"Type": "NodeKbd",
+													"Data": "kbd",
 													"Children": [
 														{
 															"Type": "NodeKbdOpenMarker"
@@ -1800,6 +1710,7 @@
 												},
 												{
 													"Type": "NodeKbd",
+													"Data": "kbd",
 													"Children": [
 														{
 															"Type": "NodeKbdOpenMarker"
@@ -1819,6 +1730,7 @@
 												},
 												{
 													"Type": "NodeKbd",
+													"Data": "kbd",
 													"Children": [
 														{
 															"Type": "NodeKbdOpenMarker"
@@ -1843,32 +1755,357 @@
 							]
 						}
 					]
-				},
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-057w6ot",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210601103837-057w6ot",
+				"refcount": "2",
+				"updated": "20210601103841"
+			},
+			"Children": [
 				{
-					"ID": "20210104091404-9ju8k2d",
+					"Type": "NodeText",
+					"Data": "Push to icon bazaar"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-895y8x4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210601103837-895y8x4",
+				"updated": "20210601103854"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please make sure that the root path of your icon repository contains at least these three files before listing:"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-jcdussf",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210601103837-jcdussf",
+				"updated": "20210601103900"
+			},
+			"Children": [
+				{
+					"ID": "20210601103837-t2w9lfe",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210104091404-9ju8k2d"
+						"id": "20210601103837-t2w9lfe",
+						"updated": "20210601103858"
 					},
 					"Children": [
 						{
-							"ID": "20210104091404-x35pum5",
+							"ID": "20210601103837-yccdguo",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210104091404-x35pum5"
+								"id": "20210601103837-yccdguo",
+								"updated": "20210601103858"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Released on the shelf (contact QQ: 84588990)"
+									"Data": "icon.js"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210601103837-1fer3gl",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210601103837-1fer3gl",
+						"updated": "20210601103900"
+					},
+					"Children": [
+						{
+							"ID": "20210601103837-ndmidbx",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210601103837-ndmidbx",
+								"updated": "20210601103900"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "icon.json (please make sure the JSON format is correct)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210601103837-dsc7ww4",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210601103837-dsc7ww4"
+					},
+					"Children": [
+						{
+							"ID": "20210601103837-80g8m6h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210601103837-80g8m6h"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "preview.png (please compress the image size within 128 KB)"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-li5jnve",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210601103837-li5jnve",
+				"updated": "20210601103918"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "After confirmation, please "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "create a pull request"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to the "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Community Bazaar"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/siyuan-note/bazaar"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " repository and modify the consi.json file in it. This file is the index of all community icon repositories, the format is:"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-opzxesl",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20210601103837-opzxesl",
+				"updated": "20210601103837"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "anNvbg=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "{\n   \"repos\": [\n     \"username/reponame@commithash\"\n   ]\n}\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-f0cmnwa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210601103837-f0cmnwa",
+				"updated": "20210601103923"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Among them, "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "commithash"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ", please fill in the Git commit hash of the latest released version on your icon repository, please use the full hash value instead of the 7-digit short value."
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-h88kvay",
+			"Type": "NodeHeading",
+			"HeadingLevel": 4,
+			"Properties": {
+				"id": "20210601103837-h88kvay",
+				"updated": "20210601103837"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Update"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-fm3agi0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210601103837-fm3agi0",
+				"updated": "20210601103927"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If the icon you developed has an updated version, please remember:"
+				}
+			]
+		},
+		{
+			"ID": "20210601103837-s7rxj93",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210601103837-s7rxj93",
+				"updated": "20210601103932"
+			},
+			"Children": [
+				{
+					"ID": "20210601103837-3m8buph",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210601103837-3m8buph",
+						"updated": "20210601103932"
+					},
+					"Children": [
+						{
+							"ID": "20210601103837-2f5ovn7",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210601103837-2f5ovn7",
+								"updated": "20210601103932"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Update the version field in your icon.json"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210601103837-3fiu7qs",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210601103837-3fiu7qs"
+					},
+					"Children": [
+						{
+							"ID": "20210601103837-v0lkvnm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210601103837-v0lkvnm"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Create a Pull Request to the community bazaar"
 								}
 							]
 						}
