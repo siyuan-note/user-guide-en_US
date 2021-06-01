@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100950-9op5xi1",
 		"type": "doc",
-		"updated": "20210601112133"
+		"updated": "20210601185648"
 	},
 	"Children": [
 		{
@@ -1214,7 +1214,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-yozlufs",
-				"updated": "20210601112133"
+				"updated": "20210601185118"
 			},
 			"Children": [
 				{
@@ -3340,7 +3340,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "shift+←"
+											"Data": "Shift+←"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -3402,7 +3402,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "shift+→"
+											"Data": "Shift+→"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -3464,7 +3464,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "shift+↑"
+											"Data": "Shift+↑"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -3532,7 +3532,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "shift+↓"
+											"Data": "Shift+↓"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -3812,7 +3812,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "pageUp"
+											"Data": "PageUp"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -3858,7 +3858,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "pageDown"
+											"Data": "PageDown"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -4066,13 +4066,10 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210528103541-wdfi8b5"
+				"id": "20210528103541-wdfi8b5",
+				"updated": "20210528103541"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Block icon"
@@ -4080,136 +4077,274 @@
 			]
 		},
 		{
-			"ID": "20210528103541-icazfr0",
-			"Type": "NodeParagraph",
+			"ID": "20210601185420-1s8e9uy",
+			"Type": "NodeTable",
+			"TableAligns": [
+				0,
+				0
+			],
 			"Properties": {
-				"id": "20210528103541-icazfr0",
-				"updated": "20210601111038"
+				"id": "20210601185420-1s8e9uy",
+				"updated": "20210601185506"
 			},
 			"Children": [
 				{
-					"Type": "NodeText",
-					"Data": "| Name | Operation |\n| -------------- | -------------------------------------------- |\n| Move | Drag and drop |\n| Open the menu | Click |\n| Zoom In | "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableHead",
+					"Data": "thead",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "Ctrl+Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableRow",
+							"Data": "tr",
+							"Children": [
+								{
+									"Type": "NodeTableCell",
+									"Data": "th",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "Name"
+										}
+									]
+								},
+								{
+									"Type": "NodeTableCell",
+									"Data": "th",
+									"Children": [
+										{
+											"Type": "NodeText",
+											"Data": "操作"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " / "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableRow",
+					"Data": "tr",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Move"
+								}
+							]
 						},
 						{
-							"Type": "NodeText",
-							"Data": "⌘Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Drag and drop"
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " |\n| Collapse/Expand | "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableRow",
+					"Data": "tr",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Open the menu"
+								}
+							]
 						},
 						{
-							"Type": "NodeText",
-							"Data": "Alt+Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Click"
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " / "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableRow",
+					"Data": "tr",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Zoom In"
+								}
+							]
 						},
 						{
-							"Type": "NodeText",
-							"Data": "⌥Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Ctrl+Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌘Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " |\n| Naming | "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableRow",
+					"Data": "tr",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Collapse/Expand"
+								}
+							]
 						},
 						{
-							"Type": "NodeText",
-							"Data": "Shift+Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Alt+Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌥Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " / "
-				},
-				{
-					"Type": "NodeKbd",
-					"Data": "kbd",
+					"Type": "NodeTableRow",
+					"Data": "tr",
 					"Children": [
 						{
-							"Type": "NodeKbdOpenMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Naming"
+								}
+							]
 						},
 						{
-							"Type": "NodeText",
-							"Data": "⇧Click"
-						},
-						{
-							"Type": "NodeKbdCloseMarker"
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Shift+Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⇧Click"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
 						}
 					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " |"
 				}
 			]
 		},
@@ -5230,24 +5365,27 @@
 		{
 			"ID": "20210106154319-v6ksqnu",
 			"Type": "NodeTable",
-			"Data": "| Name           | Shortcuts                                         | Memo                            |\n| ---------------- | --------------------------------------------------- | --------------------------------- |\n| Emoji          | \u003ckbd\u003e:\u003c/kbd\u003e                                      |                                 |\n| Block Ref      | \u003ckbd\u003eCtrl+[\u003c/kbd\u003e / \u003ckbd\u003e⌘[\u003c/kbd\u003e                |        Must select content                         |\n| Bold           | \u003ckbd\u003eCtrl+B\u003c/kbd\u003e / \u003ckbd\u003e⌘B\u003c/kbd\u003e                |                                 |\n| Italic         | \u003ckbd\u003eCtrl+I\u003c/kbd\u003e / \u003ckbd\u003e⌘I\u003c/kbd\u003e                |                                 |\n| Mark           | \u003ckbd\u003eCtrl+E\u003c/kbd\u003e / \u003ckbd\u003e⌘E\u003c/kbd\u003e                |                                 |\n| Tag            | \u003ckbd\u003eCtrl+T\u003c/kbd\u003e / \u003ckbd\u003e⌘T\u003c/kbd\u003e                |                                 |\n| Strikethrough  | \u003ckbd\u003eCtrl+D\u003c/kbd\u003e / \u003ckbd\u003e⌘D\u003c/kbd\u003e                |                                 |\n| Superscript    | \u003ckbd\u003eCtrl+H\u003c/kbd\u003e / \u003ckbd\u003e⌘H\u003c/kbd\u003e                |                                 |\n| Subscript      | \u003ckbd\u003eCtrl+J\u003c/kbd\u003e / \u003ckbd\u003e⌘J\u003c/kbd\u003e                |                                 |\n| Keyboard       | \u003ckbd\u003eCtrl+'\u003c/kbd\u003e / \u003ckbd\u003e⌘'\u003c/kbd\u003e                |                                 |\n| Underline      | \u003ckbd\u003eCtrl+U\u003c/kbd\u003e / \u003ckbd\u003e⌘U\u003c/kbd\u003e                |                                 |\n| Inline math    | \u003ckbd\u003eCtrl+M\u003c/kbd\u003e / \u003ckbd\u003e⌘M\u003c/kbd\u003e                |                                 |\n| Dividing line  | \u003ckbd\u003e---\u003c/kbd\u003e                |                                 |\n| Code           | \u003ckbd\u003eCtrl+G\u003c/kbd\u003e / \u003ckbd\u003e⌘G\u003c/kbd\u003e                |                                 |\n| Blockquote     | \u003ckbd\u003e\u003e\u003c/kbd\u003e |                                 |\n| Link           | \u003ckbd\u003eCtrl+K\u003c/kbd\u003e / \u003ckbd\u003e⌘K\u003c/kbd\u003e                |                                 |\n| Font setting   | \u003ckbd\u003eAlt+X\u003c/kbd\u003e / \u003ckbd\u003e⌥X\u003c/kbd\u003e                 |           Set the selected content to the most recently used font style                      |\n| Code block     | \u003c\u003ckbd\u003e```Enter\u003c/kbd\u003e             |  |\n| Unordered list | \u003ckbd\u003e* \u003c/kbd\u003e                | See below for related shortcuts |\n| Ordered list   | \u003ckbd\u003e1. \u003c/kbd\u003e                | See below for related shortcuts |\n| Task list      | \u003ckbd\u003eCtrl+L\u003c/kbd\u003e / \u003ckbd\u003e⌘L\u003c/kbd\u003e      | See below for related shortcuts |\n| Table          |  \u003ckbd\u003eCtrl+O\u003c/kbd\u003e / \u003ckbd\u003e⌘O\u003c/kbd\u003e          | See below for related shortcuts |",
 			"TableAligns": [
 				0,
 				0,
 				0
 			],
 			"Properties": {
-				"id": "20210106154319-v6ksqnu"
+				"id": "20210106154319-v6ksqnu",
+				"updated": "20210601185648"
 			},
 			"Children": [
 				{
 					"Type": "NodeTableHead",
+					"Data": "thead",
 					"Children": [
 						{
 							"Type": "NodeTableRow",
+							"Data": "tr",
 							"Children": [
 								{
 									"Type": "NodeTableCell",
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -5257,6 +5395,7 @@
 								},
 								{
 									"Type": "NodeTableCell",
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -5266,6 +5405,7 @@
 								},
 								{
 									"Type": "NodeTableCell",
+									"Data": "th",
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -5279,14 +5419,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5296,9 +5433,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5315,20 +5454,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5338,9 +5475,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5360,6 +5499,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5377,6 +5517,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5388,14 +5529,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5405,9 +5543,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5427,6 +5567,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5443,20 +5584,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5466,9 +5605,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5488,6 +5629,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5504,20 +5646,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5527,9 +5667,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5549,6 +5691,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5565,20 +5708,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5588,9 +5729,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5610,6 +5753,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5626,20 +5770,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5649,9 +5791,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5671,6 +5815,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5687,20 +5832,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5710,9 +5853,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5732,6 +5877,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5748,20 +5894,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5771,9 +5915,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5793,6 +5939,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5809,20 +5956,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5832,9 +5977,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5854,6 +6001,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5870,20 +6018,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5893,9 +6039,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5915,6 +6063,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5931,20 +6080,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -5954,9 +6101,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5976,6 +6125,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -5992,20 +6142,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6015,9 +6163,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6034,20 +6184,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6057,9 +6205,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6079,6 +6229,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6095,20 +6246,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6118,9 +6267,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6137,20 +6288,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6160,9 +6309,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6182,6 +6333,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6198,20 +6350,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6221,9 +6371,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6243,6 +6395,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6260,6 +6413,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6271,14 +6425,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6288,13 +6439,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
-									"Type": "NodeText",
-									"Data": "\u003c"
-								},
-								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6311,20 +6460,18 @@
 							]
 						},
 						{
-							"Type": "NodeTableCell"
+							"Type": "NodeTableCell",
+							"Data": "td"
 						}
 					]
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6334,16 +6481,18 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
 										},
 										{
 											"Type": "NodeText",
-											"Data": " *"
+											"Data": "* "
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -6354,6 +6503,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6365,14 +6515,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6382,9 +6529,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6402,6 +6551,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6413,14 +6563,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6430,9 +6577,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6452,6 +6601,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6469,6 +6619,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6480,14 +6631,11 @@
 				},
 				{
 					"Type": "NodeTableRow",
-					"TableAligns": [
-						0,
-						0,
-						0
-					],
+					"Data": "tr",
 					"Children": [
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -6497,9 +6645,11 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6519,6 +6669,7 @@
 								},
 								{
 									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
 											"Type": "NodeKbdOpenMarker"
@@ -6536,6 +6687,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeText",
