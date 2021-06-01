@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200923234011-ieuun1p",
 		"type": "doc",
-		"updated": "20210528120351"
+		"updated": "20210601234314"
 	},
 	"Children": [
 		{
@@ -13,16 +13,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20210428222013-0afj8vn",
-				"updated": "20210428222155"
+				"updated": "20210601233930"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "🧱 Content block"
+					"Data": "🍫 Content block"
 				}
 			]
 		},
@@ -77,7 +73,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20210528120135-bznvpp6",
-				"updated": "20210528120351"
+				"updated": "20210601233825"
 			},
 			"Children": [
 				{
@@ -92,7 +88,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120142-hprb4ja",
-						"updated": "20210528120351"
+						"updated": "20210601233810"
 					},
 					"Children": [
 						{
@@ -107,12 +103,13 @@
 							"Type": "NodeHeading",
 							"HeadingLevel": 2,
 							"Properties": {
-								"id": "20201225220954-keui8uy"
+								"id": "20201225220954-keui8uy",
+								"updated": "20210601233810"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "🔮 Quick start"
+									"Data": "🍔 Start eating"
 								}
 							]
 						},
@@ -326,7 +323,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120140-1cfmrhm",
-						"updated": "20210528120213"
+						"updated": "20210601233825"
 					},
 					"Children": [
 						{
@@ -341,12 +338,13 @@
 							"Type": "NodeHeading",
 							"HeadingLevel": 2,
 							"Properties": {
-								"id": "20201225220954-qtw7nfl"
+								"id": "20201225220954-qtw7nfl",
+								"updated": "20210601233825"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "💡 Suggested reading"
+									"Data": "🍹 Drink recommendation"
 								}
 							]
 						},
@@ -577,7 +575,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20210528120236-zyh2t7d",
-				"updated": "20210528120311"
+				"updated": "20210601234314"
 			},
 			"Children": [
 				{
@@ -592,7 +590,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120311-ys4nmlw",
-						"updated": "20210528120311"
+						"updated": "20210601233839"
 					},
 					"Children": [
 						{
@@ -607,12 +605,13 @@
 							"Type": "NodeHeading",
 							"HeadingLevel": 2,
 							"Properties": {
-								"id": "20201225220954-s2g98gd"
+								"id": "20201225220954-s2g98gd",
+								"updated": "20210601233839"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "🏘️ Community"
+									"Data": "🏘️ Our home"
 								}
 							]
 						},
@@ -783,7 +782,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120308-9wuiyyz",
-						"updated": "20210528120308"
+						"updated": "20210601234314"
 					},
 					"Children": [
 						{
@@ -813,7 +812,8 @@
 							"Type": "NodeList",
 							"ListData": {},
 							"Properties": {
-								"id": "20210317214434-nx9mt0d"
+								"id": "20210317214434-nx9mt0d",
+								"updated": "20210601234314"
 							},
 							"Children": [
 								{
@@ -873,7 +873,8 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20210317214158-92uea49"
+										"id": "20210317214158-92uea49",
+										"updated": "20210601234310"
 									},
 									"Children": [
 										{
@@ -881,7 +882,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20210317214158-acl7oxj",
-												"updated": "20210501193214"
+												"updated": "20210601234310"
 											},
 											"Children": [
 												{
@@ -909,35 +910,6 @@
 															"Type": "NodeCloseParen"
 														}
 													]
-												},
-												{
-													"Type": "NodeBlockRef",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20201225222754-u4sica8"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "Push to theme bazaar"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
 												}
 											]
 										}
@@ -951,14 +923,16 @@
 										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20210528120300-nrqw356"
+										"id": "20210528120300-nrqw356",
+										"updated": "20210601234314"
 									},
 									"Children": [
 										{
 											"ID": "20210528120300-w3gljah",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20210528120300-w3gljah"
+												"id": "20210528120300-w3gljah",
+												"updated": "20210601234314"
 											},
 											"Children": [
 												{
@@ -981,35 +955,6 @@
 														{
 															"Type": "NodeBlockRefText",
 															"Data": "Push to theme bazaar"
-														},
-														{
-															"Type": "NodeCloseParen"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
-												},
-												{
-													"Type": "NodeBlockRef",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeBlockRefID",
-															"Data": "20210131162806-sk9tg4q"
-														},
-														{
-															"Type": "NodeBlockRefSpace"
-														},
-														{
-															"Type": "NodeBlockRefText",
-															"Data": "Push to template bazaar"
 														},
 														{
 															"Type": "NodeCloseParen"
