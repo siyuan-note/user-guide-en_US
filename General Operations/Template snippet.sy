@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20201204184532-3qm9l8n",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210604111632"
 	},
 	"Children": [
 		{
@@ -430,27 +431,18 @@
 		{
 			"ID": "20210104091444-mwbvc9m",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210104091444-mwbvc9m"
+				"id": "20210104091444-mwbvc9m",
+				"updated": "20210104091444"
 			},
 			"Children": [
 				{
 					"ID": "20210104091444-d5hpwdd",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210104091444-d5hpwdd"
@@ -466,19 +458,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "title"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -488,19 +478,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "# .action{.title}"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -515,13 +503,9 @@
 				{
 					"ID": "20210221131637-9xmclwp",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210221131637-9xmclwp"
@@ -537,19 +521,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "id"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -564,13 +546,9 @@
 				{
 					"ID": "20210121193829-wfzsf6m",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210121193829-wfzsf6m"
@@ -586,19 +564,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "queryBlocks"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -608,19 +584,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": ".action{sql \"SELECT * FROM blocks LIMIT 7\"}"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								}
@@ -631,13 +605,9 @@
 				{
 					"ID": "20210504093232-vukp34t",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210504093232-vukp34t"
@@ -653,19 +623,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "querySpans"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -675,25 +643,99 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": ".action{sql \"SELECT * FROM spans LIMIT 7\"}"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								}
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20210604111714-yc1e5gj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210604111714-yc1e5gj",
+				"updated": "20210604111715"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "queryBlocks"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " and "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "querySpans"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " support variable parameter lists similar to SQL prepared statements to facilitate the input of parameters:"
+				}
+			]
+		},
+		{
+			"ID": "20210604111750-c3sm3jr",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20210604111750-c3sm3jr",
+				"updated": "20210604111632"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker"
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": ".action{$today := now | date \"20060102150405\"}\n.action{$blocks :=queryBlocks \"SELECT * FROM blocks WHERE content LIKE '?' AND updated \u003e '?' LIMIT ?\" \"%foo%\" $today \"3\"}\n"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
 				}
 			]
 		},
