@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100950-9op5xi1",
 		"type": "doc",
-		"updated": "20210601203024"
+		"updated": "20210604100551"
 	},
 	"Children": [
 		{
@@ -1214,7 +1214,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-yozlufs",
-				"updated": "20210601203024"
+				"updated": "20210604100551"
 			},
 			"Children": [
 				{
@@ -2271,7 +2271,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Use the selection as the content of the new document"
+									"Data": "Use the selection/block as the content of the new document"
 								}
 							]
 						},
@@ -2871,7 +2871,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Insert an empty block before the block where the cursor is"
+									"Data": "Insert an empty block before the block"
 								}
 							]
 						},
@@ -2933,7 +2933,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Insert an empty block after the block where the cursor is"
+									"Data": "Insert an empty block after the block"
 								}
 							]
 						},
@@ -2995,7 +2995,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Move up the block where the cursor is"
+									"Data": "Move up the block"
 								}
 							]
 						},
@@ -3057,7 +3057,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Move down the block where the cursor is"
+									"Data": "Move down the block"
 								}
 							]
 						},
