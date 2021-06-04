@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200924100744-br924ar",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210604092437"
 	},
 	"Children": [
 		{
@@ -90,56 +91,51 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210104091430-yd3zyeu",
-				"updated": "20210512171730"
+				"updated": "20210604092437"
 			},
 			"Children": [
 				{
 					"Type": "NodeImage",
+					"Data": "span",
 					"Properties": {
-						"parent-style": "display: block; text-align: center; white-space: initial;"
+						"parent-style": "display: block;"
 					},
 					"Children": [
 						{
-							"Type": "NodeBang",
-							"Data": "!"
+							"Type": "NodeBang"
 						},
 						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
+							"Type": "NodeOpenBracket"
 						},
 						{
 							"Type": "NodeLinkText",
-							"Data": "SiYuan.png"
+							"Data": "siyuan-128.png"
 						},
 						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
+							"Type": "NodeCloseBracket"
 						},
 						{
-							"Type": "NodeOpenParen",
-							"Data": "("
+							"Type": "NodeOpenParen"
 						},
 						{
 							"Type": "NodeLinkDest",
-							"Data": "assets/SiYuan-20210512171727-0xnnlw8.png"
+							"Data": "assets/siyuan-128-20210604092437-7iqzf90.png"
 						},
 						{
-							"Type": "NodeLinkSpace",
-							"Data": " "
+							"Type": "NodeLinkSpace"
 						},
 						{
 							"Type": "NodeLinkTitle",
 							"Data": "When one drinks water, one must not forget where it comes from"
 						},
 						{
-							"Type": "NodeCloseParen",
-							"Data": "){: parent-style=\"display: block; text-align: center; white-space: initial;\"}"
+							"Type": "NodeCloseParen"
 						}
 					]
 				},
 				{
-					"Type": "NodeKramdownSpanIAL",
-					"Data": "{: parent-style=\"display: block; text-align: center; white-space: initial;\"}"
+					"Type": "NodeText",
+					"Data": "\n"
 				}
 			]
 		},
