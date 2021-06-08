@@ -3,8 +3,9 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200924093441-ft2rhps",
+		"title-img": "background-color: #eee;background-image: linear-gradient(45deg, black 25%, transparent 25%, transparent 75%, black 75%, black),linear-gradient(-45deg, black 25%, transparent 25%, transparent 75%, black 75%, black);background-size: 60px 60px;",
 		"type": "doc",
-		"updated": "20210608004924"
+		"updated": "20210608121411"
 	},
 	"Children": [
 		{
@@ -2942,6 +2943,54 @@
 			"Properties": {
 				"id": "20210604230356-arowh1n",
 				"updated": "20210604230418"
+			}
+		},
+		{
+			"ID": "20210608121322-k9l5wuv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210608121322-k9l5wuv",
+				"updated": "20210608121326"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Video"
+				}
+			]
+		},
+		{
+			"ID": "20210608121411-kozcesg",
+			"Type": "NodeVideo",
+			"Data": "\u003cvideo controls=\"controls\" src=\"assets/formatting_elements-20210607225733-o1keasx.mp4\" data-src=\"assets/formatting_elements-20210607225733-o1keasx-20210608121411-e5qfbf8.mp4\" style=\"width: 260px; height: 187px;\"\u003e\u003c/video\u003e",
+			"Properties": {
+				"id": "20210608121411-kozcesg",
+				"updated": "20210608121411"
+			}
+		},
+		{
+			"ID": "20210608121327-5vbk32w",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20210608121327-5vbk32w",
+				"updated": "20210608121331"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Audio"
+				}
+			]
+		},
+		{
+			"ID": "20210608121458-7rrz8f2",
+			"Type": "NodeAudio",
+			"Data": "\u003caudio controls=\"controls\" src=\"assets/record1623077643753-20210607225403-7cg1jkq.wav\" data-src=\"assets/record1623077643753-20210607225403-7cg1jkq-20210608121458-mc4mcvz.wav\"\u003e\u003c/audio\u003e",
+			"Properties": {
+				"id": "20210608121458-7rrz8f2",
+				"updated": "20210608121458"
 			}
 		},
 		{
