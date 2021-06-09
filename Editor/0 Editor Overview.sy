@@ -7,19 +7,6 @@
 	},
 	"Children": [
 		{
-			"ID": "20210419175558-ol0dnii",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210419175558-ol0dnii"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "WYSIWYG is the default editing mode, the main features are as follows:"
-				}
-			]
-		},
-		{
 			"ID": "20210419175558-p7doxbn",
 			"Type": "NodeList",
 			"ListData": {
