@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20201002092058-85k2cws",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210403161323"
 	},
 	"Children": [
 		{
@@ -297,15 +298,12 @@
 		{
 			"ID": "20210403161405-x8jdh65",
 			"Type": "NodeHeading",
-			"HeadingLevel": 2,
+			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210403161405-x8jdh65"
+				"id": "20210403161405-x8jdh65",
+				"updated": "20210403161405"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Browsing History"
@@ -405,16 +403,13 @@
 		{
 			"ID": "20210104091559-kgrtuyh",
 			"Type": "NodeHeading",
-			"HeadingLevel": 2,
+			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20210104091559-kgrtuyh",
+				"refcount": "1",
 				"updated": "20210403161323"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Rollback"
