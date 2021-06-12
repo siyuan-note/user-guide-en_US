@@ -1206,7 +1206,7 @@
 					"Type": "NodeImage",
 					"Data": "span",
 					"Properties": {
-						"parent-style": "display: block;"
+						"style": "display: block;"
 					},
 					"Children": [
 						{
