@@ -5,7 +5,7 @@
 		"id": "20200924093441-ft2rhps",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20210608121411"
+		"updated": "20210612222558"
 	},
 	"Children": [
 		{
@@ -1259,7 +1259,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20210604235938-8t6fpd8",
-				"updated": "20210604235922"
+				"updated": "20210612222558"
 			},
 			"Children": [
 				{
@@ -1274,7 +1274,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210604235929-6qqehly",
-						"updated": "20210604235920"
+						"updated": "20210612222556"
 					},
 					"Children": [
 						{
@@ -1304,13 +1304,13 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210604235917-ksnu4s8",
-								"style": "color: var(--b3-card-warning-color);background-color: var(--b3-card-warning-background);",
-								"updated": "20210604235920"
+								"style": "color: var(--b3-card-warning-color); background-color: var(--b3-card-warning-background); text-align: center;",
+								"updated": "20210612222556"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Paragraph 2"
+									"Data": "Paragraph 2 Center"
 								}
 							]
 						},
@@ -1324,7 +1324,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210604235934-72p934x",
-						"updated": "20210604235922"
+						"updated": "20210612222558"
 					},
 					"Children": [
 						{
@@ -1354,13 +1354,13 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210604235918-n3ml6hh",
-								"style": "color: var(--b3-card-success-color);background-color: var(--b3-card-success-background);",
-								"updated": "20210604235922"
+								"style": "color: var(--b3-card-success-color); background-color: var(--b3-card-success-background); text-align: right;",
+								"updated": "20210612222558"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Paragraph 4"
+									"Data": "Paragraph 4 Right"
 								}
 							]
 						},
