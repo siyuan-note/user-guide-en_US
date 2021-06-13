@@ -1228,41 +1228,6 @@
 			]
 		},
 		{
-			"ID": "20210104091538-9a3yc1w",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210104091538-9a3yc1w"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "You can switch the math formula block rendering engine in the settings, the default is "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "MathJax"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": "."
-				}
-			]
-		},
-		{
 			"ID": "20210104091538-fa7y245",
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
