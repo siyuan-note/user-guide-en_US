@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200923234731-h3zkwm2",
 		"type": "doc",
-		"updated": "20210605222708"
+		"updated": "20210615213155"
 	},
 	"Children": [
 		{
@@ -379,19 +379,20 @@
 			]
 		},
 		{
-			"ID": "20210512152557-nbglxya",
+			"ID": "20210615213114-fq2uew0",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210512152557-nbglxya",
-				"updated": "20210513000357"
+				"id": "20210615213114-fq2uew0",
+				"updated": "20210615213124"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly, SiYuan will perform the deletion "
+					"Data": "After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly. When deleted, SiYuan will generate "
 				},
 				{
 					"Type": "NodeBlockRef",
+					"Data": "span",
 					"Children": [
 						{
 							"Type": "NodeOpenParen"
@@ -401,14 +402,14 @@
 						},
 						{
 							"Type": "NodeBlockRefID",
-							"Data": "20201002092058-85k2cws"
+							"Data": "20210615211733-v6rzowm"
 						},
 						{
 							"Type": "NodeBlockRefSpace"
 						},
 						{
 							"Type": "NodeBlockRefText",
-							"Data": "Auto Backup"
+							"Data": "Edit History"
 						},
 						{
 							"Type": "NodeCloseParen"
@@ -640,7 +641,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210315224644-d8kjhtk",
-				"updated": "20210402001829"
+				"updated": "20210615213155"
 			},
 			"Children": [
 				{
@@ -649,25 +650,23 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": ".siyuan/backup/"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
-					"Data": " folder on the file system and delete unnecessary backup history."
+					"Data": " folder on the file system and delete unnecessary history."
 				}
 			]
 		},
