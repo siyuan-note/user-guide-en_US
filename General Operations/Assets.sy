@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100744-br924ar",
 		"type": "doc",
-		"updated": "20210604092437"
+		"updated": "20210615103054"
 	},
 	"Children": [
 		{
@@ -31,12 +31,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210503095710-1vp1uxw",
-				"updated": "20210503095750"
+				"updated": "20210615102935"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "All attachment files inserted through the editor are asset files, and they will be placed in the data/assets folder of the workspace."
+					"Data": "Attachments inserted through the editor will be regarded as asset files and will be placed in the workspace data/assets folder by default."
 				}
 			]
 		},
@@ -77,12 +77,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210104091430-tj5w1co",
-				"updated": "20210417113148"
+				"updated": "20210615102951"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "If you specify a title for a picture, then the title will be rendered below the image as a legend, and the title part of the text supports span-level typesetting, such as bold, Italics, formulas, etc."
+					"Data": "If you specify a title for a picture, then the title will be rendered below the image as a legend."
 				}
 			]
 		},
@@ -527,6 +527,35 @@
 				{
 					"Type": "NodeText",
 					"Data": ": Using absolute paths (local or network paths) will not be included Clean up calculations."
+				}
+			]
+		},
+		{
+			"ID": "20210615102954-iw9mkok",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210615102954-iw9mkok",
+				"updated": "20210615103009"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Notebook assets"
+				}
+			]
+		},
+		{
+			"ID": "20210615103010-ysrwldr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210615103010-ysrwldr",
+				"updated": "20210615103054"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you need to place the inserted asset files in the assets folder of the notebook by default, you need to create a folder named assets under the notebook folder first, so that SiYuan will give priority to the assets folder to store the asset files."
 				}
 			]
 		}
