@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200923234731-h3zkwm2",
 		"type": "doc",
-		"updated": "20210615213155"
+		"updated": "20210621110134"
 	},
 	"Children": [
 		{
@@ -81,27 +81,18 @@
 		{
 			"ID": "20210428222603-moih9fe",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210428222603-moih9fe"
+				"id": "20210428222603-moih9fe",
+				"updated": "20210428222603"
 			},
 			"Children": [
 				{
 					"ID": "20210428222603-gxgx3vi",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210428222603-gxgx3vi"
@@ -117,19 +108,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "assets"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -144,13 +133,9 @@
 				{
 					"ID": "20210428222603-vtr89xq",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210428222603-vtr89xq"
@@ -166,19 +151,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "templates"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -188,6 +171,7 @@
 								},
 								{
 									"Type": "NodeBlockRef",
+									"Data": "span",
 									"Children": [
 										{
 											"Type": "NodeOpenParen"
@@ -221,13 +205,9 @@
 				{
 					"ID": "20210428222603-456vgdh",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210428222603-456vgdh"
@@ -243,19 +223,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "widgets"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -265,18 +243,17 @@
 								},
 								{
 									"Type": "NodeTag",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeTagOpenMarker",
-											"Data": "#"
+											"Type": "NodeTagOpenMarker"
 										},
 										{
 											"Type": "NodeText",
 											"Data": "TODO"
 										},
 										{
-											"Type": "NodeTagCloseMarker",
-											"Data": "#"
+											"Type": "NodeTagCloseMarker"
 										}
 									]
 								}
@@ -287,13 +264,9 @@
 				{
 					"ID": "20210428222603-27so3jy",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210428222603-27so3jy"
@@ -313,19 +286,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": ".sy"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -336,6 +307,35 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20210621110121-1ttvz1s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210621110121-1ttvz1s",
+				"updated": "20210621110121"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to modify the name of a notebook or delete a notebook?"
+				}
+			]
+		},
+		{
+			"ID": "20210621110121-4mbndpt",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210621110121-4mbndpt",
+				"updated": "20210621110134"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please modify or delete directly on the file system, and then restart SiYuan."
 				}
 			]
 		},
