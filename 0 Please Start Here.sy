@@ -3,8 +3,9 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200923234011-ieuun1p",
+		"title-img": "background-color:#556;background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a),linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);background-size:80px 140px;background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;",
 		"type": "doc",
-		"updated": "20210601234314"
+		"updated": "20210601233839"
 	},
 	"Children": [
 		{
@@ -12,13 +13,39 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
 			"Properties": {
+				"bookmark": "✨",
 				"id": "20210428222013-0afj8vn",
 				"updated": "20210601233930"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "🍫 Content block"
+					"Data": "🍫 "
+				},
+				{
+					"Type": "NodeStrong",
+					"Data": "strong",
+					"Properties": {
+						"style": "background-image: linear-gradient(to right, var(--b3-theme-primary), var(--b3-theme-error)); -webkit-background-clip: text; color: transparent;"
+					},
+					"Children": [
+						{
+							"Type": "NodeStrongA6kOpenMarker",
+							"Data": "**"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Content block"
+						},
+						{
+							"Type": "NodeStrongA6kCloseMarker",
+							"Data": "**"
+						}
+					]
+				},
+				{
+					"Type": "NodeKramdownSpanIAL",
+					"Data": "{: style=\"background-image: linear-gradient(to right, var(--b3-theme-primary), var(--b3-theme-error)); -webkit-background-clip: text; color: transparent;\"}"
 				}
 			]
 		},
@@ -27,6 +54,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210428222033-bhbz6yg",
+				"style": "color: var(--b3-card-info-color); background-color: var(--b3-card-info-background);",
 				"updated": "20210512150301"
 			},
 			"Children": [
@@ -36,6 +64,7 @@
 				},
 				{
 					"Type": "NodeBlockRef",
+					"Data": "span",
 					"Children": [
 						{
 							"Type": "NodeOpenParen"
@@ -73,7 +102,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20210528120135-bznvpp6",
-				"updated": "20210601233825"
+				"updated": "20210601233810"
 			},
 			"Children": [
 				{
@@ -88,6 +117,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120142-hprb4ja",
+						"style": "width: 62%; flex: 0 0 auto;",
 						"updated": "20210601233810"
 					},
 					"Children": [
@@ -177,10 +207,7 @@
 															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
-															"Type": "NodeCodeSpanContent"
-														},
-														{
-															"Type": "NodeText",
+															"Type": "NodeCodeSpanContent",
 															"Data": "/"
 														},
 														{
@@ -323,7 +350,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120140-1cfmrhm",
-						"updated": "20210601233825"
+						"updated": "20210622215847"
 					},
 					"Children": [
 						{
@@ -339,12 +366,12 @@
 							"HeadingLevel": 2,
 							"Properties": {
 								"id": "20201225220954-qtw7nfl",
-								"updated": "20210601233825"
+								"updated": "20210622215847"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "🍹 Drink recommendation"
+									"Data": "🍹 Drink recommend"
 								}
 							]
 						},
@@ -575,7 +602,7 @@
 			"Type": "NodeSuperBlock",
 			"Properties": {
 				"id": "20210528120236-zyh2t7d",
-				"updated": "20210601234314"
+				"updated": "20210601233839"
 			},
 			"Children": [
 				{
@@ -590,6 +617,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120311-ys4nmlw",
+						"style": "width: 62%; flex: 0 0 auto;",
 						"updated": "20210601233839"
 					},
 					"Children": [
@@ -606,6 +634,7 @@
 							"HeadingLevel": 2,
 							"Properties": {
 								"id": "20201225220954-s2g98gd",
+								"name": "Community",
 								"updated": "20210601233839"
 							},
 							"Children": [
@@ -782,7 +811,7 @@
 					"Type": "NodeSuperBlock",
 					"Properties": {
 						"id": "20210528120308-9wuiyyz",
-						"updated": "20210601234314"
+						"updated": "20210623001017"
 					},
 					"Children": [
 						{
@@ -798,12 +827,12 @@
 							"HeadingLevel": 2,
 							"Properties": {
 								"id": "20210131161629-mutbkca",
-								"updated": "20210502234000"
+								"updated": "20210623001017"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "💌 Participate in contribution"
+									"Data": "💌 Contribution"
 								}
 							]
 						},
