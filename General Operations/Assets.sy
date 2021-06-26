@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100744-br924ar",
 		"type": "doc",
-		"updated": "20210615103054"
+		"updated": "20210626153621"
 	},
 	"Children": [
 		{
@@ -550,12 +550,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210615103010-ysrwldr",
-				"updated": "20210615103054"
+				"updated": "20210626153621"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "If you need to place the inserted asset files in the assets folder of the notebook by default, you need to create a folder named assets under the notebook folder first, so that SiYuan will give priority to the assets folder to store the asset files."
+					"Data": "If you need to place the inserted asset file in the assets folder at the same level as the document by default, you need to manually create a folder named assets first, so that SiYuan will give priority to the assets folder to store asset files."
 				}
 			]
 		}
