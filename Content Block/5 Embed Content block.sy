@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20201117112518-dott91x",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210630172645"
 	},
 	"Children": [
 		{
@@ -737,6 +738,101 @@
 				{
 					"Type": "NodeBlockQueryEmbedScript",
 					"Data": "SELECT * FROM blocks ORDER BY random() LIMIT 3"
+				},
+				{
+					"Type": "NodeCloseBrace"
+				},
+				{
+					"Type": "NodeCloseBrace"
+				}
+			]
+		},
+		{
+			"ID": "20210630172523-9xe9jj2",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20210630172523-9xe9jj2",
+				"updated": "20210630172530"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Case 4"
+				}
+			]
+		},
+		{
+			"ID": "20210630172530-nyer3fx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210630172530-nyer3fx",
+				"updated": "20210630172540"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "To query the unfinished task list items, you need to use the "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "markdown"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " field instead of the "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "content"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " field:"
+				}
+			]
+		},
+		{
+			"ID": "20210630172551-xbk6xa8",
+			"Type": "NodeBlockQueryEmbed",
+			"Properties": {
+				"id": "20210630172551-xbk6xa8",
+				"updated": "20210630172621"
+			},
+			"Children": [
+				{
+					"Type": "NodeOpenBrace"
+				},
+				{
+					"Type": "NodeOpenBrace"
+				},
+				{
+					"Type": "NodeBlockQueryEmbedScript",
+					"Data": "SELECT * FROM blocks WHERE markdown LIKE '%- [ ]%' AND subtype = 't' AND type = 'i'"
 				},
 				{
 					"Type": "NodeCloseBrace"

@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210117215840-jcl17fx",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210630171938"
 	},
 	"Children": [
 		{
@@ -286,7 +287,8 @@
 				"Num": -1
 			},
 			"Properties": {
-				"id": "20210525221058-f7tzw3t"
+				"id": "20210525221058-f7tzw3t",
+				"updated": "20210630171938"
 			},
 			"Children": [
 				{
@@ -391,19 +393,21 @@
 						"Num": -1
 					},
 					"Properties": {
-						"id": "20210525221058-dziwuag"
+						"id": "20210525221058-dziwuag",
+						"updated": "20210630171938"
 					},
 					"Children": [
 						{
 							"ID": "20210525221058-vt07uf5",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210525221058-vt07uf5"
+								"id": "20210525221058-vt07uf5",
+								"updated": "20210630171938"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "The password is not stored, and the user needs to input when encrypting and decrypting"
+									"Data": "The password set by the user is encrypted with the built-in key of the program and stored locally"
 								}
 							]
 						}
