@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200924100950-9op5xi1",
 		"type": "doc",
-		"updated": "20210701234141"
+		"updated": "20210703193031"
 	},
 	"Children": [
 		{
@@ -1236,7 +1236,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-yozlufs",
-				"updated": "20210628235041"
+				"updated": "20210703193031"
 			},
 			"Children": [
 				{
@@ -4164,7 +4164,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "（（"
+											"Data": "Ctrl+["
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -4184,7 +4184,91 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "【【"
+											"Data": "⌘["
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Ctrl+["
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌘["
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " Text content needs to be selected"
+								}
+							]
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"Data": "tr",
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Embed content block"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "{{"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
