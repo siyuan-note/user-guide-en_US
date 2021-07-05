@@ -2344,7 +2344,7 @@
 					"Children": [
 						{
 							"Type": "NodeText",
-							"Data": "Note that it is not a content block quote, but a block quote (Blockquote)."
+							"Data": "Note that it is not a content block ref, but a block quote (Blockquote)."
 						}
 					]
 				}
