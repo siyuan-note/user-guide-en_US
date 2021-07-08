@@ -3,7 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200924100808-j9sddk9",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210708215225"
 	},
 	"Children": [
 		{
@@ -29,12 +30,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210120161035-zxkyg0w",
-				"updated": "20210302223730"
+				"updated": "20210708215225"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Right-click and select \"Import\" after selecting a folder on the doc tree, and you can choose to import a folder or a single file in the secondary menu."
+					"Data": "SiYuan only supports importing Markdown files. Select the folder on the document tree and right-click and select \"Import\". The secondary menu can choose to import a folder or import a single Markdown file."
 				}
 			]
 		},
