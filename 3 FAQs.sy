@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200923234731-h3zkwm2",
 		"type": "doc",
-		"updated": "20210621110134"
+		"updated": "20210708214602"
 	},
 	"Children": [
 		{
@@ -497,12 +497,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210605222653-7jvfzdc",
-				"updated": "20210605222653"
+				"updated": "20210708214602"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Please use full-width spaces."
+					"Data": "Please use full-width spaces so that the content can be aligned after it is automatically wrapped."
 				}
 			]
 		},
