@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20200923234731-h3zkwm2",
 		"type": "doc",
-		"updated": "20210708214602"
+		"updated": "20210710113717"
 	},
 	"Children": [
 		{
@@ -503,6 +503,35 @@
 				{
 					"Type": "NodeText",
 					"Data": "Please use full-width spaces so that the content can be aligned after it is automatically wrapped."
+				}
+			]
+		},
+		{
+			"ID": "20210710113628-6qfvp51",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210710113628-6qfvp51",
+				"updated": "20210710113717"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to move the heading and blocks below it?"
+				}
+			]
+		},
+		{
+			"ID": "20210710113628-kfwkvcr",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210710113628-kfwkvcr",
+				"updated": "20210710113648"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Fold the heading and move it later."
 				}
 			]
 		},
