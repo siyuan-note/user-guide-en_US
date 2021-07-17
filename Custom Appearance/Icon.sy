@@ -3,6 +3,7 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20200924100110-vcg96wy",
+		"title": "Icon",
 		"type": "doc",
 		"updated": "20210601103932"
 	},
@@ -1764,7 +1765,6 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20210601103837-057w6ot",
-				"refcount": "2",
 				"updated": "20210601103841"
 			},
 			"Children": [
