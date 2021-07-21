@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Sync",
-		"updated": "20210721113414"
+		"updated": "20210721160206"
 	},
 	"Children": [
 		{
@@ -523,7 +523,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210721112403-th2r6zf",
-				"updated": "20210721112403"
+				"updated": "20210721160206"
 			},
 			"Children": [
 				{
@@ -645,6 +645,34 @@
 								{
 									"Type": "NodeText",
 									"Data": "Please be sure to calibrate the device time"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210721160159-gc5tin2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210721160159-gc5tin2",
+						"updated": "20210721160206"
+					},
+					"Children": [
+						{
+							"ID": "20210721160159-keim8rq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210721160159-keim8rq",
+								"updated": "20210721160206"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Do not use a third-party sync disk and SiYuan sync at the same time, it may cause data damage"
 								}
 							]
 						}
