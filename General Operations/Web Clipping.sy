@@ -5,7 +5,7 @@
 		"id": "20210505164949-c085p1d",
 		"title": "Web Clipping",
 		"type": "doc",
-		"updated": "20210531181547"
+		"updated": "20210531181057"
 	},
 	"Children": [
 		{
@@ -61,28 +61,18 @@
 		{
 			"ID": "20210505165011-7ik6g6y",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
 				"id": "20210505165011-7ik6g6y",
-				"updated": "20210505165106"
+				"updated": "20210724233849"
 			},
 			"Children": [
 				{
 					"ID": "20210505165011-jccqwcs",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210505165011-jccqwcs"
@@ -107,17 +97,13 @@
 				{
 					"ID": "20210505165011-h6wqx9o",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210505165011-h6wqx9o",
-						"updated": "20210505165106"
+						"updated": "20210724233849"
 					},
 					"Children": [
 						{
@@ -125,62 +111,131 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210505165011-crzzegk",
-								"updated": "20210505165106"
+								"updated": "20210724233741"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "If you want to pull the pictures contained in the clipped content to the local, you need to use "
-								},
+									"Data": "If you want to pull the pictures contained in the clipped content to the local"
+								}
+							]
+						},
+						{
+							"ID": "20210724233742-0prvguj",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20210724233742-0prvguj",
+								"updated": "20210724233849"
+							},
+							"Children": [
 								{
-									"Type": "NodeLink",
-									"Data": "span",
+									"ID": "20210724233741-totmy4m",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210724233741-totmy4m",
+										"updated": "20210724233801"
+									},
 									"Children": [
 										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "SiYuan Chrome Extension"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/siyuan-note/siyuan-chrome"
-										},
-										{
-											"Type": "NodeCloseParen"
+											"ID": "20210724233741-lsvxq21",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210724233741-lsvxq21",
+												"updated": "20210724233801"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Recommend to use "
+												},
+												{
+													"Type": "NodeLink",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "Web Clipper"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://clipper.website"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
 										}
 									]
 								},
 								{
-									"Type": "NodeText",
-									"Data": ". "
-								},
-								{
-									"Type": "NodeTag",
-									"Data": "span",
+									"ID": "20210724233758-tangmrl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210724233758-tangmrl",
+										"updated": "20210724233849"
+									},
 									"Children": [
 										{
-											"Type": "NodeTagOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Note"
-										},
-										{
-											"Type": "NodeTagCloseMarker"
+											"ID": "20210724233758-ojwfjft",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210724233758-ojwfjft",
+												"updated": "20210724233849"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Or "
+												},
+												{
+													"Type": "NodeLink",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "SiYuan Chrome Extension"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://chrome.google.com/webstore/detail/siyuan/hkcgjbeblifaincobbcfiffbpgoafepk"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": Pulling pictures locally is a paid subscription feature"
 								}
 							]
 						}
@@ -200,121 +255,6 @@
 				{
 					"Type": "NodeText",
 					"Data": "SiYuan Chrome Extension"
-				}
-			]
-		},
-		{
-			"ID": "20210531181129-p3js0ef",
-			"Type": "NodeList",
-			"ListData": {},
-			"Properties": {
-				"id": "20210531181129-p3js0ef",
-				"updated": "20210531181137"
-			},
-			"Children": [
-				{
-					"ID": "20210531181129-2886d3o",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210531181129-2886d3o",
-						"updated": "20210531181137"
-					},
-					"Children": [
-						{
-							"ID": "20210531181129-sg38t2p",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210531181129-sg38t2p",
-								"updated": "20210531181137"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "Stable version"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://chrome.google.com/webstore/detail/siyuan/hkcgjbeblifaincobbcfiffbpgoafepk"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " has been published on the Chrome Web Store"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210531181129-574i8iv",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210531181129-574i8iv",
-						"updated": "20210531181129"
-					},
-					"Children": [
-						{
-							"ID": "20210531181129-2c06vuk",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210531181129-2c06vuk",
-								"updated": "20210531181129"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "Development version"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/siyuan-note/siyuan-chrome"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								}
-							]
-						}
-					]
 				}
 			]
 		},
