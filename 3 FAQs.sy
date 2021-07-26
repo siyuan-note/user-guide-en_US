@@ -5,7 +5,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210710113717"
+		"updated": "20210726165111"
 	},
 	"Children": [
 		{
@@ -863,7 +863,8 @@
 			"ID": "20201224120448-20hmjfc",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20201224120448-20hmjfc"
+				"id": "20201224120448-20hmjfc",
+				"updated": "20210726165111"
 			},
 			"Children": [
 				{
@@ -872,69 +873,33 @@
 				},
 				{
 					"Type": "NodeLink",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
+							"Type": "NodeOpenBracket"
 						},
 						{
 							"Type": "NodeLinkText",
 							"Data": "Cloud services"
 						},
 						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
+							"Type": "NodeCloseBracket"
 						},
 						{
-							"Type": "NodeOpenParen",
-							"Data": "("
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://b3log.org/siyuan/pricing.html"
-						},
-						{
-							"Type": "NodeCloseParen",
-							"Data": ")"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " requires "
-				},
-				{
-					"Type": "NodeLink",
-					"Children": [
-						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "annual subscription"
-						},
-						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
-						},
-						{
-							"Type": "NodeOpenParen",
-							"Data": "("
+							"Type": "NodeOpenParen"
 						},
 						{
 							"Type": "NodeLinkDest",
 							"Data": "https://b3log.org/siyuan/pricing.html"
 						},
 						{
-							"Type": "NodeCloseParen",
-							"Data": ")"
+							"Type": "NodeCloseParen"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
-					"Data": ", price is $64/year。"
+					"Data": " requires annual subscription, price is $64/year。"
 				}
 			]
 		},
