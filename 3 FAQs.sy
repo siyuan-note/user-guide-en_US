@@ -868,7 +868,7 @@
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Basic functions are completely free to use, "
+					"Data": "Local functions are completely free to use, "
 				},
 				{
 					"Type": "NodeLink",
@@ -879,7 +879,7 @@
 						},
 						{
 							"Type": "NodeLinkText",
-							"Data": "advanced features"
+							"Data": "Cloud features"
 						},
 						{
 							"Type": "NodeCloseBracket",
