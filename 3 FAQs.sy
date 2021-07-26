@@ -879,7 +879,7 @@
 						},
 						{
 							"Type": "NodeLinkText",
-							"Data": "Cloud features"
+							"Data": "Cloud services"
 						},
 						{
 							"Type": "NodeCloseBracket",
