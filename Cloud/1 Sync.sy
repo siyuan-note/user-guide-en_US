@@ -220,7 +220,7 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Select a cloud synchronization directory. After selecting, the cloud synchronization directory will be used for data synchronization in the current workspace. After selecting it, please do not switch at will, otherwise the cloud data will be overwritten"
+									"Data": "Select a cloud synchronization directory. After selecting, the cloud synchronization directory will be used for data synchronization in the current workspace. After selecting it, please do not switch at will, otherwise the data will be overwritten"
 								}
 							]
 						}
