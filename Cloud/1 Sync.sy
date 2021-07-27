@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Sync",
-		"updated": "20210721195846"
+		"updated": "20210727103347"
 	},
 	"Children": [
 		{
@@ -79,7 +79,7 @@
 			},
 			"Properties": {
 				"id": "20210721112403-ox09qkn",
-				"updated": "20210721113307"
+				"updated": "20210727103249"
 			},
 			"Children": [
 				{
@@ -237,7 +237,7 @@
 					},
 					"Properties": {
 						"id": "20210721112403-8ey41q2",
-						"updated": "20210721113307"
+						"updated": "20210727103249"
 					},
 					"Children": [
 						{
@@ -245,12 +245,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721112403-jfo1szo",
-								"updated": "20210721113307"
+								"updated": "20210727103249"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Enable "
+									"Data": "Enable sync switch "
 								},
 								{
 									"Type": "NodeKbd",
@@ -289,16 +289,53 @@
 							"ID": "20210721112403-ej0nl9u",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721112403-ej0nl9u"
+								"id": "20210721112403-ej0nl9u",
+								"updated": "20210727103225"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "After waiting for about 1 minute, the synchronization will start to work, and then it will automatically synchronize once every 1 minute."
+									"Data": "After waiting for about 1 minute, the synchronization will start to work, and then it will automatically synchronize once every 1 minute"
 								}
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20210727103226-gfx0f7l",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210727103226-gfx0f7l",
+				"updated": "20210727103347"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please perform the above operations on the "
+				},
+				{
+					"Type": "NodeEmphasis",
+					"Data": "em",
+					"Children": [
+						{
+							"Type": "NodeEmA6kOpenMarker",
+							"Data": "*"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "main"
+						},
+						{
+							"Type": "NodeEmA6kCloseMarker",
+							"Data": "*"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " device first, then select the same cloud sync directory on other devices and turn on the sync switch. If you want to switch, rename or remove the cloud sync directory, please turn off the sync switch on all devices before proceeding."
 				}
 			]
 		},
