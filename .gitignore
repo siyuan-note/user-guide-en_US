@@ -1,8 +1,2 @@
 # IDE
 .idea/
-
-# Submodule
-.git
-
-# SiYuan
-.siyuan
