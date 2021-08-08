@@ -1,0 +1,140 @@
+{
+	"ID": "20210721112229-fp97j3c",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210721112229-fp97j3c",
+		"title": "3 E2EE",
+		"updated": "20210721113815"
+	},
+	"Children": [
+		{
+			"ID": "20210721113811-5tkf18n",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210721113811-5tkf18n",
+				"updated": "20210721113815"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "SiYuan will encrypt data before backup and synchronization, and the encrypted data can be safely transmitted and hosted over the network."
+				}
+			]
+		},
+		{
+			"ID": "20210721113811-8fa6box",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210721113811-8fa6box",
+				"updated": "20210721113811"
+			},
+			"Children": [
+				{
+					"ID": "20210721113811-dhoce9n",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210721113811-dhoce9n"
+					},
+					"Children": [
+						{
+							"ID": "20210721113811-j40wc0h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210721113811-j40wc0h"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The encryption and decryption process is completely performed on the local device"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210721113811-ny6w1wu",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210721113811-ny6w1wu"
+					},
+					"Children": [
+						{
+							"ID": "20210721113811-qtrzt85",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210721113811-qtrzt85"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The encryption algorithm is AES GCM, which is recognized as safe in the industry"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210721113811-lud3r2j",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210721113811-lud3r2j"
+					},
+					"Children": [
+						{
+							"ID": "20210721113811-xb9qm8c",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210721113811-xb9qm8c"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Unless the password is known or brute force cracking, it cannot be decrypted (the developer cannot decrypt it either)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210721113811-59an6f2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210721113811-59an6f2"
+					},
+					"Children": [
+						{
+							"ID": "20210721113811-nnym9aw",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210721113811-nnym9aw"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The password set by the user is encrypted with the built-in key of the program and stored locally"
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
