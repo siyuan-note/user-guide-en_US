@@ -5,7 +5,7 @@
 		"id": "20201222100339-i5hzcph",
 		"title": "0 Database table",
 		"type": "doc",
-		"updated": "20210321230154"
+		"updated": "20210810182423"
 	},
 	"Children": [
 		{
@@ -67,7 +67,7 @@
 			],
 			"Properties": {
 				"id": "20210111225813-9kys36i",
-				"updated": "20210321230154"
+				"updated": "20210810182423"
 			},
 			"Children": [
 				{
@@ -251,12 +251,12 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 15,
+							"TableCellContentWidth": 13,
 							"TableCellContentMaxWidth": 80,
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Notebook name"
+									"Data": "Notebook ID"
 								}
 							]
 						}
