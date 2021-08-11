@@ -4,7 +4,8 @@
 	"Properties": {
 		"id": "20210127203829-qe2mzof",
 		"title": "Preview PDF",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210811224343"
 	},
 	"Children": [
 		{
@@ -12,7 +13,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210127203829-pgeb2cg",
-				"updated": "20210503095017"
+				"updated": "20210811224343"
 			},
 			"Children": [
 				{
@@ -21,25 +22,23 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "[filename](assets/filename.pdf)"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
-					"Data": " will be generated in the document. Right-click on the link and select a new tab in the resource drop-down menu to open the preview, or use the system default program to open the PDF file."
+					"Data": " will be generated in the document. Click the link to use Siyuan for preview."
 				}
 			]
 		},
