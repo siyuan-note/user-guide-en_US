@@ -2,6 +2,7 @@
 	"ID": "20201121224345-rc27qvo",
 	"Type": "NodeDocument",
 	"Properties": {
+		"icon": "1f64f",
 		"id": "20201121224345-rc27qvo",
 		"title": "4 Acknowledgements",
 		"type": "doc"
