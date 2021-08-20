@@ -5,7 +5,7 @@
 		"id": "20210505164949-c085p1d",
 		"title": "Web Clipping",
 		"type": "doc",
-		"updated": "20210820094748"
+		"updated": "20210820171820"
 	},
 	"Children": [
 		{
@@ -64,7 +64,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210505165011-7ik6g6y",
-				"updated": "20210820094748"
+				"updated": "20210820171548"
 			},
 			"Children": [
 				{
@@ -103,7 +103,7 @@
 					},
 					"Properties": {
 						"id": "20210505165011-h6wqx9o",
-						"updated": "20210820094748"
+						"updated": "20210820171548"
 					},
 					"Children": [
 						{
@@ -126,7 +126,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20210724233742-0prvguj",
-								"updated": "20210820094748"
+								"updated": "20210820171548"
 							},
 							"Children": [
 								{
@@ -138,7 +138,7 @@
 									},
 									"Properties": {
 										"id": "20210724233741-totmy4m",
-										"updated": "20210724233801"
+										"updated": "20210820171546"
 									},
 									"Children": [
 										{
@@ -146,67 +146,9 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20210724233741-lsvxq21",
-												"updated": "20210724233801"
+												"updated": "20210820171546"
 											},
 											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Recommend to use "
-												},
-												{
-													"Type": "NodeLink",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeOpenBracket"
-														},
-														{
-															"Type": "NodeLinkText",
-															"Data": "Web Clipper"
-														},
-														{
-															"Type": "NodeCloseBracket"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeLinkDest",
-															"Data": "https://clipper.website"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210724233758-tangmrl",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20210724233758-tangmrl",
-										"updated": "20210820094748"
-									},
-									"Children": [
-										{
-											"ID": "20210724233758-ojwfjft",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210724233758-ojwfjft",
-												"updated": "20210820094748"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Or "
-												},
 												{
 													"Type": "NodeLink",
 													"Data": "span",
@@ -227,6 +169,56 @@
 														{
 															"Type": "NodeLinkDest",
 															"Data": "https://ld246.com/article/1629423901669"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210724233758-tangmrl",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210724233758-tangmrl",
+										"updated": "20210820171548"
+									},
+									"Children": [
+										{
+											"ID": "20210724233758-ojwfjft",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210724233758-ojwfjft",
+												"updated": "20210820171548"
+											},
+											"Children": [
+												{
+													"Type": "NodeLink",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "Web Clipper"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://clipper.website"
 														},
 														{
 															"Type": "NodeCloseParen"
@@ -259,18 +251,18 @@
 			]
 		},
 		{
-			"ID": "20210531181129-raesdl5",
+			"ID": "20210820171625-1k4iq6x",
 			"Type": "NodeList",
 			"ListData": {
 				"Typ": 1
 			},
 			"Properties": {
-				"id": "20210531181129-raesdl5",
-				"updated": "20210531181547"
+				"id": "20210820171625-1k4iq6x",
+				"updated": "20210820171820"
 			},
 			"Children": [
 				{
-					"ID": "20210531181129-qwi0y12",
+					"ID": "20210820171625-vjo1bcb",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -279,28 +271,28 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20210531181129-qwi0y12",
-						"updated": "20210531181158"
+						"id": "20210820171625-vjo1bcb",
+						"updated": "20210820171820"
 					},
 					"Children": [
 						{
-							"ID": "20210531181129-9k1i5vj",
+							"ID": "20210820171625-cerwawc",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210531181129-9k1i5vj",
-								"updated": "20210531181158"
+								"id": "20210820171625-cerwawc",
+								"updated": "20210820171820"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Run SiYuan"
+									"Data": "Install the extension, configure the API token in the extended options (token can be viewed in SiYuan Settings - About)"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210531181129-0jfut5r",
+					"ID": "20210820171625-0cvfa1x",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -309,14 +301,14 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20210531181129-0jfut5r"
+						"id": "20210820171625-0cvfa1x"
 					},
 					"Children": [
 						{
-							"ID": "20210531181129-gocedk0",
+							"ID": "20210820171625-3e12m8o",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210531181129-gocedk0"
+								"id": "20210820171625-3e12m8o"
 							},
 							"Children": [
 								{
@@ -328,7 +320,7 @@
 					]
 				},
 				{
-					"ID": "20210531181129-5hldu9q",
+					"ID": "20210820171625-bqu13fj",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -337,16 +329,16 @@
 						"Num": 3
 					},
 					"Properties": {
-						"id": "20210531181129-5hldu9q",
-						"updated": "20210531181547"
+						"id": "20210820171625-bqu13fj",
+						"updated": "20210820171638"
 					},
 					"Children": [
 						{
-							"ID": "20210531181129-jdyxznz",
+							"ID": "20210820171625-8d8as7l",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210531181129-jdyxznz",
-								"updated": "20210531181547"
+								"id": "20210820171625-8d8as7l",
+								"updated": "20210820171638"
 							},
 							"Children": [
 								{
