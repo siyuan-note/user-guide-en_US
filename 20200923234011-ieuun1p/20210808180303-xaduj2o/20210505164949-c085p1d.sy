@@ -5,7 +5,7 @@
 		"id": "20210505164949-c085p1d",
 		"title": "Web Clipping",
 		"type": "doc",
-		"updated": "20210531181057"
+		"updated": "20210820094748"
 	},
 	"Children": [
 		{
@@ -64,7 +64,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210505165011-7ik6g6y",
-				"updated": "20210724233849"
+				"updated": "20210820094748"
 			},
 			"Children": [
 				{
@@ -103,7 +103,7 @@
 					},
 					"Properties": {
 						"id": "20210505165011-h6wqx9o",
-						"updated": "20210724233849"
+						"updated": "20210820094748"
 					},
 					"Children": [
 						{
@@ -126,7 +126,7 @@
 							"ListData": {},
 							"Properties": {
 								"id": "20210724233742-0prvguj",
-								"updated": "20210724233849"
+								"updated": "20210820094748"
 							},
 							"Children": [
 								{
@@ -192,7 +192,7 @@
 									},
 									"Properties": {
 										"id": "20210724233758-tangmrl",
-										"updated": "20210724233849"
+										"updated": "20210820094748"
 									},
 									"Children": [
 										{
@@ -200,7 +200,7 @@
 											"Type": "NodeParagraph",
 											"Properties": {
 												"id": "20210724233758-ojwfjft",
-												"updated": "20210724233849"
+												"updated": "20210820094748"
 											},
 											"Children": [
 												{
@@ -226,7 +226,7 @@
 														},
 														{
 															"Type": "NodeLinkDest",
-															"Data": "https://chrome.google.com/webstore/detail/siyuan/hkcgjbeblifaincobbcfiffbpgoafepk"
+															"Data": "https://ld246.com/article/1629423901669"
 														},
 														{
 															"Type": "NodeCloseParen"
