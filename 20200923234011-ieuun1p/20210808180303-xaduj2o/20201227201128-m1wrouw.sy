@@ -4,7 +4,8 @@
 	"Properties": {
 		"id": "20201227201128-m1wrouw",
 		"title": "Docker Hosting",
-		"type": "doc"
+		"type": "doc",
+		"updated": "1629621657385"
 	},
 	"Children": [
 		{
@@ -311,31 +312,22 @@
 		{
 			"ID": "20201227201751-gmofu4a",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
 				"id": "20201227201751-gmofu4a",
-				"updated": "20210301202856"
+				"updated": "20210502171445"
 			},
 			"Children": [
 				{
 					"ID": "20201227201751-n5o2ot2",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20201227201751-n5o2ot2"
+						"id": "20201227201751-n5o2ot2",
+						"updated": "20210502171445"
 					},
 					"Children": [
 						{
@@ -348,19 +340,17 @@
 							"Children": [
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "--workspace"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -370,73 +360,23 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "-v"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
 								{
 									"Type": "NodeText",
 									"Data": " on the host"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20201227201751-cxo94yt",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20201227201751-cxo94yt"
-					},
-					"Children": [
-						{
-							"ID": "20210208152449-og2hpgc",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210208152449-og2hpgc"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "--resident"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " specified as true resident in memory"
 								}
 							]
 						}
@@ -449,7 +389,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210301202938-prn2v5a",
-				"updated": "20210502171524"
+				"updated": "20210822164001"
 			},
 			"Children": [
 				{
@@ -458,6 +398,7 @@
 				},
 				{
 					"Type": "NodeBlockRef",
+					"Data": "span",
 					"Children": [
 						{
 							"Type": "NodeOpenParen"
@@ -490,19 +431,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
-							"Data": "docker run -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --resident=true --workspace=workspace_dir_container"
+							"Data": "docker run -v workspace_dir_host:workspace_dir_container -p 6806:6806 b3log/siyuan --workspace=workspace_dir_container"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				}
@@ -645,7 +584,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20201227201751-yyfayag",
-				"updated": "20210502171906"
+				"updated": "20210822164018"
 			},
 			"Children": [
 				{
@@ -654,19 +593,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "workspace_dir_host"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
@@ -676,19 +613,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "workspace_dir_container"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
@@ -698,19 +633,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "/siyuan/workspace"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
@@ -720,363 +653,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
-							"Data": "docker run -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 b3log/siyuan --resident=true --workspace=/siyuan/workspace/"
+							"Data": "docker run -v /siyuan/workspace:/siyuan/workspace -p 6806:6806 b3log/siyuan --workspace=/siyuan/workspace/"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-gv0fpx2",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20201227201751-gv0fpx2"
-			},
-			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
-				{
-					"Type": "NodeText",
-					"Data": "Kernel API"
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-jknx8vo",
-			"Type": "NodeHeading",
-			"HeadingLevel": 3,
-			"Properties": {
-				"id": "20201227201751-jknx8vo"
-			},
-			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
-				{
-					"Type": "NodeText",
-					"Data": "Open folder"
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-z4trsir",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20201227201751-z4trsir"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "POST "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "/notebook/mount"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": ", parameters:"
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-k6540a2",
-			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
-			"Properties": {
-				"id": "20201227201751-k6540a2"
-			},
-			"Children": [
-				{
-					"ID": "20201227201751-41dzs8v",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20201227201751-41dzs8v"
-					},
-					"Children": [
-						{
-							"ID": "20210208152449-2peeuwd",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210208152449-2peeuwd"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "url"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": fixed incoming "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "http://127.0.0.1:6806/siyuan/"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ", which is box.url"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20201227201751-1plgjv1",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20201227201751-1plgjv1"
-					},
-					"Children": [
-						{
-							"ID": "20210208152449-cr5leoe",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210208152449-cr5leoe"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "path"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": a folder path under the kernel data folder, which is box.path"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-vjvztxc",
-			"Type": "NodeHeading",
-			"HeadingLevel": 3,
-			"Properties": {
-				"id": "20201227201751-vjvztxc"
-			},
-			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
-				{
-					"Type": "NodeText",
-					"Data": "Close folder"
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-4vxvbmh",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20201227201751-4vxvbmh"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "POST "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "/notebook/unmount"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": ", parameters:"
-				}
-			]
-		},
-		{
-			"ID": "20201227201751-3uuxh8x",
-			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
-			"Properties": {
-				"id": "20201227201751-3uuxh8x"
-			},
-			"Children": [
-				{
-					"ID": "20201227201751-f88y1qh",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20201227201751-f88y1qh"
-					},
-					"Children": [
-						{
-							"ID": "20210208152449-a0rfkn6",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210208152449-a0rfkn6"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "url"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": fixed incoming "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "http://127.0.0.1:6806/siyuan/"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ", which is box.url"
-								}
-							]
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				}
