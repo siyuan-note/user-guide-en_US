@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210726165111"
+		"updated": "20210824200933"
 	},
 	"Children": [
 		{
@@ -86,7 +86,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210428222603-moih9fe",
-				"updated": "20210428222603"
+				"updated": "20210824200933"
 			},
 			"Children": [
 				{
@@ -140,7 +140,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210428222603-vtr89xq"
+						"id": "20210428222603-vtr89xq",
+						"updated": "20210824200933"
 					},
 					"Children": [
 						{
@@ -148,7 +149,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210428222603-criebuv",
-								"updated": "20210428222658"
+								"updated": "20210824200933"
 							},
 							"Children": [
 								{
@@ -190,7 +191,7 @@
 										},
 										{
 											"Type": "NodeBlockRefText",
-											"Data": "Template snippet"
+											"Data": "template snippets"
 										},
 										{
 											"Type": "NodeCloseParen"
@@ -212,7 +213,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210428222603-456vgdh"
+						"id": "20210428222603-456vgdh",
+						"updated": "20210824200911"
 					},
 					"Children": [
 						{
@@ -220,7 +222,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210428222603-m3djncm",
-								"updated": "20210428222701"
+								"updated": "20210824200911"
 							},
 							"Children": [
 								{
@@ -241,23 +243,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": " are used to save widgets "
-								},
-								{
-									"Type": "NodeTag",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeTagOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "TODO"
-										},
-										{
-											"Type": "NodeTagCloseMarker"
-										}
-									]
+									"Data": " are used to save widgets"
 								}
 							]
 						}

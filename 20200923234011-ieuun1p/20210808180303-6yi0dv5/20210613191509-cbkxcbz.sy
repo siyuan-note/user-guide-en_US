@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210613191509-cbkxcbz",
 		"title": "6 Content Block Attribute",
-		"updated": "20210613192025"
+		"updated": "20210824200848"
 	},
 	"Children": [
 		{
@@ -355,12 +355,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210613191548-r7r6xw4",
-				"updated": "20210613191842"
+				"updated": "20210824200848"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "There are two main usage scenarios for attributes: querying content blocks based on attributes and storing widget block data."
+					"Data": "There are two main usage scenarios for attributes: querying content blocks based on attributes and storing widget data."
 				}
 			]
 		},
@@ -466,12 +466,12 @@
 			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20210613191548-cc68rcy",
-				"updated": "20210613192013"
+				"updated": "20210824200759"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Store widget block data"
+					"Data": "Store widget data"
 				}
 			]
 		},
@@ -480,28 +480,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210613191548-54xjeo6",
-				"updated": "20210613192025"
+				"updated": "20210824200805"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "The widget block can set the attributes through the interface, please refer to the development document for details. "
-				},
-				{
-					"Type": "NodeTag",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeTagOpenMarker"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "TODO"
-						},
-						{
-							"Type": "NodeTagCloseMarker"
-						}
-					]
+					"Data": "The widget can set the attributes through the interface, please refer to the development document for details."
 				}
 			]
 		}
