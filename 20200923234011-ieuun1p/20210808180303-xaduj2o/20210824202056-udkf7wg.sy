@@ -1,0 +1,119 @@
+{
+	"ID": "20210824202056-udkf7wg",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20210824202056-udkf7wg",
+		"title": "Widgets",
+		"updated": "20210824202323"
+	},
+	"Children": [
+		{
+			"ID": "20210824202107-oi62h64",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210824202107-oi62h64",
+				"updated": "20210824202107"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Overview"
+				}
+			]
+		},
+		{
+			"ID": "20210824202107-faidvkw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210824202107-faidvkw",
+				"updated": "20210824202146"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The pendant is a static webpage served by SiYuan Kernel. It accesses data through API and renders it through "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\u003ciframe\u003e"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210824202107-3zt4469",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210824202107-3zt4469",
+				"updated": "20210824202323"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to use"
+				}
+			]
+		},
+		{
+			"ID": "20210824202107-cmsetzk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210824202107-cmsetzk",
+				"updated": "20210824202107"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The widgets are installed through the widget market. After installation, the widgets will be placed in the workspace/widgets folder. In the editor, use the diagonal bar menu to trigger the call search. After selecting the pendant you need, the pendant will be inserted into the document in the form of a pendant block."
+				}
+			]
+		},
+		{
+			"ID": "20210824202107-uhc7vxw",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210824202107-uhc7vxw",
+				"updated": "20210824202107"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": At present, the widget is still in the internal test, and only subscribers can participate in the internal test."
+				}
+			]
+		}
+	]
+}

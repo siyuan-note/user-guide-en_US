@@ -5,7 +5,7 @@
 		"id": "20200924100717-yzwzn64",
 		"title": "Startup parameter",
 		"type": "doc",
-		"updated": "20210728171255"
+		"updated": "20210824202643"
 	},
 	"Children": [
 		{
@@ -13,16 +13,13 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
 			"Properties": {
-				"id": "20201225172241-w8hdt9o"
+				"id": "20201225172241-w8hdt9o",
+				"updated": "20210824202643"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "SiYuan Kernel"
+					"Data": "Kernel"
 				}
 			]
 		},
