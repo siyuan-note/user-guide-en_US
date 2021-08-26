@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210824200933"
+		"updated": "20210826092532"
 	},
 	"Children": [
 		{
@@ -86,7 +86,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210428222603-moih9fe",
-				"updated": "20210824200933"
+				"updated": "20210826092348"
 			},
 			"Children": [
 				{
@@ -244,6 +244,50 @@
 								{
 									"Type": "NodeText",
 									"Data": " are used to save widgets"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210826092337-pt1yd7r",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210826092337-pt1yd7r",
+						"updated": "20210826092348"
+					},
+					"Children": [
+						{
+							"ID": "20210826092337-swh0gdd",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210826092337-swh0gdd",
+								"updated": "20210826092348"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "emojis"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " are uaed to save emoji images"
 								}
 							]
 						}
@@ -571,7 +615,8 @@
 			"ID": "20210204162757-0al9jtb",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210204162757-0al9jtb"
+				"id": "20210204162757-0al9jtb",
+				"updated": "20210826092532"
 			},
 			"Children": [
 				{
@@ -580,19 +625,17 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "---"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
@@ -602,6 +645,7 @@
 				},
 				{
 					"Type": "NodeBlockRef",
+					"Data": "span",
 					"Children": [
 						{
 							"Type": "NodeOpenParen"
@@ -618,7 +662,7 @@
 						},
 						{
 							"Type": "NodeBlockRefText",
-							"Data": "Slides Presentation"
+							"Data": "Slides presentation"
 						},
 						{
 							"Type": "NodeCloseParen"
