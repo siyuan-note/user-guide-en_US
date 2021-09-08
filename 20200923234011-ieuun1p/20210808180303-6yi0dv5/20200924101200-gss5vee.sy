@@ -4,7 +4,8 @@
 	"Properties": {
 		"id": "20200924101200-gss5vee",
 		"title": "3 Navigate in the Content Block",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20210908144757"
 	},
 	"Children": [
 		{
@@ -353,13 +354,10 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210104091546-2gmpeq4"
+				"id": "20210104091546-2gmpeq4",
+				"updated": "20210104091546"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Links"
@@ -367,134 +365,65 @@
 			]
 		},
 		{
-			"ID": "20210104091546-owkqsmk",
+			"ID": "20210908144725-sfn6vd8",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210104091546-owkqsmk"
+				"id": "20210908144725-sfn6vd8",
+				"updated": "20210908144757"
 			},
 			"Children": [
 				{
-					"ID": "20210104091546-iqnkfsh",
+					"ID": "20210908144725-so6cwba",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210104091546-iqnkfsh"
+						"id": "20210908144725-so6cwba",
+						"updated": "20210908144757"
 					},
 					"Children": [
 						{
-							"ID": "20210205173431-mk9rnqo",
+							"ID": "20210908144725-cgcu1ut",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210205173431-mk9rnqo"
+								"id": "20210908144725-cgcu1ut",
+								"updated": "20210908144757"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Clicking on the reference block in the backlink list will highlight the definition block in the current document"
+									"Data": "Hovering the mouse over the reference block icon will pop up a preview floating window"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210104091546-by7s030",
+					"ID": "20210908144725-sg5v7te",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210104091546-by7s030"
+						"id": "20210908144725-sg5v7te",
+						"updated": "20210908144735"
 					},
 					"Children": [
 						{
-							"ID": "20210205173431-77le1nv",
+							"ID": "20210908144725-q0swjhw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210205173431-77le1nv"
+								"id": "20210908144725-q0swjhw",
+								"updated": "20210908144735"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "The defined block in the current document where the cursor is located will highlight the quoted block in the backlink list (if there is a reference)"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210104091546-oah50lx",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20210104091546-oah50lx"
-					},
-					"Children": [
-						{
-							"ID": "20210205173431-n9cuobl",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210205173431-n9cuobl"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Hover the mouse over the icon in front of the reference block in the backlink list to preview the content"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210104091546-prvlmgb",
-					"Type": "NodeListItem",
-					"Data": "*",
-					"ListData": {
-						"Tight": true,
-						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
-					},
-					"Properties": {
-						"id": "20210104091546-prvlmgb"
-					},
-					"Children": [
-						{
-							"ID": "20210205173431-0urhpnv",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210205173431-0urhpnv"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Double-click the reference block in the backlink list to jump"
+									"Data": "Click the reference block in the backlink list to jump"
 								}
 							]
 						}
