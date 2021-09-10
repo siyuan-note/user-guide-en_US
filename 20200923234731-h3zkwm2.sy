@@ -343,35 +343,6 @@
 			]
 		},
 		{
-			"ID": "20210621110121-1ttvz1s",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20210621110121-1ttvz1s",
-				"updated": "20210621110121"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "How to modify the name of a notebook or delete a notebook?"
-				}
-			]
-		},
-		{
-			"ID": "20210621110121-4mbndpt",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210621110121-4mbndpt",
-				"updated": "20210621110134"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Please modify or delete directly on the file system, and then restart SiYuan."
-				}
-			]
-		},
-		{
 			"ID": "20201224120448-ygu8bzx",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
