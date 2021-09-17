@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210615213222-vs5tzbd",
 		"title": "Edit history",
-		"updated": "1629808738338"
+		"updated": "20210917111745"
 	},
 	"Children": [
 		{
@@ -250,79 +250,16 @@
 			]
 		},
 		{
-			"ID": "20210403161405-w72rn3n",
-			"Type": "NodeList",
-			"ListData": {},
-			"Properties": {
-				"id": "20210403161405-w72rn3n",
-				"updated": "20210403161405"
-			},
-			"Children": [
-				{
-					"ID": "20210403161405-nimrj8j",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210403161405-nimrj8j"
-					},
-					"Children": [
-						{
-							"ID": "20210403161405-6248z5i",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210403161405-6248z5i"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Select History from the right-click drop-down menu of the editor tab"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210403161405-7tc0er6",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210403161405-7tc0er6"
-					},
-					"Children": [
-						{
-							"ID": "20210403161405-6pznyvi",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210403161405-6pznyvi"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Select History from the right-click drop-down menu of the doc tree"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"ID": "20210403161405-0esc0zh",
+			"ID": "20210917111238-gg75fsz",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210403161405-0esc0zh",
-				"updated": "20210615213333"
+				"id": "20210917111238-gg75fsz",
+				"updated": "20210917111745"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Currently only supports browsing the latest 32 histories."
+					"Data": "Select History from the right-click menu on the notebook, and currently only supports browsing the latest 32 times history."
 				}
 			]
 		},
