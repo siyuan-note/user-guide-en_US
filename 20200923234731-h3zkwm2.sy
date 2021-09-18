@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210917110932"
+		"updated": "20210918120049"
 	},
 	"Children": [
 		{
@@ -641,7 +641,15 @@
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "In document typesetting, you need to use "
+					"Data": "In document "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "types"
+				},
+				{
+					"Type": "NodeText",
+					"Data": "etting, you need to use "
 				},
 				{
 					"Type": "NodeCodeSpan",
@@ -695,6 +703,263 @@
 				{
 					"Type": "NodeText",
 					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20210918115655-8l0v4yh",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210918115655-8l0v4yh",
+				"updated": "20210918115655"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to use a third-party sync disk for data synchronization?"
+				}
+			]
+		},
+		{
+			"ID": "20210918115655-xrdjtf2",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210918115655-xrdjtf2",
+				"updated": "20210918120049"
+			},
+			"Children": [
+				{
+					"ID": "20210918115655-xthu31m",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918115655-xthu31m"
+					},
+					"Children": [
+						{
+							"ID": "20210918115655-8oet34i",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918115655-8oet34i",
+								"updated": "20210918115730"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Please only synchronize the "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "workspace/data/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ", do not synchronize the entire workspace"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918115655-xpa2gg6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918115655-xpa2gg6"
+					},
+					"Children": [
+						{
+							"ID": "20210918115655-0df8htn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918115655-0df8htn",
+								"updated": "20210918115739"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Please suspend third-party synchronization during the operation of SiYuan, otherwise data may be damaged. For details, please refer to "
+								},
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "here"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://ld246.com/article/1626537583158"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918115655-4l7coo5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918115655-4l7coo5"
+					},
+					"Children": [
+						{
+							"ID": "20210918115655-9cckcjq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918115655-9cckcjq",
+								"updated": "20210918115811"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The data folder path on the Android is "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "internal storage device/Android/data/org.b3log.siyuan/files/siyuan/data/"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ", which is a private path of the application and cannot be read by other programs and can only be copied manually"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918115655-fduo4hv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918115655-fduo4hv"
+					},
+					"Children": [
+						{
+							"ID": "20210918115655-wf89pn0",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918115655-wf89pn0",
+								"updated": "20210918115819"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "There is a conflict between third-party synchronization and SiYuan synchronization, please do not use at the same time"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210918120010-i8aa6xt",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210918120010-i8aa6xt",
+						"updated": "20210918120049"
+					},
+					"Children": [
+						{
+							"ID": "20210918120010-kocx5hr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210918120010-kocx5hr",
+								"updated": "20210918120049"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "For the usage of SiYuan Sync, please refer to "
+								},
+								{
+									"Type": "NodeBlockRef",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeBlockRefID",
+											"Data": "20210721112206-mhr9wxi"
+										},
+										{
+											"Type": "NodeBlockRefSpace"
+										},
+										{
+											"Type": "NodeBlockRefText",
+											"Data": "Data Sync"
+										},
+										{
+											"Type": "NodeCloseParen"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		},
