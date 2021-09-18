@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20210901163835"
+		"updated": "20210918202315"
 	},
 	"Children": [
 		{
@@ -79,7 +79,7 @@
 			},
 			"Properties": {
 				"id": "20210721112403-ox09qkn",
-				"updated": "20210901163835"
+				"updated": "20210918202315"
 			},
 			"Children": [
 				{
@@ -283,7 +283,7 @@
 					},
 					"Properties": {
 						"id": "20210721112403-xotzyq9",
-						"updated": "20210901163835"
+						"updated": "20210918202315"
 					},
 					"Children": [
 						{
@@ -291,7 +291,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721112403-ej0nl9u",
-								"updated": "20210901163835"
+								"updated": "20210918202315"
 							},
 							"Children": [
 								{
@@ -316,7 +316,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": "), and then it will automatically synchronize once every 1 minute"
+									"Data": ")"
 								}
 							]
 						}
@@ -380,12 +380,32 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210721112403-k020foj",
-				"updated": "20210901163444"
+				"updated": "20210918202304"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Compare the cloud and local data version every 1 minute, and perform corresponding operations according to the version:"
+					"Data": "Every once in a while (depending on "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Settings - Cloud - Sync - Interval"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "), SiYuan will automatically compare the cloud and local data versions, and perform corresponding operations according to the version:"
 				}
 			]
 		},
