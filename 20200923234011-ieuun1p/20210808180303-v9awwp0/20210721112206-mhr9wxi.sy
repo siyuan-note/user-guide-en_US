@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20210928101359"
+		"updated": "20210928220638"
 	},
 	"Children": [
 		{
@@ -380,7 +380,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210928101257-3m7efdr",
-				"updated": "20210928101326"
+				"updated": "20210928220616"
 			},
 			"Children": [
 				{
@@ -405,7 +405,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " on the file system. Each line is configured with the relative path of the data folder, which means that the path of the file or folder is ignored and wildcard characters are supported. E.g:"
+					"Data": " on the file system, each line is configured with the relative path of the data folder, which means that the path of the file or folder is ignored and wildcard characters are supported. E.g:"
 				}
 			]
 		},
@@ -415,7 +415,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210928101257-apwzr8j",
-				"updated": "20210928101359"
+				"updated": "20210928220638"
 			},
 			"Children": [
 				{
@@ -427,7 +427,7 @@
 					},
 					"Properties": {
 						"id": "20210928101257-9rghi7d",
-						"updated": "20210928101359"
+						"updated": "20210928220638"
 					},
 					"Children": [
 						{
@@ -435,7 +435,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210928101257-tjmd13g",
-								"updated": "20210928101359"
+								"updated": "20210928220638"
 							},
 							"Children": [
 								{
@@ -447,7 +447,7 @@
 										},
 										{
 											"Type": "NodeCodeSpanContent",
-											"Data": "20210808180117-6v0mkxr"
+											"Data": "20210808180117-6v0mkxr/**/*"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
@@ -456,7 +456,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": ": Ignore data/20210808180117-6v0mkxr file/folder"
+									"Data": ": Ignore the data/20210808180117-6v0mkxr folder and all the files it contains"
 								}
 							]
 						}
