@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20210928220638"
+		"updated": "20210930212744"
 	},
 	"Children": [
 		{
@@ -847,7 +847,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210721112403-th2r6zf",
-				"updated": "20210901163205"
+				"updated": "20210930212744"
 			},
 			"Children": [
 				{
@@ -927,6 +927,34 @@
 								{
 									"Type": "NodeText",
 									"Data": "Do not use a third-party sync disk and SiYuan sync at the same time, it may cause data damage"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210930212724-54kv4ez",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930212724-54kv4ez",
+						"updated": "20210930212744"
+					},
+					"Children": [
+						{
+							"ID": "20210930212724-tzon0le",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930212724-tzon0le",
+								"updated": "20210930212744"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Symbolic links will not be synchronized"
 								}
 							]
 						}
