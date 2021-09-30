@@ -5,7 +5,7 @@
 		"id": "20201227201128-m1wrouw",
 		"title": "Docker hosting",
 		"type": "doc",
-		"updated": "1629808727812"
+		"updated": "20210930092117"
 	},
 	"Children": [
 		{
@@ -664,6 +664,136 @@
 						},
 						{
 							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20210930092059-ifrr6wz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20210930092059-ifrr6wz",
+				"updated": "20210930092059"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Hidden port"
+				}
+			]
+		},
+		{
+			"ID": "20210930092059-r6bprwz",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20210930092059-r6bprwz",
+				"updated": "20210930092059"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Use NGINX reverse proxy to hide port 6806, please note:"
+				}
+			]
+		},
+		{
+			"ID": "20210930092059-34ljyge",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20210930092059-34ljyge",
+				"updated": "20210930092117"
+			},
+			"Children": [
+				{
+					"ID": "20210930092059-pte2k2d",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930092059-pte2k2d"
+					},
+					"Children": [
+						{
+							"ID": "20210930092059-r5xxydn",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930092059-r5xxydn"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Configure the "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "--servePath"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " parameter to your domain name, for example, "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "--servePath=yourdomain.com"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20210930092059-om2j2ah",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20210930092059-om2j2ah",
+						"updated": "20210930092117"
+					},
+					"Children": [
+						{
+							"ID": "20210930092059-zngp1h9",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20210930092059-zngp1h9",
+								"updated": "20210930092117"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Configure WebSocket reverse proxy"
+								}
+							]
 						}
 					]
 				}
