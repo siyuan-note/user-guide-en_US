@@ -5,7 +5,7 @@
 		"id": "20201117112518-dott91x",
 		"title": "5 Embed Content block",
 		"type": "doc",
-		"updated": "20210630172645"
+		"updated": "20211008203637"
 	},
 	"Children": [
 		{
@@ -822,7 +822,7 @@
 			"Type": "NodeBlockQueryEmbed",
 			"Properties": {
 				"id": "20210630172551-xbk6xa8",
-				"updated": "20210630172621"
+				"updated": "20211008203637"
 			},
 			"Children": [
 				{
@@ -833,7 +833,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE markdown LIKE '%- [ ]%' AND subtype = 't' AND type = 'i'"
+					"Data": "SELECT * FROM blocks WHERE markdown LIKE '%[ ]%' AND subtype = 't' AND type = 'i'"
 				},
 				{
 					"Type": "NodeCloseBrace"
