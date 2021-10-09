@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210918120049"
+		"updated": "20211009092525"
 	},
 	"Children": [
 		{
@@ -347,37 +347,33 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
 			"Properties": {
-				"id": "20201224120448-ygu8bzx"
+				"id": "20201224120448-ygu8bzx",
+				"updated": "20211009092454"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Is there any "
 				},
 				{
 					"Type": "NodeTag",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeTagOpenMarker",
-							"Data": "#"
+							"Type": "NodeTagOpenMarker"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "Note"
 						},
 						{
-							"Type": "NodeTagCloseMarker",
-							"Data": "#"
+							"Type": "NodeTagCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
-					"Data": " for deleting files/folders?"
+					"Data": " for deleting docs?"
 				}
 			]
 		},
@@ -386,12 +382,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210615213114-fq2uew0",
-				"updated": "20210615213124"
+				"updated": "20211009092525"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "After deletion, the file will not appear in the operating system's recycle bin, but will be deleted directly. When deleted, SiYuan will generate "
+					"Data": "After deletion, the doc will not appear in the operating system's recycle bin, but will be deleted directly. When deleted, SiYuan will generate "
 				},
 				{
 					"Type": "NodeBlockRef",
@@ -405,14 +401,14 @@
 						},
 						{
 							"Type": "NodeBlockRefID",
-							"Data": "20210615211733-v6rzowm"
+							"Data": "20210615213222-vs5tzbd"
 						},
 						{
 							"Type": "NodeBlockRefSpace"
 						},
 						{
 							"Type": "NodeBlockRefText",
-							"Data": "Edit History"
+							"Data": "Edit history"
 						},
 						{
 							"Type": "NodeCloseParen"
