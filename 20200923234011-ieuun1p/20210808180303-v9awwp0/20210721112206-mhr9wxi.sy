@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20210930212744"
+		"updated": "20211018230753"
 	},
 	"Children": [
 		{
@@ -79,7 +79,7 @@
 			},
 			"Properties": {
 				"id": "20210721112403-ox09qkn",
-				"updated": "20210918202315"
+				"updated": "20211018230753"
 			},
 			"Children": [
 				{
@@ -93,7 +93,7 @@
 					},
 					"Properties": {
 						"id": "20210721112403-cbnyhy2",
-						"updated": "20210721113121"
+						"updated": "20211018230753"
 					},
 					"Children": [
 						{
@@ -101,7 +101,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721112403-0p4thif",
-								"updated": "20210721113121"
+								"updated": "20211018230753"
 							},
 							"Children": [
 								{
@@ -146,7 +146,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": ", the password only needs to be configured once, and it can be kept the same on all devices"
+									"Data": ", the password needs to be configured once on all devices"
 								}
 							]
 						}
