@@ -5,7 +5,7 @@
 		"id": "20210505164949-c085p1d",
 		"title": "Web Clipping",
 		"type": "doc",
-		"updated": "20210820171820"
+		"updated": "20211019235241"
 	},
 	"Children": [
 		{
@@ -64,7 +64,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210505165011-7ik6g6y",
-				"updated": "20210820171548"
+				"updated": "20211019235222"
 			},
 			"Children": [
 				{
@@ -103,7 +103,7 @@
 					},
 					"Properties": {
 						"id": "20210505165011-h6wqx9o",
-						"updated": "20210820171548"
+						"updated": "20211019235222"
 					},
 					"Children": [
 						{
@@ -111,121 +111,36 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210505165011-crzzegk",
-								"updated": "20210724233741"
+								"updated": "20211019235222"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "If you want to pull the pictures contained in the clipped content to the local"
-								}
-							]
-						},
-						{
-							"ID": "20210724233742-0prvguj",
-							"Type": "NodeList",
-							"ListData": {},
-							"Properties": {
-								"id": "20210724233742-0prvguj",
-								"updated": "20210820171548"
-							},
-							"Children": [
-								{
-									"ID": "20210724233741-totmy4m",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20210724233741-totmy4m",
-										"updated": "20210820171546"
-									},
-									"Children": [
-										{
-											"ID": "20210724233741-lsvxq21",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210724233741-lsvxq21",
-												"updated": "20210820171546"
-											},
-											"Children": [
-												{
-													"Type": "NodeLink",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeOpenBracket"
-														},
-														{
-															"Type": "NodeLinkText",
-															"Data": "SiYuan Chrome Extension"
-														},
-														{
-															"Type": "NodeCloseBracket"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeLinkDest",
-															"Data": "https://ld246.com/article/1629423901669"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
-												}
-											]
-										}
-									]
+									"Data": "If you need to pull the pictures contained in the clipped content to the local, you can use "
 								},
 								{
-									"ID": "20210724233758-tangmrl",
-									"Type": "NodeListItem",
-									"ListData": {
-										"BulletChar": 42,
-										"Marker": "Kg=="
-									},
-									"Properties": {
-										"id": "20210724233758-tangmrl",
-										"updated": "20210820171548"
-									},
+									"Type": "NodeLink",
+									"Data": "span",
 									"Children": [
 										{
-											"ID": "20210724233758-ojwfjft",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210724233758-ojwfjft",
-												"updated": "20210820171548"
-											},
-											"Children": [
-												{
-													"Type": "NodeLink",
-													"Data": "span",
-													"Children": [
-														{
-															"Type": "NodeOpenBracket"
-														},
-														{
-															"Type": "NodeLinkText",
-															"Data": "Web Clipper"
-														},
-														{
-															"Type": "NodeCloseBracket"
-														},
-														{
-															"Type": "NodeOpenParen"
-														},
-														{
-															"Type": "NodeLinkDest",
-															"Data": "https://clipper.website"
-														},
-														{
-															"Type": "NodeCloseParen"
-														}
-													]
-												}
-											]
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "SiYuan Chome Extension"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://ld246.com/article/1629423901669"
+										},
+										{
+											"Type": "NodeCloseParen"
 										}
 									]
 								}
@@ -348,6 +263,20 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20211019235143-bsm6wqx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211019235143-bsm6wqx",
+				"updated": "20211019235241"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you need to clip the entire article, you can click \"Send to SiYuan\" directly on the extension."
 				}
 			]
 		}
