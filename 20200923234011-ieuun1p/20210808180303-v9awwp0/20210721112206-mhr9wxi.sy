@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20211018230753"
+		"updated": "20211027220519"
 	},
 	"Children": [
 		{
@@ -72,18 +72,52 @@
 			]
 		},
 		{
-			"ID": "20210721112403-ox09qkn",
+			"ID": "20211027220510-0egr1r9",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211027220510-0egr1r9",
+				"updated": "20211027220519"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Open "
+				},
+				{
+					"Type": "NodeKbd",
+					"Data": "kbd",
+					"Children": [
+						{
+							"Type": "NodeKbdOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Settings - Cloud - Settings"
+						},
+						{
+							"Type": "NodeKbdCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " and proceed through the synchronization setting wizard."
+				}
+			]
+		},
+		{
+			"ID": "20211027220510-4qkvcnz",
 			"Type": "NodeList",
 			"ListData": {
 				"Typ": 1
 			},
 			"Properties": {
-				"id": "20210721112403-ox09qkn",
-				"updated": "20211018230753"
+				"id": "20211027220510-4qkvcnz",
+				"updated": "20211027220510"
 			},
 			"Children": [
 				{
-					"ID": "20210721112403-cbnyhy2",
+					"ID": "20211027220510-4qik87y",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -92,68 +126,46 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20210721112403-cbnyhy2",
-						"updated": "20211018230753"
+						"id": "20211027220510-4qik87y"
 					},
 					"Children": [
 						{
-							"ID": "20210721112403-0p4thif",
+							"ID": "20211027220510-4acljz5",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721112403-0p4thif",
-								"updated": "20211018230753"
+								"id": "20211027220510-4acljz5"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Open "
+									"Data": "Set the end-to-end encryption password. "
 								},
 								{
-									"Type": "NodeKbd",
-									"Data": "kbd",
+									"Type": "NodeTag",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeKbdOpenMarker"
+											"Type": "NodeTagOpenMarker"
 										},
 										{
 											"Type": "NodeText",
-											"Data": "Settings - Cloud"
+											"Data": "Note"
 										},
 										{
-											"Type": "NodeKbdCloseMarker"
+											"Type": "NodeTagCloseMarker"
 										}
 									]
 								},
 								{
 									"Type": "NodeText",
-									"Data": ", configure "
-								},
-								{
-									"Type": "NodeKbd",
-									"Data": "kbd",
-									"Children": [
-										{
-											"Type": "NodeKbdOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "End-to-end encryption password"
-										},
-										{
-											"Type": "NodeKbdCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ", the password needs to be configured once on all devices"
+									"Data": ": Once the password is set, it cannot be modified or viewed. If you forget the password, your cloud data will be permanently lost, so please remember the password"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210721112403-jnxzfel",
+					"ID": "20211027220510-arpjijt",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -162,44 +174,26 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20210721112403-jnxzfel",
-						"updated": "20210901163313"
+						"id": "20211027220510-arpjijt"
 					},
 					"Children": [
 						{
-							"ID": "20210721112403-fhi0maz",
+							"ID": "20211027220510-wz0rbnw",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721112403-fhi0maz",
-								"updated": "20210901163313"
+								"id": "20211027220510-wz0rbnw"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Create a cloud sync directory in "
-								},
-								{
-									"Type": "NodeKbd",
-									"Data": "kbd",
-									"Children": [
-										{
-											"Type": "NodeKbdOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Settings - Cloud - Sync"
-										},
-										{
-											"Type": "NodeKbdCloseMarker"
-										}
-									]
+									"Data": "Create or select a cloud synchronization directory. After selecting, the cloud synchronization directory will be used for data synchronization in the current workspace"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210721112403-g3i66m6",
+					"ID": "20211027220510-dz8f6b2",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -208,26 +202,26 @@
 						"Num": 3
 					},
 					"Properties": {
-						"id": "20210721112403-g3i66m6"
+						"id": "20211027220510-dz8f6b2"
 					},
 					"Children": [
 						{
-							"ID": "20210721112403-53yweee",
+							"ID": "20211027220510-o8i2c5a",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721112403-53yweee"
+								"id": "20211027220510-o8i2c5a"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Select a cloud synchronization directory. After selecting, the cloud synchronization directory will be used for data synchronization in the current workspace. After selecting it, please do not switch at will, otherwise the data will be overwritten"
+									"Data": "Select the synchronization interval and synchronization protocol. It is strongly recommended to use the default configuration, namely automatic synchronization interval and SSH protocol"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210721112403-8ey41q2",
+					"ID": "20211027220510-i02t3c4",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -236,87 +230,19 @@
 						"Num": 4
 					},
 					"Properties": {
-						"id": "20210721112403-8ey41q2",
-						"updated": "20210901163126"
+						"id": "20211027220510-i02t3c4"
 					},
 					"Children": [
 						{
-							"ID": "20210721112403-jfo1szo",
+							"ID": "20211027220510-u8153il",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721112403-jfo1szo",
-								"updated": "20210901163126"
+								"id": "20211027220510-u8153il"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Enable sync switch "
-								},
-								{
-									"Type": "NodeKbd",
-									"Data": "kbd",
-									"Children": [
-										{
-											"Type": "NodeKbdOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Settings - Cloud - Sync - Enable"
-										},
-										{
-											"Type": "NodeKbdCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210721112403-xotzyq9",
-					"Type": "NodeListItem",
-					"ListData": {
-						"Typ": 1,
-						"Delimiter": 46,
-						"Marker": "NS4=",
-						"Num": 5
-					},
-					"Properties": {
-						"id": "20210721112403-xotzyq9",
-						"updated": "20210918202315"
-					},
-					"Children": [
-						{
-							"ID": "20210721112403-ej0nl9u",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210721112403-ej0nl9u",
-								"updated": "20210918202315"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "After waiting for about 1 minute, the synchronization will start to work (or click "
-								},
-								{
-									"Type": "NodeKbd",
-									"Data": "kbd",
-									"Children": [
-										{
-											"Type": "NodeKbdOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Sync now"
-										},
-										{
-											"Type": "NodeKbdCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ")"
+									"Data": "Enable sync switch"
 								}
 							]
 						}
