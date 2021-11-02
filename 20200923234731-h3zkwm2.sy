@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20211009092525"
+		"updated": "20211102091430"
 	},
 	"Children": [
 		{
@@ -1166,34 +1166,13 @@
 			"ID": "20201224120448-8uydzg3",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20201224120448-8uydzg3"
+				"id": "20201224120448-8uydzg3",
+				"updated": "20211102091430"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "If you need to create an account and pay for a subscription in a non-Mainland China area, please send an email to us ("
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "845765@qq.com"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": "), we will manually create an account and create a PayPal email payment order for you, thank you."
+					"Data": "Users in non-Mainland China regions should not pay for subscriptions, because SiYuan Cloud Server cannot guarantee availability in non-Mainland China regions."
 				}
 			]
 		}
