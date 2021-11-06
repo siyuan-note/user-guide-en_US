@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112211-fwc1x43",
 		"title": "2 Data Backup \u0026 Recover",
-		"updated": "20210901163642"
+		"updated": "20211106114644"
 	},
 	"Children": [
 		{
@@ -567,12 +567,24 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20210721113518-bxfmlzu",
-				"updated": "20210721113518"
+				"updated": "20211106114644"
 			},
 			"Children": [
 				{
-					"Type": "NodeText",
-					"Data": "Note"
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
 				}
 			]
 		},
@@ -734,80 +746,6 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"ID": "20210721113518-81kdl13",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210721113518-81kdl13",
-				"updated": "20210721113754"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "On macOS, you need to manually install "
-				},
-				{
-					"Type": "NodeLink",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeOpenBracket"
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "Rsync"
-						},
-						{
-							"Type": "NodeCloseBracket"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://rsync.samba.org"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " to upload the backup to the cloud, please refer to "
-				},
-				{
-					"Type": "NodeLink",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeOpenBracket"
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "here"
-						},
-						{
-							"Type": "NodeCloseBracket"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://brew.sh/"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " for installation."
 				}
 			]
 		}
