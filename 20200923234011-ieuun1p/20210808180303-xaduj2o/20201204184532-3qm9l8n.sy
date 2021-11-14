@@ -5,7 +5,7 @@
 		"id": "20201204184532-3qm9l8n",
 		"title": "Template snippet",
 		"type": "doc",
-		"updated": "20210604111632"
+		"updated": "20210428232129"
 	},
 	"Children": [
 		{
@@ -41,55 +41,23 @@
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": ".md"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
 					"Data": " suffix files and are stored in the data/templates folder of the workspace."
-				}
-			]
-		},
-		{
-			"ID": "20210428230943-cmsts0j",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210428230943-cmsts0j"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "At present, please use other text editors to write templates, and Siyuan will support built-in editing in the future. "
-				},
-				{
-					"Type": "NodeTag",
-					"Children": [
-						{
-							"Type": "NodeTagOpenMarker",
-							"Data": "#"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "TODO"
-						},
-						{
-							"Type": "NodeTagCloseMarker",
-							"Data": "#"
-						}
-					]
 				}
 			]
 		},
