@@ -6,7 +6,7 @@
 		"id": "20200924100950-9op5xi1",
 		"title": "Shortcuts",
 		"type": "doc",
-		"updated": "20211119202730"
+		"updated": "20211120101158"
 	},
 	"Children": [
 		{
@@ -5826,7 +5826,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-v6ksqnu",
-				"updated": "20211119202730"
+				"updated": "20211120101158"
 			},
 			"Children": [
 				{
@@ -7200,7 +7200,7 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 20,
+							"TableCellContentWidth": 28,
 							"TableCellContentMaxWidth": 42,
 							"Children": [
 								{
@@ -7233,6 +7233,26 @@
 										{
 											"Type": "NodeText",
 											"Data": "⌘L"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "[]"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
