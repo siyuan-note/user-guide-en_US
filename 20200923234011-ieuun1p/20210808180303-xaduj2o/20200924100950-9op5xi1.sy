@@ -6,7 +6,7 @@
 		"id": "20200924100950-9op5xi1",
 		"title": "Shortcuts",
 		"type": "doc",
-		"updated": "20211120101158"
+		"updated": "20211123191756"
 	},
 	"Children": [
 		{
@@ -1462,7 +1462,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-yozlufs",
-				"updated": "20211105095442"
+				"updated": "20211123191743"
 			},
 			"Children": [
 				{
@@ -4516,7 +4516,7 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 9,
+							"TableCellContentWidth": 19,
 							"TableCellContentMaxWidth": 58,
 							"Children": [
 								{
@@ -4529,6 +4529,26 @@
 										{
 											"Type": "NodeText",
 											"Data": "Home"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌘←"
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -4564,7 +4584,7 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 8,
+							"TableCellContentWidth": 20,
 							"TableCellContentMaxWidth": 58,
 							"Children": [
 								{
@@ -4582,6 +4602,30 @@
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " / "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "⌘→"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeBr",
+									"Data": "br"
 								}
 							]
 						},
@@ -5826,7 +5870,7 @@
 			],
 			"Properties": {
 				"id": "20210106154319-v6ksqnu",
-				"updated": "20211120101158"
+				"updated": "20211123191756"
 			},
 			"Children": [
 				{
@@ -5944,7 +5988,7 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 20,
+							"TableCellContentWidth": 21,
 							"TableCellContentMaxWidth": 42,
 							"Children": [
 								{
@@ -5956,7 +6000,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "Ctrl+["
+											"Data": "Alt+["
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
@@ -5976,12 +6020,16 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "⌘["
+											"Data": "⌥["
 										},
 										{
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
+								},
+								{
+									"Type": "NodeBr",
+									"Data": "br"
 								}
 							]
 						},
