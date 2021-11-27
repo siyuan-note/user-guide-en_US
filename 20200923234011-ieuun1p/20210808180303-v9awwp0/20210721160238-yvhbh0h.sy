@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721160238-yvhbh0h",
 		"title": "4 Assets",
-		"updated": "20210721160538"
+		"updated": "20211127233055"
 	},
 	"Children": [
 		{
@@ -301,40 +301,91 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20210721160254-s3pqp62",
-				"updated": "20210721160254"
+				"updated": "20211127233000"
 			},
 			"Children": [
 				{
-					"Type": "NodeText",
-					"Data": "Note"
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
 				}
 			]
 		},
 		{
-			"ID": "20210721160254-qgwmmlr",
-			"Type": "NodeParagraph",
+			"ID": "20211127232925-9w2c55m",
+			"Type": "NodeList",
+			"ListData": {},
 			"Properties": {
-				"id": "20210721160254-qgwmmlr",
-				"updated": "20210721160530"
+				"id": "20211127232925-9w2c55m",
+				"updated": "20211127233055"
 			},
 			"Children": [
 				{
-					"Type": "NodeText",
-					"Data": "Please do not upload illegal or sensitive asset files. The uploaded asset files will be reviewed through services provided by third parties (pornography, violent terrorism, sensitive people, etc.)."
-				}
-			]
-		},
-		{
-			"ID": "20210721160254-l7cjnzp",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210721160254-l7cjnzp",
-				"updated": "20210721160538"
-			},
-			"Children": [
+					"ID": "20211127232925-5wk0g8k",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211127232925-5wk0g8k",
+						"updated": "20211127233016"
+					},
+					"Children": [
+						{
+							"ID": "20211127232925-v3v5uup",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211127232925-v3v5uup",
+								"updated": "20211127233016"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Please do not directly use the external link address provided by cloud assets on other platforms. This address is unstable and may affect the availability due to the domain name change"
+								}
+							]
+						}
+					]
+				},
 				{
-					"Type": "NodeText",
-					"Data": "If a user is found to upload an illegal asset file, the user account will be permanently banned and the corresponding legal responsibility will be assumed."
+					"ID": "20211127232925-f6or56l",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211127232925-f6or56l",
+						"updated": "20211127233055"
+					},
+					"Children": [
+						{
+							"ID": "20211127232925-smtbm06",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211127232925-smtbm06",
+								"updated": "20211127233055"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Please do not upload illegal or sensitive files. The uploaded files will be reviewed through services provided by third parties (pornography, violent terrorism, sensitive people, etc.). If a user is found to upload illegal files, the user account will be permanently banned, and the corresponding legal responsibility will be assumed"
+								}
+							]
+						}
+					]
 				}
 			]
 		}
