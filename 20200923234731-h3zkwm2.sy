@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20211102091430"
+		"updated": "20211129190928"
 	},
 	"Children": [
 		{
@@ -339,6 +339,95 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20211129190925-mzmhh3v",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211129190925-mzmhh3v",
+				"updated": "20211129190928"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Is SiYuan open source?"
+				}
+			]
+		},
+		{
+			"ID": "20211129190925-34ca8bb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211129190925-34ca8bb",
+				"updated": "20211129190925"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Currently, it is not completely open source, but in order to ensure the portability of data, "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Data Parser"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/88250/protyle"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " and "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Editor Engine"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/88250/ lute"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " is completely open source."
 				}
 			]
 		},
