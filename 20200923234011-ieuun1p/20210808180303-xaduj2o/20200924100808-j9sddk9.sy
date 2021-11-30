@@ -5,7 +5,7 @@
 		"id": "20200924100808-j9sddk9",
 		"title": "Import and Export",
 		"type": "doc",
-		"updated": "20210708215225"
+		"updated": "20211130234353"
 	},
 	"Children": [
 		{
@@ -31,25 +31,44 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210120161035-zxkyg0w",
-				"updated": "20210708215225"
+				"updated": "20211130234353"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "SiYuan only supports importing Markdown files. Select the folder on the document tree and right-click and select \"Import\". The secondary menu can choose to import a folder or import a single Markdown file."
-				}
-			]
-		},
-		{
-			"ID": "20210120155800-zxa7194",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210120155800-zxa7194"
-			},
-			"Children": [
+					"Data": "SiYuan only supports importing Markdown files. The "
+				},
 				{
 					"Type": "NodeText",
-					"Data": "The import process mainly completes the following conversion processing:"
+					"Data": "import "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "process "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "mainly "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "completes "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "the "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "following "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "conversion "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "processing:"
 				}
 			]
 		},
@@ -263,15 +282,49 @@
 			"ID": "20210120155909-lx3y6by",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210120155909-lx3y6by"
+				"id": "20210120155909-lx3y6by",
+				"updated": "20211130234036"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "After selecting the content, use the copy shortcut key "
+					"Data": "After "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "selecting "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "the "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "content, "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "use "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "the "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "copy "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "shortcut "
+				},
+				{
+					"Type": "NodeText",
+					"Data": "key "
 				},
 				{
 					"Type": "NodeKbd",
+					"Data": "kbd",
 					"Children": [
 						{
 							"Type": "NodeKbdOpenMarker"
@@ -287,7 +340,22 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": ".### Full text export"
+					"Data": "."
+				}
+			]
+		},
+		{
+			"ID": "20211130234130-froae8s",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20211130234130-froae8s",
+				"updated": "20211130234157"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Full text export"
 				}
 			]
 		},
@@ -307,27 +375,18 @@
 		{
 			"ID": "20210120155909-3j6fzii",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210120155909-3j6fzii"
+				"id": "20210120155909-3j6fzii",
+				"updated": "20210120155909"
 			},
 			"Children": [
 				{
 					"ID": "20210120155909-48jy3x5",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210120155909-48jy3x5"
@@ -337,12 +396,40 @@
 							"ID": "20210302223727-xscow91",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223727-xscow91"
+								"id": "20210302223727-xscow91",
+								"updated": "20211130234208"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Markdown: Markdown files complying with GFM/CommonMark standards"
+									"Data": "Markdown"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211130234209-esuiy9f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211130234209-esuiy9f"
+					},
+					"Children": [
+						{
+							"ID": "20211130234209-yzjuegk",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211130234209-yzjuegk",
+								"updated": "20211130234209"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Word"
 								}
 							]
 						}
@@ -351,13 +438,9 @@
 				{
 					"ID": "20210120155909-f9oo9lr",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210120155909-f9oo9lr"
@@ -381,13 +464,9 @@
 				{
 					"ID": "20210120155909-bglztv7",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210120155909-bglztv7"
@@ -411,62 +490,86 @@
 			]
 		},
 		{
-			"ID": "20210120155909-pc5gzx7",
+			"ID": "20211130234237-ebn4hfm",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210120155909-pc5gzx7"
+				"id": "20211130234237-ebn4hfm",
+				"updated": "20211130234256"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "If you need to export more formats, please complete via "
+					"Data": "When exporting Word, SiYuan is processed by "
 				},
 				{
 					"Type": "NodeLink",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
+							"Type": "NodeOpenBracket"
 						},
 						{
 							"Type": "NodeLinkText",
 							"Data": "Pandoc"
 						},
 						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
+							"Type": "NodeCloseBracket"
 						},
 						{
-							"Type": "NodeOpenParen",
-							"Data": "("
+							"Type": "NodeOpenParen"
 						},
 						{
 							"Type": "NodeLinkDest",
 							"Data": "https://pandoc.org"
 						},
 						{
-							"Type": "NodeCloseParen",
-							"Data": ")"
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ". If you need to add parameters, you can set a custom attribute "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "pandoc-docx"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " on the document, whose value is an additional parameter list , such as "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "--reference-doc twocolumns.docx --lua-filter=zotero.lua"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
 					"Data": "."
-				}
-			]
-		},
-		{
-			"ID": "20210120155909-5d1u5zc",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210120155909-5d1u5zc",
-				"updated": "20210512160100"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Select a folder on the doc tree and right-click and select \"Export\" to export in batches. The export is a standard Markdown file compression package with asset files."
 				}
 			]
 		}
