@@ -6,7 +6,7 @@
 		"id": "20201121224345-rc27qvo",
 		"title": "4 Acknowledgements",
 		"type": "doc",
-		"updated": "20210928101929"
+		"updated": "20211213120314"
 	},
 	"Children": [
 		{
@@ -44,7 +44,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210928101929-a2x93z8",
-				"updated": "20210928101929"
+				"updated": "20211213120314"
 			},
 			"Children": [
 				{
@@ -921,6 +921,76 @@
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "Apache-2.0 License"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211213120313-q9yatn6",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213120313-q9yatn6",
+						"updated": "20211213120314"
+					},
+					"Children": [
+						{
+							"ID": "20211213120313-gsomr4h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213120313-gsomr4h",
+								"updated": "20211213120314"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "https://github.com/araddon/dateparse"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/araddon/dateparse"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "MIT License"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"

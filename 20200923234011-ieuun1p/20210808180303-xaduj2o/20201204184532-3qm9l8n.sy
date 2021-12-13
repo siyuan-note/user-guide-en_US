@@ -5,7 +5,7 @@
 		"id": "20201204184532-3qm9l8n",
 		"title": "Template snippet",
 		"type": "doc",
-		"updated": "20210428232129"
+		"updated": "20211213121210"
 	},
 	"Children": [
 		{
@@ -403,7 +403,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210104091444-mwbvc9m",
-				"updated": "20210104091444"
+				"updated": "20211213121210"
 			},
 			"Children": [
 				{
@@ -507,6 +507,92 @@
 								{
 									"Type": "NodeText",
 									"Data": "：Use this variable to insert the current document id"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211213121001-86hu9ws",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213121001-86hu9ws"
+					},
+					"Children": [
+						{
+							"ID": "20211213121001-qg2k19v",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213121001-qg2k19v",
+								"updated": "20211213121022"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "name"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ": Use this variable to insert the current document name"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211213121022-33ngo64",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213121022-33ngo64"
+					},
+					"Children": [
+						{
+							"ID": "20211213121022-un8wzkv",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213121022-un8wzkv",
+								"updated": "20211213121038"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "alias"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": "：Use this variable to insert the current document alias"
 								}
 							]
 						}
@@ -625,6 +711,70 @@
 											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211213121042-5n981ru",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211213121042-5n981ru",
+						"updated": "20211213121210"
+					},
+					"Children": [
+						{
+							"ID": "20211213121042-g7gd7p5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211213121042-g7gd7p5",
+								"updated": "20211213121210"
+							},
+							"Children": [
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "parseTime"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": ": This function is used to parse a string in time format into a "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "time.Time"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " type so that more formatting methods can be used to render the time"
 								}
 							]
 						}
