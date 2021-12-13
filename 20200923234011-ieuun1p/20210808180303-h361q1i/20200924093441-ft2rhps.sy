@@ -6,7 +6,7 @@
 		"title": "Formatting elements",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20211205000335"
+		"updated": "20211213122625"
 	},
 	"Children": [
 		{
@@ -3012,12 +3012,12 @@
 			"HeadingLevel": 1,
 			"Properties": {
 				"id": "20210104091509-v1x69oc",
-				"updated": "20210415200953"
+				"updated": "20211213122625"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Mind Map"
+					"Data": "Mind map"
 				}
 			]
 		},
@@ -3051,6 +3051,20 @@
 					"Type": "NodeCodeBlockFenceCloseMarker",
 					"Data": "```",
 					"CodeBlockFenceLen": 3
+				}
+			]
+		},
+		{
+			"ID": "20211213122548-xg047h3",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213122548-xg047h3",
+				"updated": "20211213122621"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Use Markdown list syntax to render the mind map."
 				}
 			]
 		},
@@ -3103,6 +3117,50 @@
 			]
 		},
 		{
+			"ID": "20211213121738-ul6f1wq",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213121738-ul6f1wq",
+				"updated": "20211213121840"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
 			"ID": "20210104091509-fim1ztl",
 			"Type": "NodeHeading",
 			"HeadingLevel": 1,
@@ -3151,6 +3209,50 @@
 			]
 		},
 		{
+			"ID": "20211213121843-a3ldisx",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213121843-a3ldisx",
+				"updated": "20211213121844"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
 			"ID": "20210104091509-gjag91d",
 			"Type": "NodeHeading",
 			"HeadingLevel": 1,
@@ -3169,19 +3271,14 @@
 			"ID": "20210104091509-ki9cxs7",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
-			"CodeBlockFenceChar": 96,
-			"CodeBlockFenceLen": 3,
-			"CodeBlockOpenFence": "YGBg",
-			"CodeBlockInfo": "bWVybWFpZA==",
-			"CodeBlockCloseFence": "YGBg",
 			"Properties": {
-				"id": "20210104091509-ki9cxs7"
+				"id": "20210104091509-ki9cxs7",
+				"updated": "20210104091509"
 			},
 			"Children": [
 				{
 					"Type": "NodeCodeBlockFenceOpenMarker",
-					"Data": "```",
-					"CodeBlockFenceLen": 3
+					"Data": "```"
 				},
 				{
 					"Type": "NodeCodeBlockFenceInfoMarker",
@@ -3189,12 +3286,55 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "gantt\n    title A Gantt Diagram\n    dateFormat YYYY-MM-DD\n    section Section\n    A task :a1, 2019-01-01, 30d\n    Another task :after a1, 20d\n    section Another\n    Task in sec :2019-01-12, 12d\n    another task: 24d\n"
+					"Data": "gantt\n    title A Gantt Diagram\n    dateFormat YYYY-MM-DD\n    section Section\n    A task :a1, 2019-01-01, 30d\n    Another task :after a1, 20d\n    section Another\n    Task in sec :2019-01-12, 12d\n    another task: 24d"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
-					"Data": "```",
-					"CodeBlockFenceLen": 3
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211213121846-1uefhok",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213121846-1uefhok",
+				"updated": "20211213121847"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
 				}
 			]
 		},
@@ -3295,6 +3435,50 @@
 			]
 		},
 		{
+			"ID": "20211213121948-zo8q9wp",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213121948-zo8q9wp",
+				"updated": "20211213122027"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "abcjs"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/paulrosen/abcjs"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
 			"ID": "20210104091509-p75cyqy",
 			"Type": "NodeHeading",
 			"HeadingLevel": 1,
@@ -3313,19 +3497,14 @@
 			"ID": "20210104091509-5oabbxe",
 			"Type": "NodeCodeBlock",
 			"IsFencedCodeBlock": true,
-			"CodeBlockFenceChar": 96,
-			"CodeBlockFenceLen": 3,
-			"CodeBlockOpenFence": "YGBg",
-			"CodeBlockInfo": "Z3JhcGh2aXo=",
-			"CodeBlockCloseFence": "YGBg",
 			"Properties": {
-				"id": "20210104091509-5oabbxe"
+				"id": "20210104091509-5oabbxe",
+				"updated": "20210104091509"
 			},
 			"Children": [
 				{
 					"Type": "NodeCodeBlockFenceOpenMarker",
-					"Data": "```",
-					"CodeBlockFenceLen": 3
+					"Data": "```"
 				},
 				{
 					"Type": "NodeCodeBlockFenceInfoMarker",
@@ -3333,12 +3512,55 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "digraph finite_state_machine {\n     rankdir=LR;\n     size=\"8,5\"\n     node [shape = doublecircle]; S;\n     node [shape = point ]; qi\n\n     node [shape = circle];\n     qi -\u003e S;\n     S -\u003e q1 [label = \"a\" ];\n     S -\u003e S [label = \"a\" ];\n     q1 -\u003e S [label = \"a\" ];\n     q1 -\u003e q2 [label = \"ddb\" ];\n     q2 -\u003e q1 [label = \"b\" ];\n     q2 -\u003e q2 [label = \"b\" ];\n}\n"
+					"Data": "digraph finite_state_machine {\n     rankdir=LR;\n     size=\"8,5\"\n     node [shape = doublecircle]; S;\n     node [shape = point ]; qi\n\n     node [shape = circle];\n     qi -\u003e S;\n     S -\u003e q1 [label = \"a\" ];\n     S -\u003e S [label = \"a\" ];\n     q1 -\u003e S [label = \"a\" ];\n     q1 -\u003e q2 [label = \"ddb\" ];\n     q2 -\u003e q1 [label = \"b\" ];\n     q2 -\u003e q2 [label = \"b\" ];\n}"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
-					"Data": "```",
-					"CodeBlockFenceLen": 3
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211213122050-hi7x86c",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213122050-hi7x86c",
+				"updated": "20211213122120"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Graphviz"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://graphviz.org"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
 				}
 			]
 		},
@@ -3391,6 +3613,50 @@
 			]
 		},
 		{
+			"ID": "20211213122144-gdl5u9e",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213122144-gdl5u9e",
+				"updated": "20211213122317"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "flowchart.js"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/adrai/flowchart.js"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
 			"ID": "20210201203412-n26xya3",
 			"Type": "NodeHeading",
 			"HeadingLevel": 1,
@@ -3435,6 +3701,50 @@
 					"Type": "NodeCodeBlockFenceCloseMarker",
 					"Data": "```",
 					"CodeBlockFenceLen": 3
+				}
+			]
+		},
+		{
+			"ID": "20211213122348-4djtm9e",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211213122348-4djtm9e",
+				"updated": "20211213122415"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "PlantUML"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://plantuml.com"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
 				}
 			]
 		}
