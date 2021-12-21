@@ -6,7 +6,7 @@
 		"title": "Formatting elements",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20211213122625"
+		"updated": "20211221131331"
 	},
 	"Children": [
 		{
@@ -3300,6 +3300,350 @@
 			"Properties": {
 				"id": "20211213121846-1uefhok",
 				"updated": "20211213121847"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-rvtulhv",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211221131201-rvtulhv",
+				"updated": "20211221131239"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Class diagram"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-dzwtwxl",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211221131201-dzwtwxl",
+				"updated": "20211221130538"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "classDiagram\nClass01 \u0026lt;|-- AveryLongClass : Cool\nClass03 *-- Class04\nClass05 o-- Class06\nClass07 .. Class08\nClass09 --\u0026gt; C2 : Where am i?\nClass09 --* C3\nClass09 --|\u0026gt; Class07\nClass07 : equals()\nClass07 : Object[] elementData\nClass01 : size()\nClass01 : int chimp\nClass01 : int gorilla\nClass08 \u0026lt;--\u0026gt; C2: Cool label"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-btdpj6w",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211221131201-btdpj6w",
+				"updated": "20211221131207"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-red5ubq",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211221131201-red5ubq",
+				"updated": "20211221131331"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "User Journey Diagram"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-7bh269l",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211221131201-7bh269l",
+				"updated": "20211221130820"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "journey\n    title My working day\n    section Go to work\n      Make tea: 5: Me\n      Go upstairs: 3: Me\n      Do work: 1: Me, Cat\n    section Go home\n      Go downstairs: 5: Me\n      Sit down: 5: Me"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-in8ft2f",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211221131201-in8ft2f",
+				"updated": "20211221131210"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-extvbqp",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211221131201-extvbqp",
+				"updated": "20211221131304"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Git graph"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-600dcnw",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211221131201-600dcnw",
+				"updated": "20211221130624"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "gitGraph:\noptions\n{\n    \u0026quot;nodeSpacing\u0026quot;: 150,\n    \u0026quot;nodeRadius\u0026quot;: 10\n}\nend\ncommit\nbranch newbranch\ncheckout newbranch\ncommit\ncommit\ncheckout master\ncommit\ncommit\nmerge newbranch"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-29ok6tj",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211221131201-29ok6tj",
+				"updated": "20211221131215"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Please refer to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Mermaid"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/mermaid-js/mermaid"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " for the syntax."
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-2w053g4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 1,
+			"Properties": {
+				"id": "20211221131201-2w053g4",
+				"updated": "20211221131318"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Entity Relationship Diagram"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-39tk9i1",
+			"Type": "NodeCodeBlock",
+			"IsFencedCodeBlock": true,
+			"Properties": {
+				"id": "20211221131201-39tk9i1",
+				"updated": "20211221130710"
+			},
+			"Children": [
+				{
+					"Type": "NodeCodeBlockFenceOpenMarker",
+					"Data": "```"
+				},
+				{
+					"Type": "NodeCodeBlockFenceInfoMarker",
+					"CodeBlockInfo": "bWVybWFpZA=="
+				},
+				{
+					"Type": "NodeCodeBlockCode",
+					"Data": "erDiagram\n    CUSTOMER ||--o{ ORDER : places\n    ORDER ||--|{ LINE-ITEM : contains\n    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses"
+				},
+				{
+					"Type": "NodeCodeBlockFenceCloseMarker",
+					"Data": "```"
+				}
+			]
+		},
+		{
+			"ID": "20211221131201-c36wsze",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211221131201-c36wsze",
+				"updated": "20211221131218"
 			},
 			"Children": [
 				{
