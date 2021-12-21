@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "1 Data Sync",
-		"updated": "20211106114232"
+		"updated": "20211222010140"
 	},
 	"Children": [
 		{
@@ -341,7 +341,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210928101257-apwzr8j",
-				"updated": "20210928220638"
+				"updated": "20211222010140"
 			},
 			"Children": [
 				{
@@ -353,7 +353,7 @@
 					},
 					"Properties": {
 						"id": "20210928101257-9rghi7d",
-						"updated": "20210928220638"
+						"updated": "20211222010140"
 					},
 					"Children": [
 						{
@@ -361,7 +361,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210928101257-tjmd13g",
-								"updated": "20210928220638"
+								"updated": "20211222010140"
 							},
 							"Children": [
 								{
@@ -373,7 +373,7 @@
 										},
 										{
 											"Type": "NodeCodeSpanContent",
-											"Data": "20210808180117-6v0mkxr/**/*"
+											"Data": "20210808180117-6v0mkxr"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
@@ -382,7 +382,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": ": Ignore the data/20210808180117-6v0mkxr folder and all the files it contains"
+									"Data": ": Ignore the data/20210808180117-6v0mkxr notebook"
 								}
 							]
 						}
@@ -425,90 +425,6 @@
 								{
 									"Type": "NodeText",
 									"Data": ": ignore PDF files under data/assets/"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210928101257-knwasnm",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210928101257-knwasnm"
-					},
-					"Children": [
-						{
-							"ID": "20210928101257-rg6qjns",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210928101257-rg6qjns"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "**/foo/*.png"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": Ignore PNG files under foo/ at any level"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20210928101257-5knw3yu",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210928101257-5knw3yu"
-					},
-					"Children": [
-						{
-							"ID": "20210928101257-r1hiqww",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210928101257-r1hiqww"
-							},
-							"Children": [
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "foo/ba*.png"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": ignore the PNG files starting with ba under data/foo/"
 								}
 							]
 						}

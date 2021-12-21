@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "3 FAQs",
 		"type": "doc",
-		"updated": "20210918115819"
+		"updated": "20211222010934"
 	},
 	"Children": [
 		{
@@ -566,35 +566,6 @@
 			]
 		},
 		{
-			"ID": "20210605222653-92evcce",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20210605222653-92evcce",
-				"updated": "20210605222653"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "How to indent at the beginning of a Chinese paragraph?"
-				}
-			]
-		},
-		{
-			"ID": "20210605222653-7jvfzdc",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210605222653-7jvfzdc",
-				"updated": "20210708214602"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Please use full-width spaces so that the content can be aligned after it is automatically wrapped."
-				}
-			]
-		},
-		{
 			"ID": "20210710113628-6qfvp51",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
@@ -894,19 +865,149 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "T"
-								},
-								{
-									"Type": "NodeText",
-									"Data": "here"
-								},
-								{
-									"Type": "NodeText",
-									"Data": " is a conflict between third-party synchronization and SiYuan synchronization, please do not use at the same time"
+									"Data": "There is a conflict between third-party synchronization and SiYuan synchronization, please do not use at the same time"
 								}
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20211222010813-ftnc2x4",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20211222010813-ftnc2x4",
+				"updated": "20211222010813"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "What should I do if I forget the end-to-end password?"
+				}
+			]
+		},
+		{
+			"ID": "20211222010813-zbajcmo",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20211222010813-zbajcmo",
+				"updated": "20211222010813"
+			},
+			"Children": [
+				{
+					"ID": "20211222010813-ru0kl9w",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222010813-ru0kl9w"
+					},
+					"Children": [
+						{
+							"ID": "20211222010813-62e87x8",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222010813-62e87x8"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Use the new workspace on the main device, manually copy the old workspace data folder to the new workspace"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211222010813-08qwbrg",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222010813-08qwbrg"
+					},
+					"Children": [
+						{
+							"ID": "20211222010813-ta53o9h",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222010813-ta53o9h"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "New workspace can reset password"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211222010813-t2nitz1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222010813-t2nitz1"
+					},
+					"Children": [
+						{
+							"ID": "20211222010813-b08dqu3",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222010813-b08dqu3"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "The cloud uses the new cloud synchronization directory"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20211222010813-1xph0t0",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20211222010813-1xph0t0",
+				"updated": "20211222010934"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If it is a mobile-end, uninstall and reinstall it ("
+				},
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": When the mobile-enduninstalls the application, the local workspace data will be deleted together)"
 				}
 			]
 		},
