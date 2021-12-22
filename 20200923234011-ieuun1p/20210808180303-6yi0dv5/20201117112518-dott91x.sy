@@ -5,7 +5,7 @@
 		"id": "20201117112518-dott91x",
 		"title": "5 Embed Content block",
 		"type": "doc",
-		"updated": "20211008203637"
+		"updated": "20211222185418"
 	},
 	"Children": [
 		{
@@ -567,9 +567,9 @@
 		{
 			"ID": "20210111231445-gwfrxnl",
 			"Type": "NodeBlockQueryEmbed",
-			"Data": "{{SELECT * FROM blocks WHERE content LIKE '%In SiYuan%' AND content LIKE '%core concept%' AND path NOT LIKE '%Embed Content Block%'}}\n",
 			"Properties": {
-				"id": "20210111231445-gwfrxnl"
+				"id": "20210111231445-gwfrxnl",
+				"updated": "20211222185405"
 			},
 			"Children": [
 				{
@@ -580,7 +580,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE content LIKE '%In SiYuan%' AND content LIKE '%core concept%' AND path NOT LIKE '%Embed Content Block%'"
+					"Data": "SELECT * FROM blocks WHERE content LIKE '%In SiYuan%' AND content LIKE '%core concept%' AND hpath NOT LIKE '%Embed Content Block%'"
 				},
 				{
 					"Type": "NodeCloseBrace"
@@ -668,9 +668,9 @@
 		{
 			"ID": "20201224120448-ww21jau",
 			"Type": "NodeBlockQueryEmbed",
-			"Data": "{{SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Embed Content Block%'}}\n",
 			"Properties": {
-				"id": "20201224120448-ww21jau"
+				"id": "20201224120448-ww21jau",
+				"updated": "20211222185418"
 			},
 			"Children": [
 				{
@@ -681,7 +681,7 @@
 				},
 				{
 					"Type": "NodeBlockQueryEmbedScript",
-					"Data": "SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND path NOT LIKE '%Embed Content Block%'"
+					"Data": "SELECT * FROM blocks WHERE (content LIKE '%#Content block/Embed#%' OR content LIKE '%#Content block/Reference#%') AND hpath NOT LIKE '%Embed Content Block%'"
 				},
 				{
 					"Type": "NodeCloseBrace"
