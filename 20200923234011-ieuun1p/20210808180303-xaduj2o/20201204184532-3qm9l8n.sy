@@ -5,7 +5,7 @@
 		"id": "20201204184532-3qm9l8n",
 		"title": "Template snippet",
 		"type": "doc",
-		"updated": "20211213121210"
+		"updated": "20211222095741"
 	},
 	"Children": [
 		{
@@ -1038,39 +1038,37 @@
 			"ID": "20210131162806-wuttf37",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210131162806-wuttf37"
+				"id": "20210131162806-wuttf37",
+				"updated": "20211222095741"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Please make sure that the root path of your template repository contains at least these two files before listing ("
+					"Data": "Please make sure that the root path of your template repository contains at least the following files before listing ("
 				},
 				{
 					"Type": "NodeLink",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
+							"Type": "NodeOpenBracket"
 						},
 						{
 							"Type": "NodeLinkText",
 							"Data": "repo example"
 						},
 						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
+							"Type": "NodeCloseBracket"
 						},
 						{
-							"Type": "NodeOpenParen",
-							"Data": "("
+							"Type": "NodeOpenParen"
 						},
 						{
 							"Type": "NodeLinkDest",
 							"Data": "https://github.com/88250/November-Rain"
 						},
 						{
-							"Type": "NodeCloseParen",
-							"Data": ")"
+							"Type": "NodeCloseParen"
 						}
 					]
 				},
@@ -1083,27 +1081,18 @@
 		{
 			"ID": "20210131162806-vsk0d2y",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20210131162806-vsk0d2y"
+				"id": "20210131162806-vsk0d2y",
+				"updated": "20211222095707"
 			},
 			"Children": [
 				{
 					"ID": "20210131162806-v0untr5",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210131162806-v0untr5"
@@ -1127,13 +1116,9 @@
 				{
 					"ID": "20210131162806-vruviwi",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210131162806-vruviwi"
@@ -1143,12 +1128,41 @@
 							"ID": "20210131162806-v86lig4",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210131162806-v86lig4"
+								"id": "20210131162806-v86lig4",
+								"updated": "20211222095705"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "preview.png (please compress the image size within 128 KB)"
+									"Data": "preview.png (please compress the image size within 512 KB)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211222095706-yc21k1e",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222095706-yc21k1e",
+						"updated": "20211222095707"
+					},
+					"Children": [
+						{
+							"ID": "20211222095706-kpo2rd5",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222095706-kpo2rd5",
+								"updated": "20211222095707"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "README.md (please note the case)"
 								}
 							]
 						}

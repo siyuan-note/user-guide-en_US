@@ -4,7 +4,8 @@
 	"Properties": {
 		"id": "20200924095938-a9p5450",
 		"title": "Theme",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20211222095621"
 	},
 	"Children": [
 		{
@@ -1508,39 +1509,37 @@
 			"ID": "20201225231001-q8d13v2",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20201225231001-q8d13v2"
+				"id": "20201225231001-q8d13v2",
+				"updated": "20211222095554"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Please make sure that the root path of your theme repository contains at least these three files before listing ("
+					"Data": "Please make sure that the root path of your theme repository contains at least the following files before listing ("
 				},
 				{
 					"Type": "NodeLink",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeOpenBracket",
-							"Data": "["
+							"Type": "NodeOpenBracket"
 						},
 						{
 							"Type": "NodeLinkText",
 							"Data": "repo example"
 						},
 						{
-							"Type": "NodeCloseBracket",
-							"Data": "]"
+							"Type": "NodeCloseBracket"
 						},
 						{
-							"Type": "NodeOpenParen",
-							"Data": "("
+							"Type": "NodeOpenParen"
 						},
 						{
 							"Type": "NodeLinkDest",
 							"Data": "https://github.com/88250/Comfortably-Numb"
 						},
 						{
-							"Type": "NodeCloseParen",
-							"Data": ")"
+							"Type": "NodeCloseParen"
 						}
 					]
 				},
@@ -1553,27 +1552,18 @@
 		{
 			"ID": "20201226180450-l11kqks",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
-				"id": "20201226180450-l11kqks"
+				"id": "20201226180450-l11kqks",
+				"updated": "20211222095621"
 			},
 			"Children": [
 				{
 					"ID": "20201225231001-kb3qapf",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225231001-kb3qapf"
@@ -1597,13 +1587,9 @@
 				{
 					"ID": "20201226180450-4y3o8g8",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201226180450-4y3o8g8"
@@ -1627,13 +1613,9 @@
 				{
 					"ID": "20201226180450-6w0hjs4",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201226180450-6w0hjs4"
@@ -1643,12 +1625,41 @@
 							"ID": "20210131162108-v7g3c2i",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210131162108-v7g3c2i"
+								"id": "20210131162108-v7g3c2i",
+								"updated": "20211222095606"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "preview.png (please compress the image size within 128 KB)"
+									"Data": "preview.png (please compress the image size within 512 KB)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211222095608-q6wvx7e",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222095608-q6wvx7e",
+						"updated": "20211222095621"
+					},
+					"Children": [
+						{
+							"ID": "20211222095608-wsuhqai",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222095608-wsuhqai",
+								"updated": "20211222095621"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "README.md (please note the case)"
 								}
 							]
 						}

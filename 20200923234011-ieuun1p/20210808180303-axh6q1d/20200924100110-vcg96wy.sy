@@ -5,7 +5,7 @@
 		"id": "20200924100110-vcg96wy",
 		"title": "Icon",
 		"type": "doc",
-		"updated": "20210601103932"
+		"updated": "20211222095802"
 	},
 	"Children": [
 		{
@@ -1779,12 +1779,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210601103837-895y8x4",
-				"updated": "20210601103854"
+				"updated": "20211222095758"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Please make sure that the root path of your icon repository contains at least these three files before listing:"
+					"Data": "Please make sure that the root path of your icon repository contains at least the following files before listing:"
 				}
 			]
 		},
@@ -1794,7 +1794,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210601103837-jcdussf",
-				"updated": "20210601103900"
+				"updated": "20211222095802"
 			},
 			"Children": [
 				{
@@ -1868,12 +1868,41 @@
 							"ID": "20210601103837-80g8m6h",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210601103837-80g8m6h"
+								"id": "20210601103837-80g8m6h",
+								"updated": "20211222095801"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "preview.png (please compress the image size within 128 KB)"
+									"Data": "preview.png (please compress the image size within 512 KB)"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20211222095802-9zc9r12",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20211222095802-9zc9r12",
+						"updated": "20211222095802"
+					},
+					"Children": [
+						{
+							"ID": "20211222095802-bp2xrjr",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20211222095802-bp2xrjr",
+								"updated": "20211222095802"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "README.md (please note the case)"
 								}
 							]
 						}
