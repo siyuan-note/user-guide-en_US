@@ -1012,35 +1012,6 @@
 			]
 		},
 		{
-			"ID": "20211222190832-h91fau6",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20211222190832-h91fau6",
-				"updated": "20211222190856"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "For the same workspace, why is the size of cloud sync and cloud backup different?"
-				}
-			]
-		},
-		{
-			"ID": "20211222190832-00lq2sv",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211222190832-00lq2sv",
-				"updated": "20211222190832"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Because cloud synchronization does not include history, cloud backup includes history."
-				}
-			]
-		},
-		{
 			"ID": "20201224120448-yq5ziln",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
