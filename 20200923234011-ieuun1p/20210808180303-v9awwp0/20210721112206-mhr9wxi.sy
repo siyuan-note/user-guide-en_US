@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "Data Sync",
-		"updated": "20211223192047"
+		"updated": "20220110113833"
 	},
 	"Children": [
 		{
@@ -113,7 +113,7 @@
 			},
 			"Properties": {
 				"id": "20211027220510-4qkvcnz",
-				"updated": "20211027220510"
+				"updated": "20220110113833"
 			},
 			"Children": [
 				{
@@ -126,39 +126,21 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20211027220510-4qik87y"
+						"id": "20211027220510-4qik87y",
+						"updated": "20220110113833"
 					},
 					"Children": [
 						{
 							"ID": "20211027220510-4acljz5",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20211027220510-4acljz5"
+								"id": "20211027220510-4acljz5",
+								"updated": "20220110113833"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Set the end-to-end encryption password. "
-								},
-								{
-									"Type": "NodeTag",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeTagOpenMarker"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Note"
-										},
-										{
-											"Type": "NodeTagCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ": Once the password is set, it cannot be modified or viewed. If you forget the password, your cloud data will be permanently lost, so please remember the password"
+									"Data": "Set the end-to-end encryption password"
 								}
 							]
 						}

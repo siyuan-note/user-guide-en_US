@@ -4,9 +4,24 @@
 	"Properties": {
 		"id": "20210721112229-fp97j3c",
 		"title": "End-to-end Encryption",
-		"updated": "20211223192159"
+		"updated": "20220110114008"
 	},
 	"Children": [
+		{
+			"ID": "20220110113929-087uy2y",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110113929-087uy2y",
+				"updated": "20220110113932"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Overview"
+				}
+			]
+		},
 		{
 			"ID": "20210721113811-5tkf18n",
 			"Type": "NodeParagraph",
@@ -129,6 +144,234 @@
 								{
 									"Type": "NodeText",
 									"Data": "The password set by the user is encrypted with the built-in key of the program and stored locally"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-fl0d0js",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110113934-fl0d0js",
+				"updated": "20220110113937"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Password generation"
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-dae2jau",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220110113934-dae2jau",
+				"updated": "20220110113934"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "There are two ways to generate end-to-end encrypted passwords:"
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-rfporqh",
+			"Type": "NodeList",
+			"ListData": {
+				"Typ": 1
+			},
+			"Properties": {
+				"id": "20220110113934-rfporqh",
+				"updated": "20220110113934"
+			},
+			"Children": [
+				{
+					"ID": "20220110113934-gwjk3qx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
+					},
+					"Properties": {
+						"id": "20220110113934-gwjk3qx"
+					},
+					"Children": [
+						{
+							"ID": "20220110113934-emopzba",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110113934-emopzba"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Automatic generation of algorithm based on user id"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110113934-dpi5mhr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
+					},
+					"Properties": {
+						"id": "20220110113934-dpi5mhr"
+					},
+					"Children": [
+						{
+							"ID": "20220110113934-ozy5c5y",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110113934-ozy5c5y"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Based on user-defined password generation"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-uwfmdbs",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220110113934-uwfmdbs",
+				"updated": "20220110114008"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-ldpj5fk",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220110113934-ldpj5fk",
+				"updated": "20220110113934"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Once the password generation method is selected:"
+				}
+			]
+		},
+		{
+			"ID": "20220110113934-v3n5kmk",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220110113934-v3n5kmk",
+				"updated": "20220110113934"
+			},
+			"Children": [
+				{
+					"ID": "20220110113934-vo6xgcm",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110113934-vo6xgcm"
+					},
+					"Children": [
+						{
+							"ID": "20220110113934-io3fleg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110113934-io3fleg"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Need to keep the same build method on all devices"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110113934-kwtmv92",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110113934-kwtmv92"
+					},
+					"Children": [
+						{
+							"ID": "20220110113934-mt1rt0e",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110113934-mt1rt0e"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "You cannot switch after selecting the generation method"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220110113934-xv21745",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220110113934-xv21745"
+					},
+					"Children": [
+						{
+							"ID": "20220110113934-7zz23zi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220110113934-7zz23zi"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If you use a custom password, please keep in mind"
 								}
 							]
 						}

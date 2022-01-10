@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112211-fwc1x43",
 		"title": "Data Backup \u0026amp; Recover",
-		"updated": "20211223192051"
+		"updated": "20220110113910"
 	},
 	"Children": [
 		{
@@ -99,7 +99,7 @@
 			},
 			"Properties": {
 				"id": "20210721113518-l6iveb9",
-				"updated": "20210721113608"
+				"updated": "20220110113847"
 			},
 			"Children": [
 				{
@@ -113,7 +113,7 @@
 					},
 					"Properties": {
 						"id": "20210721113518-xj8t7rh",
-						"updated": "20210721113530"
+						"updated": "20220110113847"
 					},
 					"Children": [
 						{
@@ -121,7 +121,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721113518-pbw2e0k",
-								"updated": "20210721113530"
+								"updated": "20220110113847"
 							},
 							"Children": [
 								{
@@ -163,10 +163,6 @@
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ", the password only needs to be configured once, and it can be kept the same on all devices"
 								}
 							]
 						}
@@ -376,7 +372,7 @@
 			},
 			"Properties": {
 				"id": "20210721113518-ehrjn0l",
-				"updated": "20210721113649"
+				"updated": "20220110113910"
 			},
 			"Children": [
 				{
@@ -390,7 +386,7 @@
 					},
 					"Properties": {
 						"id": "20210721113518-xxudcbj",
-						"updated": "20210721113633"
+						"updated": "20220110113910"
 					},
 					"Children": [
 						{
@@ -398,7 +394,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721113518-7hc0mv6",
-								"updated": "20210721113633"
+								"updated": "20220110113910"
 							},
 							"Children": [
 								{
@@ -440,10 +436,6 @@
 											"Type": "NodeKbdCloseMarker"
 										}
 									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": ", the password only needs to be configured once, and it can be kept the same on all devices"
 								}
 							]
 						}
