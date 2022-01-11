@@ -140,7 +140,15 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Set the end-to-end encryption password"
+									"Data": "Set the "
+								},
+								{
+									"Type": "NodeText",
+									"Data": "end-to-end encryption"
+								},
+								{
+									"Type": "NodeText",
+									"Data": " password"
 								}
 							]
 						}
@@ -175,41 +183,13 @@
 					]
 				},
 				{
-					"ID": "20211027220510-dz8f6b2",
+					"ID": "20211027220510-i02t3c4",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
 						"Delimiter": 46,
 						"Marker": "My4=",
 						"Num": 3
-					},
-					"Properties": {
-						"id": "20211027220510-dz8f6b2"
-					},
-					"Children": [
-						{
-							"ID": "20211027220510-o8i2c5a",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211027220510-o8i2c5a"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Select the synchronization interval and synchronization protocol. It is strongly recommended to use the default configuration, namely automatic synchronization interval and SSH protocol"
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20211027220510-i02t3c4",
-					"Type": "NodeListItem",
-					"ListData": {
-						"Typ": 1,
-						"Delimiter": 46,
-						"Marker": "NC4=",
-						"Num": 4
 					},
 					"Properties": {
 						"id": "20211027220510-i02t3c4"

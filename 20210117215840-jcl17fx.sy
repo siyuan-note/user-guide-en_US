@@ -6,7 +6,7 @@
 		"id": "20210117215840-jcl17fx",
 		"title": "Data Security",
 		"type": "doc",
-		"updated": "20211223191750"
+		"updated": "20220111133319"
 	},
 	"Children": [
 		{
@@ -227,7 +227,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210721113914-knx9uy7",
-				"updated": "20210721114148"
+				"updated": "20220111133319"
 			},
 			"Children": [
 				{
@@ -265,7 +265,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": ", the password is stored locally with a built-in key encryption, any third party (including developers) other than the user cannot get the plaintext in the cloud data."
+					"Data": ", the password is stored locally with a built-in key encryption, any third party other than the user cannot get the plaintext in the cloud data."
 				}
 			]
 		},

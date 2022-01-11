@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112229-fp97j3c",
 		"title": "End-to-end Encryption",
-		"updated": "20220110114008"
+		"updated": "20220111133331"
 	},
 	"Children": [
 		{
@@ -42,7 +42,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210721113811-8fa6box",
-				"updated": "20210721113811"
+				"updated": "20220111133331"
 			},
 			"Children": [
 				{
@@ -105,19 +105,21 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210721113811-lud3r2j"
+						"id": "20210721113811-lud3r2j",
+						"updated": "20220111133331"
 					},
 					"Children": [
 						{
 							"ID": "20210721113811-xb9qm8c",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210721113811-xb9qm8c"
+								"id": "20210721113811-xb9qm8c",
+								"updated": "20220111133331"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Unless the password is known or brute force cracking, it cannot be decrypted (the developer cannot decrypt it either)"
+									"Data": "Unless the password is known or brute force cracking, it cannot be decrypted"
 								}
 							]
 						}
