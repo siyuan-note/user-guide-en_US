@@ -6,7 +6,7 @@
 		"id": "20201121224345-rc27qvo",
 		"title": "Acknowledgements",
 		"type": "doc",
-		"updated": "20210924163316"
+		"updated": "20210928101929"
 	},
 	"Children": [
 		{
@@ -24,27 +24,12 @@
 			]
 		},
 		{
-			"ID": "20210924163316-pibsm1f",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20210924163316-pibsm1f",
-				"updated": "20210924163316"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Source code dependencies"
-				}
-			]
-		},
-		{
 			"ID": "20210928101929-a2x93z8",
 			"Type": "NodeList",
 			"ListData": {},
 			"Properties": {
 				"id": "20210928101929-a2x93z8",
-				"updated": "20211213120314"
+				"updated": "20210928101929"
 			},
 			"Children": [
 				{
@@ -3185,14 +3170,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210928101929-kp55ldl"
+						"id": "20210928101929-kp55ldl",
+						"updated": "20210928101929"
 					},
 					"Children": [
 						{
 							"ID": "20210928101929-0q1i823",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210928101929-0q1i823"
+								"id": "20210928101929-0q1i823",
+								"updated": "20210928101929"
 							},
 							"Children": [
 								{
@@ -3235,102 +3222,6 @@
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "MIT License"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"ID": "20210924163316-7vuvmpr",
-			"Type": "NodeHeading",
-			"HeadingLevel": 2,
-			"Properties": {
-				"id": "20210924163316-7vuvmpr",
-				"updated": "20210924163316"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "Binary dependencies"
-				}
-			]
-		},
-		{
-			"ID": "20210924163316-8ewg5cl",
-			"Type": "NodeList",
-			"ListData": {},
-			"Properties": {
-				"id": "20210924163316-8ewg5cl",
-				"updated": "20210924163316"
-			},
-			"Children": [
-				{
-					"ID": "20210924163316-j0uflhq",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210924163316-j0uflhq",
-						"updated": "20210924163316"
-					},
-					"Children": [
-						{
-							"ID": "20210924163316-p1rpric",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210924163316-p1rpric",
-								"updated": "20210924163316"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "https://github.com/jgm/pandoc"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/jgm/pandoc"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "GPL-3.0 License"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
