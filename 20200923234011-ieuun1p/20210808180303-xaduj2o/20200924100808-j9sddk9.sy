@@ -409,33 +409,6 @@
 					]
 				},
 				{
-					"ID": "20211130234209-esuiy9f",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20211130234209-esuiy9f"
-					},
-					"Children": [
-						{
-							"ID": "20211130234209-yzjuegk",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20211130234209-yzjuegk",
-								"updated": "20211130234209"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Word"
-								}
-							]
-						}
-					]
-				},
-				{
 					"ID": "20210120155909-f9oo9lr",
 					"Type": "NodeListItem",
 					"ListData": {
@@ -486,90 +459,6 @@
 							]
 						}
 					]
-				}
-			]
-		},
-		{
-			"ID": "20211130234237-ebn4hfm",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20211130234237-ebn4hfm",
-				"updated": "20211130234256"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "When exporting Word, SiYuan is processed by "
-				},
-				{
-					"Type": "NodeLink",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeOpenBracket"
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "Pandoc"
-						},
-						{
-							"Type": "NodeCloseBracket"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://pandoc.org"
-						},
-						{
-							"Type": "NodeCloseParen"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": ". If you need to add parameters, you can set a custom attribute "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "pandoc-docx"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " on the document, whose value is an additional parameter list , such as "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "--reference-doc twocolumns.docx --lua-filter=zotero.lua"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": "."
 				}
 			]
 		}
