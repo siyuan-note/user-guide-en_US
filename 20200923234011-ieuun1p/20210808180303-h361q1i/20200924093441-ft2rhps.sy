@@ -6,7 +6,7 @@
 		"title": "Formatting elements",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20211221131331"
+		"updated": "20220115192946"
 	},
 	"Children": [
 		{
@@ -30,7 +30,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210104091509-8csaq4j",
-				"updated": "20211205000335"
+				"updated": "20220115192946"
 			},
 			"Children": [
 				{
@@ -614,7 +614,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210604224724-pa2a6tz"
+						"id": "20210604224724-pa2a6tz",
+						"updated": "20220115192946"
 					},
 					"Children": [
 						{
@@ -1005,38 +1006,9 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210604224728-wxycvn5",
-								"updated": "20210604224917"
+								"updated": "20220115192946"
 							},
 							"Children": [
-								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Properties": {
-										"style": "text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;"
-									},
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Style 1"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
-								},
-								{
-									"Type": "NodeKramdownSpanIAL",
-									"Data": "{: style=\"text-shadow: 0px 0px 0.1em, 0px 0px 0.3em;\"}"
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
 								{
 									"Type": "NodeStrong",
 									"Data": "strong",
@@ -1050,7 +1022,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "Style 2"
+											"Data": "Style 1"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
@@ -1070,35 +1042,6 @@
 									"Type": "NodeStrong",
 									"Data": "strong",
 									"Properties": {
-										"style": "background-image: linear-gradient(to right, var(--b3-theme-primary), var(--b3-theme-error)); -webkit-background-clip: text; color: transparent;"
-									},
-									"Children": [
-										{
-											"Type": "NodeStrongA6kOpenMarker",
-											"Data": "**"
-										},
-										{
-											"Type": "NodeText",
-											"Data": "Style3"
-										},
-										{
-											"Type": "NodeStrongA6kCloseMarker",
-											"Data": "**"
-										}
-									]
-								},
-								{
-									"Type": "NodeKramdownSpanIAL",
-									"Data": "{: style=\"background-image: linear-gradient(to right, var(--b3-theme-primary), var(--b3-theme-error)); -webkit-background-clip: text; color: transparent;\"}"
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeStrong",
-									"Data": "strong",
-									"Properties": {
 										"style": "text-shadow: 1px 1px var(--b3-border-color), 2px 2px var(--b3-border-color), 3px 3px var(--b3-border-color), 4px 4px var(--b3-border-color);"
 									},
 									"Children": [
@@ -1108,7 +1051,7 @@
 										},
 										{
 											"Type": "NodeText",
-											"Data": "Style 4"
+											"Data": "Style 2"
 										},
 										{
 											"Type": "NodeStrongA6kCloseMarker",
