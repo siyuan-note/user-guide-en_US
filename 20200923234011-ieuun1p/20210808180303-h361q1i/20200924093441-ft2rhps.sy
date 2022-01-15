@@ -6,7 +6,7 @@
 		"title": "Formatting elements",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20220115192946"
+		"updated": "20220115193741"
 	},
 	"Children": [
 		{
@@ -30,7 +30,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210104091509-8csaq4j",
-				"updated": "20220115192946"
+				"updated": "20220115193741"
 			},
 			"Children": [
 				{
@@ -94,7 +94,8 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210206215048-zg5vnou"
+						"id": "20210206215048-zg5vnou",
+						"updated": "20220115193512"
 					},
 					"Children": [
 						{
@@ -102,7 +103,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210206215048-elufsn1",
-								"updated": "20210604224411"
+								"updated": "20220115193512"
 							},
 							"Children": [
 								{
@@ -134,32 +135,6 @@
 								{
 									"Type": "NodeText",
 									"Data": "\n"
-								},
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "username@gmail.com"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "mailto:username@gmail.com"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
 								}
 							]
 						}
@@ -1076,7 +1051,7 @@
 					},
 					"Properties": {
 						"id": "20210604224956-4srnyy7",
-						"updated": "20210604225003"
+						"updated": "20220115193741"
 					},
 					"Children": [
 						{
@@ -1084,12 +1059,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210604224956-3c5ta1w",
-								"updated": "20210604225003"
+								"updated": "20220115193741"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Support most standard emoticons, you can use the input method to input directly or manually input the character format. Trigger auto completion by entering "
+									"Data": "Trigger an emoji search by typing "
 								},
 								{
 									"Type": "NodeCodeSpan",
@@ -1109,7 +1084,7 @@
 								},
 								{
 									"Type": "NodeText",
-									"Data": ". 😄 😆 😵 😭 😰 😅 😢 😤 😍 😌👍 👎 💯 👏 🔔 🎁 ❓ 💣 ❤️ ☕️ 🌀 🙇 💋 🙏 💢"
+									"Data": " followed by a letter 😄 😆 😵 😭 😰 😅 😢 😤 😍 😌👍 👎 💯 👏 🔔 🎁 ❓ 💣 ❤️ ☕️ 🌀 🙇 💋 🙏 💢"
 								}
 							]
 						}
