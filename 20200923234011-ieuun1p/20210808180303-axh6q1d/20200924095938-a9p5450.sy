@@ -5,7 +5,7 @@
 		"id": "20200924095938-a9p5450",
 		"title": "Theme",
 		"type": "doc",
-		"updated": "20211222095621"
+		"updated": "20220125164202"
 	},
 	"Children": [
 		{
@@ -1103,13 +1103,7 @@
 		{
 			"ID": "20201225174048-g8oxi84",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
 				"id": "20201225174048-g8oxi84",
 				"updated": "20210318104313"
@@ -1118,13 +1112,9 @@
 				{
 					"ID": "20201225174048-tt2mbf7",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225174048-tt2mbf7"
@@ -1143,30 +1133,27 @@
 								},
 								{
 									"Type": "NodeLink",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeOpenBracket",
-											"Data": "["
+											"Type": "NodeOpenBracket"
 										},
 										{
 											"Type": "NodeLinkText",
 											"Data": "CSS"
 										},
 										{
-											"Type": "NodeCloseBracket",
-											"Data": "]"
+											"Type": "NodeCloseBracket"
 										},
 										{
-											"Type": "NodeOpenParen",
-											"Data": "("
+											"Type": "NodeOpenParen"
 										},
 										{
 											"Type": "NodeLinkDest",
 											"Data": "https://developer.mozilla.org/en-US/docs/Web/CSS"
 										},
 										{
-											"Type": "NodeCloseParen",
-											"Data": ")"
+											"Type": "NodeCloseParen"
 										}
 									]
 								},
@@ -1181,13 +1168,9 @@
 				{
 					"ID": "20201225174048-1ocyqbk",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225174048-1ocyqbk"
@@ -1207,19 +1190,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": ":root{...}"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -1234,13 +1215,9 @@
 				{
 					"ID": "20201225174048-c3hch71",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225174048-c3hch71"
@@ -1256,42 +1233,34 @@
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Continue to modify according to steps 1-4 in the figure"
-								},
-								{
-									"Type": "NodeSoftBreak",
-									"Data": "\n"
+									"Data": "Continue to modify according to steps 1-4 in the figure\n"
 								},
 								{
 									"Type": "NodeImage",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeBang",
-											"Data": "!"
+											"Type": "NodeBang"
 										},
 										{
-											"Type": "NodeOpenBracket",
-											"Data": "["
+											"Type": "NodeOpenBracket"
 										},
 										{
 											"Type": "NodeLinkText",
 											"Data": "custom-theme1.png"
 										},
 										{
-											"Type": "NodeCloseBracket",
-											"Data": "]"
+											"Type": "NodeCloseBracket"
 										},
 										{
-											"Type": "NodeOpenParen",
-											"Data": "("
+											"Type": "NodeOpenParen"
 										},
 										{
 											"Type": "NodeLinkDest",
 											"Data": "assets/custom-theme1-20210512172253-eqdgnkd.png"
 										},
 										{
-											"Type": "NodeCloseParen",
-											"Data": ")"
+											"Type": "NodeCloseParen"
 										}
 									]
 								}
@@ -1302,13 +1271,9 @@
 				{
 					"ID": "20201225174048-9mhz3ye",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225174048-9mhz3ye"
@@ -1327,19 +1292,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "theme.css"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -1354,13 +1317,9 @@
 				{
 					"ID": "20201225174048-k5l65hd",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20201225174048-k5l65hd"
@@ -1380,19 +1339,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "Disable cache"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -1402,19 +1359,17 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "Network"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
@@ -1424,66 +1379,121 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "window.location.reload()"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
 								{
 									"Type": "NodeText",
-									"Data": " to see the final result"
-								},
-								{
-									"Type": "NodeSoftBreak",
-									"Data": "\n"
+									"Data": " to see the final result\n"
 								},
 								{
 									"Type": "NodeImage",
+									"Data": "span",
 									"Children": [
 										{
-											"Type": "NodeBang",
-											"Data": "!"
+											"Type": "NodeBang"
 										},
 										{
-											"Type": "NodeOpenBracket",
-											"Data": "["
+											"Type": "NodeOpenBracket"
 										},
 										{
 											"Type": "NodeLinkText",
 											"Data": "custom-theme2.png"
 										},
 										{
-											"Type": "NodeCloseBracket",
-											"Data": "]"
+											"Type": "NodeCloseBracket"
 										},
 										{
-											"Type": "NodeOpenParen",
-											"Data": "("
+											"Type": "NodeOpenParen"
 										},
 										{
 											"Type": "NodeLinkDest",
 											"Data": "assets/custom-theme2-20210512172321-1qkspzd.png"
 										},
 										{
-											"Type": "NodeCloseParen",
-											"Data": ")"
+											"Type": "NodeCloseParen"
 										}
 									]
 								}
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20220125164049-swihkvs",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220125164049-swihkvs",
+				"style": "color: var(--b3-card-info-color); background-color: var(--b3-card-info-background);",
+				"updated": "20220125164202"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "In addition to modifying the style through theme.css, if theme.js exists in the theme folder, it will be automatically loaded when rendering the interface, so that some function-related customizations can be achieved through JavaScript code. "
+				},
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": Do not modify the editor DOM, the blocks in the editor should pass the "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "Block Operation API"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://github.com/siyuan-note/siyuan/blob/master/API.md#%E5%9D%97%E6%93%8D%E4%BD%9C"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to operate."
 				}
 			]
 		},
