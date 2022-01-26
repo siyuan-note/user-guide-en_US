@@ -5,7 +5,7 @@
 		"id": "20201204184532-3qm9l8n",
 		"title": "Template snippet",
 		"type": "doc",
-		"updated": "20211222095741"
+		"updated": "20210131162806"
 	},
 	"Children": [
 		{
@@ -1320,15 +1320,12 @@
 		{
 			"ID": "20210131162806-pccuk3l",
 			"Type": "NodeHeading",
-			"HeadingLevel": 4,
+			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210131162806-pccuk3l"
+				"id": "20210131162806-pccuk3l",
+				"updated": "20210131162806"
 			},
 			"Children": [
-				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "#### "
-				},
 				{
 					"Type": "NodeText",
 					"Data": "Update"

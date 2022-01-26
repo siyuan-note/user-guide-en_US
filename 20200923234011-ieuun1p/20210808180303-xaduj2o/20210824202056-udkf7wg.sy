@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210824202056-udkf7wg",
 		"title": "Widgets",
-		"updated": "20220108011102"
+		"updated": "20211222095930"
 	},
 	"Children": [
 		{
@@ -118,7 +118,7 @@
 		{
 			"ID": "20211222095842-700ar7j",
 			"Type": "NodeHeading",
-			"HeadingLevel": 3,
+			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20211222095842-700ar7j",
 				"updated": "20211222095930"
@@ -404,7 +404,7 @@
 		{
 			"ID": "20220108011050-va209ro",
 			"Type": "NodeHeading",
-			"HeadingLevel": 4,
+			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20220108011050-va209ro",
 				"updated": "20220108011050"

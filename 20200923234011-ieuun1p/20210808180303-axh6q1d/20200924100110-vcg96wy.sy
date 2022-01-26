@@ -5,7 +5,7 @@
 		"id": "20200924100110-vcg96wy",
 		"title": "Icon",
 		"type": "doc",
-		"updated": "20211222095802"
+		"updated": "20210601103841"
 	},
 	"Children": [
 		{
@@ -1762,7 +1762,7 @@
 		{
 			"ID": "20210601103837-057w6ot",
 			"Type": "NodeHeading",
-			"HeadingLevel": 3,
+			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20210601103837-057w6ot",
 				"updated": "20210601103841"
@@ -2051,7 +2051,7 @@
 		{
 			"ID": "20210601103837-h88kvay",
 			"Type": "NodeHeading",
-			"HeadingLevel": 4,
+			"HeadingLevel": 3,
 			"Properties": {
 				"id": "20210601103837-h88kvay",
 				"updated": "20210601103837"
