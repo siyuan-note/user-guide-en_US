@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "Frequently Asked Questions",
 		"type": "doc",
-		"updated": "20211223191936"
+		"updated": "20220206221827"
 	},
 	"Children": [
 		{
@@ -358,76 +358,267 @@
 			]
 		},
 		{
-			"ID": "20211129190925-34ca8bb",
+			"ID": "20220206221827-5m8u8ke",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20211129190925-34ca8bb",
-				"updated": "20211129190925"
+				"id": "20220206221827-5m8u8ke",
+				"updated": "20220206221827"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Currently, it is not completely open source, but in order to ensure the portability of data, "
-				},
+					"Data": "It is not completely open source at present, but some components and applications have been open sourced:"
+				}
+			]
+		},
+		{
+			"ID": "20220206221827-34ewjwv",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220206221827-34ewjwv",
+				"updated": "20220206221827"
+			},
+			"Children": [
 				{
-					"Type": "NodeLink",
-					"Data": "span",
+					"ID": "20220206221827-m56u119",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220206221827-m56u119"
+					},
 					"Children": [
 						{
-							"Type": "NodeOpenBracket"
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "Data Parser"
-						},
-						{
-							"Type": "NodeCloseBracket"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://github.com/88250/protyle"
-						},
-						{
-							"Type": "NodeCloseParen"
+							"ID": "20220206221827-aaw3vyf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220206221827-aaw3vyf"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Data Parser"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/88250/protyle"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " and "
-				},
-				{
-					"Type": "NodeLink",
-					"Data": "span",
+					"ID": "20220206221827-meinzda",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220206221827-meinzda"
+					},
 					"Children": [
 						{
-							"Type": "NodeOpenBracket"
-						},
-						{
-							"Type": "NodeLinkText",
-							"Data": "Editor Engine"
-						},
-						{
-							"Type": "NodeCloseBracket"
-						},
-						{
-							"Type": "NodeOpenParen"
-						},
-						{
-							"Type": "NodeLinkDest",
-							"Data": "https://github.com/88250/ lute"
-						},
-						{
-							"Type": "NodeCloseParen"
+							"ID": "20220206221827-7gijdpm",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220206221827-7gijdpm"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Editor Engine"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/88250/lute"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": " is completely open source."
+					"ID": "20220206221827-346gv0x",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220206221827-346gv0x"
+					},
+					"Children": [
+						{
+							"ID": "20220206221827-7kvtuxq",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220206221827-7kvtuxq"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "End-to-end encryption"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/encryption"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220206221827-m4eqdc2",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220206221827-m4eqdc2"
+					},
+					"Children": [
+						{
+							"ID": "20220206221827-2yjvsrl",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220206221827-2yjvsrl"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Chrome Clipping Extension"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/siyuan-chrome"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220206221827-3dxo4nh",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220206221827-3dxo4nh"
+					},
+					"Children": [
+						{
+							"ID": "20220206221827-t0rpp20",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220206221827-t0rpp20"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Android"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/siyuan-android"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		},
