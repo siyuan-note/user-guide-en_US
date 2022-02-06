@@ -86,36 +86,6 @@
 			]
 		},
 		{
-			"ID": "20210824202107-uhc7vxw",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210824202107-uhc7vxw",
-				"updated": "20210824202107"
-			},
-			"Children": [
-				{
-					"Type": "NodeTag",
-					"Data": "span",
-					"Children": [
-						{
-							"Type": "NodeTagOpenMarker"
-						},
-						{
-							"Type": "NodeText",
-							"Data": "Note"
-						},
-						{
-							"Type": "NodeTagCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": ": At present, the widget is still in the internal test, and only subscribers can participate in the internal test."
-				}
-			]
-		},
-		{
 			"ID": "20211222095842-700ar7j",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
