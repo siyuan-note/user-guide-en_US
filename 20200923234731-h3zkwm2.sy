@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "Frequently Asked Questions",
 		"type": "doc",
-		"updated": "20220206221827"
+		"updated": "20220208224331"
 	},
 	"Children": [
 		{
@@ -358,44 +358,140 @@
 			]
 		},
 		{
-			"ID": "20220206221827-5m8u8ke",
+			"ID": "20220208224331-25m8prm",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20220206221827-5m8u8ke",
-				"updated": "20220206221827"
+				"id": "20220208224331-25m8prm",
+				"updated": "20220208224331"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "It is not completely open source at present, but some components and applications have been open sourced:"
+					"Data": "It is not completely open source at present, but some components and applications have been open sourced, and contributions are welcome."
 				}
 			]
 		},
 		{
-			"ID": "20220206221827-34ewjwv",
+			"ID": "20220208224331-41si90f",
 			"Type": "NodeList",
 			"ListData": {},
 			"Properties": {
-				"id": "20220206221827-34ewjwv",
-				"updated": "20220206221827"
+				"id": "20220208224331-41si90f",
+				"updated": "20220208224331"
 			},
 			"Children": [
 				{
-					"ID": "20220206221827-m56u119",
+					"ID": "20220208224331-bzvbj9a",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220206221827-m56u119"
+						"id": "20220208224331-bzvbj9a"
 					},
 					"Children": [
 						{
-							"ID": "20220206221827-aaw3vyf",
+							"ID": "20220208224331-g1l7u8q",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220206221827-aaw3vyf"
+								"id": "20220208224331-g1l7u8q"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "User Guide"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/user-guide-en_US"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220208224331-je93orv",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220208224331-je93orv"
+					},
+					"Children": [
+						{
+							"ID": "20220208224331-3wr2i32",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220208224331-3wr2i32"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Appearance"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/appearance"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220208224331-s8yskmn",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220208224331-s8yskmn"
+					},
+					"Children": [
+						{
+							"ID": "20220208224331-0mcfavt",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220208224331-0mcfavt"
 							},
 							"Children": [
 								{
@@ -429,21 +525,21 @@
 					]
 				},
 				{
-					"ID": "20220206221827-meinzda",
+					"ID": "20220208224331-tk44kzr",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220206221827-meinzda"
+						"id": "20220208224331-tk44kzr"
 					},
 					"Children": [
 						{
-							"ID": "20220206221827-7gijdpm",
+							"ID": "20220208224331-ikjsh1o",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220206221827-7gijdpm"
+								"id": "20220208224331-ikjsh1o"
 							},
 							"Children": [
 								{
@@ -477,21 +573,21 @@
 					]
 				},
 				{
-					"ID": "20220206221827-346gv0x",
+					"ID": "20220208224331-28yci83",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220206221827-346gv0x"
+						"id": "20220208224331-28yci83"
 					},
 					"Children": [
 						{
-							"ID": "20220206221827-7kvtuxq",
+							"ID": "20220208224331-ezrvf2d",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220206221827-7kvtuxq"
+								"id": "20220208224331-ezrvf2d"
 							},
 							"Children": [
 								{
@@ -525,21 +621,21 @@
 					]
 				},
 				{
-					"ID": "20220206221827-m4eqdc2",
+					"ID": "20220208224331-zi8mkqr",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220206221827-m4eqdc2"
+						"id": "20220208224331-zi8mkqr"
 					},
 					"Children": [
 						{
-							"ID": "20220206221827-2yjvsrl",
+							"ID": "20220208224331-b16o0mg",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220206221827-2yjvsrl"
+								"id": "20220208224331-b16o0mg"
 							},
 							"Children": [
 								{
@@ -573,21 +669,21 @@
 					]
 				},
 				{
-					"ID": "20220206221827-3dxo4nh",
+					"ID": "20220208224331-56omxpb",
 					"Type": "NodeListItem",
 					"ListData": {
 						"BulletChar": 42,
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220206221827-3dxo4nh"
+						"id": "20220208224331-56omxpb"
 					},
 					"Children": [
 						{
-							"ID": "20220206221827-t0rpp20",
+							"ID": "20220208224331-94d6fqy",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220206221827-t0rpp20"
+								"id": "20220208224331-94d6fqy"
 							},
 							"Children": [
 								{
@@ -610,6 +706,54 @@
 										{
 											"Type": "NodeLinkDest",
 											"Data": "https://github.com/siyuan-note/siyuan-android"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220208224331-0t0skz1",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220208224331-0t0skz1"
+					},
+					"Children": [
+						{
+							"ID": "20220208224331-9gny52b",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220208224331-9gny52b"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "iOS"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://github.com/siyuan-note/siyuan-ios"
 										},
 										{
 											"Type": "NodeCloseParen"
