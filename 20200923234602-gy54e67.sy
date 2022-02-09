@@ -6,7 +6,7 @@
 		"id": "20200923234602-gy54e67",
 		"title": "Privacy policy and License",
 		"type": "doc",
-		"updated": "20211223191746"
+		"updated": "20220209213954"
 	},
 	"Children": [
 		{
@@ -19,84 +19,284 @@
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
-				{
 					"Type": "NodeText",
 					"Data": "Privacy Policy"
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-3zva76z",
-			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ID": "20220209213811-rpuvjhk",
+			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210104091616-3zva76z"
+				"id": "20220209213811-rpuvjhk",
+				"updated": "20220209213811"
 			},
 			"Children": [
 				{
-					"ID": "20210104091616-rk0bh4w",
+					"Type": "NodeText",
+					"Data": "SiYuan's privacy policy document to declare its commitment to user privacy protection. Last updated February 9, 2022."
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-awxzl13",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213811-awxzl13",
+				"updated": "20220209213811"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Will personal information or data be collected?"
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-l51sw6a",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213811-l51sw6a",
+				"updated": "20220209213835"
+			},
+			"Children": [
+				{
+					"ID": "20220209213811-ewxm84m",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210104091616-rk0bh4w"
+						"id": "20220209213811-ewxm84m",
+						"updated": "20220209213835"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-l6eqgp0",
+							"ID": "20220209213811-ky9opf0",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-l6eqgp0"
+								"id": "20220209213811-ky9opf0",
+								"updated": "20220209213835"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "All data is saved on a device under the user's full control"
+									"Data": "Does not collect user personal information and usage data (notes, asset files, operation records and program logs, etc.)"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210104091616-htl0lqm",
+					"ID": "20220209213811-is7xk7y",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210104091616-htl0lqm"
+						"id": "20220209213811-is7xk7y"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-b3h6gyw",
+							"ID": "20220209213811-kbcjlc7",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-b3h6gyw"
+								"id": "20220209213811-kbcjlc7"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "No usage data will be collected"
+									"Data": "All data is kept on the device under full control of the user"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-9gohtvm",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213811-9gohtvm",
+				"updated": "20220209213811"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Developer Information and Contact"
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-l3g0zol",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213811-l3g0zol",
+				"updated": "20220209213846"
+			},
+			"Children": [
+				{
+					"ID": "20220209213811-w811dqf",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213811-w811dqf",
+						"updated": "20220209213846"
+					},
+					"Children": [
+						{
+							"ID": "20220209213811-n3n3bkg",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213811-n3n3bkg",
+								"updated": "20220209213846"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "SiYuan is designed and developed by Yunnan Liandi Technology Co., Ltd."
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220209213811-m8hbjvz",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213811-m8hbjvz"
+					},
+					"Children": [
+						{
+							"ID": "20220209213811-ya7l4pe",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213811-ya7l4pe"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Contact via 845765@qq.com"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-o63lu5z",
+			"Type": "NodeHeading",
+			"HeadingLevel": 3,
+			"Properties": {
+				"id": "20220209213811-o63lu5z",
+				"updated": "20220209213811"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "View Privacy Policy"
+				}
+			]
+		},
+		{
+			"ID": "20220209213811-vqbaqai",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220209213811-vqbaqai",
+				"updated": "20220209213954"
+			},
+			"Children": [
+				{
+					"ID": "20220209213811-kzz0gfr",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213811-kzz0gfr"
+					},
+					"Children": [
+						{
+							"ID": "20220209213811-b7bccxi",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213811-b7bccxi"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "By visiting the webpage "
+								},
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "https://b3log.org/siyuan/privacy.html"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://b3log.org/siyuan/privacy.html"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220209213811-jm73hi0",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220209213811-jm73hi0",
+						"updated": "20220209213954"
+					},
+					"Children": [
+						{
+							"ID": "20220209213811-b4d3q89",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220209213811-b4d3q89",
+								"updated": "20220209213954"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Click \"Help\" in the software, and open the \"Privacy Policy and License\" document in the opened \"SiYuan User Guide\""
 								}
 							]
 						}
