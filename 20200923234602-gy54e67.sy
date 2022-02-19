@@ -4,9 +4,9 @@
 	"Properties": {
 		"icon": "1f4c4",
 		"id": "20200923234602-gy54e67",
-		"title": "Privacy policy and License",
+		"title": "Privacy Policy and User Agreement",
 		"type": "doc",
-		"updated": "20220209213954"
+		"updated": "20220219101351"
 	},
 	"Children": [
 		{
@@ -309,151 +309,135 @@
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
 			"Properties": {
-				"id": "20210104091616-of87fda"
+				"id": "20210104091616-of87fda",
+				"updated": "20220219101126"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "## "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "User authorization agreement"
+					"Data": "User Agreement"
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-5uc2i6o",
+			"ID": "20220219101351-0tucf6z",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210104091616-5uc2i6o"
+				"id": "20220219101351-0tucf6z",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "This license agreement applies and only applies to SiYuan (hereinafter referred to as the \"software\"), Yunnan Liandi Technology Co., Ltd. has the final right to interpret this license agreement."
+					"Data": "This agreement applies and only applies to Siyuan Notes (hereinafter referred to as \"the software\"), and Yunnan Liandi Technology Co., Ltd. has the final right to interpret this agreement."
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-z4xucg9",
+			"ID": "20220219101351-vq4zmoc",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210104091616-z4xucg9"
+				"id": "20220219101351-vq4zmoc",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Once you confirm this agreement and start using the software, you are deemed to fully understand and accept the terms of this agreement. The authorization agreement in electronic text is the same as the agreement signed by both parties in writing, which has full and equivalent legal effect."
+					"Data": "Once you confirm this agreement and start to use the software, you are deemed to fully understand and accept the terms of this agreement. An agreement in the form of electronic text has full and equivalent legal effect as an agreement signed by both parties in writing."
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-4f4ygrn",
+			"ID": "20220219101351-k90bwhy",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210104091616-4f4ygrn"
+				"id": "20220219101351-k90bwhy",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "While enjoying the power granted by the clause, it is subject to relevant constraints and restrictions. Behavior outside the scope of the agreement will directly violate this authorization agreement and constitute an infringement. We have the right to terminate the authorization at any time, order the damage to stop, and reserve the right to pursue relevant liabilities."
+					"Data": "While enjoying the power conferred by the terms, it is subject to relevant constraints and restrictions. Behaviors outside the scope of the agreement will directly violate this agreement and constitute infringement. We have the right to terminate the authorization at any time, order to stop the damage, and reserve the right to pursue relevant responsibilities."
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-v0xr1nb",
+			"ID": "20220219101351-4z646n1",
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210104091616-v0xr1nb"
+				"id": "20220219101351-4z646n1",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "Rights of Agreement License"
+					"Data": "Licensed Rights"
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-503scgs",
+			"ID": "20220219101351-wdm69r4",
 			"Type": "NodeList",
 			"ListData": {
-				"Typ": 1,
-				"Tight": true,
-				"Start": 1,
-				"Delimiter": 46,
-				"Padding": 3,
-				"Marker": "MQ==",
-				"Num": 1
+				"Typ": 1
 			},
 			"Properties": {
-				"id": "20210104091616-503scgs"
+				"id": "20220219101351-wdm69r4",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
-					"ID": "20210104091616-monppz0",
+					"ID": "20220219101351-uxailqh",
 					"Type": "NodeListItem",
-					"Data": "1",
 					"ListData": {
 						"Typ": 1,
-						"Tight": true,
-						"Start": 1,
 						"Delimiter": 46,
-						"Padding": 3,
-						"Marker": "MQ==",
+						"Marker": "MS4=",
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20210104091616-monppz0"
+						"id": "20220219101351-uxailqh"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-sc3yhgu",
+							"ID": "20220219101351-1hq20f9",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-sc3yhgu"
+								"id": "20220219101351-1hq20f9"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "You can use this software within the bounds and restrictions stipulated in the agreement"
+									"Data": "You can use the software within the constraints and limitations stipulated in the agreement"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210104091616-rmgxw23",
+					"ID": "20220219101351-wj1wwxg",
 					"Type": "NodeListItem",
-					"Data": "2",
 					"ListData": {
 						"Typ": 1,
-						"Tight": true,
-						"Start": 2,
 						"Delimiter": 46,
-						"Padding": 3,
-						"Marker": "Mg==",
+						"Marker": "Mi4=",
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20210104091616-rmgxw23"
+						"id": "20220219101351-wj1wwxg"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-a9dg9f2",
+							"ID": "20220219101351-kdfxs0r",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-a9dg9f2"
+								"id": "20220219101351-kdfxs0r"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "You own the ownership of the content written using this software, and independently assume legal obligations related to these content"
+									"Data": "You own the ownership of the content written by using this software, and independently assume the relevant legal obligations related to these content"
 								}
 							]
 						}
@@ -462,98 +446,82 @@
 			]
 		},
 		{
-			"ID": "20210104091616-cik96sp",
+			"ID": "20220219101351-zafgped",
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210104091616-cik96sp"
+				"id": "20220219101351-zafgped",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "Restrictions and limitations stipulated in the agreement"
+					"Data": "Constraints and Restrictions under the Agreement"
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-yf95nfh",
+			"ID": "20220219101351-33mzoxp",
 			"Type": "NodeList",
 			"ListData": {
-				"Typ": 1,
-				"Tight": true,
-				"Start": 1,
-				"Delimiter": 46,
-				"Padding": 3,
-				"Marker": "MQ==",
-				"Num": 1
+				"Typ": 1
 			},
 			"Properties": {
-				"id": "20210104091616-yf95nfh"
+				"id": "20220219101351-33mzoxp",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
-					"ID": "20210104091616-scsk19g",
+					"ID": "20220219101351-6fxrijg",
 					"Type": "NodeListItem",
-					"Data": "1",
 					"ListData": {
 						"Typ": 1,
-						"Tight": true,
-						"Start": 1,
 						"Delimiter": 46,
-						"Padding": 3,
-						"Marker": "MQ==",
+						"Marker": "MS4=",
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20210104091616-scsk19g"
+						"id": "20220219101351-6fxrijg"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-l8go8jg",
+							"ID": "20220219101351-hahd4aj",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-l8go8jg"
+								"id": "20220219101351-hahd4aj"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Without official permission, it is prohibited to develop derivative versions, modified versions or third-party versions for redistribution based on the whole or any part of this software"
+									"Data": "Development of derivative, modified or third-party versions of the software in whole or in part for redistribution without official permission is prohibited"
 								}
 							]
 						}
 					]
 				},
 				{
-					"ID": "20210104091616-vd4t6ae",
+					"ID": "20220219101351-wrfqyzo",
 					"Type": "NodeListItem",
-					"Data": "2",
 					"ListData": {
 						"Typ": 1,
-						"Tight": true,
-						"Start": 2,
 						"Delimiter": 46,
-						"Padding": 3,
-						"Marker": "Mg==",
+						"Marker": "Mi4=",
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20210104091616-vd4t6ae"
+						"id": "20220219101351-wrfqyzo"
 					},
 					"Children": [
 						{
-							"ID": "20210302223929-f2fpa87",
+							"ID": "20220219101351-yggu31m",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210302223929-f2fpa87"
+								"id": "20220219101351-yggu31m"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "If you fail to abide by the terms of this agreement, your authorization will be terminated, the licensed rights will be taken back, and you will bear the corresponding legal responsibilities"
+									"Data": "If you fail to comply with the terms of this agreement, your authorization will be terminated, the licensed rights will be withdrawn, and you will assume the corresponding legal responsibility"
 								}
 							]
 						}
@@ -562,33 +530,31 @@
 			]
 		},
 		{
-			"ID": "20210104091616-ixc3vj0",
+			"ID": "20220219101351-nfsf1sy",
 			"Type": "NodeHeading",
 			"HeadingLevel": 3,
 			"Properties": {
-				"id": "20210104091616-ixc3vj0"
+				"id": "20220219101351-nfsf1sy",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
-					"Type": "NodeHeadingC8hMarker",
-					"Data": "### "
-				},
-				{
 					"Type": "NodeText",
-					"Data": "Limited Warranty and Disclaimer"
+					"Data": "LIMITED WARRANTY AND DISCLAIMER"
 				}
 			]
 		},
 		{
-			"ID": "20210104091616-s3ogmvm",
+			"ID": "20220219101351-jhqa4s1",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210104091616-s3ogmvm"
+				"id": "20220219101351-jhqa4s1",
+				"updated": "20220219101351"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "This software and the accompanying files are provided as a form of not providing any explicit or implicit compensation or guarantee."
+					"Data": "THIS SOFTWARE AND THE ACCOMPANYING DOCUMENTS ARE PROVIDED WITHOUT ANY EXPRESS OR IMPLIED INDEMNITY OR WARRANTY."
 				}
 			]
 		}
