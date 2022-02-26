@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "Frequently Asked Questions",
 		"type": "doc",
-		"updated": "20220208224331"
+		"updated": "20220226124938"
 	},
 	"Children": [
 		{
@@ -1369,7 +1369,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20201224120448-20hmjfc",
-				"updated": "20210726165111"
+				"updated": "20220226124938"
 			},
 			"Children": [
 				{
@@ -1404,7 +1404,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " requires annual subscription, price is $64/year。"
+					"Data": " requires annual subscription, price is $72/year。"
 				}
 			]
 		},
