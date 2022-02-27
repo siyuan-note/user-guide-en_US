@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "Frequently Asked Questions",
 		"type": "doc",
-		"updated": "20220226131322"
+		"updated": "20211222010813"
 	},
 	"Children": [
 		{
@@ -1230,7 +1230,9 @@
 		{
 			"ID": "20211222010813-zbajcmo",
 			"Type": "NodeList",
-			"ListData": {},
+			"ListData": {
+				"Typ": 1
+			},
 			"Properties": {
 				"id": "20211222010813-zbajcmo",
 				"updated": "20211222010813"
@@ -1240,8 +1242,10 @@
 					"ID": "20211222010813-ru0kl9w",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "MS4=",
+						"Num": 1
 					},
 					"Properties": {
 						"id": "20211222010813-ru0kl9w"
@@ -1266,8 +1270,10 @@
 					"ID": "20211222010813-08qwbrg",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "Mi4=",
+						"Num": 2
 					},
 					"Properties": {
 						"id": "20211222010813-08qwbrg"
@@ -1292,8 +1298,10 @@
 					"ID": "20211222010813-t2nitz1",
 					"Type": "NodeListItem",
 					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
 					},
 					"Properties": {
 						"id": "20211222010813-t2nitz1"
