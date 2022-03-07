@@ -260,8 +260,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092214-3k8jexy",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND type = 'i' }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND type = 'i' }}\n",
+									"Properties": {
+										"id": "20220307092214-3k8jexy"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -367,8 +371,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092214-0soxi53",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND content LIKE '%reference%' AND type = 'p') }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND content LIKE '%reference%' AND type = 'p') }}\n",
+									"Properties": {
+										"id": "20220307092214-0soxi53"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",
@@ -475,8 +483,12 @@
 									"CodeBlockInfo": "c3Fs"
 								},
 								{
+									"ID": "20220307092214-ier6phf",
 									"Type": "NodeCodeBlockCode",
-									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND content LIKE '%embed%' AND type ='h' ORDER BY updated DESC LIMIT 2 }}\n"
+									"Data": "{{ SELECT * FROM blocks WHERE content LIKE '%content block%' AND content LIKE '%embed%' AND type ='h' ORDER BY updated DESC LIMIT 2 }}\n",
+									"Properties": {
+										"id": "20220307092214-ier6phf"
+									}
 								},
 								{
 									"Type": "NodeCodeBlockFenceCloseMarker",

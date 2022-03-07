@@ -1221,8 +1221,12 @@
 					"Type": "NodeMathBlockOpenMarker"
 				},
 				{
+					"ID": "20220307092214-9cbplct",
 					"Type": "NodeMathBlockContent",
-					"Data": "a^2 + b^2 = c^2"
+					"Data": "a^2 + b^2 = c^2",
+					"Properties": {
+						"id": "20220307092214-9cbplct"
+					}
 				},
 				{
 					"Type": "NodeMathBlockCloseMarker"
@@ -1313,8 +1317,12 @@
 					"CodeBlockInfo": "anM="
 				},
 				{
+					"ID": "20220307092214-wl4mg3v",
 					"Type": "NodeCodeBlockCode",
-					"Data": "function hello() {}\n"
+					"Data": "function hello() {}\n",
+					"Properties": {
+						"id": "20220307092214-wl4mg3v"
+					}
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
