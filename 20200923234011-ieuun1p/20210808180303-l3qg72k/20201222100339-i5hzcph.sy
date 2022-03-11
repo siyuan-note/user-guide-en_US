@@ -5,7 +5,7 @@
 		"id": "20201222100339-i5hzcph",
 		"title": "Database table",
 		"type": "doc",
-		"updated": "20211223192604"
+		"updated": "20220312010003"
 	},
 	"Children": [
 		{
@@ -800,7 +800,8 @@
 				"Num": -1
 			},
 			"Properties": {
-				"id": "20210112165011-irm4wch"
+				"id": "20210112165011-irm4wch",
+				"updated": "20220312010003"
 			},
 			"Children": [
 				{
@@ -866,7 +867,8 @@
 						"Num": -1
 					},
 					"Properties": {
-						"id": "20210112165011-n8zrkxm"
+						"id": "20210112165011-n8zrkxm",
+						"updated": "20220312010003"
 					},
 					"Children": [
 						{
@@ -903,27 +905,18 @@
 						{
 							"ID": "20210112165011-fodiphq",
 							"Type": "NodeList",
-							"ListData": {
-								"Tight": true,
-								"BulletChar": 42,
-								"Padding": 2,
-								"Marker": "Kg==",
-								"Num": -1
-							},
+							"ListData": {},
 							"Properties": {
-								"id": "20210112165011-fodiphq"
+								"id": "20210112165011-fodiphq",
+								"updated": "20220312010003"
 							},
 							"Children": [
 								{
 									"ID": "20210112165011-hb9w8kd",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210112165011-hb9w8kd"
@@ -942,19 +935,17 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
 															"Type": "NodeCodeSpanContent",
 															"Data": "0"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
@@ -965,13 +956,9 @@
 								{
 									"ID": "20210112165011-epgryib",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
 										"id": "20210112165011-epgryib"
@@ -990,355 +977,17 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
 															"Type": "NodeCodeSpanContent",
 															"Data": "5"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-m8d9n8y",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-m8d9n8y"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-wi73iql",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-wi73iql"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "List block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "10"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-l855w5d",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-l855w5d"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-gi77vbg",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-gi77vbg"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "List item block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "15"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-s2y8b3b",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-s2y8b3b"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-x1h16tv",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-x1h16tv"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Code block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "20"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-zcnzdjs",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-zcnzdjs"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-bxza6ez",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-bxza6ez"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Mathematical formula block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "25"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-jfb3akr",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-jfb3akr"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-29bs67e",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-29bs67e"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Table block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "30"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-w9j14de",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-w9j14de"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-8iggp8k",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-8iggp8k"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Blockquote block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "35"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
-														}
-													]
-												}
-											]
-										}
-									]
-								},
-								{
-									"ID": "20210112165011-8t05120",
-									"Type": "NodeListItem",
-									"Data": "*",
-									"ListData": {
-										"Tight": true,
-										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
-									},
-									"Properties": {
-										"id": "20210112165011-8t05120"
-									},
-									"Children": [
-										{
-											"ID": "20210210104251-m12jzc5",
-											"Type": "NodeParagraph",
-											"Properties": {
-												"id": "20210210104251-m12jzc5"
-											},
-											"Children": [
-												{
-													"Type": "NodeText",
-													"Data": "Super block: "
-												},
-												{
-													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
-													"Children": [
-														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
-														},
-														{
-															"Type": "NodeCodeSpanContent",
-															"Data": "40"
-														},
-														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
@@ -1349,23 +998,21 @@
 								{
 									"ID": "20210112165011-t89y8yx",
 									"Type": "NodeListItem",
-									"Data": "*",
 									"ListData": {
-										"Tight": true,
 										"BulletChar": 42,
-										"Padding": 2,
-										"Marker": "Kg==",
-										"Num": -1
+										"Marker": "Kg=="
 									},
 									"Properties": {
-										"id": "20210112165011-t89y8yx"
+										"id": "20210112165011-t89y8yx",
+										"updated": "20220312005907"
 									},
 									"Children": [
 										{
 											"ID": "20210210104251-4q3mvqt",
 											"Type": "NodeParagraph",
 											"Properties": {
-												"id": "20210210104251-4q3mvqt"
+												"id": "20210210104251-4q3mvqt",
+												"updated": "20220312005907"
 											},
 											"Children": [
 												{
@@ -1374,19 +1021,369 @@
 												},
 												{
 													"Type": "NodeCodeSpan",
-													"CodeMarkerLen": 1,
+													"Data": "code",
 													"Children": [
 														{
-															"Type": "NodeCodeSpanOpenMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanOpenMarker"
 														},
 														{
 															"Type": "NodeCodeSpanContent",
-															"Data": "45"
+															"Data": "10"
 														},
 														{
-															"Type": "NodeCodeSpanCloseMarker",
-															"Data": "`"
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-s2y8b3b",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-s2y8b3b",
+										"updated": "20220312005919"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-x1h16tv",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-x1h16tv",
+												"updated": "20220312005919"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Code block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-zcnzdjs",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-zcnzdjs",
+										"updated": "20220312005927"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-bxza6ez",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-bxza6ez",
+												"updated": "20220312005927"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Mathematical formula block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-jfb3akr",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-jfb3akr",
+										"updated": "20220312005932"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-29bs67e",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-29bs67e",
+												"updated": "20220312005932"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Table block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220312005534-9jyx73o",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220312005534-9jyx73o",
+										"updated": "20220312005538"
+									},
+									"Children": [
+										{
+											"ID": "20220312005534-6d8p6gu",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220312005534-6d8p6gu",
+												"updated": "20220312005538"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "HTML block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "10"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-m8d9n8y",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-m8d9n8y",
+										"updated": "20220312005940"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-wi73iql",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-wi73iql",
+												"updated": "20220312005940"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "List block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "20"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-l855w5d",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-l855w5d",
+										"updated": "20220312005946"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-gi77vbg",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-gi77vbg",
+												"updated": "20220312005946"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "List item block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "20"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-w9j14de",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-w9j14de",
+										"updated": "20220312010000"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-8iggp8k",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-8iggp8k",
+												"updated": "20220312010000"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Blockquote block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "20"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20210112165011-8t05120",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20210112165011-8t05120",
+										"updated": "20220312010003"
+									},
+									"Children": [
+										{
+											"ID": "20210210104251-m12jzc5",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20210210104251-m12jzc5",
+												"updated": "20220312010003"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Super block: "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "30"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
 														}
 													]
 												}
