@@ -4,7 +4,8 @@
 	"Properties": {
 		"id": "20210331201142-4g923es",
 		"title": "Hyperlink",
-		"type": "doc"
+		"type": "doc",
+		"updated": "20220312232923"
 	},
 	"Children": [
 		{
@@ -90,25 +91,77 @@
 			"Children": [
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "siyuan://blocks/{id}"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
 					"Data": ": Open the content block directly, and the notebook where the block is located is already open."
+				}
+			]
+		},
+		{
+			"ID": "20220312232923-7df11yf",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220312232923-7df11yf",
+				"updated": "20220312232923"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "Add query string parameter "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "focus=1"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " ("
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "siyuan://blocks/{id}?focus=1"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ") to indicate focus is on."
 				}
 			]
 		},

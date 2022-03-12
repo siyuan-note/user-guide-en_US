@@ -5,7 +5,7 @@
 		"id": "20200924101200-gss5vee",
 		"title": "Navigate in the Content Block",
 		"type": "doc",
-		"updated": "20211223192541"
+		"updated": "20220312233028"
 	},
 	"Children": [
 		{
@@ -177,7 +177,8 @@
 				"Num": -1
 			},
 			"Properties": {
-				"id": "20210428225949-bxqb5mb"
+				"id": "20210428225949-bxqb5mb",
+				"updated": "20220312233028"
 			},
 			"Children": [
 				{
@@ -192,7 +193,8 @@
 						"Num": -1
 					},
 					"Properties": {
-						"id": "20210428225949-q8mwfo8"
+						"id": "20210428225949-q8mwfo8",
+						"updated": "20220312233028"
 					},
 					"Children": [
 						{
@@ -200,12 +202,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210428225949-m2e7vgq",
-								"updated": "20210428230009"
+								"updated": "20220312233028"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "After selecting enter in the right-click drop-down menu on the block icon, the editor will focus on the content block"
+									"Data": "After selecting focus in the right-click drop-down menu on the block icon, the editor will focus on the content block"
 								}
 							]
 						}
