@@ -6,7 +6,7 @@
 		"title": "Formatting elements",
 		"title-img": "background-color:#269;background-image: linear-gradient(white 2px, transparent 2px),linear-gradient(90deg, white 2px, transparent 2px),linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);background-size: 100px 100px, 100px 100px, 20px 20px, 20px 20px;background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px;",
 		"type": "doc",
-		"updated": "20210415201012"
+		"updated": "20220312122833"
 	},
 	"Children": [
 		{
@@ -2734,23 +2734,53 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20220312004745-onue5ab",
-				"updated": "20220312004749"
+				"updated": "20220312122833"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "HTML Block"
+					"Data": "HTML block"
 				}
 			]
 		},
 		{
 			"ID": "20220312004751-frosojs",
 			"Type": "NodeHTMLBlock",
-			"Data": "\u003cdiv style=\"color: #d23f31\"\u003eSiYuan\u003c/div\u003e",
+			"Data": "\u003cruby\u003e\n你\u003crt\u003enǐ\u003c/rt\u003e\n　好\u003crt\u003e　hǎo\u003c/rt\u003e\n　世\u003crt\u003e　shì\u003c/rt\u003e\n　界\u003crt\u003e　jiè\u003c/rt\u003e\n\u003c/ruby\u003e\u003cbr\u003e\nHello World",
 			"Properties": {
 				"id": "20220312004751-frosojs",
-				"updated": "20220312004751"
+				"updated": "20220312122043"
 			}
+		},
+		{
+			"ID": "20220312122714-jgaetrv",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220312122714-jgaetrv",
+				"updated": "20220312122717"
+			},
+			"Children": [
+				{
+					"Type": "NodeTag",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeTagOpenMarker"
+						},
+						{
+							"Type": "NodeText",
+							"Data": "Note"
+						},
+						{
+							"Type": "NodeTagCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ": The code in the HTML block will not be safely filtered when using it. Please confirm the code is safe before using it to avoid cross-site scripting (XSS)."
+				}
+			]
 		},
 		{
 			"ID": "20210604230313-t41l7jd",
