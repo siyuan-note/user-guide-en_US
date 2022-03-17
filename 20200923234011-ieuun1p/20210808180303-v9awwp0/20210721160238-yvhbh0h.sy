@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721160238-yvhbh0h",
 		"title": "Assets Serving",
-		"updated": "20211223192135"
+		"updated": "20220317224741"
 	},
 	"Children": [
 		{
@@ -44,7 +44,7 @@
 			},
 			"Properties": {
 				"id": "20210721160254-2ssi3ws",
-				"updated": "20210721160517"
+				"updated": "20220317224741"
 			},
 			"Children": [
 				{
@@ -58,7 +58,7 @@
 					},
 					"Properties": {
 						"id": "20210721160254-kqzcayi",
-						"updated": "20210721160403"
+						"updated": "20220317224741"
 					},
 					"Children": [
 						{
@@ -66,7 +66,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721160254-ynqg7sy",
-								"updated": "20210721160403"
+								"updated": "20220317224741"
 							},
 							"Children": [
 								{
@@ -74,18 +74,18 @@
 									"Data": "In the upper right corner of the document, select "
 								},
 								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
+									"Type": "NodeKbd",
+									"Data": "kbd",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker"
+											"Type": "NodeKbdOpenMarker"
 										},
 										{
-											"Type": "NodeCodeSpanContent",
+											"Type": "NodeText",
 											"Data": "..."
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker"
+											"Type": "NodeKbdCloseMarker"
 										}
 									]
 								},
