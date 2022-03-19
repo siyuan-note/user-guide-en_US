@@ -6,7 +6,7 @@
 		"id": "20200924100950-9op5xi1",
 		"title": "Shortcuts",
 		"type": "doc",
-		"updated": "20220302223149"
+		"updated": "20220319212151"
 	},
 	"Children": [
 		{
@@ -1562,8 +1562,9 @@
 				0
 			],
 			"Properties": {
+				"colgroup": "||",
 				"id": "20210826183314-axmylf4",
-				"updated": "20210826183415"
+				"updated": "20220319212151"
 			},
 			"Children": [
 				{
@@ -1577,8 +1578,6 @@
 								{
 									"Type": "NodeTableCell",
 									"Data": "th",
-									"TableCellContentWidth": 6,
-									"TableCellContentMaxWidth": 12,
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -1589,8 +1588,6 @@
 								{
 									"Type": "NodeTableCell",
 									"Data": "th",
-									"TableCellContentWidth": 11,
-									"TableCellContentMaxWidth": 31,
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -1601,8 +1598,6 @@
 								{
 									"Type": "NodeTableCell",
 									"Data": "th",
-									"TableCellContentWidth": 6,
-									"TableCellContentMaxWidth": 42,
 									"Children": [
 										{
 											"Type": "NodeText",
@@ -1621,20 +1616,58 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 12,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Choose doc"
+									"Data": "Context menu"
 								}
 							]
 						},
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 31,
-							"TableCellContentMaxWidth": 31,
+							"Children": [
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Ctrl+/"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td"
+						}
+					]
+				},
+				{
+					"Type": "NodeTableRow",
+					"Data": "tr",
+					"Children": [
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Choose"
+								}
+							]
+						},
+						{
+							"Type": "NodeTableCell",
+							"Data": "td",
 							"Children": [
 								{
 									"Type": "NodeKbd",
@@ -1716,9 +1749,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
-							"Data": "td",
-							"TableCellContentWidth": 2,
-							"TableCellContentMaxWidth": 42
+							"Data": "td"
 						}
 					]
 				},
@@ -1729,20 +1760,16 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 10,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Open doc"
+									"Data": "Open"
 								}
 							]
 						},
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 10,
-							"TableCellContentMaxWidth": 31,
 							"Children": [
 								{
 									"Type": "NodeKbd",
@@ -1764,9 +1791,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
-							"Data": "td",
-							"TableCellContentWidth": 2,
-							"TableCellContentMaxWidth": 42
+							"Data": "td"
 						}
 					]
 				},
@@ -1777,8 +1802,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 8,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -1789,8 +1812,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 11,
-							"TableCellContentMaxWidth": 31,
 							"Children": [
 								{
 									"Type": "NodeKbd",
@@ -1812,9 +1833,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
-							"Data": "td",
-							"TableCellContentWidth": 2,
-							"TableCellContentMaxWidth": 42
+							"Data": "td"
 						}
 					]
 				},
@@ -1825,8 +1844,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 8,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -1837,8 +1854,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 22,
-							"TableCellContentMaxWidth": 31,
 							"Children": [
 								{
 									"Type": "NodeKbd",
@@ -1884,9 +1899,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
-							"Data": "td",
-							"TableCellContentWidth": 2,
-							"TableCellContentMaxWidth": 42
+							"Data": "td"
 						}
 					]
 				},
@@ -1897,8 +1910,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 8,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -1909,8 +1920,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 7,
-							"TableCellContentMaxWidth": 31,
 							"Children": [
 								{
 									"Type": "NodeKbd",
@@ -1932,9 +1941,7 @@
 						},
 						{
 							"Type": "NodeTableCell",
-							"Data": "td",
-							"TableCellContentWidth": 2,
-							"TableCellContentMaxWidth": 42
+							"Data": "td"
 						}
 					]
 				},
@@ -1945,8 +1952,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 10,
-							"TableCellContentMaxWidth": 12,
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -1957,8 +1962,6 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 3,
-							"TableCellContentMaxWidth": 31,
 							"Children": [
 								{
 									"Type": "NodeText",
@@ -1969,12 +1972,30 @@
 						{
 							"Type": "NodeTableCell",
 							"Data": "td",
-							"TableCellContentWidth": 42,
-							"TableCellContentMaxWidth": 42,
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Go to Settings -\u003e Shortcuts to configure"
+									"Data": "Go to "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings - Shortcuts"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " to configure"
 								}
 							]
 						}
