@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112159-9p645xm",
 		"title": "Storage",
-		"updated": "20211223192043"
+		"updated": "20210721112251"
 	},
 	"Children": [
 		{
@@ -163,20 +163,6 @@
 				{
 					"Type": "NodeText",
 					"Data": " for free."
-				}
-			]
-		},
-		{
-			"ID": "20210721112251-2s1jzpc",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210721112251-2s1jzpc",
-				"updated": "20210721112251"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "After the paid subscription expires, the cloud storage will be retained for 1 month. If there is no renewal during this period, it will be completely deleted after 1 month."
 				}
 			]
 		}
