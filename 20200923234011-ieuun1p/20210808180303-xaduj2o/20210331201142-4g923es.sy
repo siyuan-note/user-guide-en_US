@@ -5,7 +5,7 @@
 		"id": "20210331201142-4g923es",
 		"title": "Hyperlink",
 		"type": "doc",
-		"updated": "20220312232923"
+		"updated": "20220407101643"
 	},
 	"Children": [
 		{
@@ -186,28 +186,18 @@
 		{
 			"ID": "20210331201206-rkvtd1b",
 			"Type": "NodeList",
-			"ListData": {
-				"Tight": true,
-				"BulletChar": 42,
-				"Padding": 2,
-				"Marker": "Kg==",
-				"Num": -1
-			},
+			"ListData": {},
 			"Properties": {
 				"id": "20210331201206-rkvtd1b",
-				"updated": "20210331201333"
+				"updated": "20220407101643"
 			},
 			"Children": [
 				{
 					"ID": "20210331201206-xoqqqbg",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
 						"id": "20210331201206-xoqqqbg"
@@ -218,7 +208,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210331201206-9iow0ri",
-								"updated": "20210331201857"
+								"updated": "20220407101343"
 							},
 							"Children": [
 								{
@@ -227,25 +217,335 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "siyuan://"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
 								{
 									"Type": "NodeText",
-									"Data": " protocol; Linux does not currently support this function"
+									"Data": " protocol"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220407101343-vd9llkw",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220407101343-vd9llkw",
+						"updated": "20220407101410"
+					},
+					"Children": [
+						{
+							"ID": "20220407101344-lzfkfby",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220407101344-lzfkfby",
+								"updated": "20220407101344"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "On Linux try the following steps"
+								}
+							]
+						},
+						{
+							"ID": "20220407101344-deo5hik",
+							"Type": "NodeList",
+							"ListData": {},
+							"Properties": {
+								"id": "20220407101344-deo5hik",
+								"updated": "20220407101410"
+							},
+							"Children": [
+								{
+									"ID": "20220407101344-ml7oa9j",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220407101344-ml7oa9j"
+									},
+									"Children": [
+										{
+											"ID": "20220407101344-eex45w7",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101344-eex45w7"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Create or find the "
+												},
+												{
+													"Type": "NodeCodeSpan",
+													"Data": "code",
+													"Children": [
+														{
+															"Type": "NodeCodeSpanOpenMarker"
+														},
+														{
+															"Type": "NodeCodeSpanContent",
+															"Data": "siyuan.desktop"
+														},
+														{
+															"Type": "NodeCodeSpanCloseMarker"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": " file and open it for editing"
+												}
+											]
+										},
+										{
+											"ID": "20220407101344-t4jebj9",
+											"Type": "NodeList",
+											"ListData": {},
+											"Properties": {
+												"id": "20220407101344-t4jebj9"
+											},
+											"Children": [
+												{
+													"ID": "20220407101344-5xe1jqu",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20220407101344-5xe1jqu"
+													},
+													"Children": [
+														{
+															"ID": "20220407101344-8strkrw",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20220407101344-8strkrw"
+															},
+															"Children": [
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "MimeType=MimeType=x-scheme-handler/siyuan;"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												},
+												{
+													"ID": "20220407101344-ie6ni77",
+													"Type": "NodeListItem",
+													"ListData": {
+														"BulletChar": 42,
+														"Marker": "Kg=="
+													},
+													"Properties": {
+														"id": "20220407101344-ie6ni77"
+													},
+													"Children": [
+														{
+															"ID": "20220407101344-59gg2ye",
+															"Type": "NodeParagraph",
+															"Properties": {
+																"id": "20220407101344-59gg2ye"
+															},
+															"Children": [
+																{
+																	"Type": "NodeText",
+																	"Data": "Add "
+																},
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "%u"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": " at the end of "
+																},
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "Exec"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																},
+																{
+																	"Type": "NodeText",
+																	"Data": ", that is, "
+																},
+																{
+																	"Type": "NodeCodeSpan",
+																	"Data": "code",
+																	"Children": [
+																		{
+																			"Type": "NodeCodeSpanOpenMarker"
+																		},
+																		{
+																			"Type": "NodeCodeSpanContent",
+																			"Data": "Exec=executable file path %u"
+																		},
+																		{
+																			"Type": "NodeCodeSpanCloseMarker"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								},
+								{
+									"ID": "20220407101344-dekuz0i",
+									"Type": "NodeListItem",
+									"ListData": {
+										"BulletChar": 42,
+										"Marker": "Kg=="
+									},
+									"Properties": {
+										"id": "20220407101344-dekuz0i",
+										"updated": "20220407101410"
+									},
+									"Children": [
+										{
+											"ID": "20220407101344-hhptxkd",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101344-hhptxkd",
+												"updated": "20220407101410"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "Execute the following commands"
+												}
+											]
+										},
+										{
+											"ID": "20220407101344-9bjuq8i",
+											"Type": "NodeCodeBlock",
+											"IsFencedCodeBlock": true,
+											"Properties": {
+												"id": "20220407101344-9bjuq8i"
+											},
+											"Children": [
+												{
+													"Type": "NodeCodeBlockFenceOpenMarker",
+													"Data": "```"
+												},
+												{
+													"Type": "NodeCodeBlockFenceInfoMarker",
+													"CodeBlockInfo": "amF2YQ=="
+												},
+												{
+													"Type": "NodeCodeBlockCode",
+													"Data": "sudo update-desktop-database\nxdg-mime default siyuan.desktop x-scheme-handler/siyuan\nxdg-settings set default-url-scheme-handler siyuan siyuan.desktop\n"
+												},
+												{
+													"Type": "NodeCodeBlockFenceCloseMarker",
+													"Data": "```"
+												}
+											]
+										},
+										{
+											"ID": "20220407101344-x47q6cj",
+											"Type": "NodeParagraph",
+											"Properties": {
+												"id": "20220407101344-x47q6cj"
+											},
+											"Children": [
+												{
+													"Type": "NodeText",
+													"Data": "For more details, refer to "
+												},
+												{
+													"Type": "NodeLink",
+													"Data": "span",
+													"Children": [
+														{
+															"Type": "NodeOpenBracket"
+														},
+														{
+															"Type": "NodeLinkText",
+															"Data": "xdg-utils"
+														},
+														{
+															"Type": "NodeCloseBracket"
+														},
+														{
+															"Type": "NodeOpenParen"
+														},
+														{
+															"Type": "NodeLinkDest",
+															"Data": "https://www.freedesktop.org/wiki/Software/xdg-utils/"
+														},
+														{
+															"Type": "NodeCloseParen"
+														}
+													]
+												},
+												{
+													"Type": "NodeText",
+													"Data": "."
+												}
+											]
+										}
+									]
 								}
 							]
 						}
@@ -254,16 +554,13 @@
 				{
 					"ID": "20210331201206-u9iykb3",
 					"Type": "NodeListItem",
-					"Data": "*",
 					"ListData": {
-						"Tight": true,
 						"BulletChar": 42,
-						"Padding": 2,
-						"Marker": "Kg==",
-						"Num": -1
+						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20210331201206-u9iykb3"
+						"id": "20210331201206-u9iykb3",
+						"updated": "20220407101643"
 					},
 					"Children": [
 						{
@@ -271,12 +568,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210331201206-zibhjts",
-								"updated": "20210502203101"
+								"updated": "20220407101643"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "Block icon - Right-click menu - Copy - Copy block hyperlink"
+									"Data": "Block icon menu - Copy - Copy block hyperlink"
 								}
 							]
 						}
