@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721160238-yvhbh0h",
 		"title": "Assets Serving",
-		"updated": "20220317224741"
+		"updated": "20220407085757"
 	},
 	"Children": [
 		{
@@ -292,6 +292,50 @@
 							]
 						}
 					]
+				}
+			]
+		},
+		{
+			"ID": "20220407085720-uruuriu",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220407085720-uruuriu",
+				"updated": "20220407085757"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you need to delete the files in the cloud assets serving, please go to "
+				},
+				{
+					"Type": "NodeLink",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenBracket"
+						},
+						{
+							"Type": "NodeLinkText",
+							"Data": "LianDi - Settings - File - Note"
+						},
+						{
+							"Type": "NodeCloseBracket"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeLinkDest",
+							"Data": "https://ld246.com/settings/file?type=3"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to operate."
 				}
 			]
 		},
