@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721160238-yvhbh0h",
 		"title": "Assets Serving",
-		"updated": "20220407085757"
+		"updated": "20220408193053"
 	},
 	"Children": [
 		{
@@ -300,7 +300,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20220407085720-uruuriu",
-				"updated": "20220407085757"
+				"updated": "20220408193053"
 			},
 			"Children": [
 				{
@@ -335,7 +335,7 @@
 				},
 				{
 					"Type": "NodeText",
-					"Data": " to operate."
+					"Data": " to operate. After deletion, the cloud storage space occupied by the file will be released immediately, but the CDN cache cleaning may not take effect in time, which will cause the file URL to remain accessible until the CDN cache expires automatically after 30 days."
 				}
 			]
 		},
