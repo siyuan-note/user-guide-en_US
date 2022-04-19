@@ -801,68 +801,6 @@
 			},
 			"Children": [
 				{
-					"ID": "20210930092059-pte2k2d",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20210930092059-pte2k2d"
-					},
-					"Children": [
-						{
-							"ID": "20210930092059-r5xxydn",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20210930092059-r5xxydn"
-							},
-							"Children": [
-								{
-									"Type": "NodeText",
-									"Data": "Configure the "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "--servePath"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " parameter to your domain name, for example, "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "--servePath=yourdomain.com"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
 					"ID": "20210930092059-om2j2ah",
 					"Type": "NodeListItem",
 					"ListData": {
