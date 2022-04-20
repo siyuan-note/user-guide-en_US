@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "Data Sync",
-		"updated": "20220307095118"
+		"updated": "20220420100331"
 	},
 	"Children": [
 		{
@@ -1056,9 +1056,37 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20210721112403-th2r6zf",
-				"updated": "20210930212744"
+				"updated": "20220420100331"
 			},
 			"Children": [
+				{
+					"ID": "20220420100320-of55n1f",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220420100320-of55n1f",
+						"updated": "20220420100331"
+					},
+					"Children": [
+						{
+							"ID": "20220420100320-uqsflw4",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220420100320-uqsflw4",
+								"updated": "20220420100331"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Synchronization will not be triggered in the case of sudden disconnection such as sleep or shutdown, please manually click the synchronization button to synchronize"
+								}
+							]
+						}
+					]
+				},
 				{
 					"ID": "20210721195846-if71i5z",
 					"Type": "NodeListItem",
