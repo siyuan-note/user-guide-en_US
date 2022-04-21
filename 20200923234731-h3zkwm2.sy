@@ -6,7 +6,7 @@
 		"id": "20200923234731-h3zkwm2",
 		"title": "Frequently Asked Questions",
 		"type": "doc",
-		"updated": "20220329160456"
+		"updated": "20220421192837"
 	},
 	"Children": [
 		{
@@ -1061,12 +1061,154 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210605222653-1wzvefr",
-				"updated": "20210605222708"
+				"updated": "20220421192837"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
 					"Data": "There is an operation entry in the block icon menu of the table block."
+				}
+			]
+		},
+		{
+			"ID": "20220421192456-82tb0zz",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
+			"Properties": {
+				"id": "20220421192456-82tb0zz",
+				"updated": "20220421192456"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "How to search for content containing symbols?"
+				}
+			]
+		},
+		{
+			"ID": "20220421192456-kg2nv1z",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220421192456-kg2nv1z",
+				"updated": "20220421192531"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "If you need to search for content containing symbols ("
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "-"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ", "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "*"
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ", etc.), you need to use "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": " to wrap keywords, such as "
+				},
+				{
+					"Type": "NodeCodeSpan",
+					"Data": "code",
+					"Children": [
+						{
+							"Type": "NodeCodeSpanOpenMarker"
+						},
+						{
+							"Type": "NodeCodeSpanContent",
+							"Data": "\"-siyuan\""
+						},
+						{
+							"Type": "NodeCodeSpanCloseMarker"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": ". For details, please refer to "
+				},
+				{
+					"Type": "NodeBlockRef",
+					"Data": "span",
+					"Children": [
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeOpenParen"
+						},
+						{
+							"Type": "NodeBlockRefID",
+							"Data": "20220415232231-pqcizol"
+						},
+						{
+							"Type": "NodeBlockRefSpace"
+						},
+						{
+							"Type": "NodeBlockRefText",
+							"Data": "Query syntax"
+						},
+						{
+							"Type": "NodeCloseParen"
+						},
+						{
+							"Type": "NodeCloseParen"
+						}
+					]
+				},
+				{
+					"Type": "NodeText",
+					"Data": "."
 				}
 			]
 		},
