@@ -6,7 +6,7 @@
 		"id": "20201121224345-rc27qvo",
 		"title": "Acknowledgements",
 		"type": "doc",
-		"updated": "20220326094710"
+		"updated": "20220326092709"
 	},
 	"Children": [
 		{
@@ -29,7 +29,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20220326092709-vo0xnx1",
-				"updated": "20220326094710"
+				"updated": "20220326092709"
 			},
 			"Children": [
 				{
@@ -1742,14 +1742,16 @@
 						"Marker": "Kg=="
 					},
 					"Properties": {
-						"id": "20220326092709-ojcewas"
+						"id": "20220326092709-ojcewas",
+						"updated": "20220326092709"
 					},
 					"Children": [
 						{
 							"ID": "20220326092709-oq235wk",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220326092709-oq235wk"
+								"id": "20220326092709-oq235wk",
+								"updated": "20220326092709"
 							},
 							"Children": [
 								{
@@ -1792,74 +1794,6 @@
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "MIT License"
-										},
-										{
-											"Type": "NodeCodeSpanCloseMarker"
-										}
-									]
-								}
-							]
-						}
-					]
-				},
-				{
-					"ID": "20220326092709-w3vn3qw",
-					"Type": "NodeListItem",
-					"ListData": {
-						"BulletChar": 42,
-						"Marker": "Kg=="
-					},
-					"Properties": {
-						"id": "20220326092709-w3vn3qw"
-					},
-					"Children": [
-						{
-							"ID": "20220326092709-077o4gn",
-							"Type": "NodeParagraph",
-							"Properties": {
-								"id": "20220326092709-077o4gn"
-							},
-							"Children": [
-								{
-									"Type": "NodeLink",
-									"Data": "span",
-									"Children": [
-										{
-											"Type": "NodeOpenBracket"
-										},
-										{
-											"Type": "NodeLinkText",
-											"Data": "https://github.com/jackpal/gateway"
-										},
-										{
-											"Type": "NodeCloseBracket"
-										},
-										{
-											"Type": "NodeOpenParen"
-										},
-										{
-											"Type": "NodeLinkDest",
-											"Data": "https://github.com/jackpal/gateway"
-										},
-										{
-											"Type": "NodeCloseParen"
-										}
-									]
-								},
-								{
-									"Type": "NodeText",
-									"Data": " "
-								},
-								{
-									"Type": "NodeCodeSpan",
-									"Data": "code",
-									"Children": [
-										{
-											"Type": "NodeCodeSpanOpenMarker"
-										},
-										{
-											"Type": "NodeCodeSpanContent",
-											"Data": "BSD-3-Clause License"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
