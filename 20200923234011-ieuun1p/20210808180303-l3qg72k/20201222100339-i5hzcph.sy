@@ -5,7 +5,7 @@
 		"id": "20201222100339-i5hzcph",
 		"title": "Database table",
 		"type": "doc",
-		"updated": "20220419111103"
+		"updated": "20220427104543"
 	},
 	"Children": [
 		{
@@ -765,7 +765,7 @@
 			},
 			"Properties": {
 				"id": "20210112165011-irm4wch",
-				"updated": "20220312010003"
+				"updated": "20220427104543"
 			},
 			"Children": [
 				{
@@ -779,14 +779,16 @@
 						"Num": -1
 					},
 					"Properties": {
-						"id": "20210112165011-hndbj25"
+						"id": "20210112165011-hndbj25",
+						"updated": "20220427104543"
 					},
 					"Children": [
 						{
 							"ID": "20210210104251-j5gbxzv",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20210210104251-j5gbxzv"
+								"id": "20210210104251-j5gbxzv",
+								"updated": "20220427104543"
 							},
 							"Children": [
 								{
@@ -795,25 +797,79 @@
 								},
 								{
 									"Type": "NodeCodeSpan",
-									"CodeMarkerLen": 1,
+									"Data": "code",
 									"Children": [
 										{
-											"Type": "NodeCodeSpanOpenMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanOpenMarker"
 										},
 										{
 											"Type": "NodeCodeSpanContent",
 											"Data": "LIMIT"
 										},
 										{
-											"Type": "NodeCodeSpanCloseMarker",
-											"Data": "`"
+											"Type": "NodeCodeSpanCloseMarker"
 										}
 									]
 								},
 								{
 									"Type": "NodeText",
-									"Data": " is not specified, only the first 32 results will be returned at most"
+									"Data": " is not specified, only the first 64 results will be returned at most, adjustable via "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Settings"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "Search"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
+								},
+								{
+									"Type": "NodeText",
+									"Data": " - "
+								},
+								{
+									"Type": "NodeKbd",
+									"Data": "kbd",
+									"Children": [
+										{
+											"Type": "NodeKbdOpenMarker"
+										},
+										{
+											"Type": "NodeText",
+											"Data": "The number of search results displayed"
+										},
+										{
+											"Type": "NodeKbdCloseMarker"
+										}
+									]
 								}
 							]
 						}
