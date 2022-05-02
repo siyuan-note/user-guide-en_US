@@ -3,9 +3,9 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210127203829-qe2mzof",
-		"title": "PDF annotate and two-way link",
+		"title": "PDF annotation",
 		"type": "doc",
-		"updated": "20210923104540"
+		"updated": "20220502141039"
 	},
 	"Children": [
 		{
@@ -135,12 +135,12 @@
 			"HeadingLevel": 2,
 			"Properties": {
 				"id": "20210923104413-csbeop3",
-				"updated": "20210923104435"
+				"updated": "20220502141027"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Annotation and two-way link"
+					"Data": "Annotation"
 				}
 			]
 		},
@@ -149,12 +149,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210923104454-1f7keq6",
-				"updated": "20210923104454"
+				"updated": "20220502141025"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "The PDF preview can be marked by selection, and the annotation can be copied to the document to form a two-way link:"
+					"Data": "The PDF preview can be marked by selection, and the annotation can be copied to the document:"
 				}
 			]
 		},
