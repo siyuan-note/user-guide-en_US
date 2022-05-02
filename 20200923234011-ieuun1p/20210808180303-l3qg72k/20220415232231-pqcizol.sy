@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20220415232231-pqcizol",
 		"title": "Query syntax",
-		"updated": "20220415234726"
+		"updated": "20220502163630"
 	},
 	"Children": [
 		{
@@ -1241,7 +1241,7 @@
 			"IsFencedCodeBlock": true,
 			"Properties": {
 				"id": "20220415232239-3z0w5v1",
-				"updated": "20220415233251"
+				"updated": "20220502163630"
 			},
 			"Children": [
 				{
@@ -1254,7 +1254,7 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "-- Matches documents that contain at least one instance of either \"one\" or \"two\", but do not contain any instances of token \"three\".\n... MATCH 'one OR two NOT three'\n\n-- Match all documents that contain the token \"two\" but not \"three\", or contain the token \"one\".\n... MATCH 'one OR (two NOT three)'\n"
+					"Data": "-- Matches documents that contain at least one instance of either \"one\" or \"two\", but do not contain any instances of token \"three\".\n'one OR two NOT three'\n\n-- Match all documents that contain the token \"two\" but not \"three\", or contain the token \"one\".\n'one OR (two NOT three)'\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",
@@ -1302,7 +1302,7 @@
 			"IsFencedCodeBlock": true,
 			"Properties": {
 				"id": "20220415232239-axj842d",
-				"updated": "20220415233311"
+				"updated": "20220502163624"
 			},
 			"Children": [
 				{
@@ -1315,7 +1315,7 @@
 				},
 				{
 					"Type": "NodeCodeBlockCode",
-					"Data": "... MATCH 'one two three'         -- 'one AND two AND three'\n... MATCH 'three \"one two\"'       -- 'three AND \"one two\"'\n... MATCH 'NEAR(one two) three'   -- 'NEAR(one two) AND three'\n... MATCH 'one OR two three'      -- 'one OR two AND three'\n\n... MATCH '(one OR two) three'    -- Syntax error!\n... MATCH 'func(one two)'         -- Syntax error!\n"
+					"Data": "'one two three'         -- 'one AND two AND three'\n'three \"one two\"'       -- 'three AND \"one two\"'\n'NEAR(one two) three'   -- 'NEAR(one two) AND three'\n'one OR two three'      -- 'one OR two AND three'\n\n'(one OR two) three'    -- Syntax error!\n'func(one two)'         -- Syntax error!\n"
 				},
 				{
 					"Type": "NodeCodeBlockFenceCloseMarker",

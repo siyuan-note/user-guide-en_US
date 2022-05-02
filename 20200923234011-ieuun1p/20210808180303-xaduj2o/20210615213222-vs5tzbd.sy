@@ -3,8 +3,8 @@
 	"Type": "NodeDocument",
 	"Properties": {
 		"id": "20210615213222-vs5tzbd",
-		"title": "Edit history",
-		"updated": "20220501135628"
+		"title": "Data history",
+		"updated": "20220502163315"
 	},
 	"Children": [
 		{
@@ -27,12 +27,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20220501135308-99gc8dn",
-				"updated": "20220501135308"
+				"updated": "20220502163315"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Editing history is mainly used to ensure data security, and even if a misoperation occurs, data can be rolled back through the history. Historical data is uniformly stored in the "
+					"Data": "Data history is mainly used to ensure data security, and even if a misoperation occurs, data can be rolled back through the history. Historical data is uniformly stored in the "
 				},
 				{
 					"Type": "NodeCodeSpan",
