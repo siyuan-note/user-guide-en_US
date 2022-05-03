@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210615213222-vs5tzbd",
 		"title": "Data history",
-		"updated": "20220502163315"
+		"updated": "20220503122549"
 	},
 	"Children": [
 		{
@@ -62,7 +62,7 @@
 			"ListData": {},
 			"Properties": {
 				"id": "20220501135308-30uwxvd",
-				"updated": "20220501135628"
+				"updated": "20220503122549"
 			},
 			"Children": [
 				{
@@ -222,7 +222,7 @@
 					},
 					"Properties": {
 						"id": "20220501135308-z09e5tv",
-						"updated": "20220501135531"
+						"updated": "20220503122549"
 					},
 					"Children": [
 						{
@@ -230,12 +230,12 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20220501135308-pqw5kwp",
-								"updated": "20220501135531"
+								"updated": "20220503122549"
 							},
 							"Children": [
 								{
 									"Type": "NodeText",
-									"Data": "History will be generated when manually deleting notebooks, documents and resource files, and the suffix of the history folder is "
+									"Data": "History will be generated when manually deleting notebooks, documents and assets, and the suffix of the history folder is "
 								},
 								{
 									"Type": "NodeCodeSpan",

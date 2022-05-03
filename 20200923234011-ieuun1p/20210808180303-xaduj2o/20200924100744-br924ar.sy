@@ -5,7 +5,7 @@
 		"id": "20200924100744-br924ar",
 		"title": "Assets",
 		"type": "doc",
-		"updated": "20210626153621"
+		"updated": "20220503122616"
 	},
 	"Children": [
 		{
@@ -505,23 +505,23 @@
 			"ID": "20210130103832-93r5ddp",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210130103832-93r5ddp"
+				"id": "20210130103832-93r5ddp",
+				"updated": "20210130103832"
 			},
 			"Children": [
 				{
 					"Type": "NodeTag",
+					"Data": "span",
 					"Children": [
 						{
-							"Type": "NodeTagOpenMarker",
-							"Data": "#"
+							"Type": "NodeTagOpenMarker"
 						},
 						{
 							"Type": "NodeText",
 							"Data": "Note"
 						},
 						{
-							"Type": "NodeTagCloseMarker",
-							"Data": "#"
+							"Type": "NodeTagCloseMarker"
 						}
 					]
 				},
@@ -532,31 +532,112 @@
 			]
 		},
 		{
-			"ID": "20210615102954-iw9mkok",
+			"ID": "20220503122349-eacedlu",
 			"Type": "NodeHeading",
 			"HeadingLevel": 2,
 			"Properties": {
-				"id": "20210615102954-iw9mkok",
-				"updated": "20210615103009"
+				"id": "20220503122349-eacedlu",
+				"updated": "20220503122357"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Notebook assets"
+					"Data": "Notebook-level assets"
 				}
 			]
 		},
 		{
-			"ID": "20210615103010-ysrwldr",
+			"ID": "20220503122349-0xq3b7m",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20210615103010-ysrwldr",
-				"updated": "20210626153621"
+				"id": "20220503122349-0xq3b7m",
+				"updated": "20220503122433"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "If you need to place the inserted asset file in the assets folder at the same level as the document by default, you need to manually create a folder named assets first, so that SiYuan will give priority to the assets folder to store asset files."
+					"Data": "If you need to place the inserted assets in the assets folder at the same level as the document by default, you need to manually create a folder named assets first, so that SiYuan will preferentially select the assets folder to store the assets."
+				}
+			]
+		},
+		{
+			"ID": "20220503122349-b6tsifa",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220503122349-b6tsifa",
+				"updated": "20220503122459"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "It is recommended not to use notebook-level assets as much as possible, as this has some side effects:"
+				}
+			]
+		},
+		{
+			"ID": "20220503122349-o26mvnq",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220503122349-o26mvnq",
+				"updated": "20220503122616"
+			},
+			"Children": [
+				{
+					"ID": "20220503122349-192fehc",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220503122349-192fehc",
+						"updated": "20220503122616"
+					},
+					"Children": [
+						{
+							"ID": "20220503122349-ye6haas",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220503122349-ye6haas",
+								"updated": "20220503122616"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "When deleting the notebook, in order to ensure that cross-notebook asset references work properly, the assets under the notebook will be copied to the global assets in batches"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220503122349-9g5a9ha",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220503122349-9g5a9ha",
+						"updated": "20220503122525"
+					},
+					"Children": [
+						{
+							"ID": "20220503122349-v2v1554",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220503122349-v2v1554",
+								"updated": "20220503122525"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Does not support viewing notebook-level assets history in data history"
+								}
+							]
+						}
+					]
 				}
 			]
 		}
