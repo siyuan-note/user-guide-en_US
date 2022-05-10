@@ -4,7 +4,7 @@
 	"Properties": {
 		"id": "20210721112206-mhr9wxi",
 		"title": "Data Sync",
-		"updated": "20220420100331"
+		"updated": "20220510105000"
 	},
 	"Children": [
 		{
@@ -414,12 +414,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20210721112403-k020foj",
-				"updated": "20220307092227"
+				"updated": "20220510104937"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "Every once in a while, SiYuan will automatically compare the cloud and local data versions, and perform corresponding operations according to the version:"
+					"Data": "SiYuan performs corresponding operations by comparing the cloud data version and the local data version:"
 				}
 			]
 		},
@@ -469,7 +469,7 @@
 					},
 					"Properties": {
 						"id": "20210721112403-t742q8e",
-						"updated": "20210901163454"
+						"updated": "20220510104256"
 					},
 					"Children": [
 						{
@@ -477,7 +477,7 @@
 							"Type": "NodeParagraph",
 							"Properties": {
 								"id": "20210721112403-ai2lz2c",
-								"updated": "20210901163454"
+								"updated": "20220510104256"
 							},
 							"Children": [
 								{
@@ -513,7 +513,7 @@
 										},
 										{
 											"Type": "NodeCodeSpanContent",
-											"Data": "workspace/.siyuan/history/"
+											"Data": "workspace/history/"
 										},
 										{
 											"Type": "NodeCodeSpanCloseMarker"
@@ -591,6 +591,87 @@
 								{
 									"Type": "NodeText",
 									"Data": ", and finally upload and overwrite the cloud data"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"ID": "20220510105000-503cjse",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220510105000-503cjse",
+				"updated": "20220510105000"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The version comparison is automatically performed at regular intervals. The time interval algorithm is described as follows:"
+				}
+			]
+		},
+		{
+			"ID": "20220510105000-03p25i0",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220510105000-03p25i0",
+				"updated": "20220510105000"
+			},
+			"Children": [
+				{
+					"ID": "20220510105000-soqifkx",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220510105000-soqifkx",
+						"updated": "20220510105000"
+					},
+					"Children": [
+						{
+							"ID": "20220510105000-p9xg0yf",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220510105000-p9xg0yf",
+								"updated": "20220510105000"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "After 30 seconds of data change, if there is no further change, a comparison will be made, and if it continues to change, it will be delayed by 30 seconds"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220510105000-ouj6xo5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220510105000-ouj6xo5",
+						"updated": "20220510105000"
+					},
+					"Children": [
+						{
+							"ID": "20220510105000-eps1jp2",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220510105000-eps1jp2",
+								"updated": "20220510105000"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "If there is no data change, it will be incremented by 5 minutes, 8 minutes, 16 minutes, 32 minutes..."
 								}
 							]
 						}
