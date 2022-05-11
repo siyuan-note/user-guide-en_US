@@ -6,7 +6,7 @@
 		"id": "20200923234602-gy54e67",
 		"title": "Privacy Policy and User Agreement",
 		"type": "doc",
-		"updated": "20220226133935"
+		"updated": "20220511114202"
 	},
 	"Children": [
 		{
@@ -326,12 +326,12 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20220219101351-0tucf6z",
-				"updated": "20220219101351"
+				"updated": "20220511114202"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "This agreement applies and only applies to Siyuan Notes (hereinafter referred to as \"the software\"), and Yunnan Liandi Technology Co., Ltd. has the final right to interpret this agreement."
+					"Data": "This agreement applies and only applies to SiYuan (hereinafter referred to as \"the software\"), and Yunnan Liandi Technology Co., Ltd. has the final right to interpret this agreement."
 				}
 			]
 		},
@@ -470,7 +470,7 @@
 			},
 			"Properties": {
 				"id": "20220219101351-33mzoxp",
-				"updated": "20220219101351"
+				"updated": "20220511114148"
 			},
 			"Children": [
 				{
@@ -483,14 +483,16 @@
 						"Num": 1
 					},
 					"Properties": {
-						"id": "20220219101351-6fxrijg"
+						"id": "20220219101351-6fxrijg",
+						"updated": "20220219101351"
 					},
 					"Children": [
 						{
 							"ID": "20220219101351-hahd4aj",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220219101351-hahd4aj"
+								"id": "20220219101351-hahd4aj",
+								"updated": "20220219101351"
 							},
 							"Children": [
 								{
@@ -502,7 +504,7 @@
 					]
 				},
 				{
-					"ID": "20220219101351-wrfqyzo",
+					"ID": "20220511114148-mhyfpm4",
 					"Type": "NodeListItem",
 					"ListData": {
 						"Typ": 1,
@@ -511,14 +513,46 @@
 						"Num": 2
 					},
 					"Properties": {
-						"id": "20220219101351-wrfqyzo"
+						"id": "20220511114148-mhyfpm4",
+						"updated": "20220511114148"
+					},
+					"Children": [
+						{
+							"ID": "20220511114148-eri7s9w",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220511114148-eri7s9w",
+								"updated": "20220511114148"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "It is forbidden to share the user account to use the software"
+								}
+							]
+						}
+					]
+				},
+				{
+					"ID": "20220219101351-wrfqyzo",
+					"Type": "NodeListItem",
+					"ListData": {
+						"Typ": 1,
+						"Delimiter": 46,
+						"Marker": "My4=",
+						"Num": 3
+					},
+					"Properties": {
+						"id": "20220219101351-wrfqyzo",
+						"updated": "20220219101351"
 					},
 					"Children": [
 						{
 							"ID": "20220219101351-yggu31m",
 							"Type": "NodeParagraph",
 							"Properties": {
-								"id": "20220219101351-yggu31m"
+								"id": "20220219101351-yggu31m",
+								"updated": "20220219101351"
 							},
 							"Children": [
 								{
