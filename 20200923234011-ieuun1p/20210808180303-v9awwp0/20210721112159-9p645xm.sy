@@ -131,40 +131,6 @@
 					]
 				}
 			]
-		},
-		{
-			"ID": "20210721112251-rvpm2h6",
-			"Type": "NodeParagraph",
-			"Properties": {
-				"id": "20210721112251-rvpm2h6",
-				"updated": "20210721112251"
-			},
-			"Children": [
-				{
-					"Type": "NodeText",
-					"Data": "The size of the space can be expanded by recommending new paid subscribers. Each time a new subscriber is recommended, both parties will be rewarded with 500M storage space and an extension of 7 days of use. The recommended maximum number of times for each account is 32, which means that theoretically, the capacity can be expanded to "
-				},
-				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
-					"Children": [
-						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "24G"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
-						}
-					]
-				},
-				{
-					"Type": "NodeText",
-					"Data": " for free."
-				}
-			]
 		}
 	]
 }
