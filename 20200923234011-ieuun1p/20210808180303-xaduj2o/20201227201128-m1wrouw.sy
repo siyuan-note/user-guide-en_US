@@ -5,42 +5,55 @@
 		"id": "20201227201128-m1wrouw",
 		"title": "Docker hosting",
 		"type": "doc",
-		"updated": "20211112103356"
+		"updated": "20220518213301"
 	},
 	"Children": [
 		{
-			"ID": "20201227201128-8jq61mc",
-			"Type": "NodeParagraph",
+			"ID": "20220518213259-b7t9g2c",
+			"Type": "NodeHeading",
+			"HeadingLevel": 2,
 			"Properties": {
-				"id": "20201227201128-8jq61mc",
-				"updated": "20210302223726"
+				"id": "20220518213259-b7t9g2c",
+				"updated": "20220518213301"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "The simplest solution to serve SiYuan on the server is to deploy through Docker. The image name is "
+					"Data": "Overview"
+				}
+			]
+		},
+		{
+			"ID": "20220518213406-yp5vp91",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20220518213406-yp5vp91",
+				"updated": "20220518213417"
+			},
+			"Children": [
+				{
+					"Type": "NodeText",
+					"Data": "The easiest way to serve SiYuan on the server is to deploy it through Docker, and the image name is "
 				},
 				{
 					"Type": "NodeCodeSpan",
-					"CodeMarkerLen": 1,
+					"Data": "code",
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanOpenMarker"
 						},
 						{
 							"Type": "NodeCodeSpanContent",
 							"Data": "b3log/siyuan"
 						},
 						{
-							"Type": "NodeCodeSpanCloseMarker",
-							"Data": "`"
+							"Type": "NodeCodeSpanCloseMarker"
 						}
 					]
 				},
 				{
 					"Type": "NodeText",
-					"Data": ". There is currently no version tag, only the latest version."
+					"Data": "."
 				}
 			]
 		},
