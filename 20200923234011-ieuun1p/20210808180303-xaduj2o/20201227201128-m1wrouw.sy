@@ -5,7 +5,7 @@
 		"id": "20201227201128-m1wrouw",
 		"title": "Docker hosting",
 		"type": "doc",
-		"updated": "20220518213301"
+		"updated": "20220521230148"
 	},
 	"Children": [
 		{
@@ -24,36 +24,121 @@
 			]
 		},
 		{
-			"ID": "20220518213406-yp5vp91",
+			"ID": "20220521230127-u9wc56q",
 			"Type": "NodeParagraph",
 			"Properties": {
-				"id": "20220518213406-yp5vp91",
-				"updated": "20220518213417"
+				"id": "20220521230127-u9wc56q",
+				"updated": "20220521230134"
 			},
 			"Children": [
 				{
 					"Type": "NodeText",
-					"Data": "The easiest way to serve SiYuan on the server is to deploy it through Docker, and the image name is "
-				},
+					"Data": "The easiest way to serve SiYuan on a server is to deploy it through Docker."
+				}
+			]
+		},
+		{
+			"ID": "20220521230127-pkgxgng",
+			"Type": "NodeList",
+			"ListData": {},
+			"Properties": {
+				"id": "20220521230127-pkgxgng",
+				"updated": "20220521230148"
+			},
+			"Children": [
 				{
-					"Type": "NodeCodeSpan",
-					"Data": "code",
+					"ID": "20220521230127-6plktw5",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220521230127-6plktw5",
+						"updated": "20220521230127"
+					},
 					"Children": [
 						{
-							"Type": "NodeCodeSpanOpenMarker"
-						},
-						{
-							"Type": "NodeCodeSpanContent",
-							"Data": "b3log/siyuan"
-						},
-						{
-							"Type": "NodeCodeSpanCloseMarker"
+							"ID": "20220521230127-6vx8x3d",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220521230127-6vx8x3d",
+								"updated": "20220521230127"
+							},
+							"Children": [
+								{
+									"Type": "NodeText",
+									"Data": "Image name "
+								},
+								{
+									"Type": "NodeCodeSpan",
+									"Data": "code",
+									"Children": [
+										{
+											"Type": "NodeCodeSpanOpenMarker"
+										},
+										{
+											"Type": "NodeCodeSpanContent",
+											"Data": "b3log/siyuan"
+										},
+										{
+											"Type": "NodeCodeSpanCloseMarker"
+										}
+									]
+								}
+							]
 						}
 					]
 				},
 				{
-					"Type": "NodeText",
-					"Data": "."
+					"ID": "20220521230127-0xarvlp",
+					"Type": "NodeListItem",
+					"ListData": {
+						"BulletChar": 42,
+						"Marker": "Kg=="
+					},
+					"Properties": {
+						"id": "20220521230127-0xarvlp",
+						"updated": "20220521230148"
+					},
+					"Children": [
+						{
+							"ID": "20220521230127-isuhdfu",
+							"Type": "NodeParagraph",
+							"Properties": {
+								"id": "20220521230127-isuhdfu",
+								"updated": "20220521230148"
+							},
+							"Children": [
+								{
+									"Type": "NodeLink",
+									"Data": "span",
+									"Children": [
+										{
+											"Type": "NodeOpenBracket"
+										},
+										{
+											"Type": "NodeLinkText",
+											"Data": "Image URL"
+										},
+										{
+											"Type": "NodeCloseBracket"
+										},
+										{
+											"Type": "NodeOpenParen"
+										},
+										{
+											"Type": "NodeLinkDest",
+											"Data": "https://hub.docker.com/r/b3log/siyuan"
+										},
+										{
+											"Type": "NodeCloseParen"
+										}
+									]
+								}
+							]
+						}
+					]
 				}
 			]
 		},
