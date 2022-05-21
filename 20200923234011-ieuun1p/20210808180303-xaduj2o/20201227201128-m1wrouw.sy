@@ -5,7 +5,7 @@
 		"id": "20201227201128-m1wrouw",
 		"title": "Docker hosting",
 		"type": "doc",
-		"updated": "20220521230148"
+		"updated": "20220521231639"
 	},
 	"Children": [
 		{
@@ -791,7 +791,7 @@
 			"Type": "NodeParagraph",
 			"Properties": {
 				"id": "20211112103104-jfoive7",
-				"updated": "20211112103336"
+				"updated": "20220521231639"
 			},
 			"Children": [
 				{
@@ -827,7 +827,7 @@
 						},
 						{
 							"Type": "NodeCodeSpanContent",
-							"Data": "chown - R 1000:1000 /siyuan/workspace"
+							"Data": "chown -R 1000:1000 /siyuan/workspace"
 						},
 						{
 							"Type": "NodeCodeSpanCloseMarker"
